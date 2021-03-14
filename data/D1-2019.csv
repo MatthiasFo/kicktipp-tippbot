@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+16/08/2019,Bayern Munich,Hertha,2,2,D,1.25,6.1,11.0,2019-08-16,2019/2020,1,D1,2-2,0,-9.75,2019-08-16Bayern MunichHertha
+17/08/2019,Dortmund,Augsburg,5,1,H,1.25,6.1,11.0,2019-08-17,2019/2020,1,D1,5-1,4,-9.75,2019-08-17DortmundAugsburg
+17/08/2019,Freiburg,Mainz,3,0,H,2.15,3.4,3.35,2019-08-17,2019/2020,1,D1,3-0,3,-1.2000000000000002,2019-08-17FreiburgMainz
+17/08/2019,Leverkusen,Paderborn,3,2,H,1.27,5.8,10.5,2019-08-17,2019/2020,1,D1,3-2,1,-9.23,2019-08-17LeverkusenPaderborn
+17/08/2019,Werder Bremen,Fortuna Dusseldorf,1,3,A,1.7,4.0,4.7,2019-08-17,2019/2020,1,D1,1-3,-2,-3.0,2019-08-17Werder BremenFortuna Dusseldorf
+17/08/2019,Wolfsburg,FC Koln,2,1,H,1.9,3.8,3.85,2019-08-17,2019/2020,1,D1,2-1,1,-1.9500000000000002,2019-08-17WolfsburgFC Koln
+17/08/2019,M'gladbach,Schalke 04,0,0,D,2.05,3.45,3.65,2019-08-17,2019/2020,1,D1,0-0,0,-1.6,2019-08-17M'gladbachSchalke 04
+18/08/2019,Ein Frankfurt,Hoffenheim,1,0,H,2.3,3.75,2.9,2019-08-18,2019/2020,1,D1,1-0,1,-0.6000000000000001,2019-08-18Ein FrankfurtHoffenheim
+18/08/2019,Union Berlin,RB Leipzig,0,4,A,4.65,4.0,1.7,2019-08-18,2019/2020,1,D1,0-4,-4,2.95,2019-08-18Union BerlinRB Leipzig
+23/08/2019,FC Koln,Dortmund,1,3,A,6.5,4.3,1.5,2019-08-23,2019/2020,2,D1,1-3,-2,5.0,2019-08-23FC KolnDortmund
+24/08/2019,Augsburg,Union Berlin,1,1,D,2.2,3.4,3.25,2019-08-24,2019/2020,2,D1,1-1,0,-1.0499999999999998,2019-08-24AugsburgUnion Berlin
+24/08/2019,Fortuna Dusseldorf,Leverkusen,1,3,A,4.35,4.25,1.7,2019-08-24,2019/2020,2,D1,1-3,-2,2.6499999999999995,2019-08-24Fortuna DusseldorfLeverkusen
+24/08/2019,Hoffenheim,Werder Bremen,3,2,H,1.87,4.0,3.75,2019-08-24,2019/2020,2,D1,3-2,1,-1.88,2019-08-24HoffenheimWerder Bremen
+24/08/2019,Mainz,M'gladbach,1,3,A,2.85,3.45,2.45,2019-08-24,2019/2020,2,D1,1-3,-2,0.3999999999999999,2019-08-24MainzM'gladbach
+24/08/2019,Paderborn,Freiburg,1,3,A,2.6,3.3,2.7,2019-08-24,2019/2020,2,D1,1-3,-2,-0.10000000000000009,2019-08-24PaderbornFreiburg
+24/08/2019,Schalke 04,Bayern Munich,0,3,A,6.5,4.3,1.5,2019-08-24,2019/2020,2,D1,0-3,-3,5.0,2019-08-24Schalke 04Bayern Munich
+25/08/2019,RB Leipzig,Ein Frankfurt,2,1,H,1.5,4.7,5.9,2019-08-25,2019/2020,2,D1,2-1,1,-4.4,2019-08-25RB LeipzigEin Frankfurt
+25/08/2019,Hertha,Wolfsburg,0,3,A,2.5,3.4,2.75,2019-08-25,2019/2020,2,D1,0-3,-3,-0.25,2019-08-25HerthaWolfsburg
+30/08/2019,M'gladbach,RB Leipzig,1,3,A,3.4,3.5,2.1,2019-08-30,2019/2020,3,D1,1-3,-2,1.2999999999999998,2019-08-30M'gladbachRB Leipzig
+31/08/2019,Bayern Munich,Mainz,6,1,H,1.12,9.0,20.0,2019-08-31,2019/2020,3,D1,6-1,5,-18.88,2019-08-31Bayern MunichMainz
+31/08/2019,Freiburg,FC Koln,1,2,A,2.45,3.5,2.8,2019-08-31,2019/2020,3,D1,1-2,-1,-0.34999999999999964,2019-08-31FreiburgFC Koln
+31/08/2019,Leverkusen,Hoffenheim,0,0,D,1.57,4.75,5.0,2019-08-31,2019/2020,3,D1,0-0,0,-3.4299999999999997,2019-08-31LeverkusenHoffenheim
+31/08/2019,Schalke 04,Hertha,3,0,H,2.1,3.5,3.45,2019-08-31,2019/2020,3,D1,3-0,3,-1.35,2019-08-31Schalke 04Hertha
+31/08/2019,Wolfsburg,Paderborn,1,1,D,1.45,4.8,6.5,2019-08-31,2019/2020,3,D1,1-1,0,-5.05,2019-08-31WolfsburgPaderborn
+31/08/2019,Union Berlin,Dortmund,3,1,H,9.1,5.7,1.3,2019-08-31,2019/2020,3,D1,3-1,2,7.8,2019-08-31Union BerlinDortmund
+01/09/2019,Werder Bremen,Augsburg,3,2,H,1.7,4.15,4.55,2019-09-01,2019/2020,3,D1,3-2,1,-2.8499999999999996,2019-09-01Werder BremenAugsburg
+01/09/2019,Ein Frankfurt,Fortuna Dusseldorf,2,1,H,1.7,4.15,4.5,2019-09-01,2019/2020,3,D1,2-1,1,-2.8,2019-09-01Ein FrankfurtFortuna Dusseldorf
+13/09/2019,Fortuna Dusseldorf,Wolfsburg,1,1,D,3.05,3.4,2.3,2019-09-13,2019/2020,4,D1,1-1,0,0.75,2019-09-13Fortuna DusseldorfWolfsburg
+14/09/2019,Augsburg,Ein Frankfurt,2,1,H,3.4,3.5,2.1,2019-09-14,2019/2020,4,D1,2-1,1,1.2999999999999998,2019-09-14AugsburgEin Frankfurt
+14/09/2019,Dortmund,Leverkusen,4,0,H,1.75,4.1,4.2,2019-09-14,2019/2020,4,D1,4-0,4,-2.45,2019-09-14DortmundLeverkusen
+14/09/2019,FC Koln,M'gladbach,0,1,A,2.6,3.5,2.6,2019-09-14,2019/2020,4,D1,0-1,-1,0.0,2019-09-14FC KolnM'gladbach
+14/09/2019,Mainz,Hertha,2,1,H,2.4,3.4,2.9,2019-09-14,2019/2020,4,D1,2-1,1,-0.5,2019-09-14MainzHertha
+14/09/2019,Union Berlin,Werder Bremen,1,2,A,2.75,3.4,2.5,2019-09-14,2019/2020,4,D1,1-2,-1,0.25,2019-09-14Union BerlinWerder Bremen
+14/09/2019,RB Leipzig,Bayern Munich,1,1,D,3.5,3.7,2.0,2019-09-14,2019/2020,4,D1,1-1,0,1.5,2019-09-14RB LeipzigBayern Munich
+15/09/2019,Hoffenheim,Freiburg,0,3,A,1.7,4.0,4.7,2019-09-15,2019/2020,4,D1,0-3,-3,-3.0,2019-09-15HoffenheimFreiburg
+15/09/2019,Paderborn,Schalke 04,1,5,A,3.2,3.5,2.2,2019-09-15,2019/2020,4,D1,1-5,-4,1.0,2019-09-15PaderbornSchalke 04
+20/09/2019,Schalke 04,Mainz,2,1,H,1.67,4.1,4.9,2019-09-20,2019/2020,5,D1,2-1,1,-3.2300000000000004,2019-09-20Schalke 04Mainz
+21/09/2019,Bayern Munich,FC Koln,4,0,H,1.12,9.3,18.5,2019-09-21,2019/2020,5,D1,4-0,4,-17.38,2019-09-21Bayern MunichFC Koln
+21/09/2019,Freiburg,Augsburg,1,1,D,2.0,3.5,3.7,2019-09-21,2019/2020,5,D1,1-1,0,-1.7000000000000002,2019-09-21FreiburgAugsburg
+21/09/2019,Hertha,Paderborn,2,1,H,1.8,3.9,4.1,2019-09-21,2019/2020,5,D1,2-1,1,-2.3,2019-09-21HerthaPaderborn
+21/09/2019,Leverkusen,Union Berlin,2,0,H,1.35,5.3,8.0,2019-09-21,2019/2020,5,D1,2-0,2,-6.65,2019-09-21LeverkusenUnion Berlin
+21/09/2019,Werder Bremen,RB Leipzig,0,3,A,4.2,4.1,1.75,2019-09-21,2019/2020,5,D1,0-3,-3,2.45,2019-09-21Werder BremenRB Leipzig
+22/09/2019,M'gladbach,Fortuna Dusseldorf,2,1,H,1.67,4.15,4.55,2019-09-22,2019/2020,5,D1,2-1,1,-2.88,2019-09-22M'gladbachFortuna Dusseldorf
+22/09/2019,Ein Frankfurt,Dortmund,2,2,D,4.2,4.1,1.75,2019-09-22,2019/2020,5,D1,2-2,0,2.45,2019-09-22Ein FrankfurtDortmund
+23/09/2019,Wolfsburg,Hoffenheim,1,1,D,1.93,3.9,3.6,2019-09-23,2019/2020,5,D1,1-1,0,-1.6700000000000002,2019-09-23WolfsburgHoffenheim
+27/09/2019,Union Berlin,Ein Frankfurt,1,2,A,3.0,3.5,2.3,2019-09-27,2019/2020,6,D1,1-2,-1,0.7000000000000002,2019-09-27Union BerlinEin Frankfurt
+28/09/2019,Augsburg,Leverkusen,0,3,A,4.55,4.5,1.63,2019-09-28,2019/2020,6,D1,0-3,-3,2.92,2019-09-28AugsburgLeverkusen
+28/09/2019,Hoffenheim,M'gladbach,0,3,A,2.6,3.5,2.6,2019-09-28,2019/2020,6,D1,0-3,-3,0.0,2019-09-28HoffenheimM'gladbach
+28/09/2019,Mainz,Wolfsburg,0,1,A,2.9,3.55,2.35,2019-09-28,2019/2020,6,D1,0-1,-1,0.5499999999999998,2019-09-28MainzWolfsburg
+28/09/2019,Paderborn,Bayern Munich,2,3,A,15.5,9.0,1.15,2019-09-28,2019/2020,6,D1,2-3,-1,14.35,2019-09-28PaderbornBayern Munich
+28/09/2019,RB Leipzig,Schalke 04,1,3,A,1.57,4.45,5.3,2019-09-28,2019/2020,6,D1,1-3,-2,-3.7299999999999995,2019-09-28RB LeipzigSchalke 04
+28/09/2019,Dortmund,Werder Bremen,2,2,D,1.27,6.0,10.0,2019-09-28,2019/2020,6,D1,2-2,0,-8.73,2019-09-28DortmundWerder Bremen
+29/09/2019,Fortuna Dusseldorf,Freiburg,1,2,A,2.45,3.55,2.75,2019-09-29,2019/2020,6,D1,1-2,-1,-0.2999999999999998,2019-09-29Fortuna DusseldorfFreiburg
+29/09/2019,FC Koln,Hertha,0,4,A,2.1,3.7,3.2,2019-09-29,2019/2020,6,D1,0-4,-4,-1.1,2019-09-29FC KolnHertha
+04/10/2019,Hertha,Fortuna Dusseldorf,3,1,H,1.8,3.7,4.4,2019-10-04,2019/2020,7,D1,3-1,2,-2.6000000000000005,2019-10-04HerthaFortuna Dusseldorf
+05/10/2019,Bayern Munich,Hoffenheim,1,2,A,1.11,10.0,20.0,2019-10-05,2019/2020,7,D1,1-2,-1,-18.89,2019-10-05Bayern MunichHoffenheim
+05/10/2019,Freiburg,Dortmund,2,2,D,4.8,4.2,1.65,2019-10-05,2019/2020,7,D1,2-2,0,3.15,2019-10-05FreiburgDortmund
+05/10/2019,Leverkusen,RB Leipzig,1,1,D,2.5,3.7,2.6,2019-10-05,2019/2020,7,D1,1-1,0,-0.10000000000000009,2019-10-05LeverkusenRB Leipzig
+05/10/2019,Paderborn,Mainz,1,2,A,2.6,3.5,2.6,2019-10-05,2019/2020,7,D1,1-2,-1,0.0,2019-10-05PaderbornMainz
+05/10/2019,Schalke 04,FC Koln,1,1,D,1.6,4.2,5.3,2019-10-05,2019/2020,7,D1,1-1,0,-3.6999999999999997,2019-10-05Schalke 04FC Koln
+06/10/2019,M'gladbach,Augsburg,5,1,H,1.55,4.55,5.5,2019-10-06,2019/2020,7,D1,5-1,4,-3.95,2019-10-06M'gladbachAugsburg
+06/10/2019,Wolfsburg,Union Berlin,1,0,H,1.67,3.95,5.0,2019-10-06,2019/2020,7,D1,1-0,1,-3.33,2019-10-06WolfsburgUnion Berlin
+06/10/2019,Ein Frankfurt,Werder Bremen,2,2,D,2.2,3.75,3.0,2019-10-06,2019/2020,7,D1,2-2,0,-0.7999999999999998,2019-10-06Ein FrankfurtWerder Bremen
+18/10/2019,Ein Frankfurt,Leverkusen,3,0,H,2.8,3.6,2.4,2019-10-18,2019/2020,8,D1,3-0,3,0.3999999999999999,2019-10-18Ein FrankfurtLeverkusen
+19/10/2019,Augsburg,Bayern Munich,2,2,D,13.0,7.0,1.2,2019-10-19,2019/2020,8,D1,2-2,0,11.8,2019-10-19AugsburgBayern Munich
+19/10/2019,Fortuna Dusseldorf,Mainz,1,0,H,2.6,3.4,2.65,2019-10-19,2019/2020,8,D1,1-0,1,-0.04999999999999982,2019-10-19Fortuna DusseldorfMainz
+19/10/2019,RB Leipzig,Wolfsburg,1,1,D,1.57,4.2,5.6,2019-10-19,2019/2020,8,D1,1-1,0,-4.029999999999999,2019-10-19RB LeipzigWolfsburg
+19/10/2019,Union Berlin,Freiburg,2,0,H,2.6,3.3,2.75,2019-10-19,2019/2020,8,D1,2-0,2,-0.1499999999999999,2019-10-19Union BerlinFreiburg
+19/10/2019,Werder Bremen,Hertha,1,1,D,2.15,3.7,3.15,2019-10-19,2019/2020,8,D1,1-1,0,-1.0,2019-10-19Werder BremenHertha
+19/10/2019,Dortmund,M'gladbach,1,0,H,1.57,4.2,5.6,2019-10-19,2019/2020,8,D1,1-0,1,-4.029999999999999,2019-10-19DortmundM'gladbach
+20/10/2019,FC Koln,Paderborn,3,0,H,1.75,4.0,4.3,2019-10-20,2019/2020,8,D1,3-0,3,-2.55,2019-10-20FC KolnPaderborn
+20/10/2019,Hoffenheim,Schalke 04,2,0,H,2.7,3.5,2.5,2019-10-20,2019/2020,8,D1,2-0,2,0.20000000000000018,2019-10-20HoffenheimSchalke 04
+25/10/2019,Mainz,FC Koln,3,1,H,2.6,3.35,2.7,2019-10-25,2019/2020,9,D1,3-1,2,-0.10000000000000009,2019-10-25MainzFC Koln
+26/10/2019,Bayern Munich,Union Berlin,2,1,H,1.12,9.0,20.0,2019-10-26,2019/2020,9,D1,2-1,1,-18.88,2019-10-26Bayern MunichUnion Berlin
+26/10/2019,Freiburg,RB Leipzig,2,1,H,3.9,3.75,1.9,2019-10-26,2019/2020,9,D1,2-1,1,2.0,2019-10-26FreiburgRB Leipzig
+26/10/2019,Hertha,Hoffenheim,2,3,A,2.1,3.65,3.35,2019-10-26,2019/2020,9,D1,2-3,-1,-1.25,2019-10-26HerthaHoffenheim
+26/10/2019,Paderborn,Fortuna Dusseldorf,2,0,H,2.35,3.9,2.7,2019-10-26,2019/2020,9,D1,2-0,2,-0.3500000000000001,2019-10-26PaderbornFortuna Dusseldorf
+26/10/2019,Schalke 04,Dortmund,0,0,D,3.05,3.5,2.25,2019-10-26,2019/2020,9,D1,0-0,0,0.7999999999999998,2019-10-26Schalke 04Dortmund
+26/10/2019,Leverkusen,Werder Bremen,2,2,D,1.63,4.3,4.9,2019-10-26,2019/2020,9,D1,2-2,0,-3.2700000000000005,2019-10-26LeverkusenWerder Bremen
+27/10/2019,Wolfsburg,Augsburg,0,0,D,1.6,4.15,5.5,2019-10-27,2019/2020,9,D1,0-0,0,-3.9,2019-10-27WolfsburgAugsburg
+27/10/2019,M'gladbach,Ein Frankfurt,4,2,H,1.9,3.9,3.75,2019-10-27,2019/2020,9,D1,4-2,2,-1.85,2019-10-27M'gladbachEin Frankfurt
+01/11/2019,Hoffenheim,Paderborn,3,0,H,1.45,4.75,6.5,2019-11-01,2019/2020,10,D1,3-0,3,-5.05,2019-11-01HoffenheimPaderborn
+02/11/2019,Dortmund,Wolfsburg,3,0,H,1.55,4.2,5.9,2019-11-02,2019/2020,10,D1,3-0,3,-4.3500000000000005,2019-11-02DortmundWolfsburg
+02/11/2019,Ein Frankfurt,Bayern Munich,5,1,H,6.0,4.5,1.5,2019-11-02,2019/2020,10,D1,5-1,4,4.5,2019-11-02Ein FrankfurtBayern Munich
+02/11/2019,Leverkusen,M'gladbach,1,2,A,1.97,3.85,3.5,2019-11-02,2019/2020,10,D1,1-2,-1,-1.53,2019-11-02LeverkusenM'gladbach
+02/11/2019,RB Leipzig,Mainz,8,0,H,1.37,5.0,8.0,2019-11-02,2019/2020,10,D1,8-0,8,-6.63,2019-11-02RB LeipzigMainz
+02/11/2019,Werder Bremen,Freiburg,2,2,D,2.1,3.5,3.4,2019-11-02,2019/2020,10,D1,2-2,0,-1.2999999999999998,2019-11-02Werder BremenFreiburg
+02/11/2019,Union Berlin,Hertha,1,0,H,2.8,3.3,2.55,2019-11-02,2019/2020,10,D1,1-0,1,0.25,2019-11-02Union BerlinHertha
+03/11/2019,Fortuna Dusseldorf,FC Koln,2,0,H,2.7,3.65,2.45,2019-11-03,2019/2020,10,D1,2-0,2,0.25,2019-11-03Fortuna DusseldorfFC Koln
+03/11/2019,Augsburg,Schalke 04,2,3,A,3.7,3.7,1.95,2019-11-03,2019/2020,10,D1,2-3,-1,1.7500000000000002,2019-11-03AugsburgSchalke 04
+08/11/2019,FC Koln,Hoffenheim,1,2,A,2.6,3.5,2.6,2019-11-08,2019/2020,11,D1,1-2,-1,0.0,2019-11-08FC KolnHoffenheim
+09/11/2019,Hertha,RB Leipzig,2,4,A,4.0,3.85,1.85,2019-11-09,2019/2020,11,D1,2-4,-2,2.15,2019-11-09HerthaRB Leipzig
+09/11/2019,Mainz,Union Berlin,2,3,A,2.2,3.45,3.3,2019-11-09,2019/2020,11,D1,2-3,-1,-1.0999999999999996,2019-11-09MainzUnion Berlin
+09/11/2019,Paderborn,Augsburg,0,1,A,2.5,3.5,2.7,2019-11-09,2019/2020,11,D1,0-1,-1,-0.20000000000000018,2019-11-09PaderbornAugsburg
+09/11/2019,Schalke 04,Fortuna Dusseldorf,3,3,D,1.53,4.3,6.1,2019-11-09,2019/2020,11,D1,3-3,0,-4.569999999999999,2019-11-09Schalke 04Fortuna Dusseldorf
+09/11/2019,Bayern Munich,Dortmund,4,0,H,1.7,4.2,4.4,2019-11-09,2019/2020,11,D1,4-0,4,-2.7,2019-11-09Bayern MunichDortmund
+10/11/2019,M'gladbach,Werder Bremen,3,1,H,1.73,4.15,4.4,2019-11-10,2019/2020,11,D1,3-1,2,-2.6700000000000004,2019-11-10M'gladbachWerder Bremen
+10/11/2019,Wolfsburg,Leverkusen,0,2,A,3.0,3.45,2.3,2019-11-10,2019/2020,11,D1,0-2,-2,0.7000000000000002,2019-11-10WolfsburgLeverkusen
+10/11/2019,Freiburg,Ein Frankfurt,1,0,H,2.7,3.55,2.5,2019-11-10,2019/2020,11,D1,1-0,1,0.20000000000000018,2019-11-10FreiburgEin Frankfurt
+22/11/2019,Dortmund,Paderborn,3,3,D,1.17,8.0,14.0,2019-11-22,2019/2020,12,D1,3-3,0,-12.83,2019-11-22DortmundPaderborn
+23/11/2019,Ein Frankfurt,Wolfsburg,0,2,A,2.0,3.7,3.55,2019-11-23,2019/2020,12,D1,0-2,-2,-1.5499999999999998,2019-11-23Ein FrankfurtWolfsburg
+23/11/2019,Fortuna Dusseldorf,Bayern Munich,0,4,A,12.5,6.5,1.22,2019-11-23,2019/2020,12,D1,0-4,-4,11.28,2019-11-23Fortuna DusseldorfBayern Munich
+23/11/2019,Leverkusen,Freiburg,1,1,D,1.5,4.55,6.0,2019-11-23,2019/2020,12,D1,1-1,0,-4.5,2019-11-23LeverkusenFreiburg
+23/11/2019,Union Berlin,M'gladbach,2,0,H,3.35,3.6,2.1,2019-11-23,2019/2020,12,D1,2-0,2,1.25,2019-11-23Union BerlinM'gladbach
+23/11/2019,Werder Bremen,Schalke 04,1,2,A,2.45,3.6,2.75,2019-11-23,2019/2020,12,D1,1-2,-1,-0.2999999999999998,2019-11-23Werder BremenSchalke 04
+23/11/2019,RB Leipzig,FC Koln,4,1,H,1.35,5.3,8.0,2019-11-23,2019/2020,12,D1,4-1,3,-6.65,2019-11-23RB LeipzigFC Koln
+24/11/2019,Augsburg,Hertha,4,0,H,2.6,3.5,2.6,2019-11-24,2019/2020,12,D1,4-0,4,0.0,2019-11-24AugsburgHertha
+24/11/2019,Hoffenheim,Mainz,1,5,A,1.67,4.1,4.7,2019-11-24,2019/2020,12,D1,1-5,-4,-3.0300000000000002,2019-11-24HoffenheimMainz
+29/11/2019,Schalke 04,Union Berlin,2,1,H,1.7,3.8,5.0,2019-11-29,2019/2020,13,D1,2-1,1,-3.3,2019-11-29Schalke 04Union Berlin
+30/11/2019,FC Koln,Augsburg,1,1,D,2.0,3.6,3.6,2019-11-30,2019/2020,13,D1,1-1,0,-1.6,2019-11-30FC KolnAugsburg
+30/11/2019,Hertha,Dortmund,1,2,A,4.1,3.7,1.85,2019-11-30,2019/2020,13,D1,1-2,-1,2.2499999999999996,2019-11-30HerthaDortmund
+30/11/2019,Hoffenheim,Fortuna Dusseldorf,1,1,D,1.7,3.95,4.65,2019-11-30,2019/2020,13,D1,1-1,0,-2.95,2019-11-30HoffenheimFortuna Dusseldorf
+30/11/2019,Paderborn,RB Leipzig,2,3,A,7.5,5.3,1.37,2019-11-30,2019/2020,13,D1,2-3,-1,6.13,2019-11-30PaderbornRB Leipzig
+30/11/2019,Bayern Munich,Leverkusen,1,2,A,1.3,6.0,8.7,2019-11-30,2019/2020,13,D1,1-2,-1,-7.3999999999999995,2019-11-30Bayern MunichLeverkusen
+01/12/2019,M'gladbach,Freiburg,4,2,H,1.57,4.4,5.5,2019-12-01,2019/2020,13,D1,4-2,2,-3.9299999999999997,2019-12-01M'gladbachFreiburg
+01/12/2019,Wolfsburg,Werder Bremen,2,3,A,2.2,3.6,3.15,2019-12-01,2019/2020,13,D1,2-3,-1,-0.9499999999999997,2019-12-01WolfsburgWerder Bremen
+02/12/2019,Mainz,Ein Frankfurt,2,1,H,2.8,3.55,2.4,2019-12-02,2019/2020,13,D1,2-1,1,0.3999999999999999,2019-12-02MainzEin Frankfurt
+06/12/2019,Ein Frankfurt,Hertha,2,2,D,1.85,3.8,4.0,2019-12-06,2019/2020,14,D1,2-2,0,-2.15,2019-12-06Ein FrankfurtHertha
+07/12/2019,Augsburg,Mainz,2,1,H,2.25,3.6,3.0,2019-12-07,2019/2020,14,D1,2-1,1,-0.75,2019-12-07AugsburgMainz
+07/12/2019,Dortmund,Fortuna Dusseldorf,5,0,H,1.3,5.5,9.6,2019-12-07,2019/2020,14,D1,5-0,5,-8.299999999999999,2019-12-07DortmundFortuna Dusseldorf
+07/12/2019,Freiburg,Wolfsburg,1,0,H,2.9,3.3,2.45,2019-12-07,2019/2020,14,D1,1-0,1,0.44999999999999973,2019-12-07FreiburgWolfsburg
+07/12/2019,M'gladbach,Bayern Munich,2,1,H,4.6,4.3,1.65,2019-12-07,2019/2020,14,D1,2-1,1,2.9499999999999997,2019-12-07M'gladbachBayern Munich
+07/12/2019,RB Leipzig,Hoffenheim,3,1,H,1.5,4.6,5.9,2019-12-07,2019/2020,14,D1,3-1,2,-4.4,2019-12-07RB LeipzigHoffenheim
+07/12/2019,Leverkusen,Schalke 04,2,1,H,1.95,3.65,3.8,2019-12-07,2019/2020,14,D1,2-1,1,-1.8499999999999999,2019-12-07LeverkusenSchalke 04
+08/12/2019,Union Berlin,FC Koln,2,0,H,2.15,3.5,3.3,2019-12-08,2019/2020,14,D1,2-0,2,-1.15,2019-12-08Union BerlinFC Koln
+08/12/2019,Werder Bremen,Paderborn,0,1,A,1.55,4.7,5.3,2019-12-08,2019/2020,14,D1,0-1,-1,-3.75,2019-12-08Werder BremenPaderborn
+13/12/2019,Hoffenheim,Augsburg,2,4,A,1.85,3.8,4.05,2019-12-13,2019/2020,15,D1,2-4,-2,-2.1999999999999997,2019-12-13HoffenheimAugsburg
+14/12/2019,Bayern Munich,Werder Bremen,6,1,H,1.15,8.2,15.5,2019-12-14,2019/2020,15,D1,6-1,5,-14.35,2019-12-14Bayern MunichWerder Bremen
+14/12/2019,FC Koln,Leverkusen,2,0,H,4.05,3.9,1.83,2019-12-14,2019/2020,15,D1,2-0,2,2.2199999999999998,2019-12-14FC KolnLeverkusen
+14/12/2019,Hertha,Freiburg,1,0,H,2.0,3.6,3.6,2019-12-14,2019/2020,15,D1,1-0,1,-1.6,2019-12-14HerthaFreiburg
+14/12/2019,Mainz,Dortmund,0,4,A,4.8,4.2,1.65,2019-12-14,2019/2020,15,D1,0-4,-4,3.15,2019-12-14MainzDortmund
+14/12/2019,Paderborn,Union Berlin,1,1,D,2.8,3.6,2.4,2019-12-14,2019/2020,15,D1,1-1,0,0.3999999999999999,2019-12-14PaderbornUnion Berlin
+14/12/2019,Fortuna Dusseldorf,RB Leipzig,0,3,A,6.6,4.7,1.45,2019-12-14,2019/2020,15,D1,0-3,-3,5.1499999999999995,2019-12-14Fortuna DusseldorfRB Leipzig
+15/12/2019,Wolfsburg,M'gladbach,2,1,H,2.6,3.45,2.65,2019-12-15,2019/2020,15,D1,2-1,1,-0.04999999999999982,2019-12-15WolfsburgM'gladbach
+15/12/2019,Schalke 04,Ein Frankfurt,1,0,H,1.95,3.8,3.6,2019-12-15,2019/2020,15,D1,1-0,1,-1.6500000000000001,2019-12-15Schalke 04Ein Frankfurt
+17/12/2019,Werder Bremen,Mainz,0,5,A,1.85,3.9,3.9,2019-12-17,2019/2020,16,D1,0-5,-5,-2.05,2019-12-17Werder BremenMainz
+17/12/2019,Augsburg,Fortuna Dusseldorf,3,0,H,1.7,4.0,4.6,2019-12-17,2019/2020,16,D1,3-0,3,-2.8999999999999995,2019-12-17AugsburgFortuna Dusseldorf
+17/12/2019,Dortmund,RB Leipzig,3,3,D,2.2,3.8,3.0,2019-12-17,2019/2020,16,D1,3-3,0,-0.7999999999999998,2019-12-17DortmundRB Leipzig
+17/12/2019,Union Berlin,Hoffenheim,0,2,A,2.45,3.45,2.85,2019-12-17,2019/2020,16,D1,0-2,-2,-0.3999999999999999,2019-12-17Union BerlinHoffenheim
+18/12/2019,Leverkusen,Hertha,0,1,A,1.6,4.2,5.3,2019-12-18,2019/2020,16,D1,0-1,-1,-3.6999999999999997,2019-12-18LeverkusenHertha
+18/12/2019,Ein Frankfurt,FC Koln,2,4,A,1.8,3.8,4.2,2019-12-18,2019/2020,16,D1,2-4,-2,-2.4000000000000004,2019-12-18Ein FrankfurtFC Koln
+18/12/2019,Freiburg,Bayern Munich,1,3,A,11.0,6.1,1.25,2019-12-18,2019/2020,16,D1,1-3,-2,9.75,2019-12-18FreiburgBayern Munich
+18/12/2019,M'gladbach,Paderborn,2,0,H,1.33,5.5,8.3,2019-12-18,2019/2020,16,D1,2-0,2,-6.970000000000001,2019-12-18M'gladbachPaderborn
+18/12/2019,Wolfsburg,Schalke 04,1,1,D,2.35,3.35,3.05,2019-12-18,2019/2020,16,D1,1-1,0,-0.6999999999999997,2019-12-18WolfsburgSchalke 04
+20/12/2019,Hoffenheim,Dortmund,2,1,H,4.0,3.8,1.85,2019-12-20,2019/2020,17,D1,2-1,1,2.15,2019-12-20HoffenheimDortmund
+21/12/2019,Bayern Munich,Wolfsburg,2,0,H,1.2,7.4,12.0,2019-12-21,2019/2020,17,D1,2-0,2,-10.8,2019-12-21Bayern MunichWolfsburg
+21/12/2019,FC Koln,Werder Bremen,1,0,H,2.0,3.6,3.6,2019-12-21,2019/2020,17,D1,1-0,1,-1.6,2019-12-21FC KolnWerder Bremen
+21/12/2019,Mainz,Leverkusen,0,1,A,3.65,3.9,1.9,2019-12-21,2019/2020,17,D1,0-1,-1,1.75,2019-12-21MainzLeverkusen
+21/12/2019,RB Leipzig,Augsburg,3,1,H,1.3,6.0,8.5,2019-12-21,2019/2020,17,D1,3-1,2,-7.2,2019-12-21RB LeipzigAugsburg
+21/12/2019,Schalke 04,Freiburg,2,2,D,1.7,3.8,5.0,2019-12-21,2019/2020,17,D1,2-2,0,-3.3,2019-12-21Schalke 04Freiburg
+21/12/2019,Hertha,M'gladbach,0,0,D,2.9,3.5,2.35,2019-12-21,2019/2020,17,D1,0-0,0,0.5499999999999998,2019-12-21HerthaM'gladbach
+22/12/2019,Fortuna Dusseldorf,Union Berlin,2,1,H,2.75,3.3,2.6,2019-12-22,2019/2020,17,D1,2-1,1,0.1499999999999999,2019-12-22Fortuna DusseldorfUnion Berlin
+22/12/2019,Paderborn,Ein Frankfurt,2,1,H,3.05,3.7,2.2,2019-12-22,2019/2020,17,D1,2-1,1,0.8499999999999996,2019-12-22PaderbornEin Frankfurt
+17/01/2020,Schalke 04,M'gladbach,2,0,H,2.65,3.5,2.55,2020-01-17,2019/2020,18,D1,2-0,2,0.10000000000000009,2020-01-17Schalke 04M'gladbach
+18/01/2020,Augsburg,Dortmund,3,5,A,4.6,4.2,1.67,2020-01-18,2019/2020,18,D1,3-5,-2,2.9299999999999997,2020-01-18AugsburgDortmund
+18/01/2020,FC Koln,Wolfsburg,3,1,H,2.6,3.35,2.7,2020-01-18,2019/2020,18,D1,3-1,2,-0.10000000000000009,2020-01-18FC KolnWolfsburg
+18/01/2020,Fortuna Dusseldorf,Werder Bremen,0,1,A,2.7,3.55,2.5,2020-01-18,2019/2020,18,D1,0-1,-1,0.20000000000000018,2020-01-18Fortuna DusseldorfWerder Bremen
+18/01/2020,Hoffenheim,Ein Frankfurt,1,2,A,2.35,3.7,2.8,2020-01-18,2019/2020,18,D1,1-2,-1,-0.44999999999999973,2020-01-18HoffenheimEin Frankfurt
+18/01/2020,Mainz,Freiburg,1,2,A,2.3,3.4,3.05,2020-01-18,2019/2020,18,D1,1-2,-1,-0.75,2020-01-18MainzFreiburg
+18/01/2020,RB Leipzig,Union Berlin,3,1,H,1.33,5.5,8.5,2020-01-18,2019/2020,18,D1,3-1,2,-7.17,2020-01-18RB LeipzigUnion Berlin
+19/01/2020,Hertha,Bayern Munich,0,4,A,7.2,5.0,1.4,2020-01-19,2019/2020,18,D1,0-4,-4,5.800000000000001,2020-01-19HerthaBayern Munich
+19/01/2020,Paderborn,Leverkusen,1,4,A,4.4,4.2,1.7,2020-01-19,2019/2020,18,D1,1-4,-3,2.7,2020-01-19PaderbornLeverkusen
+24/01/2020,Dortmund,FC Koln,5,1,H,1.3,5.8,9.0,2020-01-24,2019/2020,19,D1,5-1,4,-7.7,2020-01-24DortmundFC Koln
+25/01/2020,Ein Frankfurt,RB Leipzig,2,0,H,4.0,4.2,1.77,2020-01-25,2019/2020,19,D1,2-0,2,2.23,2020-01-25Ein FrankfurtRB Leipzig
+25/01/2020,Freiburg,Paderborn,0,2,A,1.8,3.9,4.2,2020-01-25,2019/2020,19,D1,0-2,-2,-2.4000000000000004,2020-01-25FreiburgPaderborn
+25/01/2020,M'gladbach,Mainz,3,1,H,1.55,4.4,5.6,2020-01-25,2019/2020,19,D1,3-1,2,-4.05,2020-01-25M'gladbachMainz
+25/01/2020,Union Berlin,Augsburg,2,0,H,2.1,3.55,3.45,2020-01-25,2019/2020,19,D1,2-0,2,-1.35,2020-01-25Union BerlinAugsburg
+25/01/2020,Wolfsburg,Hertha,1,2,A,1.8,3.6,4.5,2020-01-25,2019/2020,19,D1,1-2,-1,-2.7,2020-01-25WolfsburgHertha
+25/01/2020,Bayern Munich,Schalke 04,5,0,H,1.25,6.1,11.0,2020-01-25,2019/2020,19,D1,5-0,5,-9.75,2020-01-25Bayern MunichSchalke 04
+26/01/2020,Werder Bremen,Hoffenheim,0,3,A,2.4,3.7,2.75,2020-01-26,2019/2020,19,D1,0-3,-3,-0.3500000000000001,2020-01-26Werder BremenHoffenheim
+26/01/2020,Leverkusen,Fortuna Dusseldorf,3,0,H,1.4,5.0,7.2,2020-01-26,2019/2020,19,D1,3-0,3,-5.800000000000001,2020-01-26LeverkusenFortuna Dusseldorf
+31/01/2020,Hertha,Schalke 04,0,0,D,2.75,3.3,2.6,2020-01-31,2019/2020,20,D1,0-0,0,0.1499999999999999,2020-01-31HerthaSchalke 04
+01/02/2020,Augsburg,Werder Bremen,2,1,H,2.05,3.75,3.35,2020-02-01,2019/2020,20,D1,2-1,1,-1.3000000000000003,2020-02-01AugsburgWerder Bremen
+01/02/2020,Dortmund,Union Berlin,5,0,H,1.27,6.0,10.0,2020-02-01,2019/2020,20,D1,5-0,5,-8.73,2020-02-01DortmundUnion Berlin
+01/02/2020,Fortuna Dusseldorf,Ein Frankfurt,1,1,D,3.35,3.7,2.05,2020-02-01,2019/2020,20,D1,1-1,0,1.3000000000000003,2020-02-01Fortuna DusseldorfEin Frankfurt
+01/02/2020,Hoffenheim,Leverkusen,2,1,H,3.25,3.8,2.1,2020-02-01,2019/2020,20,D1,2-1,1,1.15,2020-02-01HoffenheimLeverkusen
+01/02/2020,Mainz,Bayern Munich,1,3,A,13.0,7.0,1.2,2020-02-01,2019/2020,20,D1,1-3,-2,11.8,2020-02-01MainzBayern Munich
+01/02/2020,RB Leipzig,M'gladbach,2,2,D,1.6,4.5,4.9,2020-02-01,2019/2020,20,D1,2-2,0,-3.3000000000000003,2020-02-01RB LeipzigM'gladbach
+02/02/2020,FC Koln,Freiburg,4,0,H,2.05,3.65,3.45,2020-02-02,2019/2020,20,D1,4-0,4,-1.4000000000000004,2020-02-02FC KolnFreiburg
+02/02/2020,Paderborn,Wolfsburg,2,4,A,3.45,3.8,2.0,2020-02-02,2019/2020,20,D1,2-4,-2,1.4500000000000002,2020-02-02PaderbornWolfsburg
+07/02/2020,Ein Frankfurt,Augsburg,5,0,H,1.9,3.7,3.9,2020-02-07,2019/2020,21,D1,5-0,5,-2.0,2020-02-07Ein FrankfurtAugsburg
+08/02/2020,Freiburg,Hoffenheim,1,0,H,2.55,3.55,2.65,2020-02-08,2019/2020,21,D1,1-0,1,-0.10000000000000009,2020-02-08FreiburgHoffenheim
+08/02/2020,Hertha,Mainz,1,3,A,2.05,3.65,3.45,2020-02-08,2019/2020,21,D1,1-3,-2,-1.4000000000000004,2020-02-08HerthaMainz
+08/02/2020,Schalke 04,Paderborn,1,1,D,1.5,4.55,5.8,2020-02-08,2019/2020,21,D1,1-1,0,-4.3,2020-02-08Schalke 04Paderborn
+08/02/2020,Werder Bremen,Union Berlin,0,2,A,2.1,3.6,3.45,2020-02-08,2019/2020,21,D1,0-2,-2,-1.35,2020-02-08Werder BremenUnion Berlin
+08/02/2020,Wolfsburg,Fortuna Dusseldorf,1,1,D,1.55,4.2,5.9,2020-02-08,2019/2020,21,D1,1-1,0,-4.3500000000000005,2020-02-08WolfsburgFortuna Dusseldorf
+08/02/2020,Leverkusen,Dortmund,4,3,H,3.05,3.7,2.2,2020-02-08,2019/2020,21,D1,4-3,1,0.8499999999999996,2020-02-08LeverkusenDortmund
+09/02/2020,Bayern Munich,RB Leipzig,0,0,D,1.45,4.8,6.5,2020-02-09,2019/2020,21,D1,0-0,0,-5.05,2020-02-09Bayern MunichRB Leipzig
+14/02/2020,Dortmund,Ein Frankfurt,4,0,H,1.45,4.8,6.5,2020-02-14,2019/2020,21,D1,4-0,4,-5.05,2020-02-14DortmundEin Frankfurt
+15/02/2020,Augsburg,Freiburg,1,1,D,2.05,3.65,3.5,2020-02-15,2019/2020,22,D1,1-1,0,-1.4500000000000002,2020-02-15AugsburgFreiburg
+15/02/2020,Hoffenheim,Wolfsburg,2,3,A,2.45,3.5,2.8,2020-02-15,2019/2020,22,D1,2-3,-1,-0.34999999999999964,2020-02-15HoffenheimWolfsburg
+15/02/2020,Paderborn,Hertha,1,2,A,2.7,3.55,2.5,2020-02-15,2019/2020,22,D1,1-2,-1,0.20000000000000018,2020-02-15PaderbornHertha
+15/02/2020,RB Leipzig,Werder Bremen,3,0,H,1.3,6.0,8.5,2020-02-15,2019/2020,22,D1,3-0,3,-7.2,2020-02-15RB LeipzigWerder Bremen
+15/02/2020,Union Berlin,Leverkusen,2,3,A,3.75,3.7,1.95,2020-02-15,2019/2020,22,D1,2-3,-1,1.8,2020-02-15Union BerlinLeverkusen
+15/02/2020,Fortuna Dusseldorf,M'gladbach,1,4,A,4.0,3.85,1.85,2020-02-15,2019/2020,22,D1,1-4,-3,2.15,2020-02-15Fortuna DusseldorfM'gladbach
+16/02/2020,FC Koln,Bayern Munich,1,4,A,11.0,6.1,1.25,2020-02-16,2019/2020,22,D1,1-4,-3,9.75,2020-02-16FC KolnBayern Munich
+16/02/2020,Mainz,Schalke 04,0,0,D,2.8,3.45,2.45,2020-02-16,2019/2020,22,D1,0-0,0,0.34999999999999964,2020-02-16MainzSchalke 04
+21/02/2020,Bayern Munich,Paderborn,3,2,H,1.07,13.0,25.0,2020-02-21,2019/2020,22,D1,3-2,1,-23.93,2020-02-21Bayern MunichPaderborn
+22/02/2020,Freiburg,Fortuna Dusseldorf,0,2,A,2.0,3.5,3.7,2020-02-22,2019/2020,23,D1,0-2,-2,-1.7000000000000002,2020-02-22FreiburgFortuna Dusseldorf
+22/02/2020,Hertha,FC Koln,0,5,A,2.4,3.4,2.9,2020-02-22,2019/2020,23,D1,0-5,-5,-0.5,2020-02-22HerthaFC Koln
+22/02/2020,M'gladbach,Hoffenheim,1,1,D,1.65,4.3,4.75,2020-02-22,2019/2020,23,D1,1-1,0,-3.1,2020-02-22M'gladbachHoffenheim
+22/02/2020,Werder Bremen,Dortmund,0,2,A,6.0,5.0,1.45,2020-02-22,2019/2020,23,D1,0-2,-2,4.55,2020-02-22Werder BremenDortmund
+22/02/2020,Schalke 04,RB Leipzig,0,5,A,4.15,3.95,1.8,2020-02-22,2019/2020,23,D1,0-5,-5,2.3500000000000005,2020-02-22Schalke 04RB Leipzig
+23/02/2020,Leverkusen,Augsburg,2,0,H,1.48,4.7,6.1,2020-02-23,2019/2020,23,D1,2-0,2,-4.619999999999999,2020-02-23LeverkusenAugsburg
+23/02/2020,Wolfsburg,Mainz,4,0,H,1.8,3.85,4.3,2020-02-23,2019/2020,23,D1,4-0,4,-2.5,2020-02-23WolfsburgMainz
+24/02/2020,Ein Frankfurt,Union Berlin,1,2,A,1.9,3.65,3.9,2020-02-24,2019/2020,23,D1,1-2,-1,-2.0,2020-02-24Ein FrankfurtUnion Berlin
+28/02/2020,Fortuna Dusseldorf,Hertha,3,3,D,2.4,3.3,3.0,2020-02-28,2019/2020,23,D1,3-3,0,-0.6000000000000001,2020-02-28Fortuna DusseldorfHertha
+29/02/2020,Augsburg,M'gladbach,2,3,A,3.45,3.75,2.0,2020-02-29,2019/2020,24,D1,2-3,-1,1.4500000000000002,2020-02-29AugsburgM'gladbach
+29/02/2020,Dortmund,Freiburg,1,0,H,1.25,6.1,11.0,2020-02-29,2019/2020,24,D1,1-0,1,-9.75,2020-02-29DortmundFreiburg
+29/02/2020,Hoffenheim,Bayern Munich,0,6,A,6.5,5.5,1.4,2020-02-29,2019/2020,24,D1,0-6,-6,5.1,2020-02-29HoffenheimBayern Munich
+29/02/2020,Mainz,Paderborn,2,0,H,1.9,3.8,3.75,2020-02-29,2019/2020,24,D1,2-0,2,-1.85,2020-02-29MainzPaderborn
+29/02/2020,FC Koln,Schalke 04,3,0,H,2.2,3.5,3.2,2020-02-29,2019/2020,24,D1,3-0,3,-1.0,2020-02-29FC KolnSchalke 04
+01/03/2020,Union Berlin,Wolfsburg,2,2,D,2.65,3.2,2.75,2020-03-01,2019/2020,24,D1,2-2,0,-0.10000000000000009,2020-03-01Union BerlinWolfsburg
+01/03/2020,RB Leipzig,Leverkusen,1,1,D,1.5,4.85,5.7,2020-03-01,2019/2020,24,D1,1-1,0,-4.2,2020-03-01RB LeipzigLeverkusen
+06/03/2020,Paderborn,FC Koln,1,2,A,3.15,3.8,2.1,2020-03-06,2019/2020,24,D1,1-2,-1,1.0499999999999998,2020-03-06PaderbornFC Koln
+07/03/2020,Freiburg,Union Berlin,3,1,H,2.3,3.4,3.05,2020-03-07,2019/2020,24,D1,3-1,2,-0.75,2020-03-07FreiburgUnion Berlin
+07/03/2020,Hertha,Werder Bremen,2,2,D,2.15,3.45,3.35,2020-03-07,2019/2020,25,D1,2-2,0,-1.2000000000000002,2020-03-07HerthaWerder Bremen
+07/03/2020,Leverkusen,Ein Frankfurt,4,0,H,1.67,4.2,4.7,2020-03-07,2019/2020,25,D1,4-0,4,-3.0300000000000002,2020-03-07LeverkusenEin Frankfurt
+07/03/2020,Schalke 04,Hoffenheim,1,1,D,2.25,3.55,3.0,2020-03-07,2019/2020,25,D1,1-1,0,-0.75,2020-03-07Schalke 04Hoffenheim
+07/03/2020,Wolfsburg,RB Leipzig,0,0,D,3.75,3.75,1.93,2020-03-07,2019/2020,25,D1,0-0,0,1.82,2020-03-07WolfsburgRB Leipzig
+07/03/2020,M'gladbach,Dortmund,1,2,A,3.0,3.75,2.2,2020-03-07,2019/2020,25,D1,1-2,-1,0.7999999999999998,2020-03-07M'gladbachDortmund
+08/03/2020,Bayern Munich,Augsburg,2,0,H,1.12,9.0,20.0,2020-03-08,2019/2020,25,D1,2-0,2,-18.88,2020-03-08Bayern MunichAugsburg
+08/03/2020,Mainz,Fortuna Dusseldorf,1,1,D,1.87,3.9,3.85,2020-03-08,2019/2020,25,D1,1-1,0,-1.98,2020-03-08MainzFortuna Dusseldorf
+11/03/2020,M'gladbach,FC Koln,2,1,H,1.8,4.05,4.05,2020-03-11,2019/2020,25,D1,2-1,1,-2.25,2020-03-11M'gladbachFC Koln
+16/05/2020,Augsburg,Wolfsburg,1,2,A,2.9,3.5,2.4,2020-05-16,2019/2020,25,D1,1-2,-1,0.5,2020-05-16AugsburgWolfsburg
+16/05/2020,Dortmund,Schalke 04,4,0,H,1.45,5.0,6.0,2020-05-16,2019/2020,26,D1,4-0,4,-4.55,2020-05-16DortmundSchalke 04
+16/05/2020,Fortuna Dusseldorf,Paderborn,0,0,D,2.1,3.65,3.35,2020-05-16,2019/2020,26,D1,0-0,0,-1.25,2020-05-16Fortuna DusseldorfPaderborn
+16/05/2020,Hoffenheim,Hertha,0,3,A,1.93,3.75,3.75,2020-05-16,2019/2020,26,D1,0-3,-3,-1.82,2020-05-16HoffenheimHertha
+16/05/2020,RB Leipzig,Freiburg,1,1,D,1.28,5.9,10.0,2020-05-16,2019/2020,26,D1,1-1,0,-8.72,2020-05-16RB LeipzigFreiburg
+16/05/2020,Ein Frankfurt,M'gladbach,1,3,A,3.0,3.7,2.25,2020-05-16,2019/2020,26,D1,1-3,-2,0.75,2020-05-16Ein FrankfurtM'gladbach
+17/05/2020,FC Koln,Mainz,2,2,D,1.77,4.05,4.15,2020-05-17,2019/2020,26,D1,2-2,0,-2.3800000000000003,2020-05-17FC KolnMainz
+17/05/2020,Union Berlin,Bayern Munich,0,2,A,11.0,6.2,1.25,2020-05-17,2019/2020,26,D1,0-2,-2,9.75,2020-05-17Union BerlinBayern Munich
+18/05/2020,Werder Bremen,Leverkusen,1,4,A,3.85,4.05,1.85,2020-05-18,2019/2020,26,D1,1-4,-3,2.0,2020-05-18Werder BremenLeverkusen
+22/05/2020,Hertha,Union Berlin,4,0,H,2.3,3.3,3.15,2020-05-22,2019/2020,26,D1,4-0,4,-0.8500000000000001,2020-05-22HerthaUnion Berlin
+23/05/2020,Freiburg,Werder Bremen,0,1,A,2.25,3.5,3.1,2020-05-23,2019/2020,27,D1,0-1,-1,-0.8500000000000001,2020-05-23FreiburgWerder Bremen
+23/05/2020,M'gladbach,Leverkusen,1,3,A,2.4,3.6,2.8,2020-05-23,2019/2020,27,D1,1-3,-2,-0.3999999999999999,2020-05-23M'gladbachLeverkusen
+23/05/2020,Paderborn,Hoffenheim,1,1,D,3.1,3.75,2.15,2020-05-23,2019/2020,27,D1,1-1,0,0.9500000000000002,2020-05-23PaderbornHoffenheim
+23/05/2020,Wolfsburg,Dortmund,0,2,A,4.35,3.9,1.77,2020-05-23,2019/2020,27,D1,0-2,-2,2.5799999999999996,2020-05-23WolfsburgDortmund
+23/05/2020,Bayern Munich,Ein Frankfurt,5,2,H,1.2,7.0,3.0,2020-05-23,2019/2020,27,D1,5-2,3,-1.8,2020-05-23Bayern MunichEin Frankfurt
+24/05/2020,Schalke 04,Augsburg,0,3,A,2.05,3.45,3.6,2020-05-24,2019/2020,27,D1,0-3,-3,-1.5500000000000003,2020-05-24Schalke 04Augsburg
+24/05/2020,Mainz,RB Leipzig,0,5,A,5.7,4.7,1.5,2020-05-24,2019/2020,27,D1,0-5,-5,4.2,2020-05-24MainzRB Leipzig
+24/05/2020,FC Koln,Fortuna Dusseldorf,2,2,D,1.85,3.6,4.3,2020-05-24,2019/2020,27,D1,2-2,0,-2.4499999999999997,2020-05-24FC KolnFortuna Dusseldorf
+26/05/2020,Dortmund,Bayern Munich,0,1,A,3.6,4.0,1.9,2020-05-26,2019/2020,27,D1,0-1,-1,1.7000000000000002,2020-05-26DortmundBayern Munich
+26/05/2020,Ein Frankfurt,Freiburg,3,3,D,2.1,3.5,3.4,2020-05-26,2019/2020,28,D1,3-3,0,-1.2999999999999998,2020-05-26Ein FrankfurtFreiburg
+26/05/2020,Leverkusen,Wolfsburg,1,4,A,1.65,4.1,4.9,2020-05-26,2019/2020,28,D1,1-4,-3,-3.2500000000000004,2020-05-26LeverkusenWolfsburg
+26/05/2020,Werder Bremen,M'gladbach,0,0,D,4.3,4.0,1.75,2020-05-26,2019/2020,28,D1,0-0,0,2.55,2020-05-26Werder BremenM'gladbach
+27/05/2020,RB Leipzig,Hertha,2,2,D,1.37,5.2,7.6,2020-05-27,2019/2020,28,D1,2-2,0,-6.2299999999999995,2020-05-27RB LeipzigHertha
+27/05/2020,Augsburg,Paderborn,0,0,D,1.95,3.6,3.8,2020-05-27,2019/2020,28,D1,0-0,0,-1.8499999999999999,2020-05-27AugsburgPaderborn
+27/05/2020,Fortuna Dusseldorf,Schalke 04,2,1,H,2.6,3.4,2.65,2020-05-27,2019/2020,28,D1,2-1,1,-0.04999999999999982,2020-05-27Fortuna DusseldorfSchalke 04
+27/05/2020,Hoffenheim,FC Koln,3,1,H,2.45,3.7,2.7,2020-05-27,2019/2020,28,D1,3-1,2,-0.25,2020-05-27HoffenheimFC Koln
+27/05/2020,Union Berlin,Mainz,1,1,D,2.35,3.5,2.9,2020-05-27,2019/2020,28,D1,1-1,0,-0.5499999999999998,2020-05-27Union BerlinMainz
+29/05/2020,Freiburg,Leverkusen,0,1,A,4.2,4.1,1.75,2020-05-29,2019/2020,28,D1,0-1,-1,2.45,2020-05-29FreiburgLeverkusen
+30/05/2020,Hertha,Augsburg,2,0,H,2.0,3.5,3.7,2020-05-30,2019/2020,29,D1,2-0,2,-1.7000000000000002,2020-05-30HerthaAugsburg
+30/05/2020,Mainz,Hoffenheim,0,1,A,2.75,3.7,2.4,2020-05-30,2019/2020,29,D1,0-1,-1,0.3500000000000001,2020-05-30MainzHoffenheim
+30/05/2020,Schalke 04,Werder Bremen,0,1,A,2.6,3.4,2.65,2020-05-30,2019/2020,29,D1,0-1,-1,-0.04999999999999982,2020-05-30Schalke 04Werder Bremen
+30/05/2020,Wolfsburg,Ein Frankfurt,1,2,A,2.0,3.6,3.6,2020-05-30,2019/2020,29,D1,1-2,-1,-1.6,2020-05-30WolfsburgEin Frankfurt
+30/05/2020,Bayern Munich,Fortuna Dusseldorf,5,0,H,1.1,9.5,27.0,2020-05-30,2019/2020,29,D1,5-0,5,-25.9,2020-05-30Bayern MunichFortuna Dusseldorf
+31/05/2020,M'gladbach,Union Berlin,4,1,H,1.53,4.35,6.0,2020-05-31,2019/2020,29,D1,4-1,3,-4.47,2020-05-31M'gladbachUnion Berlin
+31/05/2020,Paderborn,Dortmund,1,6,A,7.7,5.5,1.35,2020-05-31,2019/2020,29,D1,1-6,-5,6.35,2020-05-31PaderbornDortmund
+01/06/2020,FC Koln,RB Leipzig,2,4,A,5.0,4.4,1.6,2020-06-01,2019/2020,29,D1,2-4,-2,3.4,2020-06-01FC KolnRB Leipzig
+03/06/2020,Werder Bremen,Ein Frankfurt,0,3,A,2.75,3.45,2.5,2020-06-03,2019/2020,29,D1,0-3,-3,0.25,2020-06-03Werder BremenEin Frankfurt
+05/06/2020,Freiburg,M'gladbach,1,0,H,4.3,4.0,1.75,2020-06-05,2019/2020,30,D1,1-0,1,2.55,2020-06-05FreiburgM'gladbach
+06/06/2020,Ein Frankfurt,Mainz,0,2,A,2.05,3.7,3.4,2020-06-06,2019/2020,30,D1,0-2,-2,-1.35,2020-06-06Ein FrankfurtMainz
+06/06/2020,Fortuna Dusseldorf,Hoffenheim,2,2,D,2.75,3.55,2.45,2020-06-06,2019/2020,30,D1,2-2,0,0.2999999999999998,2020-06-06Fortuna DusseldorfHoffenheim
+06/06/2020,Leverkusen,Bayern Munich,2,4,A,4.7,4.7,1.6,2020-06-06,2019/2020,30,D1,2-4,-2,3.1,2020-06-06LeverkusenBayern Munich
+06/06/2020,RB Leipzig,Paderborn,1,1,D,1.15,8.6,16.0,2020-06-06,2019/2020,30,D1,1-1,0,-14.85,2020-06-06RB LeipzigPaderborn
+06/06/2020,Dortmund,Hertha,1,0,H,1.4,5.0,7.2,2020-06-06,2019/2020,30,D1,1-0,1,-5.800000000000001,2020-06-06DortmundHertha
+07/06/2020,Werder Bremen,Wolfsburg,0,1,A,3.65,3.5,2.05,2020-06-07,2019/2020,30,D1,0-1,-1,1.6,2020-06-07Werder BremenWolfsburg
+07/06/2020,Union Berlin,Schalke 04,1,1,D,2.45,3.2,3.0,2020-06-07,2019/2020,30,D1,1-1,0,-0.5499999999999998,2020-06-07Union BerlinSchalke 04
+07/06/2020,Augsburg,FC Koln,1,1,D,2.75,3.5,2.45,2020-06-07,2019/2020,30,D1,1-1,0,0.2999999999999998,2020-06-07AugsburgFC Koln
+12/06/2020,Hoffenheim,RB Leipzig,0,2,A,6.2,5.0,1.45,2020-06-12,2019/2020,31,D1,0-2,-2,4.75,2020-06-12HoffenheimRB Leipzig
+13/06/2020,FC Koln,Union Berlin,1,2,A,2.05,3.5,3.6,2020-06-13,2019/2020,31,D1,1-2,-1,-1.5500000000000003,2020-06-13FC KolnUnion Berlin
+13/06/2020,Fortuna Dusseldorf,Dortmund,0,1,A,7.7,5.3,1.36,2020-06-13,2019/2020,31,D1,0-1,-1,6.34,2020-06-13Fortuna DusseldorfDortmund
+13/06/2020,Hertha,Ein Frankfurt,1,4,A,2.1,3.65,3.3,2020-06-13,2019/2020,31,D1,1-4,-3,-1.1999999999999997,2020-06-13HerthaEin Frankfurt
+13/06/2020,Paderborn,Werder Bremen,1,5,A,3.5,3.7,2.05,2020-06-13,2019/2020,31,D1,1-5,-4,1.4500000000000002,2020-06-13PaderbornWerder Bremen
+13/06/2020,Wolfsburg,Freiburg,2,2,D,1.7,3.9,4.75,2020-06-13,2019/2020,31,D1,2-2,0,-3.05,2020-06-13WolfsburgFreiburg
+13/06/2020,Bayern Munich,M'gladbach,2,1,H,1.4,5.4,6.5,2020-06-13,2019/2020,31,D1,2-1,1,-5.1,2020-06-13Bayern MunichM'gladbach
+14/06/2020,Mainz,Augsburg,0,1,A,2.3,3.45,3.05,2020-06-14,2019/2020,31,D1,0-1,-1,-0.75,2020-06-14MainzAugsburg
+14/06/2020,Schalke 04,Leverkusen,1,1,D,5.7,4.3,1.55,2020-06-14,2019/2020,31,D1,1-1,0,4.15,2020-06-14Schalke 04Leverkusen
+16/06/2020,M'gladbach,Wolfsburg,3,0,H,2.15,3.6,3.25,2020-06-16,2019/2020,32,D1,3-0,3,-1.1,2020-06-16M'gladbachWolfsburg
+16/06/2020,Freiburg,Hertha,2,1,H,2.65,3.55,2.55,2020-06-16,2019/2020,32,D1,2-1,1,0.10000000000000009,2020-06-16FreiburgHertha
+16/06/2020,Union Berlin,Paderborn,1,0,H,1.67,4.0,4.9,2020-06-16,2019/2020,32,D1,1-0,1,-3.2300000000000004,2020-06-16Union BerlinPaderborn
+16/06/2020,Werder Bremen,Bayern Munich,0,1,A,10.5,6.3,1.25,2020-06-16,2019/2020,32,D1,0-1,-1,9.25,2020-06-16Werder BremenBayern Munich
+17/06/2020,Ein Frankfurt,Schalke 04,2,1,H,1.75,4.0,4.45,2020-06-17,2019/2020,32,D1,2-1,1,-2.7,2020-06-17Ein FrankfurtSchalke 04
+17/06/2020,Augsburg,Hoffenheim,1,3,A,2.7,3.6,2.45,2020-06-17,2019/2020,32,D1,1-3,-2,0.25,2020-06-17AugsburgHoffenheim
+17/06/2020,Dortmund,Mainz,0,2,A,1.3,6.0,8.5,2020-06-17,2019/2020,32,D1,0-2,-2,-7.2,2020-06-17DortmundMainz
+17/06/2020,Leverkusen,FC Koln,3,1,H,1.5,4.5,6.1,2020-06-17,2019/2020,32,D1,3-1,2,-4.6,2020-06-17LeverkusenFC Koln
+17/06/2020,RB Leipzig,Fortuna Dusseldorf,2,2,D,1.3,6.0,8.5,2020-06-17,2019/2020,32,D1,2-2,0,-7.2,2020-06-17RB LeipzigFortuna Dusseldorf
+20/06/2020,Bayern Munich,Freiburg,3,1,H,1.25,7.5,8.3,2020-06-20,2019/2020,33,D1,3-1,2,-7.050000000000001,2020-06-20Bayern MunichFreiburg
+20/06/2020,FC Koln,Ein Frankfurt,1,1,D,2.65,3.75,2.45,2020-06-20,2019/2020,33,D1,1-1,0,0.19999999999999973,2020-06-20FC KolnEin Frankfurt
+20/06/2020,Fortuna Dusseldorf,Augsburg,1,1,D,1.93,3.65,3.85,2020-06-20,2019/2020,33,D1,1-1,0,-1.9200000000000002,2020-06-20Fortuna DusseldorfAugsburg
+20/06/2020,Hertha,Leverkusen,2,0,H,5.6,4.3,1.55,2020-06-20,2019/2020,33,D1,2-0,2,4.05,2020-06-20HerthaLeverkusen
+20/06/2020,Hoffenheim,Union Berlin,4,0,H,1.55,4.1,6.1,2020-06-20,2019/2020,33,D1,4-0,4,-4.55,2020-06-20HoffenheimUnion Berlin
+20/06/2020,Mainz,Werder Bremen,3,1,H,2.6,3.5,2.6,2020-06-20,2019/2020,33,D1,3-1,2,0.0,2020-06-20MainzWerder Bremen
+20/06/2020,Paderborn,M'gladbach,1,3,A,11.0,6.1,1.25,2020-06-20,2019/2020,33,D1,1-3,-2,9.75,2020-06-20PaderbornM'gladbach
+20/06/2020,RB Leipzig,Dortmund,0,2,A,2.3,3.7,2.9,2020-06-20,2019/2020,33,D1,0-2,-2,-0.6000000000000001,2020-06-20RB LeipzigDortmund
+20/06/2020,Schalke 04,Wolfsburg,1,4,A,5.2,4.05,1.63,2020-06-20,2019/2020,33,D1,1-4,-3,3.5700000000000003,2020-06-20Schalke 04Wolfsburg
+27/06/2020,Augsburg,RB Leipzig,1,2,A,6.8,5.2,1.4,2020-06-27,2019/2020,34,D1,1-2,-1,5.4,2020-06-27AugsburgRB Leipzig
+27/06/2020,Dortmund,Hoffenheim,0,4,A,1.73,4.4,4.05,2020-06-27,2019/2020,34,D1,0-4,-4,-2.32,2020-06-27DortmundHoffenheim
+27/06/2020,Ein Frankfurt,Paderborn,3,2,H,1.32,5.9,8.1,2020-06-27,2019/2020,34,D1,3-2,1,-6.779999999999999,2020-06-27Ein FrankfurtPaderborn
+27/06/2020,Freiburg,Schalke 04,4,0,H,1.83,3.9,4.05,2020-06-27,2019/2020,34,D1,4-0,4,-2.2199999999999998,2020-06-27FreiburgSchalke 04
+27/06/2020,Leverkusen,Mainz,1,0,H,1.26,6.5,9.5,2020-06-27,2019/2020,34,D1,1-0,1,-8.24,2020-06-27LeverkusenMainz
+27/06/2020,M'gladbach,Hertha,2,1,H,1.35,5.5,7.7,2020-06-27,2019/2020,34,D1,2-1,1,-6.35,2020-06-27M'gladbachHertha
+27/06/2020,Union Berlin,Fortuna Dusseldorf,3,0,H,3.8,3.65,1.95,2020-06-27,2019/2020,34,D1,3-0,3,1.8499999999999999,2020-06-27Union BerlinFortuna Dusseldorf
+27/06/2020,Werder Bremen,FC Koln,6,1,H,1.63,4.4,4.8,2020-06-27,2019/2020,34,D1,6-1,5,-3.17,2020-06-27Werder BremenFC Koln
+27/06/2020,Wolfsburg,Bayern Munich,0,4,A,4.25,4.45,1.7,2020-06-27,2019/2020,34,D1,0-4,-4,2.55,2020-06-27WolfsburgBayern Munich

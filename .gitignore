@@ -1,0 +1,6 @@
+venv/
+.idea/
+practice_pymc3/
+KickTippTipper/
+__pycache__/
+credentials.json

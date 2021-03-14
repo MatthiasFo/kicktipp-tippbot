@@ -1,0 +1,379 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+13/08/16,Burnley,Swansea,0,1,A,2.5,3.3,2.65,2016-08-13,2016/2017,1,E0,0-1,-1,-0.1499999999999999,2016-08-13BurnleySwansea
+13/08/16,Crystal Palace,West Brom,0,1,A,2.1,3.3,3.3,2016-08-13,2016/2017,1,E0,0-1,-1,-1.1999999999999997,2016-08-13Crystal PalaceWest Brom
+13/08/16,Everton,Tottenham,1,1,D,2.65,3.3,2.5,2016-08-13,2016/2017,1,E0,1-1,0,0.1499999999999999,2016-08-13EvertonTottenham
+13/08/16,Hull,Leicester,2,1,H,3.3,3.3,2.1,2016-08-13,2016/2017,1,E0,2-1,1,1.1999999999999997,2016-08-13HullLeicester
+13/08/16,Man City,Sunderland,2,1,H,1.25,5.5,10.3,2016-08-13,2016/2017,1,E0,2-1,1,-9.05,2016-08-13Man CitySunderland
+13/08/16,Middlesbrough,Stoke,1,1,D,2.3,3.3,2.9,2016-08-13,2016/2017,1,E0,1-1,0,-0.6000000000000001,2016-08-13MiddlesbroughStoke
+13/08/16,Southampton,Watford,1,1,D,1.8,3.5,4.2,2016-08-13,2016/2017,1,E0,1-1,0,-2.4000000000000004,2016-08-13SouthamptonWatford
+14/08/16,Arsenal,Liverpool,3,4,A,2.3,3.3,2.9,2016-08-14,2016/2017,1,E0,3-4,-1,-0.6000000000000001,2016-08-14ArsenalLiverpool
+14/08/16,Bournemouth,Man United,1,3,A,4.5,3.5,1.75,2016-08-14,2016/2017,1,E0,1-3,-2,2.75,2016-08-14BournemouthMan United
+15/08/16,Chelsea,West Ham,2,1,H,1.65,3.6,5.1,2016-08-15,2016/2017,2,E0,2-1,1,-3.4499999999999997,2016-08-15ChelseaWest Ham
+19/08/16,Man United,Southampton,2,0,H,1.4,4.4,7.3,2016-08-19,2016/2017,2,E0,2-0,2,-5.9,2016-08-19Man UnitedSouthampton
+20/08/16,Burnley,Liverpool,2,0,H,5.6,3.9,1.55,2016-08-20,2016/2017,2,E0,2-0,2,4.05,2016-08-20BurnleyLiverpool
+20/08/16,Leicester,Arsenal,0,0,D,2.75,3.3,2.4,2016-08-20,2016/2017,2,E0,0-0,0,0.3500000000000001,2016-08-20LeicesterArsenal
+20/08/16,Stoke,Man City,1,4,A,4.7,3.6,1.7,2016-08-20,2016/2017,2,E0,1-4,-3,3.0,2016-08-20StokeMan City
+20/08/16,Swansea,Hull,0,2,A,1.8,3.5,4.2,2016-08-20,2016/2017,2,E0,0-2,-2,-2.4000000000000004,2016-08-20SwanseaHull
+20/08/16,Tottenham,Crystal Palace,1,0,H,1.5,4.0,6.1,2016-08-20,2016/2017,2,E0,1-0,1,-4.6,2016-08-20TottenhamCrystal Palace
+20/08/16,Watford,Chelsea,1,2,A,4.2,3.5,1.8,2016-08-20,2016/2017,2,E0,1-2,-1,2.4000000000000004,2016-08-20WatfordChelsea
+20/08/16,West Brom,Everton,1,2,A,2.85,3.2,2.4,2016-08-20,2016/2017,2,E0,1-2,-1,0.4500000000000002,2016-08-20West BromEverton
+21/08/16,Sunderland,Middlesbrough,1,2,A,2.3,3.2,3.0,2016-08-21,2016/2017,3,E0,1-2,-1,-0.7000000000000002,2016-08-21SunderlandMiddlesbrough
+21/08/16,West Ham,Bournemouth,1,0,H,1.8,3.5,4.2,2016-08-21,2016/2017,3,E0,1-0,1,-2.4000000000000004,2016-08-21West HamBournemouth
+27/08/16,Chelsea,Burnley,3,0,H,1.25,5.5,10.3,2016-08-27,2016/2017,3,E0,3-0,3,-9.05,2016-08-27ChelseaBurnley
+27/08/16,Crystal Palace,Bournemouth,1,1,D,2.4,3.3,2.75,2016-08-27,2016/2017,3,E0,1-1,0,-0.3500000000000001,2016-08-27Crystal PalaceBournemouth
+27/08/16,Everton,Stoke,1,0,H,1.7,3.6,4.7,2016-08-27,2016/2017,3,E0,1-0,1,-3.0,2016-08-27EvertonStoke
+27/08/16,Hull,Man United,0,1,A,6.1,4.0,1.5,2016-08-27,2016/2017,3,E0,0-1,-1,4.6,2016-08-27HullMan United
+27/08/16,Leicester,Swansea,2,1,H,1.75,3.5,4.5,2016-08-27,2016/2017,3,E0,2-1,1,-2.75,2016-08-27LeicesterSwansea
+27/08/16,Southampton,Sunderland,1,1,D,1.65,3.6,5.1,2016-08-27,2016/2017,3,E0,1-1,0,-3.4499999999999997,2016-08-27SouthamptonSunderland
+27/08/16,Tottenham,Liverpool,1,1,D,2.4,3.3,2.75,2016-08-27,2016/2017,3,E0,1-1,0,-0.3500000000000001,2016-08-27TottenhamLiverpool
+27/08/16,Watford,Arsenal,1,3,A,4.5,3.5,1.75,2016-08-27,2016/2017,4,E0,1-3,-2,2.75,2016-08-27WatfordArsenal
+28/08/16,Man City,West Ham,3,1,H,1.25,5.5,10.3,2016-08-28,2016/2017,4,E0,3-1,2,-9.05,2016-08-28Man CityWest Ham
+28/08/16,West Brom,Middlesbrough,0,0,D,2.5,3.2,2.75,2016-08-28,2016/2017,4,E0,0-0,0,-0.25,2016-08-28West BromMiddlesbrough
+10/09/16,Arsenal,Southampton,2,1,H,1.55,3.9,5.6,2016-09-10,2016/2017,4,E0,2-1,1,-4.05,2016-09-10ArsenalSouthampton
+10/09/16,Bournemouth,West Brom,1,0,H,2.1,3.2,3.4,2016-09-10,2016/2017,4,E0,1-0,1,-1.2999999999999998,2016-09-10BournemouthWest Brom
+10/09/16,Burnley,Hull,1,1,D,2.5,3.2,2.75,2016-09-10,2016/2017,4,E0,1-1,0,-0.25,2016-09-10BurnleyHull
+10/09/16,Liverpool,Leicester,4,1,H,1.6,3.7,5.4,2016-09-10,2016/2017,4,E0,4-1,3,-3.8000000000000003,2016-09-10LiverpoolLeicester
+10/09/16,Man United,Man City,1,2,A,2.4,3.2,2.85,2016-09-10,2016/2017,4,E0,1-2,-1,-0.4500000000000002,2016-09-10Man UnitedMan City
+10/09/16,Middlesbrough,Crystal Palace,1,2,A,2.2,3.2,3.2,2016-09-10,2016/2017,4,E0,1-2,-1,-1.0,2016-09-10MiddlesbroughCrystal Palace
+10/09/16,Stoke,Tottenham,0,4,A,4.0,3.45,1.85,2016-09-10,2016/2017,5,E0,0-4,-4,2.15,2016-09-10StokeTottenham
+10/09/16,West Ham,Watford,2,4,A,1.8,3.5,4.2,2016-09-10,2016/2017,5,E0,2-4,-2,-2.4000000000000004,2016-09-10West HamWatford
+11/09/16,Swansea,Chelsea,2,2,D,5.1,3.6,1.65,2016-09-11,2016/2017,5,E0,2-2,0,3.4499999999999997,2016-09-11SwanseaChelsea
+12/09/16,Sunderland,Everton,0,3,A,3.3,3.3,2.1,2016-09-12,2016/2017,5,E0,0-3,-3,1.1999999999999997,2016-09-12SunderlandEverton
+16/09/16,Chelsea,Liverpool,1,2,A,2.3,3.3,3.15,2016-09-16,2016/2017,5,E0,1-2,-1,-0.8500000000000001,2016-09-16ChelseaLiverpool
+17/09/16,Everton,Middlesbrough,3,1,H,1.7,3.7,5.0,2016-09-17,2016/2017,5,E0,3-1,2,-3.3,2016-09-17EvertonMiddlesbrough
+17/09/16,Hull,Arsenal,1,4,A,5.5,4.0,1.6,2016-09-17,2016/2017,5,E0,1-4,-3,3.9,2016-09-17HullArsenal
+17/09/16,Leicester,Burnley,3,0,H,1.6,4.0,5.5,2016-09-17,2016/2017,5,E0,3-0,3,-3.9,2016-09-17LeicesterBurnley
+17/09/16,Man City,Bournemouth,4,0,H,1.25,6.0,11.0,2016-09-17,2016/2017,5,E0,4-0,4,-9.75,2016-09-17Man CityBournemouth
+17/09/16,West Brom,West Ham,4,2,H,2.6,3.25,2.75,2016-09-17,2016/2017,6,E0,4-2,2,-0.1499999999999999,2016-09-17West BromWest Ham
+18/09/16,Crystal Palace,Stoke,4,1,H,2.1,3.4,3.5,2016-09-18,2016/2017,6,E0,4-1,3,-1.4,2016-09-18Crystal PalaceStoke
+18/09/16,Southampton,Swansea,1,0,H,1.7,3.7,5.0,2016-09-18,2016/2017,6,E0,1-0,1,-3.3,2016-09-18SouthamptonSwansea
+18/09/16,Tottenham,Sunderland,1,0,H,1.35,5.3,8.0,2016-09-18,2016/2017,6,E0,1-0,1,-6.65,2016-09-18TottenhamSunderland
+18/09/16,Watford,Man United,3,1,H,5.5,4.0,1.6,2016-09-18,2016/2017,6,E0,3-1,2,3.9,2016-09-18WatfordMan United
+24/09/16,Arsenal,Chelsea,3,0,H,2.35,3.3,3.05,2016-09-24,2016/2017,6,E0,3-0,3,-0.6999999999999997,2016-09-24ArsenalChelsea
+24/09/16,Bournemouth,Everton,1,0,H,3.5,3.4,2.1,2016-09-24,2016/2017,6,E0,1-0,1,1.4,2016-09-24BournemouthEverton
+24/09/16,Liverpool,Hull,5,1,H,1.25,6.0,11.0,2016-09-24,2016/2017,6,E0,5-1,4,-9.75,2016-09-24LiverpoolHull
+24/09/16,Man United,Leicester,4,1,H,1.65,3.8,5.3,2016-09-24,2016/2017,6,E0,4-1,3,-3.65,2016-09-24Man UnitedLeicester
+24/09/16,Middlesbrough,Tottenham,1,2,A,4.1,3.5,1.9,2016-09-24,2016/2017,7,E0,1-2,-1,2.1999999999999997,2016-09-24MiddlesbroughTottenham
+24/09/16,Stoke,West Brom,1,1,D,2.3,3.3,3.15,2016-09-24,2016/2017,7,E0,1-1,0,-0.8500000000000001,2016-09-24StokeWest Brom
+24/09/16,Sunderland,Crystal Palace,2,3,A,2.7,3.3,2.6,2016-09-24,2016/2017,7,E0,2-3,-1,0.10000000000000009,2016-09-24SunderlandCrystal Palace
+24/09/16,Swansea,Man City,1,3,A,7.5,4.8,1.4,2016-09-24,2016/2017,7,E0,1-3,-2,6.1,2016-09-24SwanseaMan City
+25/09/16,West Ham,Southampton,0,3,A,2.7,3.3,2.6,2016-09-25,2016/2017,7,E0,0-3,-3,0.10000000000000009,2016-09-25West HamSouthampton
+26/09/16,Burnley,Watford,2,0,H,2.65,3.3,2.65,2016-09-26,2016/2017,7,E0,2-0,2,0.0,2016-09-26BurnleyWatford
+30/09/16,Everton,Crystal Palace,1,1,D,1.75,3.6,4.8,2016-09-30,2016/2017,7,E0,1-1,0,-3.05,2016-09-30EvertonCrystal Palace
+01/10/16,Hull,Chelsea,0,2,A,6.5,4.2,1.5,2016-10-01,2016/2017,7,E0,0-2,-2,5.0,2016-10-01HullChelsea
+01/10/16,Sunderland,West Brom,1,1,D,2.5,3.3,2.85,2016-10-01,2016/2017,7,E0,1-1,0,-0.3500000000000001,2016-10-01SunderlandWest Brom
+01/10/16,Swansea,Liverpool,1,2,A,7.0,4.5,1.45,2016-10-01,2016/2017,8,E0,1-2,-1,5.55,2016-10-01SwanseaLiverpool
+01/10/16,Watford,Bournemouth,2,2,D,2.2,3.15,3.5,2016-10-01,2016/2017,8,E0,2-2,0,-1.2999999999999998,2016-10-01WatfordBournemouth
+01/10/16,West Ham,Middlesbrough,1,1,D,2.1,3.4,3.5,2016-10-01,2016/2017,8,E0,1-1,0,-1.4,2016-10-01West HamMiddlesbrough
+02/10/16,Burnley,Arsenal,0,1,A,7.5,4.8,1.4,2016-10-02,2016/2017,8,E0,0-1,-1,6.1,2016-10-02BurnleyArsenal
+02/10/16,Leicester,Southampton,0,0,D,2.1,3.4,3.5,2016-10-02,2016/2017,8,E0,0-0,0,-1.4,2016-10-02LeicesterSouthampton
+02/10/16,Man United,Stoke,1,1,D,1.33,5.5,8.2,2016-10-02,2016/2017,8,E0,1-1,0,-6.869999999999999,2016-10-02Man UnitedStoke
+02/10/16,Tottenham,Man City,2,0,H,3.35,3.3,2.2,2016-10-02,2016/2017,8,E0,2-0,2,1.15,2016-10-02TottenhamMan City
+15/10/16,Arsenal,Swansea,3,2,H,1.25,6.0,11.0,2016-10-15,2016/2017,8,E0,3-2,1,-9.75,2016-10-15ArsenalSwansea
+15/10/16,Bournemouth,Hull,6,1,H,1.85,3.5,4.3,2016-10-15,2016/2017,8,E0,6-1,5,-2.4499999999999997,2016-10-15BournemouthHull
+15/10/16,Chelsea,Leicester,3,0,H,1.6,3.9,5.7,2016-10-15,2016/2017,9,E0,3-0,3,-4.1,2016-10-15ChelseaLeicester
+15/10/16,Crystal Palace,West Ham,0,1,A,2.2,3.35,3.3,2016-10-15,2016/2017,9,E0,0-1,-1,-1.0999999999999996,2016-10-15Crystal PalaceWest Ham
+15/10/16,Man City,Everton,1,1,D,1.45,4.4,7.2,2016-10-15,2016/2017,9,E0,1-1,0,-5.75,2016-10-15Man CityEverton
+15/10/16,Stoke,Sunderland,2,0,H,2.1,3.4,3.5,2016-10-15,2016/2017,9,E0,2-0,2,-1.4,2016-10-15StokeSunderland
+15/10/16,West Brom,Tottenham,1,1,D,4.8,3.6,1.75,2016-10-15,2016/2017,9,E0,1-1,0,3.05,2016-10-15West BromTottenham
+16/10/16,Middlesbrough,Watford,0,1,A,2.3,3.3,3.15,2016-10-16,2016/2017,9,E0,0-1,-1,-0.8500000000000001,2016-10-16MiddlesbroughWatford
+16/10/16,Southampton,Burnley,3,1,H,1.4,4.8,7.5,2016-10-16,2016/2017,9,E0,3-1,2,-6.1,2016-10-16SouthamptonBurnley
+17/10/16,Liverpool,Man United,0,0,D,2.1,3.4,3.5,2016-10-17,2016/2017,9,E0,0-0,0,-1.4,2016-10-17LiverpoolMan United
+22/10/16,Arsenal,Middlesbrough,0,0,D,1.25,6.0,11.0,2016-10-22,2016/2017,9,E0,0-0,0,-9.75,2016-10-22ArsenalMiddlesbrough
+22/10/16,Bournemouth,Tottenham,0,0,D,3.8,3.4,2.0,2016-10-22,2016/2017,10,E0,0-0,0,1.7999999999999998,2016-10-22BournemouthTottenham
+22/10/16,Burnley,Everton,2,1,H,4.8,3.6,1.75,2016-10-22,2016/2017,10,E0,2-1,1,3.05,2016-10-22BurnleyEverton
+22/10/16,Hull,Stoke,0,2,A,2.7,3.2,2.7,2016-10-22,2016/2017,10,E0,0-2,-2,0.0,2016-10-22HullStoke
+22/10/16,Leicester,Crystal Palace,3,1,H,2.0,3.4,3.8,2016-10-22,2016/2017,10,E0,3-1,2,-1.7999999999999998,2016-10-22LeicesterCrystal Palace
+22/10/16,Liverpool,West Brom,2,1,H,1.3,5.5,9.5,2016-10-22,2016/2017,10,E0,2-1,1,-8.2,2016-10-22LiverpoolWest Brom
+22/10/16,Swansea,Watford,0,0,D,2.3,3.3,3.15,2016-10-22,2016/2017,10,E0,0-0,0,-0.8500000000000001,2016-10-22SwanseaWatford
+22/10/16,West Ham,Sunderland,1,0,H,1.75,3.6,4.8,2016-10-22,2016/2017,10,E0,1-0,1,-3.05,2016-10-22West HamSunderland
+23/10/16,Chelsea,Man United,4,0,H,2.2,3.3,3.35,2016-10-23,2016/2017,10,E0,4-0,4,-1.15,2016-10-23ChelseaMan United
+23/10/16,Man City,Southampton,1,1,D,1.5,4.2,6.5,2016-10-23,2016/2017,10,E0,1-1,0,-5.0,2016-10-23Man CitySouthampton
+29/10/16,Crystal Palace,Liverpool,2,4,A,4.8,3.6,1.75,2016-10-29,2016/2017,11,E0,2-4,-2,3.05,2016-10-29Crystal PalaceLiverpool
+29/10/16,Man United,Burnley,0,0,D,1.2,6.5,15.0,2016-10-29,2016/2017,11,E0,0-0,0,-13.8,2016-10-29Man UnitedBurnley
+29/10/16,Middlesbrough,Bournemouth,2,0,H,2.5,3.1,3.0,2016-10-29,2016/2017,11,E0,2-0,2,-0.5,2016-10-29MiddlesbroughBournemouth
+29/10/16,Sunderland,Arsenal,1,4,A,7.5,4.8,1.4,2016-10-29,2016/2017,11,E0,1-4,-3,6.1,2016-10-29SunderlandArsenal
+29/10/16,Tottenham,Leicester,1,1,D,1.65,3.8,5.3,2016-10-29,2016/2017,11,E0,1-1,0,-3.65,2016-10-29TottenhamLeicester
+29/10/16,Watford,Hull,1,0,H,1.75,3.6,4.8,2016-10-29,2016/2017,11,E0,1-0,1,-3.05,2016-10-29WatfordHull
+29/10/16,West Brom,Man City,0,4,A,7.0,4.5,1.45,2016-10-29,2016/2017,11,E0,0-4,-4,5.55,2016-10-29West BromMan City
+30/10/16,Everton,West Ham,2,0,H,1.75,3.6,4.8,2016-10-30,2016/2017,11,E0,2-0,2,-3.05,2016-10-30EvertonWest Ham
+30/10/16,Southampton,Chelsea,0,2,A,3.3,3.35,2.2,2016-10-30,2016/2017,11,E0,0-2,-2,1.0999999999999996,2016-10-30SouthamptonChelsea
+31/10/16,Stoke,Swansea,3,1,H,1.9,3.5,4.1,2016-10-31,2016/2017,12,E0,3-1,2,-2.1999999999999997,2016-10-31StokeSwansea
+05/11/16,Bournemouth,Sunderland,1,2,A,1.65,3.8,5.3,2016-11-05,2016/2017,12,E0,1-2,-1,-3.65,2016-11-05BournemouthSunderland
+05/11/16,Burnley,Crystal Palace,3,2,H,2.95,3.3,2.4,2016-11-05,2016/2017,12,E0,3-2,1,0.5500000000000003,2016-11-05BurnleyCrystal Palace
+05/11/16,Chelsea,Everton,5,0,H,1.55,4.0,6.2,2016-11-05,2016/2017,12,E0,5-0,5,-4.65,2016-11-05ChelseaEverton
+05/11/16,Man City,Middlesbrough,1,1,D,1.2,6.5,15.0,2016-11-05,2016/2017,12,E0,1-1,0,-13.8,2016-11-05Man CityMiddlesbrough
+05/11/16,West Ham,Stoke,1,1,D,2.0,3.4,3.8,2016-11-05,2016/2017,12,E0,1-1,0,-1.7999999999999998,2016-11-05West HamStoke
+06/11/16,Arsenal,Tottenham,1,1,D,2.0,3.4,3.8,2016-11-06,2016/2017,12,E0,1-1,0,-1.7999999999999998,2016-11-06ArsenalTottenham
+06/11/16,Hull,Southampton,2,1,H,5.3,3.8,1.65,2016-11-06,2016/2017,12,E0,2-1,1,3.65,2016-11-06HullSouthampton
+06/11/16,Leicester,West Brom,1,2,A,1.75,3.6,4.8,2016-11-06,2016/2017,12,E0,1-2,-1,-3.05,2016-11-06LeicesterWest Brom
+06/11/16,Liverpool,Watford,6,1,H,1.3,5.5,9.5,2016-11-06,2016/2017,13,E0,6-1,5,-8.2,2016-11-06LiverpoolWatford
+06/11/16,Swansea,Man United,1,3,A,5.3,3.8,1.65,2016-11-06,2016/2017,13,E0,1-3,-2,3.65,2016-11-06SwanseaMan United
+19/11/16,Crystal Palace,Man City,1,2,A,6.5,4.2,1.5,2016-11-19,2016/2017,13,E0,1-2,-1,5.0,2016-11-19Crystal PalaceMan City
+19/11/16,Everton,Swansea,1,1,D,1.55,4.0,6.2,2016-11-19,2016/2017,13,E0,1-1,0,-4.65,2016-11-19EvertonSwansea
+19/11/16,Man United,Arsenal,1,1,D,2.6,3.25,2.75,2016-11-19,2016/2017,13,E0,1-1,0,-0.1499999999999999,2016-11-19Man UnitedArsenal
+19/11/16,Southampton,Liverpool,0,0,D,3.8,3.4,2.0,2016-11-19,2016/2017,13,E0,0-0,0,1.7999999999999998,2016-11-19SouthamptonLiverpool
+19/11/16,Stoke,Bournemouth,0,1,A,2.1,3.4,3.5,2016-11-19,2016/2017,13,E0,0-1,-1,-1.4,2016-11-19StokeBournemouth
+19/11/16,Sunderland,Hull,3,0,H,2.1,3.4,3.5,2016-11-19,2016/2017,13,E0,3-0,3,-1.4,2016-11-19SunderlandHull
+19/11/16,Tottenham,West Ham,3,2,H,1.65,3.8,5.3,2016-11-19,2016/2017,13,E0,3-2,1,-3.65,2016-11-19TottenhamWest Ham
+19/11/16,Watford,Leicester,2,1,H,2.7,3.2,2.7,2016-11-19,2016/2017,14,E0,2-1,1,0.0,2016-11-19WatfordLeicester
+20/11/16,Middlesbrough,Chelsea,0,1,A,6.5,4.2,1.5,2016-11-20,2016/2017,14,E0,0-1,-1,5.0,2016-11-20MiddlesbroughChelsea
+21/11/16,West Brom,Burnley,4,0,H,1.9,3.5,4.1,2016-11-21,2016/2017,14,E0,4-0,4,-2.1999999999999997,2016-11-21West BromBurnley
+26/11/16,Burnley,Man City,1,2,A,8.0,5.3,1.35,2016-11-26,2016/2017,14,E0,1-2,-1,6.65,2016-11-26BurnleyMan City
+26/11/16,Chelsea,Tottenham,2,1,H,1.75,3.6,4.8,2016-11-26,2016/2017,14,E0,2-1,1,-3.05,2016-11-26ChelseaTottenham
+26/11/16,Hull,West Brom,1,1,D,2.75,3.25,2.6,2016-11-26,2016/2017,14,E0,1-1,0,0.1499999999999999,2016-11-26HullWest Brom
+26/11/16,Leicester,Middlesbrough,2,2,D,1.8,3.6,4.5,2016-11-26,2016/2017,14,E0,2-2,0,-2.7,2016-11-26LeicesterMiddlesbrough
+26/11/16,Liverpool,Sunderland,2,0,H,1.2,6.5,15.0,2016-11-26,2016/2017,14,E0,2-0,2,-13.8,2016-11-26LiverpoolSunderland
+26/11/16,Swansea,Crystal Palace,5,4,H,2.4,3.3,2.95,2016-11-26,2016/2017,14,E0,5-4,1,-0.5500000000000003,2016-11-26SwanseaCrystal Palace
+27/11/16,Arsenal,Bournemouth,3,1,H,1.35,5.3,8.0,2016-11-27,2016/2017,15,E0,3-1,2,-6.65,2016-11-27ArsenalBournemouth
+27/11/16,Man United,West Ham,1,1,D,1.45,4.5,7.0,2016-11-27,2016/2017,15,E0,1-1,0,-5.55,2016-11-27Man UnitedWest Ham
+27/11/16,Southampton,Everton,1,0,H,2.1,3.4,3.5,2016-11-27,2016/2017,15,E0,1-0,1,-1.4,2016-11-27SouthamptonEverton
+27/11/16,Watford,Stoke,0,1,A,2.4,3.3,2.95,2016-11-27,2016/2017,15,E0,0-1,-1,-0.5500000000000003,2016-11-27WatfordStoke
+03/12/16,Crystal Palace,Southampton,3,0,H,2.95,3.3,2.4,2016-12-03,2016/2017,15,E0,3-0,3,0.5500000000000003,2016-12-03Crystal PalaceSouthampton
+03/12/16,Man City,Chelsea,1,3,A,2.0,3.4,3.8,2016-12-03,2016/2017,15,E0,1-3,-2,-1.7999999999999998,2016-12-03Man CityChelsea
+03/12/16,Stoke,Burnley,2,0,H,1.7,3.7,5.0,2016-12-03,2016/2017,15,E0,2-0,2,-3.3,2016-12-03StokeBurnley
+03/12/16,Sunderland,Leicester,2,1,H,2.95,3.3,2.4,2016-12-03,2016/2017,15,E0,2-1,1,0.5500000000000003,2016-12-03SunderlandLeicester
+03/12/16,Tottenham,Swansea,5,0,H,1.35,5.3,8.0,2016-12-03,2016/2017,15,E0,5-0,5,-6.65,2016-12-03TottenhamSwansea
+03/12/16,West Brom,Watford,3,1,H,2.1,3.3,3.6,2016-12-03,2016/2017,16,E0,3-1,2,-1.5,2016-12-03West BromWatford
+03/12/16,West Ham,Arsenal,1,5,A,4.8,3.6,1.75,2016-12-03,2016/2017,16,E0,1-5,-4,3.05,2016-12-03West HamArsenal
+04/12/16,Bournemouth,Liverpool,4,3,H,4.8,3.6,1.75,2016-12-04,2016/2017,16,E0,4-3,1,3.05,2016-12-04BournemouthLiverpool
+04/12/16,Everton,Man United,1,1,D,3.5,3.4,2.1,2016-12-04,2016/2017,16,E0,1-1,0,1.4,2016-12-04EvertonMan United
+05/12/16,Middlesbrough,Hull,1,0,H,1.85,3.5,4.3,2016-12-05,2016/2017,16,E0,1-0,1,-2.4499999999999997,2016-12-05MiddlesbroughHull
+10/12/16,Arsenal,Stoke,3,1,H,1.4,4.8,7.5,2016-12-10,2016/2017,16,E0,3-1,2,-6.1,2016-12-10ArsenalStoke
+10/12/16,Burnley,Bournemouth,3,2,H,2.95,3.3,2.4,2016-12-10,2016/2017,16,E0,3-2,1,0.5500000000000003,2016-12-10BurnleyBournemouth
+10/12/16,Hull,Crystal Palace,3,3,D,2.85,3.3,2.5,2016-12-10,2016/2017,16,E0,3-3,0,0.3500000000000001,2016-12-10HullCrystal Palace
+10/12/16,Leicester,Man City,4,2,H,4.8,3.6,1.75,2016-12-10,2016/2017,16,E0,4-2,2,3.05,2016-12-10LeicesterMan City
+10/12/16,Swansea,Sunderland,3,0,H,2.2,3.35,3.3,2016-12-10,2016/2017,17,E0,3-0,3,-1.0999999999999996,2016-12-10SwanseaSunderland
+10/12/16,Watford,Everton,3,2,H,2.95,3.3,2.4,2016-12-10,2016/2017,17,E0,3-2,1,0.5500000000000003,2016-12-10WatfordEverton
+11/12/16,Chelsea,West Brom,1,0,H,1.3,5.5,9.5,2016-12-11,2016/2017,17,E0,1-0,1,-8.2,2016-12-11ChelseaWest Brom
+11/12/16,Liverpool,West Ham,2,2,D,1.3,5.5,9.5,2016-12-11,2016/2017,17,E0,2-2,0,-8.2,2016-12-11LiverpoolWest Ham
+11/12/16,Man United,Tottenham,1,0,H,2.1,3.4,3.5,2016-12-11,2016/2017,17,E0,1-0,1,-1.4,2016-12-11Man UnitedTottenham
+11/12/16,Southampton,Middlesbrough,1,0,H,1.7,3.7,5.0,2016-12-11,2016/2017,17,E0,1-0,1,-3.3,2016-12-11SouthamptonMiddlesbrough
+13/12/16,Bournemouth,Leicester,1,0,H,2.4,3.3,2.95,2016-12-13,2016/2017,17,E0,1-0,1,-0.5500000000000003,2016-12-13BournemouthLeicester
+13/12/16,Everton,Arsenal,2,1,H,4.1,3.5,1.9,2016-12-13,2016/2017,17,E0,2-1,1,2.1999999999999997,2016-12-13EvertonArsenal
+14/12/16,Crystal Palace,Man United,1,2,A,4.8,3.6,1.75,2016-12-14,2016/2017,17,E0,1-2,-1,3.05,2016-12-14Crystal PalaceMan United
+14/12/16,Man City,Watford,2,0,H,1.3,5.5,9.5,2016-12-14,2016/2017,18,E0,2-0,2,-8.2,2016-12-14Man CityWatford
+14/12/16,Middlesbrough,Liverpool,0,3,A,5.5,4.0,1.6,2016-12-14,2016/2017,18,E0,0-3,-3,3.9,2016-12-14MiddlesbroughLiverpool
+14/12/16,Stoke,Southampton,0,0,D,2.85,3.1,2.6,2016-12-14,2016/2017,18,E0,0-0,0,0.25,2016-12-14StokeSouthampton
+14/12/16,Sunderland,Chelsea,0,1,A,9.5,5.5,1.3,2016-12-14,2016/2017,18,E0,0-1,-1,8.2,2016-12-14SunderlandChelsea
+14/12/16,Tottenham,Hull,3,0,H,1.25,6.0,11.0,2016-12-14,2016/2017,18,E0,3-0,3,-9.75,2016-12-14TottenhamHull
+14/12/16,West Brom,Swansea,3,1,H,2.0,3.4,3.8,2016-12-14,2016/2017,18,E0,3-1,2,-1.7999999999999998,2016-12-14West BromSwansea
+14/12/16,West Ham,Burnley,1,0,H,1.7,3.7,5.0,2016-12-14,2016/2017,18,E0,1-0,1,-3.3,2016-12-14West HamBurnley
+17/12/16,Crystal Palace,Chelsea,0,1,A,6.5,4.2,1.5,2016-12-17,2016/2017,18,E0,0-1,-1,5.0,2016-12-17Crystal PalaceChelsea
+17/12/16,Middlesbrough,Swansea,3,0,H,2.1,3.4,3.5,2016-12-17,2016/2017,18,E0,3-0,3,-1.4,2016-12-17MiddlesbroughSwansea
+17/12/16,Stoke,Leicester,2,2,D,2.5,3.3,2.85,2016-12-17,2016/2017,19,E0,2-2,0,-0.3500000000000001,2016-12-17StokeLeicester
+17/12/16,Sunderland,Watford,1,0,H,2.5,3.3,2.85,2016-12-17,2016/2017,19,E0,1-0,1,-0.3500000000000001,2016-12-17SunderlandWatford
+17/12/16,West Brom,Man United,0,2,A,4.8,3.6,1.75,2016-12-17,2016/2017,19,E0,0-2,-2,3.05,2016-12-17West BromMan United
+17/12/16,West Ham,Hull,1,0,H,1.65,3.8,5.3,2016-12-17,2016/2017,19,E0,1-0,1,-3.65,2016-12-17West HamHull
+18/12/16,Bournemouth,Southampton,1,3,A,2.65,3.3,2.65,2016-12-18,2016/2017,19,E0,1-3,-2,0.0,2016-12-18BournemouthSouthampton
+18/12/16,Man City,Arsenal,2,1,H,2.2,3.35,3.3,2016-12-18,2016/2017,19,E0,2-1,1,-1.0999999999999996,2016-12-18Man CityArsenal
+18/12/16,Tottenham,Burnley,2,1,H,1.25,6.0,11.0,2016-12-18,2016/2017,19,E0,2-1,1,-9.75,2016-12-18TottenhamBurnley
+19/12/16,Everton,Liverpool,0,1,A,3.8,3.4,2.0,2016-12-19,2016/2017,19,E0,0-1,-1,1.7999999999999998,2016-12-19EvertonLiverpool
+26/12/16,Arsenal,West Brom,1,0,H,1.33,5.3,8.7,2016-12-26,2016/2017,19,E0,1-0,1,-7.369999999999999,2016-12-26ArsenalWest Brom
+26/12/16,Burnley,Middlesbrough,1,0,H,2.75,3.2,2.65,2016-12-26,2016/2017,20,E0,1-0,1,0.10000000000000009,2016-12-26BurnleyMiddlesbrough
+26/12/16,Chelsea,Bournemouth,3,0,H,1.35,5.3,8.0,2016-12-26,2016/2017,20,E0,3-0,3,-6.65,2016-12-26ChelseaBournemouth
+26/12/16,Hull,Man City,0,3,A,9.5,5.5,1.3,2016-12-26,2016/2017,20,E0,0-3,-3,8.2,2016-12-26HullMan City
+26/12/16,Leicester,Everton,0,2,A,2.3,3.3,3.15,2016-12-26,2016/2017,20,E0,0-2,-2,-0.8500000000000001,2016-12-26LeicesterEverton
+26/12/16,Man United,Sunderland,3,1,H,1.22,6.2,13.5,2016-12-26,2016/2017,20,E0,3-1,2,-12.28,2016-12-26Man UnitedSunderland
+26/12/16,Swansea,West Ham,1,4,A,2.6,3.25,2.75,2016-12-26,2016/2017,20,E0,1-4,-3,-0.1499999999999999,2016-12-26SwanseaWest Ham
+26/12/16,Watford,Crystal Palace,1,1,D,2.3,3.3,3.15,2016-12-26,2016/2017,20,E0,1-1,0,-0.8500000000000001,2016-12-26WatfordCrystal Palace
+27/12/16,Liverpool,Stoke,4,1,H,1.3,5.5,9.5,2016-12-27,2016/2017,20,E0,4-1,3,-8.2,2016-12-27LiverpoolStoke
+28/12/16,Southampton,Tottenham,1,4,A,2.85,3.3,2.5,2016-12-28,2016/2017,20,E0,1-4,-3,0.3500000000000001,2016-12-28SouthamptonTottenham
+30/12/16,Hull,Everton,2,2,D,4.1,3.5,1.9,2016-12-30,2016/2017,21,E0,2-2,0,2.1999999999999997,2016-12-30HullEverton
+31/12/16,Burnley,Sunderland,4,1,H,2.4,3.3,2.95,2016-12-31,2016/2017,21,E0,4-1,3,-0.5500000000000003,2016-12-31BurnleySunderland
+31/12/16,Chelsea,Stoke,4,2,H,1.27,5.8,10.5,2016-12-31,2016/2017,21,E0,4-2,2,-9.23,2016-12-31ChelseaStoke
+31/12/16,Leicester,West Ham,1,0,H,2.1,3.4,3.5,2016-12-31,2016/2017,21,E0,1-0,1,-1.4,2016-12-31LeicesterWest Ham
+31/12/16,Liverpool,Man City,1,0,H,2.4,3.3,2.95,2016-12-31,2016/2017,21,E0,1-0,1,-0.5500000000000003,2016-12-31LiverpoolMan City
+31/12/16,Man United,Middlesbrough,2,1,H,1.27,5.8,10.5,2016-12-31,2016/2017,21,E0,2-1,1,-9.23,2016-12-31Man UnitedMiddlesbrough
+31/12/16,Southampton,West Brom,1,2,A,1.7,3.7,5.0,2016-12-31,2016/2017,21,E0,1-2,-1,-3.3,2016-12-31SouthamptonWest Brom
+31/12/16,Swansea,Bournemouth,0,3,A,2.65,3.3,2.65,2016-12-31,2016/2017,21,E0,0-3,-3,0.0,2016-12-31SwanseaBournemouth
+01/01/17,Arsenal,Crystal Palace,2,0,H,1.3,5.5,9.5,2017-01-01,2016/2017,21,E0,2-0,2,-8.2,2017-01-01ArsenalCrystal Palace
+01/01/17,Watford,Tottenham,1,4,A,5.0,3.7,1.7,2017-01-01,2016/2017,22,E0,1-4,-3,3.3,2017-01-01WatfordTottenham
+02/01/17,Everton,Southampton,3,0,H,2.1,3.4,3.5,2017-01-02,2016/2017,22,E0,3-0,3,-1.4,2017-01-02EvertonSouthampton
+02/01/17,Man City,Burnley,2,1,H,1.15,7.5,18.0,2017-01-02,2016/2017,22,E0,2-1,1,-16.85,2017-01-02Man CityBurnley
+02/01/17,Middlesbrough,Leicester,0,0,D,2.5,3.2,2.9,2017-01-02,2016/2017,22,E0,0-0,0,-0.3999999999999999,2017-01-02MiddlesbroughLeicester
+02/01/17,Sunderland,Liverpool,2,2,D,7.5,4.8,1.4,2017-01-02,2016/2017,22,E0,2-2,0,6.1,2017-01-02SunderlandLiverpool
+02/01/17,West Brom,Hull,3,1,H,1.65,3.8,5.3,2017-01-02,2016/2017,22,E0,3-1,2,-3.65,2017-01-02West BromHull
+02/01/17,West Ham,Man United,0,2,A,5.0,3.7,1.7,2017-01-02,2016/2017,22,E0,0-2,-2,3.3,2017-01-02West HamMan United
+03/01/17,Bournemouth,Arsenal,3,3,D,4.5,3.6,1.8,2017-01-03,2016/2017,22,E0,3-3,0,2.7,2017-01-03BournemouthArsenal
+03/01/17,Crystal Palace,Swansea,1,2,A,1.8,3.6,4.5,2017-01-03,2016/2017,22,E0,1-2,-1,-2.7,2017-01-03Crystal PalaceSwansea
+03/01/17,Stoke,Watford,2,0,H,2.0,3.4,3.8,2017-01-03,2016/2017,23,E0,2-0,2,-1.7999999999999998,2017-01-03StokeWatford
+04/01/17,Tottenham,Chelsea,2,0,H,3.15,3.3,2.3,2017-01-04,2016/2017,23,E0,2-0,2,0.8500000000000001,2017-01-04TottenhamChelsea
+14/01/17,Burnley,Southampton,1,0,H,3.2,3.35,2.25,2017-01-14,2016/2017,23,E0,1-0,1,0.9500000000000002,2017-01-14BurnleySouthampton
+14/01/17,Hull,Bournemouth,3,1,H,3.15,3.3,2.3,2017-01-14,2016/2017,23,E0,3-1,2,0.8500000000000001,2017-01-14HullBournemouth
+14/01/17,Leicester,Chelsea,0,3,A,5.0,4.0,1.65,2017-01-14,2016/2017,23,E0,0-3,-3,3.35,2017-01-14LeicesterChelsea
+14/01/17,Sunderland,Stoke,1,3,A,2.65,3.3,2.65,2017-01-14,2016/2017,23,E0,1-3,-2,0.0,2017-01-14SunderlandStoke
+14/01/17,Swansea,Arsenal,0,4,A,6.5,4.2,1.5,2017-01-14,2016/2017,23,E0,0-4,-4,5.0,2017-01-14SwanseaArsenal
+14/01/17,Tottenham,West Brom,4,0,H,1.35,5.3,8.0,2017-01-14,2016/2017,23,E0,4-0,4,-6.65,2017-01-14TottenhamWest Brom
+14/01/17,Watford,Middlesbrough,0,0,D,2.3,3.3,3.15,2017-01-14,2016/2017,23,E0,0-0,0,-0.8500000000000001,2017-01-14WatfordMiddlesbrough
+14/01/17,West Ham,Crystal Palace,3,0,H,2.2,3.35,3.3,2017-01-14,2016/2017,24,E0,3-0,3,-1.0999999999999996,2017-01-14West HamCrystal Palace
+15/01/17,Everton,Man City,4,0,H,4.1,3.5,1.9,2017-01-15,2016/2017,24,E0,4-0,4,2.1999999999999997,2017-01-15EvertonMan City
+15/01/17,Man United,Liverpool,1,1,D,2.2,3.3,3.35,2017-01-15,2016/2017,24,E0,1-1,0,-1.15,2017-01-15Man UnitedLiverpool
+21/01/17,Bournemouth,Watford,2,2,D,1.9,3.5,4.1,2017-01-21,2016/2017,24,E0,2-2,0,-2.1999999999999997,2017-01-21BournemouthWatford
+21/01/17,Crystal Palace,Everton,0,1,A,3.3,3.35,2.2,2017-01-21,2016/2017,24,E0,0-1,-1,1.0999999999999996,2017-01-21Crystal PalaceEverton
+21/01/17,Liverpool,Swansea,2,3,A,1.2,6.5,15.0,2017-01-21,2016/2017,24,E0,2-3,-1,-13.8,2017-01-21LiverpoolSwansea
+21/01/17,Man City,Tottenham,2,2,D,2.1,3.4,3.5,2017-01-21,2016/2017,24,E0,2-2,0,-1.4,2017-01-21Man CityTottenham
+21/01/17,Middlesbrough,West Ham,1,3,A,2.5,3.2,2.9,2017-01-21,2016/2017,24,E0,1-3,-2,-0.3999999999999999,2017-01-21MiddlesbroughWest Ham
+21/01/17,Stoke,Man United,1,1,D,5.7,3.9,1.6,2017-01-21,2016/2017,24,E0,1-1,0,4.1,2017-01-21StokeMan United
+21/01/17,West Brom,Sunderland,2,0,H,1.7,3.7,5.0,2017-01-21,2016/2017,25,E0,2-0,2,-3.3,2017-01-21West BromSunderland
+22/01/17,Arsenal,Burnley,2,1,H,1.22,6.2,13.5,2017-01-22,2016/2017,25,E0,2-1,1,-12.28,2017-01-22ArsenalBurnley
+22/01/17,Chelsea,Hull,2,0,H,1.15,7.5,18.0,2017-01-22,2016/2017,25,E0,2-0,2,-16.85,2017-01-22ChelseaHull
+22/01/17,Southampton,Leicester,3,0,H,2.0,3.4,3.8,2017-01-22,2016/2017,25,E0,3-0,3,-1.7999999999999998,2017-01-22SouthamptonLeicester
+31/01/17,Arsenal,Watford,1,2,A,1.22,6.5,12.5,2017-01-31,2016/2017,25,E0,1-2,-1,-11.28,2017-01-31ArsenalWatford
+31/01/17,Bournemouth,Crystal Palace,0,2,A,2.15,3.35,3.4,2017-01-31,2016/2017,25,E0,0-2,-2,-1.25,2017-01-31BournemouthCrystal Palace
+31/01/17,Burnley,Leicester,1,0,H,2.65,3.3,2.65,2017-01-31,2016/2017,25,E0,1-0,1,0.0,2017-01-31BurnleyLeicester
+31/01/17,Liverpool,Chelsea,1,1,D,2.6,3.2,2.8,2017-01-31,2016/2017,25,E0,1-1,0,-0.19999999999999973,2017-01-31LiverpoolChelsea
+31/01/17,Middlesbrough,West Brom,1,1,D,2.6,3.15,2.85,2017-01-31,2016/2017,25,E0,1-1,0,-0.25,2017-01-31MiddlesbroughWest Brom
+31/01/17,Sunderland,Tottenham,0,0,D,7.5,4.8,1.4,2017-01-31,2016/2017,26,E0,0-0,0,6.1,2017-01-31SunderlandTottenham
+31/01/17,Swansea,Southampton,2,1,H,3.15,3.3,2.3,2017-01-31,2016/2017,26,E0,2-1,1,0.8500000000000001,2017-01-31SwanseaSouthampton
+01/02/17,Man United,Hull,0,0,D,1.2,6.5,15.0,2017-02-01,2016/2017,26,E0,0-0,0,-13.8,2017-02-01Man UnitedHull
+01/02/17,Stoke,Everton,1,1,D,2.65,3.3,2.65,2017-02-01,2016/2017,26,E0,1-1,0,0.0,2017-02-01StokeEverton
+01/02/17,West Ham,Man City,0,4,A,5.5,4.0,1.6,2017-02-01,2016/2017,26,E0,0-4,-4,3.9,2017-02-01West HamMan City
+04/02/17,Chelsea,Arsenal,3,1,H,2.1,3.4,3.5,2017-02-04,2016/2017,26,E0,3-1,2,-1.4,2017-02-04ChelseaArsenal
+04/02/17,Crystal Palace,Sunderland,0,4,A,1.75,3.6,4.8,2017-02-04,2016/2017,26,E0,0-4,-4,-3.05,2017-02-04Crystal PalaceSunderland
+04/02/17,Everton,Bournemouth,6,3,H,1.7,3.7,5.0,2017-02-04,2016/2017,26,E0,6-3,3,-3.3,2017-02-04EvertonBournemouth
+04/02/17,Hull,Liverpool,2,0,H,6.2,4.0,1.55,2017-02-04,2016/2017,26,E0,2-0,2,4.65,2017-02-04HullLiverpool
+04/02/17,Southampton,West Ham,1,3,A,1.85,3.5,4.3,2017-02-04,2016/2017,27,E0,1-3,-2,-2.4499999999999997,2017-02-04SouthamptonWest Ham
+04/02/17,Tottenham,Middlesbrough,1,0,H,1.3,5.5,9.5,2017-02-04,2016/2017,27,E0,1-0,1,-8.2,2017-02-04TottenhamMiddlesbrough
+04/02/17,Watford,Burnley,2,1,H,2.1,3.4,3.5,2017-02-04,2016/2017,27,E0,2-1,1,-1.4,2017-02-04WatfordBurnley
+04/02/17,West Brom,Stoke,1,0,H,2.2,3.3,3.35,2017-02-04,2016/2017,27,E0,1-0,1,-1.15,2017-02-04West BromStoke
+05/02/17,Leicester,Man United,0,3,A,5.0,3.7,1.7,2017-02-05,2016/2017,27,E0,0-3,-3,3.3,2017-02-05LeicesterMan United
+05/02/17,Man City,Swansea,2,1,H,1.25,6.0,11.0,2017-02-05,2016/2017,27,E0,2-1,1,-9.75,2017-02-05Man CitySwansea
+11/02/17,Arsenal,Hull,2,0,H,1.3,5.5,9.5,2017-02-11,2016/2017,27,E0,2-0,2,-8.2,2017-02-11ArsenalHull
+11/02/17,Liverpool,Tottenham,2,0,H,2.2,3.35,3.3,2017-02-11,2016/2017,27,E0,2-0,2,-1.0999999999999996,2017-02-11LiverpoolTottenham
+11/02/17,Man United,Watford,2,0,H,1.27,5.8,10.5,2017-02-11,2016/2017,27,E0,2-0,2,-9.23,2017-02-11Man UnitedWatford
+11/02/17,Middlesbrough,Everton,0,0,D,3.7,3.35,2.05,2017-02-11,2016/2017,28,E0,0-0,0,1.6500000000000004,2017-02-11MiddlesbroughEverton
+11/02/17,Stoke,Crystal Palace,1,0,H,2.1,3.3,3.6,2017-02-11,2016/2017,28,E0,1-0,1,-1.5,2017-02-11StokeCrystal Palace
+11/02/17,Sunderland,Southampton,0,4,A,3.3,3.35,2.2,2017-02-11,2016/2017,28,E0,0-4,-4,1.0999999999999996,2017-02-11SunderlandSouthampton
+11/02/17,West Ham,West Brom,2,2,D,2.1,3.4,3.5,2017-02-11,2016/2017,28,E0,2-2,0,-1.4,2017-02-11West HamWest Brom
+12/02/17,Burnley,Chelsea,1,1,D,7.5,4.8,1.4,2017-02-12,2016/2017,28,E0,1-1,0,6.1,2017-02-12BurnleyChelsea
+12/02/17,Swansea,Leicester,2,0,H,2.4,3.3,2.95,2017-02-12,2016/2017,28,E0,2-0,2,-0.5500000000000003,2017-02-12SwanseaLeicester
+13/02/17,Bournemouth,Man City,0,2,A,7.0,4.3,1.47,2017-02-13,2016/2017,28,E0,0-2,-2,5.53,2017-02-13BournemouthMan City
+25/02/17,Chelsea,Swansea,3,1,H,1.22,6.5,12.0,2017-02-25,2016/2017,28,E0,3-1,2,-10.78,2017-02-25ChelseaSwansea
+25/02/17,Crystal Palace,Middlesbrough,1,0,H,2.1,3.4,3.5,2017-02-25,2016/2017,28,E0,1-0,1,-1.4,2017-02-25Crystal PalaceMiddlesbrough
+25/02/17,Everton,Sunderland,2,0,H,1.45,4.4,7.2,2017-02-25,2016/2017,29,E0,2-0,2,-5.75,2017-02-25EvertonSunderland
+25/02/17,Hull,Burnley,1,1,D,2.2,3.35,3.3,2017-02-25,2016/2017,29,E0,1-1,0,-1.0999999999999996,2017-02-25HullBurnley
+25/02/17,Watford,West Ham,1,1,D,2.6,3.25,2.75,2017-02-25,2016/2017,29,E0,1-1,0,-0.1499999999999999,2017-02-25WatfordWest Ham
+25/02/17,West Brom,Bournemouth,2,1,H,1.9,3.5,4.1,2017-02-25,2016/2017,29,E0,2-1,1,-2.1999999999999997,2017-02-25West BromBournemouth
+26/02/17,Tottenham,Stoke,4,0,H,1.4,4.8,7.5,2017-02-26,2016/2017,29,E0,4-0,4,-6.1,2017-02-26TottenhamStoke
+27/02/17,Leicester,Liverpool,3,1,H,5.0,3.7,1.7,2017-02-27,2016/2017,29,E0,3-1,2,3.3,2017-02-27LeicesterLiverpool
+04/03/17,Leicester,Hull,3,1,H,1.8,3.6,4.5,2017-03-04,2016/2017,29,E0,3-1,2,-2.7,2017-03-04LeicesterHull
+04/03/17,Liverpool,Arsenal,3,1,H,2.0,3.4,3.8,2017-03-04,2016/2017,29,E0,3-1,2,-1.7999999999999998,2017-03-04LiverpoolArsenal
+04/03/17,Man United,Bournemouth,1,1,D,1.2,6.5,15.0,2017-03-04,2016/2017,29,E0,1-1,0,-13.8,2017-03-04Man UnitedBournemouth
+04/03/17,Stoke,Middlesbrough,2,0,H,2.0,3.4,3.8,2017-03-04,2016/2017,30,E0,2-0,2,-1.7999999999999998,2017-03-04StokeMiddlesbrough
+04/03/17,Swansea,Burnley,3,2,H,1.9,3.5,4.1,2017-03-04,2016/2017,30,E0,3-2,1,-2.1999999999999997,2017-03-04SwanseaBurnley
+04/03/17,Watford,Southampton,3,4,A,3.15,3.3,2.3,2017-03-04,2016/2017,30,E0,3-4,-1,0.8500000000000001,2017-03-04WatfordSouthampton
+04/03/17,West Brom,Crystal Palace,0,2,A,2.0,3.4,3.8,2017-03-04,2016/2017,30,E0,0-2,-2,-1.7999999999999998,2017-03-04West BromCrystal Palace
+05/03/17,Sunderland,Man City,0,2,A,9.5,5.5,1.3,2017-03-05,2016/2017,30,E0,0-2,-2,8.2,2017-03-05SunderlandMan City
+05/03/17,Tottenham,Everton,3,2,H,1.7,3.7,5.0,2017-03-05,2016/2017,30,E0,3-2,1,-3.3,2017-03-05TottenhamEverton
+06/03/17,West Ham,Chelsea,1,2,A,5.7,3.9,1.6,2017-03-06,2016/2017,30,E0,1-2,-1,4.1,2017-03-06West HamChelsea
+08/03/17,Man City,Stoke,0,0,D,1.22,6.5,12.5,2017-03-08,2016/2017,30,E0,0-0,0,-11.28,2017-03-08Man CityStoke
+11/03/17,Bournemouth,West Ham,3,2,H,2.5,3.3,2.85,2017-03-11,2016/2017,30,E0,3-2,1,-0.3500000000000001,2017-03-11BournemouthWest Ham
+11/03/17,Everton,West Brom,3,0,H,1.65,3.8,5.3,2017-03-11,2016/2017,31,E0,3-0,3,-3.65,2017-03-11EvertonWest Brom
+11/03/17,Hull,Swansea,2,1,H,2.5,3.3,2.85,2017-03-11,2016/2017,31,E0,2-1,1,-0.3500000000000001,2017-03-11HullSwansea
+12/03/17,Liverpool,Burnley,2,1,H,1.22,6.2,13.5,2017-03-12,2016/2017,31,E0,2-1,1,-12.28,2017-03-12LiverpoolBurnley
+18/03/17,Bournemouth,Swansea,2,0,H,2.3,3.3,3.15,2017-03-18,2016/2017,31,E0,2-0,2,-0.8500000000000001,2017-03-18BournemouthSwansea
+18/03/17,Crystal Palace,Watford,1,0,H,2.0,3.4,3.8,2017-03-18,2016/2017,31,E0,1-0,1,-1.7999999999999998,2017-03-18Crystal PalaceWatford
+18/03/17,Everton,Hull,4,0,H,1.5,4.2,6.5,2017-03-18,2016/2017,31,E0,4-0,4,-5.0,2017-03-18EvertonHull
+18/03/17,Stoke,Chelsea,1,2,A,5.3,3.8,1.65,2017-03-18,2016/2017,31,E0,1-2,-1,3.65,2017-03-18StokeChelsea
+18/03/17,Sunderland,Burnley,0,0,D,2.4,3.3,2.95,2017-03-18,2016/2017,31,E0,0-0,0,-0.5500000000000003,2017-03-18SunderlandBurnley
+18/03/17,West Brom,Arsenal,3,1,H,5.0,3.7,1.7,2017-03-18,2016/2017,31,E0,3-1,2,3.3,2017-03-18West BromArsenal
+18/03/17,West Ham,Leicester,2,3,A,2.2,3.35,3.3,2017-03-18,2016/2017,32,E0,2-3,-1,-1.0999999999999996,2017-03-18West HamLeicester
+19/03/17,Man City,Liverpool,1,1,D,1.9,3.5,4.1,2017-03-19,2016/2017,32,E0,1-1,0,-2.1999999999999997,2017-03-19Man CityLiverpool
+19/03/17,Middlesbrough,Man United,1,3,A,5.3,3.8,1.65,2017-03-19,2016/2017,32,E0,1-3,-2,3.65,2017-03-19MiddlesbroughMan United
+19/03/17,Tottenham,Southampton,2,1,H,1.65,4.0,5.0,2017-03-19,2016/2017,32,E0,2-1,1,-3.35,2017-03-19TottenhamSouthampton
+01/04/17,Burnley,Tottenham,0,2,A,5.0,3.7,1.7,2017-04-01,2016/2017,32,E0,0-2,-2,3.3,2017-04-01BurnleyTottenham
+01/04/17,Chelsea,Crystal Palace,1,2,A,1.25,6.0,11.0,2017-04-01,2016/2017,32,E0,1-2,-1,-9.75,2017-04-01ChelseaCrystal Palace
+01/04/17,Hull,West Ham,2,1,H,2.5,3.3,2.85,2017-04-01,2016/2017,32,E0,2-1,1,-0.3500000000000001,2017-04-01HullWest Ham
+01/04/17,Leicester,Stoke,2,0,H,1.9,3.5,4.1,2017-04-01,2016/2017,32,E0,2-0,2,-2.1999999999999997,2017-04-01LeicesterStoke
+01/04/17,Liverpool,Everton,3,1,H,1.65,3.8,5.3,2017-04-01,2016/2017,32,E0,3-1,2,-3.65,2017-04-01LiverpoolEverton
+01/04/17,Man United,West Brom,0,0,D,1.3,5.5,9.5,2017-04-01,2016/2017,33,E0,0-0,0,-8.2,2017-04-01Man UnitedWest Brom
+01/04/17,Southampton,Bournemouth,0,0,D,1.6,3.9,5.7,2017-04-01,2016/2017,33,E0,0-0,0,-4.1,2017-04-01SouthamptonBournemouth
+01/04/17,Watford,Sunderland,1,0,H,1.85,3.5,4.3,2017-04-01,2016/2017,33,E0,1-0,1,-2.4499999999999997,2017-04-01WatfordSunderland
+02/04/17,Arsenal,Man City,2,2,D,2.85,3.5,2.4,2017-04-02,2016/2017,33,E0,2-2,0,0.4500000000000002,2017-04-02ArsenalMan City
+02/04/17,Swansea,Middlesbrough,0,0,D,2.0,3.4,3.8,2017-04-02,2016/2017,33,E0,0-0,0,-1.7999999999999998,2017-04-02SwanseaMiddlesbrough
+04/04/17,Burnley,Stoke,1,0,H,2.4,3.3,2.95,2017-04-04,2016/2017,33,E0,1-0,1,-0.5500000000000003,2017-04-04BurnleyStoke
+04/04/17,Leicester,Sunderland,2,0,H,1.5,4.2,6.5,2017-04-04,2016/2017,33,E0,2-0,2,-5.0,2017-04-04LeicesterSunderland
+04/04/17,Man United,Everton,1,1,D,1.55,4.0,6.2,2017-04-04,2016/2017,33,E0,1-1,0,-4.65,2017-04-04Man UnitedEverton
+04/04/17,Watford,West Brom,2,0,H,2.5,3.3,2.85,2017-04-04,2016/2017,33,E0,2-0,2,-0.3500000000000001,2017-04-04WatfordWest Brom
+05/04/17,Arsenal,West Ham,3,0,H,1.4,4.8,7.5,2017-04-05,2016/2017,34,E0,3-0,3,-6.1,2017-04-05ArsenalWest Ham
+05/04/17,Chelsea,Man City,2,1,H,2.2,3.35,3.3,2017-04-05,2016/2017,34,E0,2-1,1,-1.0999999999999996,2017-04-05ChelseaMan City
+05/04/17,Hull,Middlesbrough,4,2,H,2.2,3.35,3.3,2017-04-05,2016/2017,34,E0,4-2,2,-1.0999999999999996,2017-04-05HullMiddlesbrough
+05/04/17,Liverpool,Bournemouth,2,2,D,1.3,5.5,9.5,2017-04-05,2016/2017,34,E0,2-2,0,-8.2,2017-04-05LiverpoolBournemouth
+05/04/17,Southampton,Crystal Palace,3,1,H,1.8,3.6,4.5,2017-04-05,2016/2017,34,E0,3-1,2,-2.7,2017-04-05SouthamptonCrystal Palace
+05/04/17,Swansea,Tottenham,1,3,A,5.3,3.8,1.65,2017-04-05,2016/2017,34,E0,1-3,-2,3.65,2017-04-05SwanseaTottenham
+08/04/17,Bournemouth,Chelsea,1,3,A,6.2,4.0,1.55,2017-04-08,2016/2017,34,E0,1-3,-2,4.65,2017-04-08BournemouthChelsea
+08/04/17,Man City,Hull,3,1,H,1.17,7.5,15.0,2017-04-08,2016/2017,34,E0,3-1,2,-13.83,2017-04-08Man CityHull
+08/04/17,Middlesbrough,Burnley,0,0,D,2.5,3.3,2.85,2017-04-08,2016/2017,34,E0,0-0,0,-0.3500000000000001,2017-04-08MiddlesbroughBurnley
+08/04/17,Stoke,Liverpool,1,2,A,4.3,3.5,1.85,2017-04-08,2016/2017,35,E0,1-2,-1,2.4499999999999997,2017-04-08StokeLiverpool
+08/04/17,Tottenham,Watford,4,0,H,1.3,5.5,9.5,2017-04-08,2016/2017,35,E0,4-0,4,-8.2,2017-04-08TottenhamWatford
+08/04/17,West Brom,Southampton,0,1,A,2.85,3.3,2.5,2017-04-08,2016/2017,35,E0,0-1,-1,0.3500000000000001,2017-04-08West BromSouthampton
+08/04/17,West Ham,Swansea,1,0,H,2.1,3.4,3.5,2017-04-08,2016/2017,35,E0,1-0,1,-1.4,2017-04-08West HamSwansea
+09/04/17,Everton,Leicester,4,2,H,1.65,3.8,5.3,2017-04-09,2016/2017,35,E0,4-2,2,-3.65,2017-04-09EvertonLeicester
+09/04/17,Sunderland,Man United,0,3,A,7.5,4.8,1.4,2017-04-09,2016/2017,35,E0,0-3,-3,6.1,2017-04-09SunderlandMan United
+10/04/17,Crystal Palace,Arsenal,3,0,H,5.0,3.7,1.7,2017-04-10,2016/2017,35,E0,3-0,3,3.3,2017-04-10Crystal PalaceArsenal
+15/04/17,Crystal Palace,Leicester,2,2,D,1.8,3.6,4.5,2017-04-15,2016/2017,35,E0,2-2,0,-2.7,2017-04-15Crystal PalaceLeicester
+15/04/17,Everton,Burnley,3,1,H,1.45,4.5,7.0,2017-04-15,2016/2017,35,E0,3-1,2,-5.55,2017-04-15EvertonBurnley
+15/04/17,Southampton,Man City,0,3,A,5.0,3.7,1.7,2017-04-15,2016/2017,36,E0,0-3,-3,3.3,2017-04-15SouthamptonMan City
+15/04/17,Stoke,Hull,3,1,H,1.85,3.5,4.3,2017-04-15,2016/2017,36,E0,3-1,2,-2.4499999999999997,2017-04-15StokeHull
+15/04/17,Sunderland,West Ham,2,2,D,3.05,3.4,2.3,2017-04-15,2016/2017,36,E0,2-2,0,0.75,2017-04-15SunderlandWest Ham
+15/04/17,Tottenham,Bournemouth,4,0,H,1.25,6.0,11.0,2017-04-15,2016/2017,36,E0,4-0,4,-9.75,2017-04-15TottenhamBournemouth
+15/04/17,Watford,Swansea,1,0,H,2.4,3.4,2.9,2017-04-15,2016/2017,36,E0,1-0,1,-0.5,2017-04-15WatfordSwansea
+16/04/17,Man United,Chelsea,2,0,H,2.65,3.3,2.65,2017-04-16,2016/2017,36,E0,2-0,2,0.0,2017-04-16Man UnitedChelsea
+16/04/17,West Brom,Liverpool,0,1,A,4.5,3.6,1.8,2017-04-16,2016/2017,36,E0,0-1,-1,2.7,2017-04-16West BromLiverpool
+17/04/17,Middlesbrough,Arsenal,1,2,A,6.2,4.0,1.55,2017-04-17,2016/2017,36,E0,1-2,-1,4.65,2017-04-17MiddlesbroughArsenal
+22/04/17,Bournemouth,Middlesbrough,4,0,H,1.85,3.6,4.2,2017-04-22,2016/2017,36,E0,4-0,4,-2.35,2017-04-22BournemouthMiddlesbrough
+22/04/17,Hull,Watford,2,0,H,1.85,3.6,4.2,2017-04-22,2016/2017,37,E0,2-0,2,-2.35,2017-04-22HullWatford
+22/04/17,Swansea,Stoke,2,0,H,2.1,3.4,3.5,2017-04-22,2016/2017,37,E0,2-0,2,-1.4,2017-04-22SwanseaStoke
+22/04/17,West Ham,Everton,0,0,D,3.5,3.4,2.1,2017-04-22,2016/2017,37,E0,0-0,0,1.4,2017-04-22West HamEverton
+23/04/17,Burnley,Man United,0,2,A,5.5,4.0,1.6,2017-04-23,2016/2017,37,E0,0-2,-2,3.9,2017-04-23BurnleyMan United
+23/04/17,Liverpool,Crystal Palace,1,2,A,1.45,4.4,7.2,2017-04-23,2016/2017,37,E0,1-2,-1,-5.75,2017-04-23LiverpoolCrystal Palace
+25/04/17,Chelsea,Southampton,4,2,H,1.45,4.4,7.2,2017-04-25,2016/2017,37,E0,4-2,2,-5.75,2017-04-25ChelseaSouthampton
+26/04/17,Arsenal,Leicester,1,0,H,1.6,4.2,5.2,2017-04-26,2016/2017,37,E0,1-0,1,-3.6,2017-04-26ArsenalLeicester
+26/04/17,Crystal Palace,Tottenham,0,1,A,4.7,3.9,1.7,2017-04-26,2016/2017,37,E0,0-1,-1,3.0,2017-04-26Crystal PalaceTottenham
+26/04/17,Middlesbrough,Sunderland,1,0,H,2.1,3.4,3.5,2017-04-26,2016/2017,37,E0,1-0,1,-1.4,2017-04-26MiddlesbroughSunderland
+27/04/17,Man City,Man United,0,0,D,1.9,3.5,4.1,2017-04-27,2016/2017,38,E0,0-0,0,-2.1999999999999997,2017-04-27Man CityMan United
+29/04/17,Crystal Palace,Burnley,0,2,A,1.8,3.6,4.5,2017-04-29,2016/2017,38,E0,0-2,-2,-2.7,2017-04-29Crystal PalaceBurnley
+29/04/17,Southampton,Hull,0,0,D,1.7,3.9,4.6,2017-04-29,2016/2017,38,E0,0-0,0,-2.8999999999999995,2017-04-29SouthamptonHull
+29/04/17,Stoke,West Ham,0,0,D,2.1,3.3,3.6,2017-04-29,2016/2017,38,E0,0-0,0,-1.5,2017-04-29StokeWest Ham
+29/04/17,Sunderland,Bournemouth,0,1,A,3.05,3.4,2.3,2017-04-29,2016/2017,38,E0,0-1,-1,0.75,2017-04-29SunderlandBournemouth
+29/04/17,West Brom,Leicester,0,1,A,2.6,3.3,2.7,2017-04-29,2016/2017,38,E0,0-1,-1,-0.10000000000000009,2017-04-29West BromLeicester
+30/04/17,Everton,Chelsea,0,3,A,3.8,3.4,2.0,2017-04-30,2016/2017,38,E0,0-3,-3,1.7999999999999998,2017-04-30EvertonChelsea
+30/04/17,Man United,Swansea,1,1,D,1.3,5.5,9.5,2017-04-30,2016/2017,38,E0,1-1,0,-8.2,2017-04-30Man UnitedSwansea
+30/04/17,Middlesbrough,Man City,2,2,D,9.5,5.5,1.3,2017-04-30,2016/2017,38,E0,2-2,0,8.2,2017-04-30MiddlesbroughMan City
+30/04/17,Tottenham,Arsenal,2,0,H,1.9,3.65,3.9,2017-04-30,2016/2017,39,E0,2-0,2,-2.0,2017-04-30TottenhamArsenal
+01/05/17,Watford,Liverpool,0,1,A,6.0,4.5,1.5,2017-05-01,2016/2017,39,E0,0-1,-1,4.5,2017-05-01WatfordLiverpool
+05/05/17,West Ham,Tottenham,1,0,H,7.5,4.8,1.4,2017-05-05,2016/2017,39,E0,1-0,1,6.1,2017-05-05West HamTottenham
+06/05/17,Bournemouth,Stoke,2,2,D,2.1,3.4,3.5,2017-05-06,2016/2017,39,E0,2-2,0,-1.4,2017-05-06BournemouthStoke
+06/05/17,Burnley,West Brom,2,2,D,1.9,3.5,4.1,2017-05-06,2016/2017,39,E0,2-2,0,-2.1999999999999997,2017-05-06BurnleyWest Brom
+06/05/17,Hull,Sunderland,0,2,A,1.45,4.5,7.0,2017-05-06,2016/2017,39,E0,0-2,-2,-5.55,2017-05-06HullSunderland
+06/05/17,Leicester,Watford,3,0,H,1.6,3.8,6.0,2017-05-06,2016/2017,39,E0,3-0,3,-4.4,2017-05-06LeicesterWatford
+06/05/17,Man City,Crystal Palace,5,0,H,1.25,6.0,11.0,2017-05-06,2016/2017,39,E0,5-0,5,-9.75,2017-05-06Man CityCrystal Palace
+06/05/17,Swansea,Everton,1,0,H,2.6,3.5,2.6,2017-05-06,2016/2017,39,E0,1-0,1,0.0,2017-05-06SwanseaEverton
+07/05/17,Arsenal,Man United,2,0,H,2.1,3.4,3.5,2017-05-07,2016/2017,40,E0,2-0,2,-1.4,2017-05-07ArsenalMan United
+07/05/17,Liverpool,Southampton,0,0,D,1.5,4.2,6.5,2017-05-07,2016/2017,40,E0,0-0,0,-5.0,2017-05-07LiverpoolSouthampton
+08/05/17,Chelsea,Middlesbrough,3,0,H,1.15,7.5,18.0,2017-05-08,2016/2017,40,E0,3-0,3,-16.85,2017-05-08ChelseaMiddlesbrough
+10/05/17,Southampton,Arsenal,0,2,A,3.7,3.5,2.0,2017-05-10,2016/2017,40,E0,0-2,-2,1.7000000000000002,2017-05-10SouthamptonArsenal
+12/05/17,Everton,Watford,1,0,H,1.5,4.2,6.5,2017-05-12,2016/2017,40,E0,1-0,1,-5.0,2017-05-12EvertonWatford
+12/05/17,West Brom,Chelsea,0,1,A,9.5,5.5,1.3,2017-05-12,2016/2017,40,E0,0-1,-1,8.2,2017-05-12West BromChelsea
+13/05/17,Bournemouth,Burnley,2,1,H,2.0,3.4,3.8,2017-05-13,2016/2017,40,E0,2-1,1,-1.7999999999999998,2017-05-13BournemouthBurnley
+13/05/17,Man City,Leicester,2,1,H,1.25,6.0,11.0,2017-05-13,2016/2017,40,E0,2-1,1,-9.75,2017-05-13Man CityLeicester
+13/05/17,Middlesbrough,Southampton,1,2,A,4.1,3.5,1.9,2017-05-13,2016/2017,40,E0,1-2,-1,2.1999999999999997,2017-05-13MiddlesbroughSouthampton
+13/05/17,Stoke,Arsenal,1,4,A,4.6,4.0,1.7,2017-05-13,2016/2017,41,E0,1-4,-3,2.8999999999999995,2017-05-13StokeArsenal
+13/05/17,Sunderland,Swansea,0,2,A,4.2,3.6,1.85,2017-05-13,2016/2017,41,E0,0-2,-2,2.35,2017-05-13SunderlandSwansea
+14/05/17,Crystal Palace,Hull,4,0,H,2.0,3.4,3.8,2017-05-14,2016/2017,41,E0,4-0,4,-1.7999999999999998,2017-05-14Crystal PalaceHull
+14/05/17,Tottenham,Man United,2,1,H,1.85,3.6,4.2,2017-05-14,2016/2017,41,E0,2-1,1,-2.35,2017-05-14TottenhamMan United
+14/05/17,West Ham,Liverpool,0,4,A,4.7,3.9,1.7,2017-05-14,2016/2017,41,E0,0-4,-4,3.0,2017-05-14West HamLiverpool
+15/05/17,Chelsea,Watford,4,3,H,1.33,5.5,8.0,2017-05-15,2016/2017,41,E0,4-3,1,-6.67,2017-05-15ChelseaWatford
+16/05/17,Arsenal,Sunderland,2,0,H,1.12,9.0,20.0,2017-05-16,2016/2017,41,E0,2-0,2,-18.88,2017-05-16ArsenalSunderland
+16/05/17,Man City,West Brom,3,1,H,1.15,7.5,18.0,2017-05-16,2016/2017,41,E0,3-1,2,-16.85,2017-05-16Man CityWest Brom
+17/05/17,Southampton,Man United,0,0,D,2.4,3.3,2.95,2017-05-17,2016/2017,41,E0,0-0,0,-0.5500000000000003,2017-05-17SouthamptonMan United
+18/05/17,Leicester,Tottenham,1,6,A,3.6,3.6,2.0,2017-05-18,2016/2017,42,E0,1-6,-5,1.6,2017-05-18LeicesterTottenham
+21/05/17,Arsenal,Everton,3,1,H,1.45,4.5,7.0,2017-05-21,2016/2017,42,E0,3-1,2,-5.55,2017-05-21ArsenalEverton
+21/05/17,Burnley,West Ham,1,2,A,2.4,3.3,2.95,2017-05-21,2016/2017,42,E0,1-2,-1,-0.5500000000000003,2017-05-21BurnleyWest Ham
+21/05/17,Chelsea,Sunderland,5,1,H,1.2,6.5,15.0,2017-05-21,2016/2017,42,E0,5-1,4,-13.8,2017-05-21ChelseaSunderland
+21/05/17,Hull,Tottenham,1,7,A,5.2,4.2,1.6,2017-05-21,2016/2017,42,E0,1-7,-6,3.6,2017-05-21HullTottenham
+21/05/17,Leicester,Bournemouth,1,1,D,1.9,3.6,3.9,2017-05-21,2016/2017,42,E0,1-1,0,-2.0,2017-05-21LeicesterBournemouth
+21/05/17,Liverpool,Middlesbrough,3,0,H,1.15,7.5,18.0,2017-05-21,2016/2017,42,E0,3-0,3,-16.85,2017-05-21LiverpoolMiddlesbrough
+21/05/17,Man United,Crystal Palace,2,0,H,2.4,3.3,2.95,2017-05-21,2016/2017,42,E0,2-0,2,-0.5500000000000003,2017-05-21Man UnitedCrystal Palace
+21/05/17,Southampton,Stoke,0,1,A,1.7,3.7,5.0,2017-05-21,2016/2017,42,E0,0-1,-1,-3.3,2017-05-21SouthamptonStoke

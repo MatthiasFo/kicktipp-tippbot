@@ -1,0 +1,298 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+09/08/13,Bayern Munich,M'gladbach,3,1,H,1.2,5.8,13.0,2013-08-09,2013/2014,1,D1,3-1,2,-11.8,2013-08-09Bayern MunichM'gladbach
+10/08/13,Augsburg,Dortmund,0,4,A,6.1,4.0,1.5,2013-08-10,2013/2014,1,D1,0-4,-4,4.6,2013-08-10AugsburgDortmund
+10/08/13,Braunschweig,Werder Bremen,0,1,A,2.7,3.4,2.4,2013-08-10,2013/2014,1,D1,0-1,-1,0.30000000000000027,2013-08-10BraunschweigWerder Bremen
+10/08/13,Hannover,Wolfsburg,2,0,H,2.4,3.3,2.75,2013-08-10,2013/2014,1,D1,2-0,2,-0.3500000000000001,2013-08-10HannoverWolfsburg
+10/08/13,Hertha,Ein Frankfurt,6,1,H,2.2,3.3,3.1,2013-08-10,2013/2014,1,D1,6-1,5,-0.8999999999999999,2013-08-10HerthaEin Frankfurt
+10/08/13,Hoffenheim,Nurnberg,2,2,D,2.0,3.4,3.5,2013-08-10,2013/2014,1,D1,2-2,0,-1.5,2013-08-10HoffenheimNurnberg
+10/08/13,Leverkusen,Freiburg,3,1,H,1.4,4.4,7.3,2013-08-10,2013/2014,1,D1,3-1,2,-5.9,2013-08-10LeverkusenFreiburg
+11/08/13,Mainz,Stuttgart,3,2,H,2.4,3.4,2.7,2013-08-11,2013/2014,1,D1,3-2,1,-0.30000000000000027,2013-08-11MainzStuttgart
+11/08/13,Schalke 04,Hamburg,3,3,D,1.6,3.7,5.4,2013-08-11,2013/2014,1,D1,3-3,0,-3.8000000000000003,2013-08-11Schalke 04Hamburg
+17/08/13,Ein Frankfurt,Bayern Munich,0,1,A,7.6,4.8,1.35,2013-08-17,2013/2014,2,D1,0-1,-1,6.25,2013-08-17Ein FrankfurtBayern Munich
+17/08/13,Freiburg,Mainz,1,2,A,2.3,3.3,2.9,2013-08-17,2013/2014,2,D1,1-2,-1,-0.6000000000000001,2013-08-17FreiburgMainz
+17/08/13,Hamburg,Hoffenheim,1,5,A,2.0,3.4,3.5,2013-08-17,2013/2014,2,D1,1-5,-4,-1.5,2013-08-17HamburgHoffenheim
+17/08/13,M'gladbach,Hannover,3,0,H,1.85,3.45,4.0,2013-08-17,2013/2014,2,D1,3-0,3,-2.15,2013-08-17M'gladbachHannover
+17/08/13,Stuttgart,Leverkusen,0,1,A,3.1,3.3,2.2,2013-08-17,2013/2014,2,D1,0-1,-1,0.8999999999999999,2013-08-17StuttgartLeverkusen
+17/08/13,Werder Bremen,Augsburg,1,0,H,1.8,3.5,4.2,2013-08-17,2013/2014,2,D1,1-0,1,-2.4000000000000004,2013-08-17Werder BremenAugsburg
+17/08/13,Wolfsburg,Schalke 04,4,0,H,2.55,3.4,2.55,2013-08-17,2013/2014,2,D1,4-0,4,0.0,2013-08-17WolfsburgSchalke 04
+18/08/13,Dortmund,Braunschweig,2,1,H,1.17,6.5,14.0,2013-08-18,2013/2014,2,D1,2-1,1,-12.83,2013-08-18DortmundBraunschweig
+18/08/13,Nurnberg,Hertha,2,2,D,2.3,3.3,2.9,2013-08-18,2013/2014,2,D1,2-2,0,-0.6000000000000001,2013-08-18NurnbergHertha
+23/08/13,Dortmund,Werder Bremen,1,0,H,1.22,5.5,12.0,2013-08-23,2013/2014,3,D1,1-0,1,-10.78,2013-08-23DortmundWerder Bremen
+24/08/13,Bayern Munich,Nurnberg,2,0,H,1.12,8.0,16.0,2013-08-24,2013/2014,3,D1,2-0,2,-14.879999999999999,2013-08-24Bayern MunichNurnberg
+24/08/13,Hannover,Schalke 04,2,1,H,2.55,3.4,2.55,2013-08-24,2013/2014,3,D1,2-1,1,0.0,2013-08-24HannoverSchalke 04
+24/08/13,Hertha,Hamburg,1,0,H,1.9,3.45,3.8,2013-08-24,2013/2014,3,D1,1-0,1,-1.9,2013-08-24HerthaHamburg
+24/08/13,Hoffenheim,Freiburg,3,3,D,1.85,3.5,3.9,2013-08-24,2013/2014,3,D1,3-3,0,-2.05,2013-08-24HoffenheimFreiburg
+24/08/13,Leverkusen,M'gladbach,4,2,H,1.6,3.9,5.0,2013-08-24,2013/2014,3,D1,4-2,2,-3.4,2013-08-24LeverkusenM'gladbach
+24/08/13,Mainz,Wolfsburg,2,0,H,2.55,3.4,2.55,2013-08-24,2013/2014,3,D1,2-0,2,0.0,2013-08-24MainzWolfsburg
+25/08/13,Augsburg,Stuttgart,2,1,H,2.4,3.3,2.75,2013-08-25,2013/2014,3,D1,2-1,1,-0.3500000000000001,2013-08-25AugsburgStuttgart
+25/08/13,Braunschweig,Ein Frankfurt,0,2,A,2.65,3.3,2.5,2013-08-25,2013/2014,3,D1,0-2,-2,0.1499999999999999,2013-08-25BraunschweigEin Frankfurt
+27/08/13,Freiburg,Bayern Munich,1,1,D,9.0,5.0,1.3,2013-08-27,2013/2014,4,D1,1-1,0,7.7,2013-08-27FreiburgBayern Munich
+31/08/13,Hamburg,Braunschweig,4,0,H,1.8,3.5,4.2,2013-08-31,2013/2014,4,D1,4-0,4,-2.4000000000000004,2013-08-31HamburgBraunschweig
+31/08/13,Hannover,Mainz,4,1,H,2.3,3.3,2.9,2013-08-31,2013/2014,4,D1,4-1,3,-0.6000000000000001,2013-08-31HannoverMainz
+31/08/13,M'gladbach,Werder Bremen,4,1,H,1.8,3.5,4.2,2013-08-31,2013/2014,4,D1,4-1,3,-2.4000000000000004,2013-08-31M'gladbachWerder Bremen
+31/08/13,Nurnberg,Augsburg,0,1,A,2.3,3.2,3.0,2013-08-31,2013/2014,4,D1,0-1,-1,-0.7000000000000002,2013-08-31NurnbergAugsburg
+31/08/13,Schalke 04,Leverkusen,2,0,H,2.75,3.3,2.4,2013-08-31,2013/2014,4,D1,2-0,2,0.3500000000000001,2013-08-31Schalke 04Leverkusen
+31/08/13,Wolfsburg,Hertha,2,0,H,2.0,3.4,3.5,2013-08-31,2013/2014,4,D1,2-0,2,-1.5,2013-08-31WolfsburgHertha
+01/09/13,Ein Frankfurt,Dortmund,1,2,A,6.1,4.0,1.5,2013-09-01,2013/2014,4,D1,1-2,-1,4.6,2013-09-01Ein FrankfurtDortmund
+01/09/13,Stuttgart,Hoffenheim,6,2,H,2.2,3.3,3.1,2013-09-01,2013/2014,4,D1,6-2,4,-0.8999999999999999,2013-09-01StuttgartHoffenheim
+13/09/13,Hertha,Stuttgart,0,1,A,2.2,3.3,3.1,2013-09-13,2013/2014,5,D1,0-1,-1,-0.8999999999999999,2013-09-13HerthaStuttgart
+14/09/13,Augsburg,Freiburg,2,1,H,2.1,3.3,3.3,2013-09-14,2013/2014,5,D1,2-1,1,-1.1999999999999997,2013-09-14AugsburgFreiburg
+14/09/13,Bayern Munich,Hannover,2,0,H,1.12,8.0,16.0,2013-09-14,2013/2014,5,D1,2-0,2,-14.879999999999999,2013-09-14Bayern MunichHannover
+14/09/13,Dortmund,Hamburg,6,2,H,1.25,5.5,10.3,2013-09-14,2013/2014,5,D1,6-2,4,-9.05,2013-09-14DortmundHamburg
+14/09/13,Leverkusen,Wolfsburg,3,1,H,1.75,3.5,4.5,2013-09-14,2013/2014,5,D1,3-1,2,-2.75,2013-09-14LeverkusenWolfsburg
+14/09/13,Mainz,Schalke 04,0,1,A,2.6,3.2,2.6,2013-09-14,2013/2014,5,D1,0-1,-1,0.0,2013-09-14MainzSchalke 04
+14/09/13,Werder Bremen,Ein Frankfurt,0,3,A,2.35,3.3,2.85,2013-09-14,2013/2014,5,D1,0-3,-3,-0.5,2013-09-14Werder BremenEin Frankfurt
+15/09/13,Braunschweig,Nurnberg,1,1,D,2.65,3.3,2.5,2013-09-15,2013/2014,5,D1,1-1,0,0.1499999999999999,2013-09-15BraunschweigNurnberg
+15/09/13,Hoffenheim,M'gladbach,2,1,H,2.5,3.3,2.65,2013-09-15,2013/2014,5,D1,2-1,1,-0.1499999999999999,2013-09-15HoffenheimM'gladbach
+20/09/13,M'gladbach,Braunschweig,4,1,H,1.4,4.4,7.3,2013-09-20,2013/2014,6,D1,4-1,3,-5.9,2013-09-20M'gladbachBraunschweig
+21/09/13,Hamburg,Werder Bremen,0,2,A,2.0,3.4,3.5,2013-09-21,2013/2014,6,D1,0-2,-2,-1.5,2013-09-21HamburgWerder Bremen
+21/09/13,Hannover,Augsburg,2,1,H,2.2,3.4,3.0,2013-09-21,2013/2014,6,D1,2-1,1,-0.7999999999999998,2013-09-21HannoverAugsburg
+21/09/13,Mainz,Leverkusen,1,4,A,3.1,3.3,2.2,2013-09-21,2013/2014,6,D1,1-4,-3,0.8999999999999999,2013-09-21MainzLeverkusen
+21/09/13,Nurnberg,Dortmund,1,1,D,7.3,4.4,1.4,2013-09-21,2013/2014,6,D1,1-1,0,5.9,2013-09-21NurnbergDortmund
+21/09/13,Schalke 04,Bayern Munich,0,4,A,5.4,3.7,1.6,2013-09-21,2013/2014,6,D1,0-4,-4,3.8000000000000003,2013-09-21Schalke 04Bayern Munich
+21/09/13,Wolfsburg,Hoffenheim,2,1,H,1.8,3.5,4.2,2013-09-21,2013/2014,6,D1,2-1,1,-2.4000000000000004,2013-09-21WolfsburgHoffenheim
+22/09/13,Freiburg,Hertha,1,1,D,2.3,3.3,2.9,2013-09-22,2013/2014,6,D1,1-1,0,-0.6000000000000001,2013-09-22FreiburgHertha
+22/09/13,Stuttgart,Ein Frankfurt,1,1,D,2.1,3.4,3.2,2013-09-22,2013/2014,6,D1,1-1,0,-1.1,2013-09-22StuttgartEin Frankfurt
+27/09/13,Augsburg,M'gladbach,2,2,D,2.6,3.2,2.6,2013-09-27,2013/2014,7,D1,2-2,0,0.0,2013-09-27AugsburgM'gladbach
+28/09/13,Bayern Munich,Wolfsburg,1,0,H,1.15,7.0,15.0,2013-09-28,2013/2014,7,D1,1-0,1,-13.85,2013-09-28Bayern MunichWolfsburg
+28/09/13,Dortmund,Freiburg,5,0,H,1.17,7.0,13.0,2013-09-28,2013/2014,7,D1,5-0,5,-11.83,2013-09-28DortmundFreiburg
+28/09/13,Ein Frankfurt,Hamburg,2,2,D,1.85,3.5,3.9,2013-09-28,2013/2014,7,D1,2-2,0,-2.05,2013-09-28Ein FrankfurtHamburg
+28/09/13,Hertha,Mainz,3,1,H,2.15,3.3,3.2,2013-09-28,2013/2014,7,D1,3-1,2,-1.0500000000000003,2013-09-28HerthaMainz
+28/09/13,Hoffenheim,Schalke 04,3,3,D,2.6,3.2,2.6,2013-09-28,2013/2014,7,D1,3-3,0,0.0,2013-09-28HoffenheimSchalke 04
+28/09/13,Leverkusen,Hannover,2,0,H,1.35,4.8,7.6,2013-09-28,2013/2014,7,D1,2-0,2,-6.25,2013-09-28LeverkusenHannover
+29/09/13,Braunschweig,Stuttgart,0,4,A,3.6,3.3,2.0,2013-09-29,2013/2014,7,D1,0-4,-4,1.6,2013-09-29BraunschweigStuttgart
+29/09/13,Werder Bremen,Nurnberg,3,3,D,2.0,3.3,3.6,2013-09-29,2013/2014,7,D1,3-3,0,-1.6,2013-09-29Werder BremenNurnberg
+04/10/13,Hannover,Hertha,1,1,D,2.2,3.3,3.1,2013-10-04,2013/2014,8,D1,1-1,0,-0.8999999999999999,2013-10-04HannoverHertha
+05/10/13,Leverkusen,Bayern Munich,1,1,D,4.75,3.8,1.65,2013-10-05,2013/2014,8,D1,1-1,0,3.1,2013-10-05LeverkusenBayern Munich
+05/10/13,Mainz,Hoffenheim,2,2,D,2.25,3.3,3.0,2013-10-05,2013/2014,8,D1,2-2,0,-0.75,2013-10-05MainzHoffenheim
+05/10/13,M'gladbach,Dortmund,2,0,H,4.5,3.5,1.75,2013-10-05,2013/2014,8,D1,2-0,2,2.75,2013-10-05M'gladbachDortmund
+05/10/13,Schalke 04,Augsburg,4,1,H,1.7,3.7,4.5,2013-10-05,2013/2014,8,D1,4-1,3,-2.8,2013-10-05Schalke 04Augsburg
+05/10/13,Stuttgart,Werder Bremen,1,1,D,1.8,3.5,4.2,2013-10-05,2013/2014,8,D1,1-1,0,-2.4000000000000004,2013-10-05StuttgartWerder Bremen
+05/10/13,Wolfsburg,Braunschweig,0,2,A,1.3,5.0,9.0,2013-10-05,2013/2014,8,D1,0-2,-2,-7.7,2013-10-05WolfsburgBraunschweig
+06/10/13,Freiburg,Ein Frankfurt,1,1,D,2.5,3.3,2.65,2013-10-06,2013/2014,8,D1,1-1,0,-0.1499999999999999,2013-10-06FreiburgEin Frankfurt
+06/10/13,Nurnberg,Hamburg,0,5,A,2.4,3.3,2.75,2013-10-06,2013/2014,8,D1,0-5,-5,-0.3500000000000001,2013-10-06NurnbergHamburg
+18/10/13,Hoffenheim,Leverkusen,1,2,A,3.3,3.3,2.1,2013-10-18,2013/2014,9,D1,1-2,-1,1.1999999999999997,2013-10-18HoffenheimLeverkusen
+19/10/13,Bayern Munich,Mainz,4,1,H,1.12,8.0,16.0,2013-10-19,2013/2014,9,D1,4-1,3,-14.879999999999999,2013-10-19Bayern MunichMainz
+19/10/13,Braunschweig,Schalke 04,2,3,A,4.5,3.5,1.75,2013-10-19,2013/2014,9,D1,2-3,-1,2.75,2013-10-19BraunschweigSchalke 04
+19/10/13,Dortmund,Hannover,1,0,H,1.2,6.0,12.5,2013-10-19,2013/2014,9,D1,1-0,1,-11.3,2013-10-19DortmundHannover
+19/10/13,Ein Frankfurt,Nurnberg,1,1,D,1.65,3.6,5.1,2013-10-19,2013/2014,9,D1,1-1,0,-3.4499999999999997,2013-10-19Ein FrankfurtNurnberg
+19/10/13,Hertha,M'gladbach,1,0,H,2.5,3.3,2.65,2013-10-19,2013/2014,9,D1,1-0,1,-0.1499999999999999,2013-10-19HerthaM'gladbach
+19/10/13,Werder Bremen,Freiburg,0,0,D,1.85,3.45,4.0,2013-10-19,2013/2014,9,D1,0-0,0,-2.15,2013-10-19Werder BremenFreiburg
+20/10/13,Augsburg,Wolfsburg,1,2,A,2.4,3.3,2.75,2013-10-20,2013/2014,9,D1,1-2,-1,-0.3500000000000001,2013-10-20AugsburgWolfsburg
+20/10/13,Hamburg,Stuttgart,3,3,D,2.3,3.3,2.9,2013-10-20,2013/2014,9,D1,3-3,0,-0.6000000000000001,2013-10-20HamburgStuttgart
+25/10/13,Stuttgart,Nurnberg,1,1,D,1.65,3.6,5.1,2013-10-25,2013/2014,10,D1,1-1,0,-3.4499999999999997,2013-10-25StuttgartNurnberg
+26/10/13,Bayern Munich,Hertha,3,2,H,1.12,8.0,16.0,2013-10-26,2013/2014,10,D1,3-2,1,-14.879999999999999,2013-10-26Bayern MunichHertha
+26/10/13,Hannover,Hoffenheim,1,4,A,2.2,3.3,3.1,2013-10-26,2013/2014,10,D1,1-4,-3,-0.8999999999999999,2013-10-26HannoverHoffenheim
+26/10/13,Leverkusen,Augsburg,2,1,H,1.45,4.0,7.0,2013-10-26,2013/2014,10,D1,2-1,1,-5.55,2013-10-26LeverkusenAugsburg
+26/10/13,Mainz,Braunschweig,2,0,H,1.55,4.1,5.3,2013-10-26,2013/2014,10,D1,2-0,2,-3.75,2013-10-26MainzBraunschweig
+26/10/13,Schalke 04,Dortmund,1,3,A,3.8,3.45,1.9,2013-10-26,2013/2014,10,D1,1-3,-2,1.9,2013-10-26Schalke 04Dortmund
+26/10/13,Wolfsburg,Werder Bremen,3,0,H,1.75,3.5,4.5,2013-10-26,2013/2014,10,D1,3-0,3,-2.75,2013-10-26WolfsburgWerder Bremen
+27/10/13,Freiburg,Hamburg,0,3,A,2.5,3.3,2.65,2013-10-27,2013/2014,10,D1,0-3,-3,-0.1499999999999999,2013-10-27FreiburgHamburg
+27/10/13,M'gladbach,Ein Frankfurt,4,1,H,1.9,3.45,3.8,2013-10-27,2013/2014,10,D1,4-1,3,-1.9,2013-10-27M'gladbachEin Frankfurt
+01/11/13,Dortmund,Stuttgart,6,1,H,1.27,5.5,9.0,2013-11-01,2013/2014,11,D1,6-1,5,-7.73,2013-11-01DortmundStuttgart
+02/11/13,Braunschweig,Leverkusen,1,0,H,7.0,4.0,1.45,2013-11-02,2013/2014,11,D1,1-0,1,5.55,2013-11-02BraunschweigLeverkusen
+02/11/13,Ein Frankfurt,Wolfsburg,1,2,A,2.35,3.4,2.8,2013-11-02,2013/2014,11,D1,1-2,-1,-0.44999999999999973,2013-11-02Ein FrankfurtWolfsburg
+02/11/13,Hamburg,M'gladbach,0,2,A,2.3,3.3,2.9,2013-11-02,2013/2014,11,D1,0-2,-2,-0.6000000000000001,2013-11-02HamburgM'gladbach
+02/11/13,Hertha,Schalke 04,0,2,A,2.3,3.4,2.85,2013-11-02,2013/2014,11,D1,0-2,-2,-0.5500000000000003,2013-11-02HerthaSchalke 04
+02/11/13,Hoffenheim,Bayern Munich,1,2,A,9.0,5.0,1.3,2013-11-02,2013/2014,11,D1,1-2,-1,7.7,2013-11-02HoffenheimBayern Munich
+02/11/13,Nurnberg,Freiburg,0,3,A,2.0,3.3,3.6,2013-11-02,2013/2014,11,D1,0-3,-3,-1.6,2013-11-02NurnbergFreiburg
+03/11/13,Augsburg,Mainz,2,1,H,2.1,3.3,3.3,2013-11-03,2013/2014,11,D1,2-1,1,-1.1999999999999997,2013-11-03AugsburgMainz
+03/11/13,Werder Bremen,Hannover,3,2,H,2.0,3.4,3.5,2013-11-03,2013/2014,11,D1,3-2,1,-1.5,2013-11-03Werder BremenHannover
+08/11/13,Hannover,Braunschweig,0,0,D,1.75,3.5,4.5,2013-11-08,2013/2014,12,D1,0-0,0,-2.75,2013-11-08HannoverBraunschweig
+09/11/13,Bayern Munich,Augsburg,3,0,H,1.12,8.0,16.0,2013-11-09,2013/2014,12,D1,3-0,3,-14.879999999999999,2013-11-09Bayern MunichAugsburg
+09/11/13,Hoffenheim,Hertha,2,3,A,2.0,3.4,3.5,2013-11-09,2013/2014,12,D1,2-3,-1,-1.5,2013-11-09HoffenheimHertha
+09/11/13,Leverkusen,Hamburg,5,3,H,1.6,3.8,5.2,2013-11-09,2013/2014,12,D1,5-3,2,-3.6,2013-11-09LeverkusenHamburg
+09/11/13,M'gladbach,Nurnberg,3,1,H,1.5,4.0,6.1,2013-11-09,2013/2014,12,D1,3-1,2,-4.6,2013-11-09M'gladbachNurnberg
+09/11/13,Schalke 04,Werder Bremen,3,1,H,1.65,3.6,5.1,2013-11-09,2013/2014,12,D1,3-1,2,-3.4499999999999997,2013-11-09Schalke 04Werder Bremen
+09/11/13,Wolfsburg,Dortmund,2,1,H,4.5,3.7,1.7,2013-11-09,2013/2014,12,D1,2-1,1,2.8,2013-11-09WolfsburgDortmund
+10/11/13,Freiburg,Stuttgart,1,3,A,2.65,3.3,2.5,2013-11-10,2013/2014,12,D1,1-3,-2,0.1499999999999999,2013-11-10FreiburgStuttgart
+10/11/13,Mainz,Ein Frankfurt,1,0,H,2.4,3.3,2.75,2013-11-10,2013/2014,12,D1,1-0,1,-0.3500000000000001,2013-11-10MainzEin Frankfurt
+22/11/13,Stuttgart,M'gladbach,0,2,A,2.3,3.3,2.9,2013-11-22,2013/2014,13,D1,0-2,-2,-0.6000000000000001,2013-11-22StuttgartM'gladbach
+23/11/13,Augsburg,Hoffenheim,2,0,H,2.2,3.3,3.1,2013-11-23,2013/2014,13,D1,2-0,2,-0.8999999999999999,2013-11-23AugsburgHoffenheim
+23/11/13,Braunschweig,Freiburg,0,1,A,2.1,3.3,3.3,2013-11-23,2013/2014,13,D1,0-1,-1,-1.1999999999999997,2013-11-23BraunschweigFreiburg
+23/11/13,Dortmund,Bayern Munich,0,3,A,3.5,3.35,2.1,2013-11-23,2013/2014,13,D1,0-3,-3,1.4,2013-11-23DortmundBayern Munich
+23/11/13,Ein Frankfurt,Schalke 04,3,3,D,2.6,3.2,2.6,2013-11-23,2013/2014,13,D1,3-3,0,0.0,2013-11-23Ein FrankfurtSchalke 04
+23/11/13,Hertha,Leverkusen,0,1,A,2.9,3.3,2.3,2013-11-23,2013/2014,13,D1,0-1,-1,0.6000000000000001,2013-11-23HerthaLeverkusen
+23/11/13,Nurnberg,Wolfsburg,1,1,D,3.3,3.3,2.1,2013-11-23,2013/2014,13,D1,1-1,0,1.1999999999999997,2013-11-23NurnbergWolfsburg
+24/11/13,Hamburg,Hannover,3,1,H,2.0,3.3,3.6,2013-11-24,2013/2014,13,D1,3-1,2,-1.6,2013-11-24HamburgHannover
+24/11/13,Werder Bremen,Mainz,2,3,A,2.2,3.3,3.1,2013-11-24,2013/2014,13,D1,2-3,-1,-0.8999999999999999,2013-11-24Werder BremenMainz
+29/11/13,Wolfsburg,Hamburg,1,1,D,1.85,3.5,3.9,2013-11-29,2013/2014,14,D1,1-1,0,-2.05,2013-11-29WolfsburgHamburg
+30/11/13,Bayern Munich,Braunschweig,2,0,H,1.08,9.5,22.0,2013-11-30,2013/2014,14,D1,2-0,2,-20.92,2013-11-30Bayern MunichBraunschweig
+30/11/13,Hertha,Augsburg,0,0,D,2.1,3.3,3.3,2013-11-30,2013/2014,14,D1,0-0,0,-1.1999999999999997,2013-11-30HerthaAugsburg
+30/11/13,Hoffenheim,Werder Bremen,4,4,D,1.9,3.45,3.8,2013-11-30,2013/2014,14,D1,4-4,0,-1.9,2013-11-30HoffenheimWerder Bremen
+30/11/13,Leverkusen,Nurnberg,3,0,H,1.4,4.4,7.3,2013-11-30,2013/2014,14,D1,3-0,3,-5.9,2013-11-30LeverkusenNurnberg
+30/11/13,Mainz,Dortmund,1,3,A,5.1,3.6,1.65,2013-11-30,2013/2014,14,D1,1-3,-2,3.4499999999999997,2013-11-30MainzDortmund
+30/11/13,Schalke 04,Stuttgart,3,0,H,1.8,3.5,4.2,2013-11-30,2013/2014,14,D1,3-0,3,-2.4000000000000004,2013-11-30Schalke 04Stuttgart
+01/12/13,Hannover,Ein Frankfurt,2,0,H,2.45,3.3,2.7,2013-12-01,2013/2014,14,D1,2-0,2,-0.25,2013-12-01HannoverEin Frankfurt
+01/12/13,M'gladbach,Freiburg,1,0,H,1.45,4.0,7.0,2013-12-01,2013/2014,14,D1,1-0,1,-5.55,2013-12-01M'gladbachFreiburg
+06/12/13,Nurnberg,Mainz,1,1,D,2.5,3.3,2.65,2013-12-06,2013/2014,15,D1,1-1,0,-0.1499999999999999,2013-12-06NurnbergMainz
+07/12/13,Dortmund,Leverkusen,0,1,A,1.55,4.0,5.5,2013-12-07,2013/2014,15,D1,0-1,-1,-3.95,2013-12-07DortmundLeverkusen
+07/12/13,Ein Frankfurt,Hoffenheim,1,2,A,2.15,3.3,3.2,2013-12-07,2013/2014,15,D1,1-2,-1,-1.0500000000000003,2013-12-07Ein FrankfurtHoffenheim
+07/12/13,Hamburg,Augsburg,0,1,A,2.0,3.3,3.6,2013-12-07,2013/2014,15,D1,0-1,-1,-1.6,2013-12-07HamburgAugsburg
+07/12/13,M'gladbach,Schalke 04,2,1,H,2.2,3.3,3.1,2013-12-07,2013/2014,15,D1,2-1,1,-0.8999999999999999,2013-12-07M'gladbachSchalke 04
+07/12/13,Stuttgart,Hannover,4,2,H,1.85,3.5,3.9,2013-12-07,2013/2014,15,D1,4-2,2,-2.05,2013-12-07StuttgartHannover
+07/12/13,Werder Bremen,Bayern Munich,0,7,A,9.0,6.0,1.25,2013-12-07,2013/2014,15,D1,0-7,-7,7.75,2013-12-07Werder BremenBayern Munich
+08/12/13,Braunschweig,Hertha,0,2,A,3.0,3.3,2.25,2013-12-08,2013/2014,15,D1,0-2,-2,0.75,2013-12-08BraunschweigHertha
+08/12/13,Freiburg,Wolfsburg,0,3,A,3.2,3.3,2.15,2013-12-08,2013/2014,15,D1,0-3,-3,1.0500000000000003,2013-12-08FreiburgWolfsburg
+13/12/13,Hertha,Werder Bremen,3,2,H,1.7,3.7,4.5,2013-12-13,2013/2014,16,D1,3-2,1,-2.8,2013-12-13HerthaWerder Bremen
+14/12/13,Augsburg,Braunschweig,4,1,H,1.57,3.75,5.6,2013-12-14,2013/2014,16,D1,4-1,3,-4.029999999999999,2013-12-14AugsburgBraunschweig
+14/12/13,Bayern Munich,Hamburg,3,1,H,1.12,8.0,16.0,2013-12-14,2013/2014,16,D1,3-1,2,-14.879999999999999,2013-12-14Bayern MunichHamburg
+14/12/13,Hannover,Nurnberg,3,3,D,2.0,3.3,3.6,2013-12-14,2013/2014,16,D1,3-3,0,-1.6,2013-12-14HannoverNurnberg
+14/12/13,Hoffenheim,Dortmund,2,2,D,4.5,3.7,1.7,2013-12-14,2013/2014,16,D1,2-2,0,2.8,2013-12-14HoffenheimDortmund
+14/12/13,Mainz,M'gladbach,0,0,D,2.65,3.3,2.5,2013-12-14,2013/2014,16,D1,0-0,0,0.1499999999999999,2013-12-14MainzM'gladbach
+14/12/13,Wolfsburg,Stuttgart,3,1,H,1.75,3.5,4.5,2013-12-14,2013/2014,16,D1,3-1,2,-2.75,2013-12-14WolfsburgStuttgart
+15/12/13,Leverkusen,Ein Frankfurt,0,1,A,1.45,4.2,6.5,2013-12-15,2013/2014,16,D1,0-1,-1,-5.05,2013-12-15LeverkusenEin Frankfurt
+15/12/13,Schalke 04,Freiburg,2,0,H,1.4,4.7,6.6,2013-12-15,2013/2014,16,D1,2-0,2,-5.199999999999999,2013-12-15Schalke 04Freiburg
+20/12/13,Ein Frankfurt,Augsburg,1,1,D,2.3,3.3,2.9,2013-12-20,2013/2014,17,D1,1-1,0,-0.6000000000000001,2013-12-20Ein FrankfurtAugsburg
+21/12/13,Braunschweig,Hoffenheim,1,0,H,3.5,3.4,2.0,2013-12-21,2013/2014,17,D1,1-0,1,1.5,2013-12-21BraunschweigHoffenheim
+21/12/13,Dortmund,Hertha,1,2,A,1.4,4.4,7.3,2013-12-21,2013/2014,17,D1,1-2,-1,-5.9,2013-12-21DortmundHertha
+21/12/13,Freiburg,Hannover,2,1,H,2.5,3.4,2.6,2013-12-21,2013/2014,17,D1,2-1,1,-0.10000000000000009,2013-12-21FreiburgHannover
+21/12/13,Hamburg,Mainz,2,3,A,2.0,3.4,3.5,2013-12-21,2013/2014,17,D1,2-3,-1,-1.5,2013-12-21HamburgMainz
+21/12/13,Nurnberg,Schalke 04,0,0,D,3.6,3.3,2.0,2013-12-21,2013/2014,17,D1,0-0,0,1.6,2013-12-21NurnbergSchalke 04
+21/12/13,Werder Bremen,Leverkusen,1,0,H,4.2,3.5,1.8,2013-12-21,2013/2014,17,D1,1-0,1,2.4000000000000004,2013-12-21Werder BremenLeverkusen
+22/12/13,M'gladbach,Wolfsburg,2,2,D,2.0,3.3,3.6,2013-12-22,2013/2014,17,D1,2-2,0,-1.6,2013-12-22M'gladbachWolfsburg
+24/01/14,M'gladbach,Bayern Munich,0,2,A,5.4,3.7,1.6,2014-01-24,2013/2014,17,D1,0-2,-2,3.8000000000000003,2014-01-24M'gladbachBayern Munich
+25/01/14,Dortmund,Augsburg,2,2,D,1.33,5.0,8.0,2014-01-25,2013/2014,18,D1,2-2,0,-6.67,2014-01-25DortmundAugsburg
+25/01/14,Ein Frankfurt,Hertha,1,0,H,2.45,3.3,2.7,2014-01-25,2013/2014,18,D1,1-0,1,-0.25,2014-01-25Ein FrankfurtHertha
+25/01/14,Freiburg,Leverkusen,3,2,H,4.5,3.5,1.75,2014-01-25,2013/2014,18,D1,3-2,1,2.75,2014-01-25FreiburgLeverkusen
+25/01/14,Nurnberg,Hoffenheim,4,0,H,2.4,3.3,2.75,2014-01-25,2013/2014,18,D1,4-0,4,-0.3500000000000001,2014-01-25NurnbergHoffenheim
+25/01/14,Stuttgart,Mainz,1,2,A,2.1,3.3,3.3,2014-01-25,2013/2014,18,D1,1-2,-1,-1.1999999999999997,2014-01-25StuttgartMainz
+25/01/14,Wolfsburg,Hannover,1,3,A,1.65,3.7,4.9,2014-01-25,2013/2014,18,D1,1-3,-2,-3.2500000000000004,2014-01-25WolfsburgHannover
+26/01/14,Hamburg,Schalke 04,0,3,A,2.65,3.3,2.5,2014-01-26,2013/2014,18,D1,0-3,-3,0.1499999999999999,2014-01-26HamburgSchalke 04
+26/01/14,Werder Bremen,Braunschweig,0,0,D,1.7,3.7,4.5,2014-01-26,2013/2014,18,D1,0-0,0,-2.8,2014-01-26Werder BremenBraunschweig
+29/01/14,Stuttgart,Bayern Munich,1,2,A,7.6,4.8,1.35,2014-01-29,2013/2014,18,D1,1-2,-1,6.25,2014-01-29StuttgartBayern Munich
+31/01/14,Braunschweig,Dortmund,1,2,A,7.3,4.4,1.4,2014-01-31,2013/2014,19,D1,1-2,-1,5.9,2014-01-31BraunschweigDortmund
+01/02/14,Augsburg,Werder Bremen,3,1,H,1.75,3.5,4.5,2014-02-01,2013/2014,19,D1,3-1,2,-2.75,2014-02-01AugsburgWerder Bremen
+01/02/14,Hannover,M'gladbach,3,1,H,2.6,3.2,2.6,2014-02-01,2013/2014,19,D1,3-1,2,0.0,2014-02-01HannoverM'gladbach
+01/02/14,Hoffenheim,Hamburg,3,0,H,2.0,3.4,3.5,2014-02-01,2013/2014,19,D1,3-0,3,-1.5,2014-02-01HoffenheimHamburg
+01/02/14,Leverkusen,Stuttgart,2,1,H,1.55,4.0,5.4,2014-02-01,2013/2014,19,D1,2-1,1,-3.8500000000000005,2014-02-01LeverkusenStuttgart
+01/02/14,Mainz,Freiburg,2,0,H,1.8,3.5,4.2,2014-02-01,2013/2014,19,D1,2-0,2,-2.4000000000000004,2014-02-01MainzFreiburg
+01/02/14,Schalke 04,Wolfsburg,2,1,H,2.0,3.3,3.6,2014-02-01,2013/2014,19,D1,2-1,1,-1.6,2014-02-01Schalke 04Wolfsburg
+02/02/14,Bayern Munich,Ein Frankfurt,5,0,H,1.11,8.0,20.0,2014-02-02,2013/2014,19,D1,5-0,5,-18.89,2014-02-02Bayern MunichEin Frankfurt
+02/02/14,Hertha,Nurnberg,1,3,A,1.9,3.5,3.7,2014-02-02,2013/2014,19,D1,1-3,-2,-1.8000000000000003,2014-02-02HerthaNurnberg
+07/02/14,M'gladbach,Leverkusen,0,1,A,2.6,3.2,2.6,2014-02-07,2013/2014,20,D1,0-1,-1,0.0,2014-02-07M'gladbachLeverkusen
+08/02/14,Ein Frankfurt,Braunschweig,3,0,H,1.65,3.6,5.1,2014-02-08,2013/2014,20,D1,3-0,3,-3.4499999999999997,2014-02-08Ein FrankfurtBraunschweig
+08/02/14,Freiburg,Hoffenheim,1,1,D,2.65,3.3,2.5,2014-02-08,2013/2014,20,D1,1-1,0,0.1499999999999999,2014-02-08FreiburgHoffenheim
+08/02/14,Hamburg,Hertha,0,3,A,2.55,3.3,2.6,2014-02-08,2013/2014,20,D1,0-3,-3,-0.050000000000000266,2014-02-08HamburgHertha
+08/02/14,Nurnberg,Bayern Munich,0,2,A,10.0,5.2,1.27,2014-02-08,2013/2014,20,D1,0-2,-2,8.73,2014-02-08NurnbergBayern Munich
+08/02/14,Werder Bremen,Dortmund,1,5,A,7.3,4.4,1.4,2014-02-08,2013/2014,20,D1,1-5,-4,5.9,2014-02-08Werder BremenDortmund
+08/02/14,Wolfsburg,Mainz,3,0,H,1.8,3.5,4.2,2014-02-08,2013/2014,20,D1,3-0,3,-2.4000000000000004,2014-02-08WolfsburgMainz
+09/02/14,Schalke 04,Hannover,2,0,H,1.5,4.0,6.1,2014-02-09,2013/2014,20,D1,2-0,2,-4.6,2014-02-09Schalke 04Hannover
+09/02/14,Stuttgart,Augsburg,1,4,A,2.3,3.3,2.9,2014-02-09,2013/2014,20,D1,1-4,-3,-0.6000000000000001,2014-02-09StuttgartAugsburg
+14/02/14,Mainz,Hannover,2,0,H,1.9,3.45,3.8,2014-02-14,2013/2014,21,D1,2-0,2,-1.9,2014-02-14MainzHannover
+15/02/14,Bayern Munich,Freiburg,4,0,H,1.12,8.0,16.0,2014-02-15,2013/2014,21,D1,4-0,4,-14.879999999999999,2014-02-15Bayern MunichFreiburg
+15/02/14,Braunschweig,Hamburg,4,2,H,2.6,3.2,2.6,2014-02-15,2013/2014,21,D1,4-2,2,0.0,2014-02-15BraunschweigHamburg
+15/02/14,Dortmund,Ein Frankfurt,4,0,H,1.3,5.0,9.0,2014-02-15,2013/2014,21,D1,4-0,4,-7.7,2014-02-15DortmundEin Frankfurt
+15/02/14,Hoffenheim,Stuttgart,4,1,H,1.9,3.45,3.8,2014-02-15,2013/2014,21,D1,4-1,3,-1.9,2014-02-15HoffenheimStuttgart
+15/02/14,Leverkusen,Schalke 04,1,2,A,2.1,3.3,3.3,2014-02-15,2013/2014,21,D1,1-2,-1,-1.1999999999999997,2014-02-15LeverkusenSchalke 04
+15/02/14,Werder Bremen,M'gladbach,1,1,D,3.3,3.3,2.1,2014-02-15,2013/2014,21,D1,1-1,0,1.1999999999999997,2014-02-15Werder BremenM'gladbach
+16/02/14,Augsburg,Nurnberg,0,1,A,1.85,3.45,4.0,2014-02-16,2013/2014,21,D1,0-1,-1,-2.15,2014-02-16AugsburgNurnberg
+16/02/14,Hertha,Wolfsburg,1,2,A,2.5,3.3,2.65,2014-02-16,2013/2014,21,D1,1-2,-1,-0.1499999999999999,2014-02-16HerthaWolfsburg
+21/02/14,Schalke 04,Mainz,0,0,D,1.7,3.6,4.7,2014-02-21,2013/2014,22,D1,0-0,0,-3.0,2014-02-21Schalke 04Mainz
+22/02/14,Freiburg,Augsburg,2,4,A,2.75,3.3,2.4,2014-02-22,2013/2014,22,D1,2-4,-2,0.3500000000000001,2014-02-22FreiburgAugsburg
+22/02/14,Hamburg,Dortmund,3,0,H,7.2,4.8,1.37,2014-02-22,2013/2014,22,D1,3-0,3,5.83,2014-02-22HamburgDortmund
+22/02/14,M'gladbach,Hoffenheim,2,2,D,1.8,3.6,4.0,2014-02-22,2013/2014,22,D1,2-2,0,-2.2,2014-02-22M'gladbachHoffenheim
+22/02/14,Nurnberg,Braunschweig,2,1,H,1.7,3.6,4.7,2014-02-22,2013/2014,22,D1,2-1,1,-3.0,2014-02-22NurnbergBraunschweig
+22/02/14,Stuttgart,Hertha,1,2,A,2.4,3.3,2.75,2014-02-22,2013/2014,22,D1,1-2,-1,-0.3500000000000001,2014-02-22StuttgartHertha
+22/02/14,Wolfsburg,Leverkusen,3,1,H,2.3,3.4,2.85,2014-02-22,2013/2014,22,D1,3-1,2,-0.5500000000000003,2014-02-22WolfsburgLeverkusen
+23/02/14,Ein Frankfurt,Werder Bremen,0,0,D,1.75,3.5,4.5,2014-02-23,2013/2014,22,D1,0-0,0,-2.75,2014-02-23Ein FrankfurtWerder Bremen
+23/02/14,Hannover,Bayern Munich,0,4,A,9.0,6.0,1.25,2014-02-23,2013/2014,22,D1,0-4,-4,7.75,2014-02-23HannoverBayern Munich
+28/02/14,Hertha,Freiburg,0,0,D,1.67,3.55,5.0,2014-02-28,2013/2014,23,D1,0-0,0,-3.33,2014-02-28HerthaFreiburg
+01/03/14,Augsburg,Hannover,1,1,D,1.75,3.5,4.5,2014-03-01,2013/2014,23,D1,1-1,0,-2.75,2014-03-01AugsburgHannover
+01/03/14,Bayern Munich,Schalke 04,5,1,H,1.2,6.0,12.5,2014-03-01,2013/2014,23,D1,5-1,4,-11.3,2014-03-01Bayern MunichSchalke 04
+01/03/14,Braunschweig,M'gladbach,1,1,D,4.0,3.45,1.85,2014-03-01,2013/2014,23,D1,1-1,0,2.15,2014-03-01BraunschweigM'gladbach
+01/03/14,Dortmund,Nurnberg,3,0,H,1.27,5.5,9.0,2014-03-01,2013/2014,23,D1,3-0,3,-7.73,2014-03-01DortmundNurnberg
+01/03/14,Leverkusen,Mainz,0,1,A,1.75,3.5,4.5,2014-03-01,2013/2014,23,D1,0-1,-1,-2.75,2014-03-01LeverkusenMainz
+01/03/14,Werder Bremen,Hamburg,1,0,H,2.55,3.4,2.55,2014-03-01,2013/2014,23,D1,1-0,1,0.0,2014-03-01Werder BremenHamburg
+02/03/14,Ein Frankfurt,Stuttgart,2,1,H,2.0,3.3,3.6,2014-03-02,2013/2014,23,D1,2-1,1,-1.6,2014-03-02Ein FrankfurtStuttgart
+02/03/14,Hoffenheim,Wolfsburg,6,2,H,2.75,3.3,2.4,2014-03-02,2013/2014,23,D1,6-2,4,0.3500000000000001,2014-03-02HoffenheimWolfsburg
+08/03/14,Hamburg,Ein Frankfurt,1,1,D,2.5,3.3,2.65,2014-03-08,2013/2014,24,D1,1-1,0,-0.1499999999999999,2014-03-08HamburgEin Frankfurt
+08/03/14,Hannover,Leverkusen,1,1,D,2.9,3.3,2.3,2014-03-08,2013/2014,24,D1,1-1,0,0.6000000000000001,2014-03-08HannoverLeverkusen
+08/03/14,M'gladbach,Augsburg,1,2,A,2.1,3.3,3.3,2014-03-08,2013/2014,24,D1,1-2,-1,-1.1999999999999997,2014-03-08M'gladbachAugsburg
+08/03/14,Nurnberg,Werder Bremen,0,2,A,1.85,3.45,4.0,2014-03-08,2013/2014,24,D1,0-2,-2,-2.15,2014-03-08NurnbergWerder Bremen
+08/03/14,Schalke 04,Hoffenheim,4,0,H,1.8,3.6,4.0,2014-03-08,2013/2014,24,D1,4-0,4,-2.2,2014-03-08Schalke 04Hoffenheim
+08/03/14,Stuttgart,Braunschweig,2,2,D,1.65,3.8,4.7,2014-03-08,2013/2014,24,D1,2-2,0,-3.0500000000000003,2014-03-08StuttgartBraunschweig
+08/03/14,Wolfsburg,Bayern Munich,1,6,A,8.0,5.0,1.33,2014-03-08,2013/2014,24,D1,1-6,-5,6.67,2014-03-08WolfsburgBayern Munich
+09/03/14,Freiburg,Dortmund,0,1,A,7.1,4.8,1.37,2014-03-09,2013/2014,24,D1,0-1,-1,5.7299999999999995,2014-03-09FreiburgDortmund
+09/03/14,Mainz,Hertha,1,1,D,2.2,3.3,3.1,2014-03-09,2013/2014,24,D1,1-1,0,-0.8999999999999999,2014-03-09MainzHertha
+14/03/14,Augsburg,Schalke 04,1,2,A,2.6,3.2,2.6,2014-03-14,2013/2014,25,D1,1-2,-1,0.0,2014-03-14AugsburgSchalke 04
+15/03/14,Bayern Munich,Leverkusen,2,1,H,1.17,7.0,13.0,2014-03-15,2013/2014,25,D1,2-1,1,-11.83,2014-03-15Bayern MunichLeverkusen
+15/03/14,Braunschweig,Wolfsburg,1,1,D,3.6,3.45,1.95,2014-03-15,2013/2014,25,D1,1-1,0,1.6500000000000001,2014-03-15BraunschweigWolfsburg
+15/03/14,Dortmund,M'gladbach,1,2,A,1.37,4.8,7.2,2014-03-15,2013/2014,25,D1,1-2,-1,-5.83,2014-03-15DortmundM'gladbach
+15/03/14,Hertha,Hannover,0,3,A,1.85,3.45,4.0,2014-03-15,2013/2014,25,D1,0-3,-3,-2.15,2014-03-15HerthaHannover
+15/03/14,Hoffenheim,Mainz,2,4,A,2.2,3.3,3.1,2014-03-15,2013/2014,25,D1,2-4,-2,-0.8999999999999999,2014-03-15HoffenheimMainz
+15/03/14,Werder Bremen,Stuttgart,1,1,D,2.3,3.3,2.9,2014-03-15,2013/2014,25,D1,1-1,0,-0.6000000000000001,2014-03-15Werder BremenStuttgart
+16/03/14,Ein Frankfurt,Freiburg,1,4,A,1.85,3.45,4.0,2014-03-16,2013/2014,25,D1,1-4,-3,-2.15,2014-03-16Ein FrankfurtFreiburg
+16/03/14,Hamburg,Nurnberg,2,1,H,2.2,3.3,3.1,2014-03-16,2013/2014,25,D1,2-1,1,-0.8999999999999999,2014-03-16HamburgNurnberg
+21/03/14,Freiburg,Werder Bremen,3,1,H,2.3,3.3,2.9,2014-03-21,2013/2014,26,D1,3-1,2,-0.6000000000000001,2014-03-21FreiburgWerder Bremen
+22/03/14,Hannover,Dortmund,0,3,A,4.9,3.7,1.65,2014-03-22,2013/2014,26,D1,0-3,-3,3.2500000000000004,2014-03-22HannoverDortmund
+22/03/14,Mainz,Bayern Munich,0,2,A,10.0,5.2,1.27,2014-03-22,2013/2014,26,D1,0-2,-2,8.73,2014-03-22MainzBayern Munich
+22/03/14,M'gladbach,Hertha,3,0,H,1.9,3.45,3.8,2014-03-22,2013/2014,26,D1,3-0,3,-1.9,2014-03-22M'gladbachHertha
+22/03/14,Schalke 04,Braunschweig,3,1,H,1.37,4.6,7.5,2014-03-22,2013/2014,26,D1,3-1,2,-6.13,2014-03-22Schalke 04Braunschweig
+22/03/14,Stuttgart,Hamburg,1,0,H,2.2,3.3,3.1,2014-03-22,2013/2014,26,D1,1-0,1,-0.8999999999999999,2014-03-22StuttgartHamburg
+22/03/14,Wolfsburg,Augsburg,1,1,D,1.9,3.45,3.8,2014-03-22,2013/2014,26,D1,1-1,0,-1.9,2014-03-22WolfsburgAugsburg
+23/03/14,Leverkusen,Hoffenheim,2,3,A,1.8,3.5,4.2,2014-03-23,2013/2014,26,D1,2-3,-1,-2.4000000000000004,2014-03-23LeverkusenHoffenheim
+23/03/14,Nurnberg,Ein Frankfurt,2,5,A,2.3,3.3,2.9,2014-03-23,2013/2014,26,D1,2-5,-3,-0.6000000000000001,2014-03-23NurnbergEin Frankfurt
+25/03/14,Braunschweig,Mainz,3,1,H,2.9,3.3,2.3,2014-03-25,2013/2014,27,D1,3-1,2,0.6000000000000001,2014-03-25BraunschweigMainz
+25/03/14,Hertha,Bayern Munich,1,3,A,12.0,5.5,1.22,2014-03-25,2013/2014,27,D1,1-3,-2,10.78,2014-03-25HerthaBayern Munich
+26/03/14,Augsburg,Leverkusen,1,3,A,2.5,3.3,2.65,2014-03-26,2013/2014,27,D1,1-3,-2,-0.1499999999999999,2014-03-26AugsburgLeverkusen
+26/03/14,Ein Frankfurt,M'gladbach,1,0,H,2.6,3.2,2.6,2014-03-26,2013/2014,27,D1,1-0,1,0.0,2014-03-26Ein FrankfurtM'gladbach
+26/03/14,Hamburg,Freiburg,1,1,D,2.1,3.3,3.3,2014-03-26,2013/2014,27,D1,1-1,0,-1.1999999999999997,2014-03-26HamburgFreiburg
+26/03/14,Hoffenheim,Hannover,3,1,H,2.0,3.3,3.6,2014-03-26,2013/2014,27,D1,3-1,2,-1.6,2014-03-26HoffenheimHannover
+26/03/14,Nurnberg,Stuttgart,2,0,H,2.55,3.35,2.55,2014-03-26,2013/2014,27,D1,2-0,2,0.0,2014-03-26NurnbergStuttgart
+28/03/14,Schalke 04,Hertha,2,0,H,1.67,3.55,5.0,2014-03-28,2013/2014,27,D1,2-0,2,-3.33,2014-03-28Schalke 04Hertha
+29/03/14,Bayern Munich,Hoffenheim,3,3,D,1.15,7.0,15.0,2014-03-29,2013/2014,27,D1,3-3,0,-13.85,2014-03-29Bayern MunichHoffenheim
+29/03/14,Freiburg,Nurnberg,3,2,H,2.1,3.3,3.3,2014-03-29,2013/2014,28,D1,3-2,1,-1.1999999999999997,2014-03-29FreiburgNurnberg
+29/03/14,Leverkusen,Braunschweig,1,1,D,1.4,4.4,7.3,2014-03-29,2013/2014,28,D1,1-1,0,-5.9,2014-03-29LeverkusenBraunschweig
+29/03/14,Mainz,Augsburg,3,0,H,2.3,3.3,2.9,2014-03-29,2013/2014,28,D1,3-0,3,-0.6000000000000001,2014-03-29MainzAugsburg
+29/03/14,Stuttgart,Dortmund,2,3,A,4.5,3.7,1.7,2014-03-29,2013/2014,28,D1,2-3,-1,2.8,2014-03-29StuttgartDortmund
+29/03/14,Wolfsburg,Ein Frankfurt,2,1,H,1.8,3.5,4.2,2014-03-29,2013/2014,28,D1,2-1,1,-2.4000000000000004,2014-03-29WolfsburgEin Frankfurt
+30/03/14,Hannover,Werder Bremen,1,2,A,1.9,3.45,3.8,2014-03-30,2013/2014,28,D1,1-2,-1,-1.9,2014-03-30HannoverWerder Bremen
+30/03/14,M'gladbach,Hamburg,3,1,H,1.75,3.5,4.5,2014-03-30,2013/2014,28,D1,3-1,2,-2.75,2014-03-30M'gladbachHamburg
+04/04/14,Hamburg,Leverkusen,2,1,H,3.0,3.3,2.25,2014-04-04,2013/2014,28,D1,2-1,1,0.75,2014-04-04HamburgLeverkusen
+05/04/14,Augsburg,Bayern Munich,1,0,H,7.3,4.4,1.4,2014-04-05,2013/2014,28,D1,1-0,1,5.9,2014-04-05AugsburgBayern Munich
+05/04/14,Dortmund,Wolfsburg,2,1,H,1.47,4.0,6.6,2014-04-05,2013/2014,29,D1,2-1,1,-5.13,2014-04-05DortmundWolfsburg
+05/04/14,Ein Frankfurt,Mainz,2,0,H,2.4,3.3,2.75,2014-04-05,2013/2014,29,D1,2-0,2,-0.3500000000000001,2014-04-05Ein FrankfurtMainz
+05/04/14,Nurnberg,M'gladbach,0,2,A,3.0,3.3,2.25,2014-04-05,2013/2014,29,D1,0-2,-2,0.75,2014-04-05NurnbergM'gladbach
+05/04/14,Stuttgart,Freiburg,2,0,H,2.0,3.3,3.6,2014-04-05,2013/2014,29,D1,2-0,2,-1.6,2014-04-05StuttgartFreiburg
+05/04/14,Werder Bremen,Schalke 04,1,1,D,3.3,3.3,2.1,2014-04-05,2013/2014,29,D1,1-1,0,1.1999999999999997,2014-04-05Werder BremenSchalke 04
+06/04/14,Braunschweig,Hannover,3,0,H,2.4,3.3,2.75,2014-04-06,2013/2014,29,D1,3-0,3,-0.3500000000000001,2014-04-06BraunschweigHannover
+06/04/14,Hertha,Hoffenheim,1,1,D,2.55,3.35,2.55,2014-04-06,2013/2014,29,D1,1-1,0,0.0,2014-04-06HerthaHoffenheim
+11/04/14,Schalke 04,Ein Frankfurt,2,0,H,1.65,3.6,5.1,2014-04-11,2013/2014,29,D1,2-0,2,-3.4499999999999997,2014-04-11Schalke 04Ein Frankfurt
+12/04/14,Bayern Munich,Dortmund,0,3,A,1.65,3.8,4.8,2014-04-12,2013/2014,29,D1,0-3,-3,-3.15,2014-04-12Bayern MunichDortmund
+12/04/14,Freiburg,Braunschweig,2,0,H,2.0,3.3,3.6,2014-04-12,2013/2014,30,D1,2-0,2,-1.6,2014-04-12FreiburgBraunschweig
+12/04/14,Hannover,Hamburg,2,1,H,2.3,3.4,2.85,2014-04-12,2013/2014,30,D1,2-1,1,-0.5500000000000003,2014-04-12HannoverHamburg
+12/04/14,Mainz,Werder Bremen,3,0,H,1.8,3.5,4.2,2014-04-12,2013/2014,30,D1,3-0,3,-2.4000000000000004,2014-04-12MainzWerder Bremen
+12/04/14,M'gladbach,Stuttgart,1,1,D,1.85,3.45,4.0,2014-04-12,2013/2014,30,D1,1-1,0,-2.15,2014-04-12M'gladbachStuttgart
+12/04/14,Wolfsburg,Nurnberg,4,1,H,1.65,3.6,5.1,2014-04-12,2013/2014,30,D1,4-1,3,-3.4499999999999997,2014-04-12WolfsburgNurnberg
+13/04/14,Hoffenheim,Augsburg,2,0,H,2.3,3.3,2.9,2014-04-13,2013/2014,30,D1,2-0,2,-0.6000000000000001,2014-04-13HoffenheimAugsburg
+13/04/14,Leverkusen,Hertha,2,1,H,1.6,3.9,5.0,2014-04-13,2013/2014,30,D1,2-1,1,-3.4,2014-04-13LeverkusenHertha
+17/04/14,Ein Frankfurt,Hannover,2,3,A,2.0,3.1,3.9,2014-04-17,2013/2014,30,D1,2-3,-1,-1.9,2014-04-17Ein FrankfurtHannover
+19/04/14,Augsburg,Hertha,0,0,D,1.9,3.45,3.8,2014-04-19,2013/2014,30,D1,0-0,0,-1.9,2014-04-19AugsburgHertha
+19/04/14,Braunschweig,Bayern Munich,0,2,A,6.1,4.0,1.5,2014-04-19,2013/2014,31,D1,0-2,-2,4.6,2014-04-19BraunschweigBayern Munich
+19/04/14,Dortmund,Mainz,4,2,H,1.35,4.8,7.6,2014-04-19,2013/2014,31,D1,4-2,2,-6.25,2014-04-19DortmundMainz
+19/04/14,Freiburg,M'gladbach,4,2,H,2.85,3.4,2.3,2014-04-19,2013/2014,31,D1,4-2,2,0.5500000000000003,2014-04-19FreiburgM'gladbach
+19/04/14,Hamburg,Wolfsburg,1,3,A,2.6,3.4,2.5,2014-04-19,2013/2014,31,D1,1-3,-2,0.10000000000000009,2014-04-19HamburgWolfsburg
+19/04/14,Werder Bremen,Hoffenheim,3,1,H,2.65,3.3,2.5,2014-04-19,2013/2014,31,D1,3-1,2,0.1499999999999999,2014-04-19Werder BremenHoffenheim
+20/04/14,Nurnberg,Leverkusen,1,4,A,3.7,3.5,1.9,2014-04-20,2013/2014,31,D1,1-4,-3,1.8000000000000003,2014-04-20NurnbergLeverkusen
+20/04/14,Stuttgart,Schalke 04,3,1,H,2.55,3.35,2.55,2014-04-20,2013/2014,31,D1,3-1,2,0.0,2014-04-20StuttgartSchalke 04
+25/04/14,Hannover,Stuttgart,0,0,D,3.0,3.1,2.4,2014-04-25,2013/2014,31,D1,0-0,0,0.6000000000000001,2014-04-25HannoverStuttgart
+26/04/14,Bayern Munich,Werder Bremen,5,2,H,1.22,5.5,12.0,2014-04-26,2013/2014,31,D1,5-2,3,-10.78,2014-04-26Bayern MunichWerder Bremen
+26/04/14,Hertha,Braunschweig,2,0,H,2.05,3.3,3.5,2014-04-26,2013/2014,32,D1,2-0,2,-1.4500000000000002,2014-04-26HerthaBraunschweig
+26/04/14,Hoffenheim,Ein Frankfurt,0,0,D,1.9,3.45,3.8,2014-04-26,2013/2014,32,D1,0-0,0,-1.9,2014-04-26HoffenheimEin Frankfurt
+26/04/14,Leverkusen,Dortmund,2,2,D,2.75,3.3,2.4,2014-04-26,2013/2014,32,D1,2-2,0,0.3500000000000001,2014-04-26LeverkusenDortmund
+26/04/14,Mainz,Nurnberg,2,0,H,1.65,3.6,5.1,2014-04-26,2013/2014,32,D1,2-0,2,-3.4499999999999997,2014-04-26MainzNurnberg
+26/04/14,Wolfsburg,Freiburg,2,2,D,1.42,4.4,7.0,2014-04-26,2013/2014,32,D1,2-2,0,-5.58,2014-04-26WolfsburgFreiburg
+27/04/14,Augsburg,Hamburg,3,1,H,1.9,3.45,3.8,2014-04-27,2013/2014,32,D1,3-1,2,-1.9,2014-04-27AugsburgHamburg
+27/04/14,Schalke 04,M'gladbach,0,1,A,1.9,3.45,3.8,2014-04-27,2013/2014,32,D1,0-1,-1,-1.9,2014-04-27Schalke 04M'gladbach
+03/05/14,Braunschweig,Augsburg,0,1,A,2.4,3.5,2.65,2014-05-03,2013/2014,32,D1,0-1,-1,-0.25,2014-05-03BraunschweigAugsburg
+03/05/14,Dortmund,Hoffenheim,3,2,H,1.37,5.0,6.7,2014-05-03,2013/2014,32,D1,3-2,1,-5.33,2014-05-03DortmundHoffenheim
+03/05/14,Ein Frankfurt,Leverkusen,0,2,A,4.5,4.0,1.65,2014-05-03,2013/2014,33,D1,0-2,-2,2.85,2014-05-03Ein FrankfurtLeverkusen
+03/05/14,Freiburg,Schalke 04,0,2,A,3.5,3.4,2.0,2014-05-03,2013/2014,33,D1,0-2,-2,1.5,2014-05-03FreiburgSchalke 04
+03/05/14,Hamburg,Bayern Munich,1,4,A,5.2,4.5,1.5,2014-05-03,2013/2014,33,D1,1-4,-3,3.7,2014-05-03HamburgBayern Munich
+03/05/14,M'gladbach,Mainz,3,1,H,1.85,3.5,3.9,2014-05-03,2013/2014,33,D1,3-1,2,-2.05,2014-05-03M'gladbachMainz
+03/05/14,Nurnberg,Hannover,0,2,A,1.85,3.6,3.8,2014-05-03,2013/2014,33,D1,0-2,-2,-1.9499999999999997,2014-05-03NurnbergHannover
+03/05/14,Stuttgart,Wolfsburg,1,2,A,2.75,3.3,2.4,2014-05-03,2013/2014,33,D1,1-2,-1,0.3500000000000001,2014-05-03StuttgartWolfsburg
+03/05/14,Werder Bremen,Hertha,2,0,H,2.4,3.4,2.7,2014-05-03,2013/2014,33,D1,2-0,2,-0.30000000000000027,2014-05-03Werder BremenHertha
+10/05/14,Augsburg,Ein Frankfurt,2,1,H,1.5,4.2,5.7,2014-05-10,2013/2014,33,D1,2-1,1,-4.2,2014-05-10AugsburgEin Frankfurt
+10/05/14,Bayern Munich,Stuttgart,1,0,H,1.2,6.5,11.0,2014-05-10,2013/2014,33,D1,1-0,1,-9.8,2014-05-10Bayern MunichStuttgart

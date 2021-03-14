@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+10/08/07,Stuttgart,Schalke 04,2,2,D,2.3,3.1,2.8,2007-08-10,2007/2008,1,D1,2-2,0,-0.5,2007-08-10StuttgartSchalke 04
+11/08/07,Bayern Munich,Hansa Rostock,3,0,H,1.2,5.2,11.0,2007-08-11,2007/2008,1,D1,3-0,3,-9.8,2007-08-11Bayern MunichHansa Rostock
+11/08/07,Bochum,Werder Bremen,2,2,D,3.2,3.1,2.1,2007-08-11,2007/2008,1,D1,2-2,0,1.1,2007-08-11BochumWerder Bremen
+11/08/07,Ein Frankfurt,Hertha,1,0,H,2.2,3.1,3.0,2007-08-11,2007/2008,1,D1,1-0,1,-0.7999999999999998,2007-08-11Ein FrankfurtHertha
+11/08/07,Hannover,Hamburg,0,1,A,2.5,3.1,2.6,2007-08-11,2007/2008,1,D1,0-1,-1,-0.10000000000000009,2007-08-11HannoverHamburg
+11/08/07,Leverkusen,Cottbus,0,0,D,1.55,3.7,5.0,2007-08-11,2007/2008,1,D1,0-0,0,-3.45,2007-08-11LeverkusenCottbus
+11/08/07,Wolfsburg,Bielefeld,1,3,A,1.75,3.3,4.0,2007-08-11,2007/2008,1,D1,1-3,-2,-2.25,2007-08-11WolfsburgBielefeld
+12/08/07,Dortmund,Duisburg,1,3,A,1.55,3.7,5.0,2007-08-12,2007/2008,1,D1,1-3,-2,-3.45,2007-08-12DortmundDuisburg
+12/08/07,Nurnberg,Karlsruhe,0,2,A,1.9,3.2,3.6,2007-08-12,2007/2008,1,D1,0-2,-2,-1.7000000000000002,2007-08-12NurnbergKarlsruhe
+17/08/07,Karlsruhe,Hannover,1,2,A,2.2,3.1,3.0,2007-08-17,2007/2008,2,D1,1-2,-1,-0.7999999999999998,2007-08-17KarlsruheHannover
+18/08/07,Bielefeld,Ein Frankfurt,2,2,D,2.1,3.1,3.2,2007-08-18,2007/2008,2,D1,2-2,0,-1.1,2007-08-18BielefeldEin Frankfurt
+18/08/07,Duisburg,Wolfsburg,1,3,A,2.2,3.1,3.0,2007-08-18,2007/2008,2,D1,1-3,-2,-0.7999999999999998,2007-08-18DuisburgWolfsburg
+18/08/07,Hansa Rostock,Nurnberg,1,2,A,2.4,3.2,2.6,2007-08-18,2007/2008,2,D1,1-2,-1,-0.20000000000000018,2007-08-18Hansa RostockNurnberg
+18/08/07,Hertha,Stuttgart,3,1,H,2.8,3.1,2.3,2007-08-18,2007/2008,2,D1,3-1,2,0.5,2007-08-18HerthaStuttgart
+18/08/07,Schalke 04,Dortmund,4,1,H,1.85,3.2,3.8,2007-08-18,2007/2008,2,D1,4-1,3,-1.9499999999999997,2007-08-18Schalke 04Dortmund
+18/08/07,Werder Bremen,Bayern Munich,0,4,A,3.2,3.1,2.1,2007-08-18,2007/2008,2,D1,0-4,-4,1.1,2007-08-18Werder BremenBayern Munich
+19/08/07,Cottbus,Bochum,1,2,A,2.2,3.1,3.0,2007-08-19,2007/2008,2,D1,1-2,-1,-0.7999999999999998,2007-08-19CottbusBochum
+19/08/07,Hamburg,Leverkusen,1,0,H,1.85,3.2,3.8,2007-08-19,2007/2008,2,D1,1-0,1,-1.9499999999999997,2007-08-19HamburgLeverkusen
+24/08/07,Bochum,Hamburg,2,1,H,2.55,3.1,2.55,2007-08-24,2007/2008,3,D1,2-1,1,0.0,2007-08-24BochumHamburg
+25/08/07,Bayern Munich,Hannover,3,0,H,1.2,5.2,11.0,2007-08-25,2007/2008,3,D1,3-0,3,-9.8,2007-08-25Bayern MunichHannover
+25/08/07,Bielefeld,Hertha,2,0,H,2.2,3.2,2.9,2007-08-25,2007/2008,3,D1,2-0,2,-0.6999999999999997,2007-08-25BielefeldHertha
+25/08/07,Dortmund,Cottbus,3,0,H,1.6,3.6,4.8,2007-08-25,2007/2008,3,D1,3-0,3,-3.1999999999999997,2007-08-25DortmundCottbus
+25/08/07,Leverkusen,Karlsruhe,3,0,H,1.55,3.7,5.0,2007-08-25,2007/2008,3,D1,3-0,3,-3.45,2007-08-25LeverkusenKarlsruhe
+25/08/07,Nurnberg,Werder Bremen,0,1,A,2.5,3.2,2.5,2007-08-25,2007/2008,3,D1,0-1,-1,0.0,2007-08-25NurnbergWerder Bremen
+25/08/07,Stuttgart,Duisburg,1,0,H,1.55,3.7,5.0,2007-08-25,2007/2008,3,D1,1-0,1,-3.45,2007-08-25StuttgartDuisburg
+26/08/07,Ein Frankfurt,Hansa Rostock,1,0,H,1.8,3.2,4.0,2007-08-26,2007/2008,3,D1,1-0,1,-2.2,2007-08-26Ein FrankfurtHansa Rostock
+26/08/07,Wolfsburg,Schalke 04,1,1,D,3.0,3.1,2.2,2007-08-26,2007/2008,3,D1,1-1,0,0.7999999999999998,2007-08-26WolfsburgSchalke 04
+31/08/07,Schalke 04,Leverkusen,1,1,D,1.8,3.2,4.0,2007-08-31,2007/2008,4,D1,1-1,0,-2.2,2007-08-31Schalke 04Leverkusen
+01/09/07,Cottbus,Nurnberg,1,1,D,2.5,3.2,2.5,2007-09-01,2007/2008,4,D1,1-1,0,0.0,2007-09-01CottbusNurnberg
+01/09/07,Duisburg,Bielefeld,3,0,H,2.3,3.1,2.8,2007-09-01,2007/2008,4,D1,3-0,3,-0.5,2007-09-01DuisburgBielefeld
+01/09/07,Hannover,Bochum,3,2,H,2.1,3.1,3.2,2007-09-01,2007/2008,4,D1,3-2,1,-1.1,2007-09-01HannoverBochum
+01/09/07,Hansa Rostock,Dortmund,0,1,A,2.7,3.2,2.3,2007-09-01,2007/2008,4,D1,0-1,-1,0.40000000000000036,2007-09-01Hansa RostockDortmund
+01/09/07,Hertha,Wolfsburg,2,1,H,2.1,3.2,3.1,2007-09-01,2007/2008,4,D1,2-1,1,-1.0,2007-09-01HerthaWolfsburg
+01/09/07,Werder Bremen,Ein Frankfurt,2,1,H,1.5,3.8,5.5,2007-09-01,2007/2008,4,D1,2-1,1,-4.0,2007-09-01Werder BremenEin Frankfurt
+02/09/07,Hamburg,Bayern Munich,1,1,D,4.0,3.2,1.8,2007-09-02,2007/2008,4,D1,1-1,0,2.2,2007-09-02HamburgBayern Munich
+02/09/07,Karlsruhe,Stuttgart,1,0,H,3.2,3.1,2.1,2007-09-02,2007/2008,4,D1,1-0,1,1.1,2007-09-02KarlsruheStuttgart
+14/09/07,Dortmund,Werder Bremen,3,0,H,2.5,3.2,2.5,2007-09-14,2007/2008,5,D1,3-0,3,0.0,2007-09-14DortmundWerder Bremen
+15/09/07,Bayern Munich,Schalke 04,1,1,D,1.45,3.9,6.0,2007-09-15,2007/2008,5,D1,1-1,0,-4.55,2007-09-15Bayern MunichSchalke 04
+15/09/07,Bielefeld,Hansa Rostock,4,2,H,1.7,3.4,4.3,2007-09-15,2007/2008,5,D1,4-2,2,-2.5999999999999996,2007-09-15BielefeldHansa Rostock
+15/09/07,Ein Frankfurt,Hamburg,2,1,H,2.5,3.2,2.5,2007-09-15,2007/2008,5,D1,2-1,1,0.0,2007-09-15Ein FrankfurtHamburg
+15/09/07,Leverkusen,Bochum,2,0,H,1.6,3.6,4.8,2007-09-15,2007/2008,5,D1,2-0,2,-3.1999999999999997,2007-09-15LeverkusenBochum
+15/09/07,Nurnberg,Hannover,2,2,D,2.0,3.2,3.3,2007-09-15,2007/2008,5,D1,2-2,0,-1.2999999999999998,2007-09-15NurnbergHannover
+15/09/07,Stuttgart,Cottbus,3,0,H,1.4,4.0,6.5,2007-09-15,2007/2008,5,D1,3-0,3,-5.1,2007-09-15StuttgartCottbus
+16/09/07,Duisburg,Hertha,1,2,A,2.4,3.2,2.6,2007-09-16,2007/2008,5,D1,1-2,-1,-0.20000000000000018,2007-09-16DuisburgHertha
+16/09/07,Wolfsburg,Karlsruhe,1,2,A,1.75,3.3,4.2,2007-09-16,2007/2008,5,D1,1-2,-1,-2.45,2007-09-16WolfsburgKarlsruhe
+21/09/07,Bochum,Ein Frankfurt,0,0,D,2.1,3.1,3.2,2007-09-21,2007/2008,6,D1,0-0,0,-1.1,2007-09-21BochumEin Frankfurt
+22/09/07,Cottbus,Wolfsburg,1,2,A,2.5,3.2,2.5,2007-09-22,2007/2008,6,D1,1-2,-1,0.0,2007-09-22CottbusWolfsburg
+22/09/07,Hamburg,Nurnberg,1,0,H,1.6,3.6,4.8,2007-09-22,2007/2008,6,D1,1-0,1,-3.1999999999999997,2007-09-22HamburgNurnberg
+22/09/07,Hansa Rostock,Duisburg,2,0,H,2.2,3.2,2.9,2007-09-22,2007/2008,6,D1,2-0,2,-0.6999999999999997,2007-09-22Hansa RostockDuisburg
+22/09/07,Hertha,Dortmund,3,2,H,2.3,3.1,2.8,2007-09-22,2007/2008,6,D1,3-2,1,-0.5,2007-09-22HerthaDortmund
+22/09/07,Schalke 04,Bielefeld,3,0,H,1.45,3.9,6.0,2007-09-22,2007/2008,6,D1,3-0,3,-4.55,2007-09-22Schalke 04Bielefeld
+22/09/07,Werder Bremen,Stuttgart,4,1,H,2.0,3.2,3.3,2007-09-22,2007/2008,6,D1,4-1,3,-1.2999999999999998,2007-09-22Werder BremenStuttgart
+23/09/07,Hannover,Leverkusen,0,3,A,2.5,3.2,2.5,2007-09-23,2007/2008,6,D1,0-3,-3,0.0,2007-09-23HannoverLeverkusen
+23/09/07,Karlsruhe,Bayern Munich,1,4,A,4.8,3.6,1.6,2007-09-23,2007/2008,6,D1,1-4,-3,3.1999999999999997,2007-09-23KarlsruheBayern Munich
+25/09/07,Dortmund,Hamburg,0,3,A,2.2,3.2,2.9,2007-09-25,2007/2008,7,D1,0-3,-3,-0.6999999999999997,2007-09-25DortmundHamburg
+25/09/07,Duisburg,Schalke 04,0,2,A,3.8,3.2,1.85,2007-09-25,2007/2008,7,D1,0-2,-2,1.9499999999999997,2007-09-25DuisburgSchalke 04
+25/09/07,Hertha,Hansa Rostock,1,3,A,1.5,3.8,5.5,2007-09-25,2007/2008,7,D1,1-3,-2,-4.0,2007-09-25HerthaHansa Rostock
+25/09/07,Wolfsburg,Werder Bremen,1,1,D,2.9,3.2,2.2,2007-09-25,2007/2008,7,D1,1-1,0,0.6999999999999997,2007-09-25WolfsburgWerder Bremen
+26/09/07,Bayern Munich,Cottbus,5,0,H,1.12,6.5,14.0,2007-09-26,2007/2008,7,D1,5-0,5,-12.879999999999999,2007-09-26Bayern MunichCottbus
+26/09/07,Bielefeld,Hannover,0,2,A,2.2,3.1,3.0,2007-09-26,2007/2008,7,D1,0-2,-2,-0.7999999999999998,2007-09-26BielefeldHannover
+26/09/07,Ein Frankfurt,Karlsruhe,0,1,A,1.75,3.3,4.2,2007-09-26,2007/2008,7,D1,0-1,-1,-2.45,2007-09-26Ein FrankfurtKarlsruhe
+26/09/07,Nurnberg,Leverkusen,1,2,A,2.6,3.2,2.4,2007-09-26,2007/2008,7,D1,1-2,-1,0.20000000000000018,2007-09-26NurnbergLeverkusen
+26/09/07,Stuttgart,Bochum,1,0,H,1.55,3.7,5.0,2007-09-26,2007/2008,7,D1,1-0,1,-3.45,2007-09-26StuttgartBochum
+28/09/07,Schalke 04,Hertha,1,0,H,1.55,3.7,5.0,2007-09-28,2007/2008,8,D1,1-0,1,-3.45,2007-09-28Schalke 04Hertha
+29/09/07,Bochum,Nurnberg,3,3,D,2.2,3.1,3.0,2007-09-29,2007/2008,8,D1,3-3,0,-0.7999999999999998,2007-09-29BochumNurnberg
+29/09/07,Hamburg,Wolfsburg,2,2,D,1.6,3.6,4.8,2007-09-29,2007/2008,8,D1,2-2,0,-3.1999999999999997,2007-09-29HamburgWolfsburg
+29/09/07,Hansa Rostock,Stuttgart,2,1,H,3.1,3.2,2.1,2007-09-29,2007/2008,8,D1,2-1,1,1.0,2007-09-29Hansa RostockStuttgart
+29/09/07,Karlsruhe,Dortmund,3,1,H,2.4,3.2,2.6,2007-09-29,2007/2008,8,D1,3-1,2,-0.20000000000000018,2007-09-29KarlsruheDortmund
+29/09/07,Leverkusen,Bayern Munich,0,1,A,3.8,3.2,1.85,2007-09-29,2007/2008,8,D1,0-1,-1,1.9499999999999997,2007-09-29LeverkusenBayern Munich
+29/09/07,Werder Bremen,Bielefeld,8,1,H,1.4,4.0,6.5,2007-09-29,2007/2008,8,D1,8-1,7,-5.1,2007-09-29Werder BremenBielefeld
+30/09/07,Cottbus,Ein Frankfurt,2,2,D,2.6,3.2,2.4,2007-09-30,2007/2008,8,D1,2-2,0,0.20000000000000018,2007-09-30CottbusEin Frankfurt
+30/09/07,Hannover,Duisburg,2,1,H,1.65,3.5,4.5,2007-09-30,2007/2008,8,D1,2-1,1,-2.85,2007-09-30HannoverDuisburg
+05/10/07,Dortmund,Bochum,2,1,H,1.8,3.2,4.0,2007-10-05,2007/2008,9,D1,2-1,1,-2.2,2007-10-05DortmundBochum
+06/10/07,Bielefeld,Hamburg,0,1,A,2.8,3.1,2.3,2007-10-06,2007/2008,9,D1,0-1,-1,0.5,2007-10-06BielefeldHamburg
+06/10/07,Duisburg,Werder Bremen,1,3,A,4.2,3.3,1.75,2007-10-06,2007/2008,9,D1,1-3,-2,2.45,2007-10-06DuisburgWerder Bremen
+06/10/07,Hertha,Cottbus,0,0,D,1.45,3.9,6.0,2007-10-06,2007/2008,9,D1,0-0,0,-4.55,2007-10-06HerthaCottbus
+06/10/07,Schalke 04,Karlsruhe,0,2,A,1.45,3.9,6.0,2007-10-06,2007/2008,9,D1,0-2,-2,-4.55,2007-10-06Schalke 04Karlsruhe
+06/10/07,Stuttgart,Hannover,0,2,A,1.7,3.4,4.3,2007-10-06,2007/2008,9,D1,0-2,-2,-2.5999999999999996,2007-10-06StuttgartHannover
+06/10/07,Wolfsburg,Hansa Rostock,1,0,H,1.7,3.4,4.3,2007-10-06,2007/2008,9,D1,1-0,1,-2.5999999999999996,2007-10-06WolfsburgHansa Rostock
+07/10/07,Bayern Munich,Nurnberg,3,0,H,1.22,5.0,10.0,2007-10-07,2007/2008,9,D1,3-0,3,-8.78,2007-10-07Bayern MunichNurnberg
+07/10/07,Ein Frankfurt,Leverkusen,2,1,H,2.5,3.2,2.5,2007-10-07,2007/2008,9,D1,2-1,1,0.0,2007-10-07Ein FrankfurtLeverkusen
+19/10/07,Cottbus,Duisburg,1,2,A,2.1,3.2,3.1,2007-10-19,2007/2008,10,D1,1-2,-1,-1.0,2007-10-19CottbusDuisburg
+20/10/07,Bochum,Bayern Munich,1,2,A,6.0,3.9,1.45,2007-10-20,2007/2008,10,D1,1-2,-1,4.55,2007-10-20BochumBayern Munich
+20/10/07,Hamburg,Stuttgart,4,1,H,1.9,3.2,3.6,2007-10-20,2007/2008,10,D1,4-1,3,-1.7000000000000002,2007-10-20HamburgStuttgart
+20/10/07,Hansa Rostock,Schalke 04,1,1,D,4.0,3.2,1.8,2007-10-20,2007/2008,10,D1,1-1,0,2.2,2007-10-20Hansa RostockSchalke 04
+20/10/07,Leverkusen,Dortmund,2,2,D,1.8,3.2,4.0,2007-10-20,2007/2008,10,D1,2-2,0,-2.2,2007-10-20LeverkusenDortmund
+20/10/07,Nurnberg,Ein Frankfurt,5,1,H,2.2,3.2,2.9,2007-10-20,2007/2008,10,D1,5-1,4,-0.6999999999999997,2007-10-20NurnbergEin Frankfurt
+20/10/07,Werder Bremen,Hertha,3,2,H,1.45,3.9,6.0,2007-10-20,2007/2008,10,D1,3-2,1,-4.55,2007-10-20Werder BremenHertha
+21/10/07,Hannover,Wolfsburg,2,2,D,2.2,3.2,2.9,2007-10-21,2007/2008,10,D1,2-2,0,-0.6999999999999997,2007-10-21HannoverWolfsburg
+21/10/07,Karlsruhe,Bielefeld,0,0,D,1.8,3.2,4.0,2007-10-21,2007/2008,10,D1,0-0,0,-2.2,2007-10-21KarlsruheBielefeld
+26/10/07,Ein Frankfurt,Hannover,0,0,D,2.2,3.2,2.9,2007-10-26,2007/2008,11,D1,0-0,0,-0.6999999999999997,2007-10-26Ein FrankfurtHannover
+27/10/07,Bielefeld,Cottbus,1,1,D,1.75,3.3,4.2,2007-10-27,2007/2008,11,D1,1-1,0,-2.45,2007-10-27BielefeldCottbus
+27/10/07,Hansa Rostock,Karlsruhe,0,0,D,2.5,3.2,2.5,2007-10-27,2007/2008,11,D1,0-0,0,0.0,2007-10-27Hansa RostockKarlsruhe
+27/10/07,Hertha,Bochum,2,0,H,1.75,3.3,4.2,2007-10-27,2007/2008,11,D1,2-0,2,-2.45,2007-10-27HerthaBochum
+27/10/07,Schalke 04,Werder Bremen,1,1,D,2.3,3.2,2.7,2007-10-27,2007/2008,11,D1,1-1,0,-0.40000000000000036,2007-10-27Schalke 04Werder Bremen
+27/10/07,Stuttgart,Leverkusen,1,0,H,2.3,3.2,2.7,2007-10-27,2007/2008,11,D1,1-0,1,-0.40000000000000036,2007-10-27StuttgartLeverkusen
+27/10/07,Wolfsburg,Nurnberg,3,1,H,2.0,3.2,3.3,2007-10-27,2007/2008,11,D1,3-1,2,-1.2999999999999998,2007-10-27WolfsburgNurnberg
+28/10/07,Dortmund,Bayern Munich,0,0,D,4.2,3.3,1.75,2007-10-28,2007/2008,11,D1,0-0,0,2.45,2007-10-28DortmundBayern Munich
+28/10/07,Duisburg,Hamburg,0,1,A,3.8,3.2,1.85,2007-10-28,2007/2008,11,D1,0-1,-1,1.9499999999999997,2007-10-28DuisburgHamburg
+02/11/07,Cottbus,Schalke 04,1,0,H,4.2,3.3,1.75,2007-11-02,2007/2008,12,D1,1-0,1,2.45,2007-11-02CottbusSchalke 04
+03/11/07,Bayern Munich,Ein Frankfurt,0,0,D,1.22,5.0,10.0,2007-11-03,2007/2008,12,D1,0-0,0,-8.78,2007-11-03Bayern MunichEin Frankfurt
+03/11/07,Hamburg,Hertha,2,1,H,1.6,3.6,4.8,2007-11-03,2007/2008,12,D1,2-1,1,-3.1999999999999997,2007-11-03HamburgHertha
+03/11/07,Hannover,Dortmund,2,1,H,2.3,3.1,2.8,2007-11-03,2007/2008,12,D1,2-1,1,-0.5,2007-11-03HannoverDortmund
+03/11/07,Leverkusen,Bielefeld,4,0,H,1.55,3.7,5.0,2007-11-03,2007/2008,12,D1,4-0,4,-3.45,2007-11-03LeverkusenBielefeld
+03/11/07,Nurnberg,Stuttgart,0,1,A,2.5,3.2,2.5,2007-11-03,2007/2008,12,D1,0-1,-1,0.0,2007-11-03NurnbergStuttgart
+03/11/07,Werder Bremen,Hansa Rostock,1,0,H,1.33,4.2,8.0,2007-11-03,2007/2008,12,D1,1-0,1,-6.67,2007-11-03Werder BremenHansa Rostock
+04/11/07,Bochum,Wolfsburg,5,3,H,2.55,3.1,2.55,2007-11-04,2007/2008,12,D1,5-3,2,0.0,2007-11-04BochumWolfsburg
+04/11/07,Karlsruhe,Duisburg,1,0,H,1.8,3.2,4.0,2007-11-04,2007/2008,12,D1,1-0,1,-2.2,2007-11-04KarlsruheDuisburg
+09/11/07,Duisburg,Bochum,0,2,A,2.3,3.2,2.7,2007-11-09,2007/2008,13,D1,0-2,-2,-0.40000000000000036,2007-11-09DuisburgBochum
+10/11/07,Dortmund,Ein Frankfurt,1,1,D,1.8,3.2,4.0,2007-11-10,2007/2008,13,D1,1-1,0,-2.2,2007-11-10DortmundEin Frankfurt
+10/11/07,Hansa Rostock,Cottbus,3,2,H,2.0,3.2,3.3,2007-11-10,2007/2008,13,D1,3-2,1,-1.2999999999999998,2007-11-10Hansa RostockCottbus
+10/11/07,Hertha,Hannover,1,0,H,2.1,3.2,3.1,2007-11-10,2007/2008,13,D1,1-0,1,-1.0,2007-11-10HerthaHannover
+10/11/07,Schalke 04,Hamburg,1,1,D,2.2,3.1,3.0,2007-11-10,2007/2008,13,D1,1-1,0,-0.7999999999999998,2007-11-10Schalke 04Hamburg
+10/11/07,Stuttgart,Bayern Munich,3,1,H,4.0,3.2,1.8,2007-11-10,2007/2008,13,D1,3-1,2,2.2,2007-11-10StuttgartBayern Munich
+10/11/07,Werder Bremen,Karlsruhe,4,0,H,1.5,3.8,5.5,2007-11-10,2007/2008,13,D1,4-0,4,-4.0,2007-11-10Werder BremenKarlsruhe
+11/11/07,Bielefeld,Nurnberg,3,1,H,2.3,3.1,2.8,2007-11-11,2007/2008,13,D1,3-1,2,-0.5,2007-11-11BielefeldNurnberg
+11/11/07,Wolfsburg,Leverkusen,1,2,A,2.3,3.1,2.8,2007-11-11,2007/2008,13,D1,1-2,-1,-0.5,2007-11-11WolfsburgLeverkusen
+23/11/07,Karlsruhe,Hertha,2,1,H,2.2,3.2,2.9,2007-11-23,2007/2008,14,D1,2-1,1,-0.6999999999999997,2007-11-23KarlsruheHertha
+24/11/07,Bayern Munich,Wolfsburg,2,1,H,1.22,5.0,10.0,2007-11-24,2007/2008,14,D1,2-1,1,-8.78,2007-11-24Bayern MunichWolfsburg
+24/11/07,Bochum,Bielefeld,3,0,H,1.9,3.2,3.6,2007-11-24,2007/2008,14,D1,3-0,3,-1.7000000000000002,2007-11-24BochumBielefeld
+24/11/07,Cottbus,Werder Bremen,0,2,A,4.3,3.4,1.7,2007-11-24,2007/2008,14,D1,0-2,-2,2.5999999999999996,2007-11-24CottbusWerder Bremen
+24/11/07,Ein Frankfurt,Stuttgart,1,4,A,2.5,3.2,2.5,2007-11-24,2007/2008,14,D1,1-4,-3,0.0,2007-11-24Ein FrankfurtStuttgart
+24/11/07,Hannover,Schalke 04,2,3,A,2.55,3.1,2.55,2007-11-24,2007/2008,14,D1,2-3,-1,0.0,2007-11-24HannoverSchalke 04
+24/11/07,Leverkusen,Duisburg,4,1,H,1.4,4.0,6.5,2007-11-24,2007/2008,14,D1,4-1,3,-5.1,2007-11-24LeverkusenDuisburg
+25/11/07,Hamburg,Hansa Rostock,2,0,H,1.35,4.2,7.5,2007-11-25,2007/2008,14,D1,2-0,2,-6.15,2007-11-25HamburgHansa Rostock
+25/11/07,Nurnberg,Dortmund,2,0,H,2.55,3.1,2.55,2007-11-25,2007/2008,14,D1,2-0,2,0.0,2007-11-25NurnbergDortmund
+30/11/07,Hansa Rostock,Hannover,0,3,A,2.5,3.1,2.6,2007-11-30,2007/2008,15,D1,0-3,-3,-0.10000000000000009,2007-11-30Hansa RostockHannover
+01/12/07,Cottbus,Karlsruhe,2,0,H,2.55,3.1,2.55,2007-12-01,2007/2008,15,D1,2-0,2,0.0,2007-12-01CottbusKarlsruhe
+01/12/07,Hertha,Leverkusen,0,3,A,2.4,3.2,2.6,2007-12-01,2007/2008,15,D1,0-3,-3,-0.20000000000000018,2007-12-01HerthaLeverkusen
+01/12/07,Schalke 04,Bochum,1,0,H,1.5,3.8,5.5,2007-12-01,2007/2008,15,D1,1-0,1,-4.0,2007-12-01Schalke 04Bochum
+01/12/07,Stuttgart,Dortmund,1,2,A,1.65,3.5,4.5,2007-12-01,2007/2008,15,D1,1-2,-1,-2.85,2007-12-01StuttgartDortmund
+01/12/07,Werder Bremen,Hamburg,2,1,H,2.1,3.1,3.2,2007-12-01,2007/2008,15,D1,2-1,1,-1.1,2007-12-01Werder BremenHamburg
+01/12/07,Wolfsburg,Ein Frankfurt,2,2,D,1.9,3.2,3.6,2007-12-01,2007/2008,15,D1,2-2,0,-1.7000000000000002,2007-12-01WolfsburgEin Frankfurt
+02/12/07,Bielefeld,Bayern Munich,0,1,A,5.5,3.8,1.5,2007-12-02,2007/2008,15,D1,0-1,-1,4.0,2007-12-02BielefeldBayern Munich
+02/12/07,Duisburg,Nurnberg,1,0,H,2.5,3.2,2.5,2007-12-02,2007/2008,15,D1,1-0,1,0.0,2007-12-02DuisburgNurnberg
+07/12/07,Dortmund,Bielefeld,6,1,H,1.65,3.5,4.5,2007-12-07,2007/2008,16,D1,6-1,5,-2.85,2007-12-07DortmundBielefeld
+08/12/07,Bayern Munich,Duisburg,0,0,D,1.15,6.0,13.0,2007-12-08,2007/2008,16,D1,0-0,0,-11.85,2007-12-08Bayern MunichDuisburg
+08/12/07,Bochum,Karlsruhe,2,2,D,2.2,3.1,3.0,2007-12-08,2007/2008,16,D1,2-2,0,-0.7999999999999998,2007-12-08BochumKarlsruhe
+08/12/07,Ein Frankfurt,Schalke 04,2,2,D,3.0,3.1,2.2,2007-12-08,2007/2008,16,D1,2-2,0,0.7999999999999998,2007-12-08Ein FrankfurtSchalke 04
+08/12/07,Hamburg,Cottbus,0,0,D,1.33,4.2,8.0,2007-12-08,2007/2008,16,D1,0-0,0,-6.67,2007-12-08HamburgCottbus
+08/12/07,Hannover,Werder Bremen,4,3,H,3.1,3.2,2.1,2007-12-08,2007/2008,16,D1,4-3,1,1.0,2007-12-08HannoverWerder Bremen
+08/12/07,Stuttgart,Wolfsburg,3,1,H,1.65,3.5,4.5,2007-12-08,2007/2008,16,D1,3-1,2,-2.85,2007-12-08StuttgartWolfsburg
+09/12/07,Leverkusen,Hansa Rostock,3,0,H,1.37,4.1,7.0,2007-12-09,2007/2008,16,D1,3-0,3,-5.63,2007-12-09LeverkusenHansa Rostock
+09/12/07,Nurnberg,Hertha,2,1,H,2.2,3.1,3.0,2007-12-09,2007/2008,16,D1,2-1,1,-0.7999999999999998,2007-12-09NurnbergHertha
+14/12/07,Cottbus,Hannover,5,1,H,2.7,3.1,2.4,2007-12-14,2007/2008,17,D1,5-1,4,0.30000000000000027,2007-12-14CottbusHannover
+15/12/07,Bielefeld,Stuttgart,2,0,H,3.3,3.2,2.0,2007-12-15,2007/2008,17,D1,2-0,2,1.2999999999999998,2007-12-15BielefeldStuttgart
+15/12/07,Hertha,Bayern Munich,0,0,D,4.3,3.4,1.7,2007-12-15,2007/2008,17,D1,0-0,0,2.5999999999999996,2007-12-15HerthaBayern Munich
+15/12/07,Karlsruhe,Hamburg,1,1,D,2.8,3.1,2.3,2007-12-15,2007/2008,17,D1,1-1,0,0.5,2007-12-15KarlsruheHamburg
+15/12/07,Schalke 04,Nurnberg,2,1,H,1.45,3.9,6.0,2007-12-15,2007/2008,17,D1,2-1,1,-4.55,2007-12-15Schalke 04Nurnberg
+15/12/07,Werder Bremen,Leverkusen,5,2,H,1.9,3.3,3.5,2007-12-15,2007/2008,17,D1,5-2,3,-1.6,2007-12-15Werder BremenLeverkusen
+15/12/07,Wolfsburg,Dortmund,4,0,H,2.4,3.1,2.7,2007-12-15,2007/2008,17,D1,4-0,4,-0.30000000000000027,2007-12-15WolfsburgDortmund
+16/12/07,Duisburg,Ein Frankfurt,0,1,A,2.5,3.1,2.6,2007-12-16,2007/2008,17,D1,0-1,-1,-0.10000000000000009,2007-12-16DuisburgEin Frankfurt
+16/12/07,Hansa Rostock,Bochum,2,0,H,2.3,3.2,2.7,2007-12-16,2007/2008,17,D1,2-0,2,-0.40000000000000036,2007-12-16Hansa RostockBochum
+01/02/08,Hansa Rostock,Bayern Munich,1,2,A,6.0,3.9,1.45,2008-02-01,2007/2008,18,D1,1-2,-1,4.55,2008-02-01Hansa RostockBayern Munich
+02/02/08,Bielefeld,Wolfsburg,0,1,A,2.3,3.1,2.8,2008-02-02,2007/2008,18,D1,0-1,-1,-0.5,2008-02-02BielefeldWolfsburg
+02/02/08,Cottbus,Leverkusen,2,3,A,3.0,3.1,2.2,2008-02-02,2007/2008,18,D1,2-3,-1,0.7999999999999998,2008-02-02CottbusLeverkusen
+02/02/08,Duisburg,Dortmund,3,3,D,2.8,3.1,2.3,2008-02-02,2007/2008,18,D1,3-3,0,0.5,2008-02-02DuisburgDortmund
+02/02/08,Hamburg,Hannover,1,1,D,1.7,3.4,4.3,2008-02-02,2007/2008,18,D1,1-1,0,-2.5999999999999996,2008-02-02HamburgHannover
+02/02/08,Hertha,Ein Frankfurt,0,3,A,2.0,3.2,3.3,2008-02-02,2007/2008,18,D1,0-3,-3,-1.2999999999999998,2008-02-02HerthaEin Frankfurt
+02/02/08,Karlsruhe,Nurnberg,2,0,H,2.2,3.1,3.0,2008-02-02,2007/2008,18,D1,2-0,2,-0.7999999999999998,2008-02-02KarlsruheNurnberg
+03/02/08,Schalke 04,Stuttgart,4,1,H,1.9,3.2,3.6,2008-02-03,2007/2008,18,D1,4-1,3,-1.7000000000000002,2008-02-03Schalke 04Stuttgart
+03/02/08,Werder Bremen,Bochum,1,2,A,1.3,4.4,8.5,2008-02-03,2007/2008,18,D1,1-2,-1,-7.2,2008-02-03Werder BremenBochum
+08/02/08,Ein Frankfurt,Bielefeld,2,1,H,1.7,3.4,4.3,2008-02-08,2007/2008,19,D1,2-1,1,-2.5999999999999996,2008-02-08Ein FrankfurtBielefeld
+09/02/08,Bochum,Cottbus,3,3,D,1.8,3.2,4.0,2008-02-09,2007/2008,19,D1,3-3,0,-2.2,2008-02-09BochumCottbus
+09/02/08,Hannover,Karlsruhe,2,2,D,1.9,3.2,3.6,2008-02-09,2007/2008,19,D1,2-2,0,-1.7000000000000002,2008-02-09HannoverKarlsruhe
+09/02/08,Leverkusen,Hamburg,1,1,D,2.2,3.1,3.0,2008-02-09,2007/2008,19,D1,1-1,0,-0.7999999999999998,2008-02-09LeverkusenHamburg
+09/02/08,Nurnberg,Hansa Rostock,1,1,D,1.75,3.3,4.2,2008-02-09,2007/2008,19,D1,1-1,0,-2.45,2008-02-09NurnbergHansa Rostock
+09/02/08,Stuttgart,Hertha,1,3,A,1.65,3.5,4.5,2008-02-09,2007/2008,19,D1,1-3,-2,-2.85,2008-02-09StuttgartHertha
+09/02/08,Wolfsburg,Duisburg,2,1,H,1.6,3.6,4.8,2008-02-09,2007/2008,19,D1,2-1,1,-3.1999999999999997,2008-02-09WolfsburgDuisburg
+10/02/08,Bayern Munich,Werder Bremen,1,1,D,1.55,3.7,5.0,2008-02-10,2007/2008,19,D1,1-1,0,-3.45,2008-02-10Bayern MunichWerder Bremen
+10/02/08,Dortmund,Schalke 04,2,3,A,2.55,3.1,2.55,2008-02-10,2007/2008,19,D1,2-3,-1,0.0,2008-02-10DortmundSchalke 04
+15/02/08,Schalke 04,Wolfsburg,1,2,A,1.6,3.6,4.8,2008-02-15,2007/2008,20,D1,1-2,-1,-3.1999999999999997,2008-02-15Schalke 04Wolfsburg
+16/02/08,Cottbus,Dortmund,0,2,A,2.6,3.1,2.5,2008-02-16,2007/2008,20,D1,0-2,-2,0.10000000000000009,2008-02-16CottbusDortmund
+16/02/08,Duisburg,Stuttgart,2,3,A,2.8,3.1,2.3,2008-02-16,2007/2008,20,D1,2-3,-1,0.5,2008-02-16DuisburgStuttgart
+16/02/08,Hansa Rostock,Ein Frankfurt,1,0,H,2.55,3.1,2.55,2008-02-16,2007/2008,20,D1,1-0,1,0.0,2008-02-16Hansa RostockEin Frankfurt
+16/02/08,Hertha,Bielefeld,1,0,H,1.65,3.5,4.5,2008-02-16,2007/2008,20,D1,1-0,1,-2.85,2008-02-16HerthaBielefeld
+16/02/08,Karlsruhe,Leverkusen,2,2,D,2.6,3.1,2.5,2008-02-16,2007/2008,20,D1,2-2,0,0.10000000000000009,2008-02-16KarlsruheLeverkusen
+16/02/08,Werder Bremen,Nurnberg,2,0,H,1.4,4.0,6.5,2008-02-16,2007/2008,20,D1,2-0,2,-5.1,2008-02-16Werder BremenNurnberg
+17/02/08,Hamburg,Bochum,3,0,H,1.5,3.8,5.5,2008-02-17,2007/2008,20,D1,3-0,3,-4.0,2008-02-17HamburgBochum
+17/02/08,Hannover,Bayern Munich,0,3,A,4.2,3.3,1.75,2008-02-17,2007/2008,20,D1,0-3,-3,2.45,2008-02-17HannoverBayern Munich
+22/02/08,Bochum,Hannover,2,1,H,2.25,3.1,2.9,2008-02-22,2007/2008,21,D1,2-1,1,-0.6499999999999999,2008-02-22BochumHannover
+23/02/08,Bielefeld,Duisburg,0,2,A,1.9,3.2,3.6,2008-02-23,2007/2008,21,D1,0-2,-2,-1.7000000000000002,2008-02-23BielefeldDuisburg
+23/02/08,Dortmund,Hansa Rostock,1,0,H,1.6,3.5,5.0,2008-02-23,2007/2008,21,D1,1-0,1,-3.4,2008-02-23DortmundHansa Rostock
+23/02/08,Ein Frankfurt,Werder Bremen,1,0,H,3.2,3.1,2.1,2008-02-23,2007/2008,21,D1,1-0,1,1.1,2008-02-23Ein FrankfurtWerder Bremen
+23/02/08,Leverkusen,Schalke 04,1,0,H,2.3,3.1,2.8,2008-02-23,2007/2008,21,D1,1-0,1,-0.5,2008-02-23LeverkusenSchalke 04
+23/02/08,Stuttgart,Karlsruhe,3,1,H,1.75,3.3,4.2,2008-02-23,2007/2008,21,D1,3-1,2,-2.45,2008-02-23StuttgartKarlsruhe
+23/02/08,Wolfsburg,Hertha,0,0,D,1.85,3.2,3.8,2008-02-23,2007/2008,21,D1,0-0,0,-1.9499999999999997,2008-02-23WolfsburgHertha
+24/02/08,Bayern Munich,Hamburg,1,1,D,1.55,3.5,5.5,2008-02-24,2007/2008,21,D1,1-1,0,-3.95,2008-02-24Bayern MunichHamburg
+24/02/08,Nurnberg,Cottbus,1,1,D,1.75,3.3,4.2,2008-02-24,2007/2008,21,D1,1-1,0,-2.45,2008-02-24NurnbergCottbus
+29/02/08,Hertha,Duisburg,2,0,H,1.65,3.5,4.5,2008-02-29,2007/2008,22,D1,2-0,2,-2.85,2008-02-29HerthaDuisburg
+01/03/08,Hannover,Nurnberg,2,1,H,1.9,3.2,3.6,2008-03-01,2007/2008,22,D1,2-1,1,-1.7000000000000002,2008-03-01HannoverNurnberg
+01/03/08,Hansa Rostock,Bielefeld,1,1,D,1.9,3.2,3.6,2008-03-01,2007/2008,22,D1,1-1,0,-1.7000000000000002,2008-03-01Hansa RostockBielefeld
+01/03/08,Karlsruhe,Wolfsburg,3,1,H,2.3,3.1,2.8,2008-03-01,2007/2008,22,D1,3-1,2,-0.5,2008-03-01KarlsruheWolfsburg
+01/03/08,Schalke 04,Bayern Munich,0,1,A,2.6,3.0,2.6,2008-03-01,2007/2008,22,D1,0-1,-1,0.0,2008-03-01Schalke 04Bayern Munich
+01/03/08,Werder Bremen,Dortmund,2,0,H,1.7,3.4,4.3,2008-03-01,2007/2008,22,D1,2-0,2,-2.5999999999999996,2008-03-01Werder BremenDortmund
+02/03/08,Bochum,Leverkusen,2,0,H,3.0,3.1,2.2,2008-03-02,2007/2008,22,D1,2-0,2,0.7999999999999998,2008-03-02BochumLeverkusen
+02/03/08,Hamburg,Ein Frankfurt,4,1,H,1.6,3.5,5.0,2008-03-02,2007/2008,22,D1,4-1,3,-3.4,2008-03-02HamburgEin Frankfurt
+07/03/08,Dortmund,Hertha,1,1,D,1.9,3.2,3.6,2008-03-07,2007/2008,22,D1,1-1,0,-1.7000000000000002,2008-03-07DortmundHertha
+08/03/08,Bayern Munich,Karlsruhe,2,0,H,1.25,4.8,9.5,2008-03-08,2007/2008,23,D1,2-0,2,-8.25,2008-03-08Bayern MunichKarlsruhe
+08/03/08,Bielefeld,Schalke 04,0,2,A,3.3,3.2,2.0,2008-03-08,2007/2008,23,D1,0-2,-2,1.2999999999999998,2008-03-08BielefeldSchalke 04
+08/03/08,Duisburg,Hansa Rostock,1,1,D,2.2,3.1,3.0,2008-03-08,2007/2008,23,D1,1-1,0,-0.7999999999999998,2008-03-08DuisburgHansa Rostock
+08/03/08,Ein Frankfurt,Bochum,1,1,D,1.85,3.2,3.8,2008-03-08,2007/2008,23,D1,1-1,0,-1.9499999999999997,2008-03-08Ein FrankfurtBochum
+08/03/08,Stuttgart,Werder Bremen,6,3,H,2.4,3.1,2.7,2008-03-08,2007/2008,23,D1,6-3,3,-0.30000000000000027,2008-03-08StuttgartWerder Bremen
+08/03/08,Wolfsburg,Cottbus,3,0,H,1.6,3.6,4.8,2008-03-08,2007/2008,23,D1,3-0,3,-3.1999999999999997,2008-03-08WolfsburgCottbus
+09/03/08,Leverkusen,Hannover,2,0,H,1.65,3.5,4.5,2008-03-09,2007/2008,23,D1,2-0,2,-2.85,2008-03-09LeverkusenHannover
+09/03/08,Nurnberg,Hamburg,0,0,D,3.0,3.1,2.2,2008-03-09,2007/2008,23,D1,0-0,0,0.7999999999999998,2008-03-09NurnbergHamburg
+11/03/08,Cottbus,Stuttgart,0,1,A,3.3,3.2,2.0,2008-03-11,2007/2008,23,D1,0-1,-1,1.2999999999999998,2008-03-11CottbusStuttgart
+14/03/08,Schalke 04,Duisburg,2,1,H,1.33,4.2,8.0,2008-03-14,2007/2008,24,D1,2-1,1,-6.67,2008-03-14Schalke 04Duisburg
+15/03/08,Bochum,Stuttgart,1,1,D,2.7,3.2,2.3,2008-03-15,2007/2008,24,D1,1-1,0,0.40000000000000036,2008-03-15BochumStuttgart
+15/03/08,Cottbus,Bayern Munich,2,0,H,6.5,4.0,1.4,2008-03-15,2007/2008,24,D1,2-0,2,5.1,2008-03-15CottbusBayern Munich
+15/03/08,Hamburg,Dortmund,1,0,H,1.75,3.3,4.2,2008-03-15,2007/2008,24,D1,1-0,1,-2.45,2008-03-15HamburgDortmund
+15/03/08,Hannover,Bielefeld,2,2,D,1.7,3.4,4.3,2008-03-15,2007/2008,24,D1,2-2,0,-2.5999999999999996,2008-03-15HannoverBielefeld
+15/03/08,Hansa Rostock,Hertha,0,0,D,2.4,3.1,2.7,2008-03-15,2007/2008,24,D1,0-0,0,-0.30000000000000027,2008-03-15Hansa RostockHertha
+15/03/08,Karlsruhe,Ein Frankfurt,0,1,A,2.2,3.1,3.0,2008-03-15,2007/2008,24,D1,0-1,-1,-0.7999999999999998,2008-03-15KarlsruheEin Frankfurt
+16/03/08,Leverkusen,Nurnberg,4,1,H,1.55,3.7,5.0,2008-03-16,2007/2008,24,D1,4-1,3,-3.45,2008-03-16LeverkusenNurnberg
+16/03/08,Werder Bremen,Wolfsburg,0,1,A,1.55,3.7,5.0,2008-03-16,2007/2008,24,D1,0-1,-1,-3.45,2008-03-16Werder BremenWolfsburg
+20/03/08,Ein Frankfurt,Cottbus,2,1,H,1.65,3.5,4.5,2008-03-20,2007/2008,25,D1,2-1,1,-2.85,2008-03-20Ein FrankfurtCottbus
+22/03/08,Bayern Munich,Leverkusen,2,1,H,1.55,3.7,5.0,2008-03-22,2007/2008,25,D1,2-1,1,-3.45,2008-03-22Bayern MunichLeverkusen
+22/03/08,Dortmund,Karlsruhe,1,1,D,2.0,3.2,3.3,2008-03-22,2007/2008,25,D1,1-1,0,-1.2999999999999998,2008-03-22DortmundKarlsruhe
+22/03/08,Duisburg,Hannover,1,1,D,2.6,3.2,2.4,2008-03-22,2007/2008,25,D1,1-1,0,0.20000000000000018,2008-03-22DuisburgHannover
+22/03/08,Nurnberg,Bochum,1,1,D,2.0,3.2,3.3,2008-03-22,2007/2008,25,D1,1-1,0,-1.2999999999999998,2008-03-22NurnbergBochum
+22/03/08,Stuttgart,Hansa Rostock,4,1,H,1.45,3.9,6.0,2008-03-22,2007/2008,25,D1,4-1,3,-4.55,2008-03-22StuttgartHansa Rostock
+22/03/08,Wolfsburg,Hamburg,1,1,D,2.6,3.1,2.5,2008-03-22,2007/2008,25,D1,1-1,0,0.10000000000000009,2008-03-22WolfsburgHamburg
+23/03/08,Bielefeld,Werder Bremen,1,1,D,3.6,3.2,1.9,2008-03-23,2007/2008,25,D1,1-1,0,1.7000000000000002,2008-03-23BielefeldWerder Bremen
+23/03/08,Hertha,Schalke 04,1,2,A,2.5,3.2,2.5,2008-03-23,2007/2008,25,D1,1-2,-1,0.0,2008-03-23HerthaSchalke 04
+28/03/08,Hansa Rostock,Wolfsburg,0,1,A,2.55,3.1,2.55,2008-03-28,2007/2008,26,D1,0-1,-1,0.0,2008-03-28Hansa RostockWolfsburg
+29/03/08,Bochum,Dortmund,3,3,D,2.3,3.1,2.8,2008-03-29,2007/2008,26,D1,3-3,0,-0.5,2008-03-29BochumDortmund
+29/03/08,Hamburg,Bielefeld,1,1,D,1.37,4.1,7.0,2008-03-29,2007/2008,26,D1,1-1,0,-5.63,2008-03-29HamburgBielefeld
+29/03/08,Karlsruhe,Schalke 04,0,0,D,2.55,3.1,2.55,2008-03-29,2007/2008,26,D1,0-0,0,0.0,2008-03-29KarlsruheSchalke 04
+29/03/08,Leverkusen,Ein Frankfurt,0,2,A,1.6,3.6,4.8,2008-03-29,2007/2008,26,D1,0-2,-2,-3.1999999999999997,2008-03-29LeverkusenEin Frankfurt
+29/03/08,Nurnberg,Bayern Munich,1,1,D,4.5,3.5,1.65,2008-03-29,2007/2008,26,D1,1-1,0,2.85,2008-03-29NurnbergBayern Munich
+29/03/08,Werder Bremen,Duisburg,1,2,A,1.27,4.6,9.0,2008-03-29,2007/2008,26,D1,1-2,-1,-7.73,2008-03-29Werder BremenDuisburg
+30/03/08,Cottbus,Hertha,2,1,H,2.5,3.1,2.6,2008-03-30,2007/2008,26,D1,2-1,1,-0.10000000000000009,2008-03-30CottbusHertha
+30/03/08,Hannover,Stuttgart,0,0,D,2.8,3.1,2.3,2008-03-30,2007/2008,26,D1,0-0,0,0.5,2008-03-30HannoverStuttgart
+04/04/08,Duisburg,Cottbus,0,1,A,2.0,3.2,3.3,2008-04-04,2007/2008,27,D1,0-1,-1,-1.2999999999999998,2008-04-04DuisburgCottbus
+05/04/08,Bielefeld,Karlsruhe,1,0,H,2.4,3.1,2.7,2008-04-05,2007/2008,27,D1,1-0,1,-0.30000000000000027,2008-04-05BielefeldKarlsruhe
+05/04/08,Ein Frankfurt,Nurnberg,1,3,A,1.9,3.2,3.6,2008-04-05,2007/2008,27,D1,1-3,-2,-1.7000000000000002,2008-04-05Ein FrankfurtNurnberg
+05/04/08,Hertha,Werder Bremen,1,2,A,2.7,3.2,2.3,2008-04-05,2007/2008,27,D1,1-2,-1,0.40000000000000036,2008-04-05HerthaWerder Bremen
+05/04/08,Schalke 04,Hansa Rostock,1,0,H,1.4,3.8,7.0,2008-04-05,2007/2008,27,D1,1-0,1,-5.6,2008-04-05Schalke 04Hansa Rostock
+05/04/08,Stuttgart,Hamburg,1,0,H,2.3,3.1,2.8,2008-04-05,2007/2008,27,D1,1-0,1,-0.5,2008-04-05StuttgartHamburg
+05/04/08,Wolfsburg,Hannover,3,2,H,2.0,3.2,3.3,2008-04-05,2007/2008,27,D1,3-2,1,-1.2999999999999998,2008-04-05WolfsburgHannover
+06/04/08,Bayern Munich,Bochum,3,1,H,1.25,4.8,9.5,2008-04-06,2007/2008,27,D1,3-1,2,-8.25,2008-04-06Bayern MunichBochum
+06/04/08,Dortmund,Leverkusen,2,1,H,2.4,3.2,2.6,2008-04-06,2007/2008,27,D1,2-1,1,-0.20000000000000018,2008-04-06DortmundLeverkusen
+12/04/08,Bochum,Hertha,1,1,D,2.2,3.1,3.0,2008-04-12,2007/2008,28,D1,1-1,0,-0.7999999999999998,2008-04-12BochumHertha
+12/04/08,Cottbus,Bielefeld,1,0,H,2.1,3.1,3.2,2008-04-12,2007/2008,28,D1,1-0,1,-1.1,2008-04-12CottbusBielefeld
+12/04/08,Hamburg,Duisburg,0,1,A,1.37,4.1,7.0,2008-04-12,2007/2008,28,D1,0-1,-1,-5.63,2008-04-12HamburgDuisburg
+12/04/08,Hannover,Ein Frankfurt,2,1,H,2.2,3.1,3.0,2008-04-12,2007/2008,28,D1,2-1,1,-0.7999999999999998,2008-04-12HannoverEin Frankfurt
+12/04/08,Karlsruhe,Hansa Rostock,1,2,A,1.75,3.3,4.2,2008-04-12,2007/2008,28,D1,1-2,-1,-2.45,2008-04-12KarlsruheHansa Rostock
+12/04/08,Werder Bremen,Schalke 04,5,1,H,1.9,3.2,3.6,2008-04-12,2007/2008,28,D1,5-1,4,-1.7000000000000002,2008-04-12Werder BremenSchalke 04
+13/04/08,Bayern Munich,Dortmund,5,0,H,1.37,4.1,7.0,2008-04-13,2007/2008,28,D1,5-0,5,-5.63,2008-04-13Bayern MunichDortmund
+13/04/08,Leverkusen,Stuttgart,3,0,H,2.3,3.2,2.7,2008-04-13,2007/2008,28,D1,3-0,3,-0.40000000000000036,2008-04-13LeverkusenStuttgart
+15/04/08,Hansa Rostock,Werder Bremen,1,2,A,3.8,3.2,1.85,2008-04-15,2007/2008,28,D1,1-2,-1,1.9499999999999997,2008-04-15Hansa RostockWerder Bremen
+15/04/08,Hertha,Hamburg,0,0,D,2.55,3.1,2.55,2008-04-15,2007/2008,29,D1,0-0,0,0.0,2008-04-15HerthaHamburg
+15/04/08,Schalke 04,Cottbus,5,0,H,1.45,3.7,6.5,2008-04-15,2007/2008,29,D1,5-0,5,-5.05,2008-04-15Schalke 04Cottbus
+15/04/08,Wolfsburg,Bochum,0,1,A,1.75,3.3,4.2,2008-04-15,2007/2008,29,D1,0-1,-1,-2.45,2008-04-15WolfsburgBochum
+16/04/08,Bielefeld,Leverkusen,1,0,H,3.1,3.2,2.1,2008-04-16,2007/2008,29,D1,1-0,1,1.0,2008-04-16BielefeldLeverkusen
+16/04/08,Dortmund,Hannover,1,3,A,2.2,3.2,2.9,2008-04-16,2007/2008,29,D1,1-3,-2,-0.6999999999999997,2008-04-16DortmundHannover
+16/04/08,Duisburg,Karlsruhe,0,1,A,1.9,3.2,3.6,2008-04-16,2007/2008,29,D1,0-1,-1,-1.7000000000000002,2008-04-16DuisburgKarlsruhe
+16/04/08,Ein Frankfurt,Bayern Munich,1,3,A,3.6,3.3,1.85,2008-04-16,2007/2008,29,D1,1-3,-2,1.75,2008-04-16Ein FrankfurtBayern Munich
+16/04/08,Stuttgart,Nurnberg,3,0,H,1.6,3.6,4.8,2008-04-16,2007/2008,29,D1,3-0,3,-3.1999999999999997,2008-04-16StuttgartNurnberg
+20/04/08,Nurnberg,Wolfsburg,1,0,H,2.1,3.2,3.1,2008-04-20,2007/2008,29,D1,1-0,1,-1.0,2008-04-20NurnbergWolfsburg
+25/04/08,Ein Frankfurt,Dortmund,1,1,D,2.2,3.1,3.0,2008-04-25,2007/2008,30,D1,1-1,0,-0.7999999999999998,2008-04-25Ein FrankfurtDortmund
+26/04/08,Bochum,Duisburg,1,1,D,2.0,3.2,3.3,2008-04-26,2007/2008,30,D1,1-1,0,-1.2999999999999998,2008-04-26BochumDuisburg
+26/04/08,Cottbus,Hansa Rostock,2,1,H,2.0,3.2,3.3,2008-04-26,2007/2008,30,D1,2-1,1,-1.2999999999999998,2008-04-26CottbusHansa Rostock
+26/04/08,Hamburg,Schalke 04,0,1,A,2.3,3.1,2.8,2008-04-26,2007/2008,30,D1,0-1,-1,-0.5,2008-04-26HamburgSchalke 04
+26/04/08,Hannover,Hertha,2,2,D,2.1,3.2,3.1,2008-04-26,2007/2008,30,D1,2-2,0,-1.0,2008-04-26HannoverHertha
+26/04/08,Karlsruhe,Werder Bremen,3,3,D,3.6,3.2,1.9,2008-04-26,2007/2008,30,D1,3-3,0,1.7000000000000002,2008-04-26KarlsruheWerder Bremen
+26/04/08,Nurnberg,Bielefeld,2,2,D,1.8,3.2,4.0,2008-04-26,2007/2008,30,D1,2-2,0,-2.2,2008-04-26NurnbergBielefeld
+27/04/08,Bayern Munich,Stuttgart,4,1,H,1.65,3.5,4.5,2008-04-27,2007/2008,30,D1,4-1,3,-2.85,2008-04-27Bayern MunichStuttgart
+27/04/08,Leverkusen,Wolfsburg,2,2,D,1.8,3.2,4.0,2008-04-27,2007/2008,30,D1,2-2,0,-2.2,2008-04-27LeverkusenWolfsburg
+02/05/08,Dortmund,Nurnberg,0,0,D,2.1,3.2,3.1,2008-05-02,2007/2008,31,D1,0-0,0,-1.0,2008-05-02DortmundNurnberg
+03/05/08,Bielefeld,Bochum,2,0,H,1.9,3.2,3.6,2008-05-03,2007/2008,31,D1,2-0,2,-1.7000000000000002,2008-05-03BielefeldBochum
+03/05/08,Hansa Rostock,Hamburg,1,3,A,2.7,3.2,2.3,2008-05-03,2007/2008,31,D1,1-3,-2,0.40000000000000036,2008-05-03Hansa RostockHamburg
+03/05/08,Hertha,Karlsruhe,3,1,H,2.0,3.2,3.3,2008-05-03,2007/2008,31,D1,3-1,2,-1.2999999999999998,2008-05-03HerthaKarlsruhe
+03/05/08,Schalke 04,Hannover,1,1,D,1.45,3.9,6.0,2008-05-03,2007/2008,31,D1,1-1,0,-4.55,2008-05-03Schalke 04Hannover
+03/05/08,Stuttgart,Ein Frankfurt,4,1,H,1.6,3.6,4.8,2008-05-03,2007/2008,31,D1,4-1,3,-3.1999999999999997,2008-05-03StuttgartEin Frankfurt
+03/05/08,Werder Bremen,Cottbus,2,0,H,1.3,4.4,8.5,2008-05-03,2007/2008,31,D1,2-0,2,-7.2,2008-05-03Werder BremenCottbus
+04/05/08,Duisburg,Leverkusen,3,2,H,2.9,3.2,2.2,2008-05-04,2007/2008,31,D1,3-2,1,0.6999999999999997,2008-05-04DuisburgLeverkusen
+04/05/08,Wolfsburg,Bayern Munich,0,0,D,3.3,3.2,2.0,2008-05-04,2007/2008,31,D1,0-0,0,1.2999999999999998,2008-05-04WolfsburgBayern Munich
+06/05/08,Bochum,Schalke 04,0,3,A,3.6,3.2,1.9,2008-05-06,2007/2008,32,D1,0-3,-3,1.7000000000000002,2008-05-06BochumSchalke 04
+06/05/08,Dortmund,Stuttgart,3,2,H,2.7,3.2,2.3,2008-05-06,2007/2008,32,D1,3-2,1,0.40000000000000036,2008-05-06DortmundStuttgart
+06/05/08,Hannover,Hansa Rostock,3,0,H,1.8,3.4,3.7,2008-05-06,2007/2008,32,D1,3-0,3,-1.9000000000000001,2008-05-06HannoverHansa Rostock
+06/05/08,Karlsruhe,Cottbus,1,1,D,2.2,3.2,2.9,2008-05-06,2007/2008,32,D1,1-1,0,-0.6999999999999997,2008-05-06KarlsruheCottbus
+07/05/08,Bayern Munich,Bielefeld,2,0,H,1.4,4.0,6.5,2008-05-07,2007/2008,32,D1,2-0,2,-5.1,2008-05-07Bayern MunichBielefeld
+07/05/08,Ein Frankfurt,Wolfsburg,2,3,A,2.3,3.1,2.8,2008-05-07,2007/2008,32,D1,2-3,-1,-0.5,2008-05-07Ein FrankfurtWolfsburg
+07/05/08,Hamburg,Werder Bremen,0,1,A,2.4,3.2,2.6,2008-05-07,2007/2008,32,D1,0-1,-1,-0.20000000000000018,2008-05-07HamburgWerder Bremen
+07/05/08,Leverkusen,Hertha,1,2,A,1.6,3.6,4.8,2008-05-07,2007/2008,32,D1,1-2,-1,-3.1999999999999997,2008-05-07LeverkusenHertha
+07/05/08,Nurnberg,Duisburg,2,0,H,1.8,3.3,3.9,2008-05-07,2007/2008,32,D1,2-0,2,-2.0999999999999996,2008-05-07NurnbergDuisburg
+10/05/08,Bielefeld,Dortmund,2,2,D,1.75,3.4,3.7,2008-05-10,2007/2008,33,D1,2-2,0,-1.9500000000000002,2008-05-10BielefeldDortmund
+10/05/08,Cottbus,Hamburg,2,0,H,2.7,3.2,2.3,2008-05-10,2007/2008,33,D1,2-0,2,0.40000000000000036,2008-05-10CottbusHamburg
+10/05/08,Duisburg,Bayern Munich,2,3,A,3.6,3.2,1.9,2008-05-10,2007/2008,33,D1,2-3,-1,1.7000000000000002,2008-05-10DuisburgBayern Munich
+10/05/08,Hansa Rostock,Leverkusen,1,2,A,3.4,3.4,1.9,2008-05-10,2007/2008,33,D1,1-2,-1,1.5,2008-05-10Hansa RostockLeverkusen
+10/05/08,Hertha,Nurnberg,1,0,H,2.6,3.3,2.3,2008-05-10,2007/2008,33,D1,1-0,1,0.30000000000000027,2008-05-10HerthaNurnberg
+10/05/08,Karlsruhe,Bochum,1,3,A,1.9,3.2,3.6,2008-05-10,2007/2008,33,D1,1-3,-2,-1.7000000000000002,2008-05-10KarlsruheBochum
+10/05/08,Schalke 04,Ein Frankfurt,1,0,H,1.25,4.8,9.5,2008-05-10,2007/2008,33,D1,1-0,1,-8.25,2008-05-10Schalke 04Ein Frankfurt
+10/05/08,Werder Bremen,Hannover,6,1,H,1.35,4.2,7.5,2008-05-10,2007/2008,33,D1,6-1,5,-6.15,2008-05-10Werder BremenHannover
+10/05/08,Wolfsburg,Stuttgart,4,0,H,2.4,3.3,2.5,2008-05-10,2007/2008,33,D1,4-0,4,-0.10000000000000009,2008-05-10WolfsburgStuttgart
+17/05/08,Bayern Munich,Hertha,4,1,H,1.4,4.0,6.5,2008-05-17,2007/2008,34,D1,4-1,3,-5.1,2008-05-17Bayern MunichHertha
+17/05/08,Bochum,Hansa Rostock,1,2,A,1.4,4.0,6.5,2008-05-17,2007/2008,34,D1,1-2,-1,-5.1,2008-05-17BochumHansa Rostock
+17/05/08,Dortmund,Wolfsburg,2,4,A,2.7,3.3,2.2,2008-05-17,2007/2008,34,D1,2-4,-2,0.5,2008-05-17DortmundWolfsburg
+17/05/08,Ein Frankfurt,Duisburg,4,2,H,1.55,3.7,5.0,2008-05-17,2007/2008,34,D1,4-2,2,-3.45,2008-05-17Ein FrankfurtDuisburg
+17/05/08,Hamburg,Karlsruhe,7,0,H,1.3,4.4,8.5,2008-05-17,2007/2008,34,D1,7-0,7,-7.2,2008-05-17HamburgKarlsruhe
+17/05/08,Hannover,Cottbus,4,0,H,1.65,3.5,4.5,2008-05-17,2007/2008,34,D1,4-0,4,-2.85,2008-05-17HannoverCottbus
+17/05/08,Leverkusen,Werder Bremen,0,1,A,2.6,3.2,2.4,2008-05-17,2007/2008,34,D1,0-1,-1,0.20000000000000018,2008-05-17LeverkusenWerder Bremen
+17/05/08,Nurnberg,Schalke 04,0,2,A,2.3,3.5,2.5,2008-05-17,2007/2008,34,D1,0-2,-2,-0.20000000000000018,2008-05-17NurnbergSchalke 04
+17/05/08,Stuttgart,Bielefeld,2,2,D,1.5,3.8,5.5,2008-05-17,2007/2008,34,D1,2-2,0,-4.0,2008-05-17StuttgartBielefeld

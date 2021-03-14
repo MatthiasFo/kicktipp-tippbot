@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+20/08/10,Bayern Munich,Wolfsburg,2,1,H,1.6,3.6,5.0,2010-08-20,2010/2011,1,D1,2-1,1,-3.4,2010-08-20Bayern MunichWolfsburg
+21/08/10,FC Koln,Kaiserslautern,1,3,A,2.1,3.3,3.1,2010-08-21,2010/2011,1,D1,1-3,-2,-1.0,2010-08-21FC KolnKaiserslautern
+21/08/10,Freiburg,St Pauli,1,3,A,2.2,3.3,2.9,2010-08-21,2010/2011,1,D1,1-3,-2,-0.6999999999999997,2010-08-21FreiburgSt Pauli
+21/08/10,Hamburg,Schalke 04,2,1,H,2.3,3.2,2.8,2010-08-21,2010/2011,1,D1,2-1,1,-0.5,2010-08-21HamburgSchalke 04
+21/08/10,Hannover,Ein Frankfurt,2,1,H,2.3,3.3,2.75,2010-08-21,2010/2011,1,D1,2-1,1,-0.4500000000000002,2010-08-21HannoverEin Frankfurt
+21/08/10,Hoffenheim,Werder Bremen,4,1,H,2.5,3.3,2.5,2010-08-21,2010/2011,1,D1,4-1,3,0.0,2010-08-21HoffenheimWerder Bremen
+21/08/10,M'gladbach,Nurnberg,1,1,D,2.0,3.3,3.3,2010-08-21,2010/2011,1,D1,1-1,0,-1.2999999999999998,2010-08-21M'gladbachNurnberg
+22/08/10,Dortmund,Leverkusen,0,2,A,2.3,3.3,2.75,2010-08-22,2010/2011,1,D1,0-2,-2,-0.4500000000000002,2010-08-22DortmundLeverkusen
+22/08/10,Mainz,Stuttgart,2,0,H,3.0,3.2,2.2,2010-08-22,2010/2011,1,D1,2-0,2,0.7999999999999998,2010-08-22MainzStuttgart
+27/08/10,Kaiserslautern,Bayern Munich,2,0,H,5.3,3.9,1.53,2010-08-27,2010/2011,2,D1,2-0,2,3.7699999999999996,2010-08-27KaiserslauternBayern Munich
+28/08/10,Ein Frankfurt,Hamburg,1,3,A,2.8,3.2,2.3,2010-08-28,2010/2011,2,D1,1-3,-2,0.5,2010-08-28Ein FrankfurtHamburg
+28/08/10,Nurnberg,Freiburg,1,2,A,2.0,3.3,3.3,2010-08-28,2010/2011,2,D1,1-2,-1,-1.2999999999999998,2010-08-28NurnbergFreiburg
+28/08/10,Schalke 04,Hannover,1,2,A,1.35,4.5,7.3,2010-08-28,2010/2011,2,D1,1-2,-1,-5.949999999999999,2010-08-28Schalke 04Hannover
+28/08/10,St Pauli,Hoffenheim,0,1,A,2.7,3.3,2.3,2010-08-28,2010/2011,2,D1,0-1,-1,0.40000000000000036,2010-08-28St PauliHoffenheim
+28/08/10,Werder Bremen,FC Koln,4,2,H,1.35,4.5,7.3,2010-08-28,2010/2011,2,D1,4-2,2,-5.949999999999999,2010-08-28Werder BremenFC Koln
+28/08/10,Wolfsburg,Mainz,3,4,A,1.65,3.5,4.6,2010-08-28,2010/2011,2,D1,3-4,-1,-2.9499999999999997,2010-08-28WolfsburgMainz
+29/08/10,Leverkusen,M'gladbach,3,6,A,1.45,3.9,6.5,2010-08-29,2010/2011,2,D1,3-6,-3,-5.05,2010-08-29LeverkusenM'gladbach
+29/08/10,Stuttgart,Dortmund,1,3,A,2.4,3.2,2.7,2010-08-29,2010/2011,2,D1,1-3,-2,-0.30000000000000027,2010-08-29StuttgartDortmund
+10/09/10,Hoffenheim,Schalke 04,2,0,H,2.5,3.3,2.5,2010-09-10,2010/2011,3,D1,2-0,2,0.0,2010-09-10HoffenheimSchalke 04
+11/09/10,Bayern Munich,Werder Bremen,0,0,D,1.6,3.6,5.0,2010-09-11,2010/2011,3,D1,0-0,0,-3.4,2010-09-11Bayern MunichWerder Bremen
+11/09/10,Dortmund,Wolfsburg,2,0,H,2.1,3.3,3.1,2010-09-11,2010/2011,3,D1,2-0,2,-1.0,2010-09-11DortmundWolfsburg
+11/09/10,Freiburg,Stuttgart,2,1,H,2.9,3.3,2.2,2010-09-11,2010/2011,3,D1,2-1,1,0.6999999999999997,2010-09-11FreiburgStuttgart
+11/09/10,Hamburg,Nurnberg,1,1,D,1.4,4.1,7.0,2010-09-11,2010/2011,3,D1,1-1,0,-5.6,2010-09-11HamburgNurnberg
+11/09/10,Hannover,Leverkusen,2,2,D,3.1,3.3,2.1,2010-09-11,2010/2011,3,D1,2-2,0,1.0,2010-09-11HannoverLeverkusen
+11/09/10,M'gladbach,Ein Frankfurt,0,4,A,2.1,3.2,3.2,2010-09-11,2010/2011,3,D1,0-4,-4,-1.1,2010-09-11M'gladbachEin Frankfurt
+12/09/10,FC Koln,St Pauli,1,0,H,2.15,3.3,3.0,2010-09-12,2010/2011,3,D1,1-0,1,-0.8500000000000001,2010-09-12FC KolnSt Pauli
+12/09/10,Mainz,Kaiserslautern,2,1,H,2.2,3.2,3.0,2010-09-12,2010/2011,3,D1,2-1,1,-0.7999999999999998,2010-09-12MainzKaiserslautern
+17/09/10,Ein Frankfurt,Freiburg,0,1,A,1.85,3.4,3.8,2010-09-17,2010/2011,4,D1,0-1,-1,-1.9499999999999997,2010-09-17Ein FrankfurtFreiburg
+18/09/10,Bayern Munich,FC Koln,0,0,D,1.25,5.0,10.0,2010-09-18,2010/2011,4,D1,0-0,0,-8.75,2010-09-18Bayern MunichFC Koln
+18/09/10,Kaiserslautern,Hoffenheim,2,2,D,2.5,3.3,2.5,2010-09-18,2010/2011,4,D1,2-2,0,0.0,2010-09-18KaiserslauternHoffenheim
+18/09/10,Stuttgart,M'gladbach,7,0,H,1.75,3.5,4.1,2010-09-18,2010/2011,4,D1,7-0,7,-2.3499999999999996,2010-09-18StuttgartM'gladbach
+18/09/10,Werder Bremen,Mainz,0,2,A,1.45,4.2,6.0,2010-09-18,2010/2011,4,D1,0-2,-2,-4.55,2010-09-18Werder BremenMainz
+18/09/10,Wolfsburg,Hannover,2,0,H,1.6,3.6,5.0,2010-09-18,2010/2011,4,D1,2-0,2,-3.4,2010-09-18WolfsburgHannover
+19/09/10,Leverkusen,Nurnberg,0,0,D,1.4,4.1,7.0,2010-09-19,2010/2011,4,D1,0-0,0,-5.6,2010-09-19LeverkusenNurnberg
+19/09/10,Schalke 04,Dortmund,1,3,A,2.2,3.2,3.0,2010-09-19,2010/2011,4,D1,1-3,-2,-0.7999999999999998,2010-09-19Schalke 04Dortmund
+19/09/10,St Pauli,Hamburg,1,1,D,2.9,3.3,2.2,2010-09-19,2010/2011,4,D1,1-1,0,0.6999999999999997,2010-09-19St PauliHamburg
+21/09/10,Hannover,Werder Bremen,4,1,H,3.1,3.3,2.1,2010-09-21,2010/2011,5,D1,4-1,3,1.0,2010-09-21HannoverWerder Bremen
+21/09/10,Hoffenheim,Bayern Munich,1,2,A,3.3,3.3,2.0,2010-09-21,2010/2011,5,D1,1-2,-1,1.2999999999999998,2010-09-21HoffenheimBayern Munich
+21/09/10,Mainz,FC Koln,2,0,H,2.0,3.3,3.3,2010-09-21,2010/2011,5,D1,2-0,2,-1.2999999999999998,2010-09-21MainzFC Koln
+22/09/10,Dortmund,Kaiserslautern,5,0,H,1.5,3.9,5.5,2010-09-22,2010/2011,5,D1,5-0,5,-4.0,2010-09-22DortmundKaiserslautern
+22/09/10,Freiburg,Schalke 04,1,2,A,2.9,3.3,2.2,2010-09-22,2010/2011,5,D1,1-2,-1,0.6999999999999997,2010-09-22FreiburgSchalke 04
+22/09/10,Hamburg,Wolfsburg,1,3,A,2.0,3.3,3.3,2010-09-22,2010/2011,5,D1,1-3,-2,-1.2999999999999998,2010-09-22HamburgWolfsburg
+22/09/10,Leverkusen,Ein Frankfurt,2,1,H,1.6,3.6,5.0,2010-09-22,2010/2011,5,D1,2-1,1,-3.4,2010-09-22LeverkusenEin Frankfurt
+22/09/10,M'gladbach,St Pauli,1,2,A,2.0,3.3,3.3,2010-09-22,2010/2011,5,D1,1-2,-1,-1.2999999999999998,2010-09-22M'gladbachSt Pauli
+22/09/10,Nurnberg,Stuttgart,2,1,H,3.1,3.3,2.1,2010-09-22,2010/2011,5,D1,2-1,1,1.0,2010-09-22NurnbergStuttgart
+24/09/10,FC Koln,Hoffenheim,1,1,D,2.75,3.3,2.3,2010-09-24,2010/2011,6,D1,1-1,0,0.4500000000000002,2010-09-24FC KolnHoffenheim
+25/09/10,Bayern Munich,Mainz,1,2,A,1.4,4.1,7.0,2010-09-25,2010/2011,6,D1,1-2,-1,-5.6,2010-09-25Bayern MunichMainz
+25/09/10,Ein Frankfurt,Nurnberg,2,0,H,2.1,3.3,3.1,2010-09-25,2010/2011,6,D1,2-0,2,-1.0,2010-09-25Ein FrankfurtNurnberg
+25/09/10,Schalke 04,M'gladbach,2,2,D,1.45,3.9,6.5,2010-09-25,2010/2011,6,D1,2-2,0,-5.05,2010-09-25Schalke 04M'gladbach
+25/09/10,St Pauli,Dortmund,1,3,A,3.3,3.3,2.0,2010-09-25,2010/2011,6,D1,1-3,-2,1.2999999999999998,2010-09-25St PauliDortmund
+25/09/10,Stuttgart,Leverkusen,1,4,A,2.3,3.3,2.75,2010-09-25,2010/2011,6,D1,1-4,-3,-0.4500000000000002,2010-09-25StuttgartLeverkusen
+25/09/10,Werder Bremen,Hamburg,3,2,H,2.2,3.3,2.9,2010-09-25,2010/2011,6,D1,3-2,1,-0.6999999999999997,2010-09-25Werder BremenHamburg
+26/09/10,Kaiserslautern,Hannover,0,1,A,2.1,3.3,3.1,2010-09-26,2010/2011,6,D1,0-1,-1,-1.0,2010-09-26KaiserslauternHannover
+26/09/10,Wolfsburg,Freiburg,2,1,H,1.45,3.9,6.5,2010-09-26,2010/2011,6,D1,2-1,1,-5.05,2010-09-26WolfsburgFreiburg
+01/10/10,Hannover,St Pauli,0,1,A,2.0,3.3,3.3,2010-10-01,2010/2011,7,D1,0-1,-1,-1.2999999999999998,2010-10-01HannoverSt Pauli
+02/10/10,Freiburg,FC Koln,3,2,H,2.3,3.2,2.8,2010-10-02,2010/2011,7,D1,3-2,1,-0.5,2010-10-02FreiburgFC Koln
+02/10/10,Hamburg,Kaiserslautern,2,1,H,1.55,3.7,5.4,2010-10-02,2010/2011,7,D1,2-1,1,-3.8500000000000005,2010-10-02HamburgKaiserslautern
+02/10/10,Mainz,Hoffenheim,4,2,H,2.25,3.2,2.9,2010-10-02,2010/2011,7,D1,4-2,2,-0.6499999999999999,2010-10-02MainzHoffenheim
+02/10/10,M'gladbach,Wolfsburg,1,1,D,2.9,3.3,2.2,2010-10-02,2010/2011,7,D1,1-1,0,0.6999999999999997,2010-10-02M'gladbachWolfsburg
+02/10/10,Nurnberg,Schalke 04,2,1,H,3.0,3.2,2.2,2010-10-02,2010/2011,7,D1,2-1,1,0.7999999999999998,2010-10-02NurnbergSchalke 04
+03/10/10,Dortmund,Bayern Munich,2,0,H,2.4,3.3,2.65,2010-10-03,2010/2011,7,D1,2-0,2,-0.25,2010-10-03DortmundBayern Munich
+03/10/10,Leverkusen,Werder Bremen,2,2,D,2.1,3.3,3.1,2010-10-03,2010/2011,7,D1,2-2,0,-1.0,2010-10-03LeverkusenWerder Bremen
+03/10/10,Stuttgart,Ein Frankfurt,1,2,A,1.85,3.4,3.8,2010-10-03,2010/2011,7,D1,1-2,-1,-1.9499999999999997,2010-10-03StuttgartEin Frankfurt
+15/10/10,FC Koln,Dortmund,1,2,A,3.8,3.4,1.85,2010-10-15,2010/2011,8,D1,1-2,-1,1.9499999999999997,2010-10-15FC KolnDortmund
+16/10/10,Bayern Munich,Hannover,3,0,H,1.4,4.1,7.0,2010-10-16,2010/2011,8,D1,3-0,3,-5.6,2010-10-16Bayern MunichHannover
+16/10/10,Mainz,Hamburg,0,1,A,2.4,3.2,2.7,2010-10-16,2010/2011,8,D1,0-1,-1,-0.30000000000000027,2010-10-16MainzHamburg
+16/10/10,Schalke 04,Stuttgart,2,2,D,1.9,3.3,3.7,2010-10-16,2010/2011,8,D1,2-2,0,-1.8000000000000003,2010-10-16Schalke 04Stuttgart
+16/10/10,St Pauli,Nurnberg,3,2,H,2.2,3.3,2.9,2010-10-16,2010/2011,8,D1,3-2,1,-0.6999999999999997,2010-10-16St PauliNurnberg
+16/10/10,Werder Bremen,Freiburg,2,1,H,1.5,3.8,5.7,2010-10-16,2010/2011,8,D1,2-1,1,-4.2,2010-10-16Werder BremenFreiburg
+16/10/10,Wolfsburg,Leverkusen,2,3,A,2.3,3.3,2.75,2010-10-16,2010/2011,8,D1,2-3,-1,-0.4500000000000002,2010-10-16WolfsburgLeverkusen
+17/10/10,Hoffenheim,M'gladbach,3,2,H,1.65,3.5,4.6,2010-10-17,2010/2011,8,D1,3-2,1,-2.9499999999999997,2010-10-17HoffenheimM'gladbach
+17/10/10,Kaiserslautern,Ein Frankfurt,0,3,A,2.4,3.2,2.7,2010-10-17,2010/2011,8,D1,0-3,-3,-0.30000000000000027,2010-10-17KaiserslauternEin Frankfurt
+22/10/10,Hamburg,Bayern Munich,0,0,D,2.55,3.2,2.55,2010-10-22,2010/2011,9,D1,0-0,0,0.0,2010-10-22HamburgBayern Munich
+23/10/10,Ein Frankfurt,Schalke 04,0,0,D,2.65,3.3,2.4,2010-10-23,2010/2011,9,D1,0-0,0,0.25,2010-10-23Ein FrankfurtSchalke 04
+23/10/10,Freiburg,Kaiserslautern,2,1,H,2.1,3.3,3.1,2010-10-23,2010/2011,9,D1,2-1,1,-1.0,2010-10-23FreiburgKaiserslautern
+23/10/10,Hannover,FC Koln,2,1,H,2.0,3.3,3.3,2010-10-23,2010/2011,9,D1,2-1,1,-1.2999999999999998,2010-10-23HannoverFC Koln
+23/10/10,M'gladbach,Werder Bremen,1,4,A,2.9,3.3,2.2,2010-10-23,2010/2011,9,D1,1-4,-3,0.6999999999999997,2010-10-23M'gladbachWerder Bremen
+23/10/10,Nurnberg,Wolfsburg,2,1,H,2.9,3.3,2.2,2010-10-23,2010/2011,9,D1,2-1,1,0.6999999999999997,2010-10-23NurnbergWolfsburg
+24/10/10,Dortmund,Hoffenheim,1,1,D,1.75,3.4,4.3,2010-10-24,2010/2011,9,D1,1-1,0,-2.55,2010-10-24DortmundHoffenheim
+24/10/10,Leverkusen,Mainz,0,1,A,1.85,3.4,3.8,2010-10-24,2010/2011,9,D1,0-1,-1,-1.9499999999999997,2010-10-24LeverkusenMainz
+24/10/10,Stuttgart,St Pauli,2,0,H,1.65,3.5,4.6,2010-10-24,2010/2011,9,D1,2-0,2,-2.9499999999999997,2010-10-24StuttgartSt Pauli
+29/10/10,Bayern Munich,Freiburg,4,2,H,1.3,4.8,8.5,2010-10-29,2010/2011,10,D1,4-2,2,-7.2,2010-10-29Bayern MunichFreiburg
+30/10/10,FC Koln,Hamburg,3,2,H,3.3,3.2,2.05,2010-10-30,2010/2011,10,D1,3-2,1,1.25,2010-10-30FC KolnHamburg
+30/10/10,Kaiserslautern,M'gladbach,3,0,H,2.2,3.2,3.0,2010-10-30,2010/2011,10,D1,3-0,3,-0.7999999999999998,2010-10-30KaiserslauternM'gladbach
+30/10/10,Schalke 04,Leverkusen,0,1,A,2.4,3.2,2.7,2010-10-30,2010/2011,10,D1,0-1,-1,-0.30000000000000027,2010-10-30Schalke 04Leverkusen
+30/10/10,St Pauli,Ein Frankfurt,1,3,A,2.5,3.2,2.6,2010-10-30,2010/2011,10,D1,1-3,-2,-0.10000000000000009,2010-10-30St PauliEin Frankfurt
+30/10/10,Werder Bremen,Nurnberg,2,3,A,1.5,3.8,5.7,2010-10-30,2010/2011,10,D1,2-3,-1,-4.2,2010-10-30Werder BremenNurnberg
+30/10/10,Wolfsburg,Stuttgart,2,0,H,2.1,3.3,3.1,2010-10-30,2010/2011,10,D1,2-0,2,-1.0,2010-10-30WolfsburgStuttgart
+31/10/10,Hoffenheim,Hannover,4,0,H,1.65,3.5,4.6,2010-10-31,2010/2011,10,D1,4-0,4,-2.9499999999999997,2010-10-31HoffenheimHannover
+31/10/10,Mainz,Dortmund,0,2,A,2.6,3.2,2.5,2010-10-31,2010/2011,10,D1,0-2,-2,0.10000000000000009,2010-10-31MainzDortmund
+05/11/10,Schalke 04,St Pauli,3,0,H,1.62,3.6,5.0,2010-11-05,2010/2011,11,D1,3-0,3,-3.38,2010-11-05Schalke 04St Pauli
+06/11/10,Ein Frankfurt,Wolfsburg,3,1,H,2.5,3.3,2.5,2010-11-06,2010/2011,11,D1,3-1,2,0.0,2010-11-06Ein FrankfurtWolfsburg
+06/11/10,Freiburg,Mainz,1,0,H,2.65,3.3,2.4,2010-11-06,2010/2011,11,D1,1-0,1,0.25,2010-11-06FreiburgMainz
+06/11/10,Hamburg,Hoffenheim,2,1,H,2.1,3.2,3.2,2010-11-06,2010/2011,11,D1,2-1,1,-1.1,2010-11-06HamburgHoffenheim
+06/11/10,M'gladbach,Bayern Munich,3,3,D,5.4,3.7,1.55,2010-11-06,2010/2011,11,D1,3-3,0,3.8500000000000005,2010-11-06M'gladbachBayern Munich
+06/11/10,Nurnberg,FC Koln,3,1,H,2.0,3.3,3.3,2010-11-06,2010/2011,11,D1,3-1,2,-1.2999999999999998,2010-11-06NurnbergFC Koln
+07/11/10,Hannover,Dortmund,0,4,A,3.8,3.4,1.85,2010-11-07,2010/2011,11,D1,0-4,-4,1.9499999999999997,2010-11-07HannoverDortmund
+07/11/10,Leverkusen,Kaiserslautern,3,1,H,1.4,4.1,7.0,2010-11-07,2010/2011,11,D1,3-1,2,-5.6,2010-11-07LeverkusenKaiserslautern
+07/11/10,Stuttgart,Werder Bremen,6,0,H,2.4,3.3,2.65,2010-11-07,2010/2011,11,D1,6-0,6,-0.25,2010-11-07StuttgartWerder Bremen
+12/11/10,Dortmund,Hamburg,2,0,H,1.8,3.4,4.0,2010-11-12,2010/2011,12,D1,2-0,2,-2.2,2010-11-12DortmundHamburg
+13/11/10,FC Koln,M'gladbach,0,4,A,2.1,3.3,3.1,2010-11-13,2010/2011,12,D1,0-4,-4,-1.0,2010-11-13FC KolnM'gladbach
+13/11/10,Kaiserslautern,Stuttgart,3,3,D,2.9,3.3,2.2,2010-11-13,2010/2011,12,D1,3-3,0,0.6999999999999997,2010-11-13KaiserslauternStuttgart
+13/11/10,Mainz,Hannover,0,1,A,1.75,3.4,4.3,2010-11-13,2010/2011,12,D1,0-1,-1,-2.55,2010-11-13MainzHannover
+13/11/10,St Pauli,Leverkusen,0,1,A,3.7,3.3,1.9,2010-11-13,2010/2011,12,D1,0-1,-1,1.8000000000000003,2010-11-13St PauliLeverkusen
+13/11/10,Werder Bremen,Ein Frankfurt,0,0,D,1.85,3.5,3.7,2010-11-13,2010/2011,12,D1,0-0,0,-1.85,2010-11-13Werder BremenEin Frankfurt
+13/11/10,Wolfsburg,Schalke 04,2,2,D,2.3,3.3,2.75,2010-11-13,2010/2011,12,D1,2-2,0,-0.4500000000000002,2010-11-13WolfsburgSchalke 04
+14/11/10,Bayern Munich,Nurnberg,3,0,H,1.35,4.5,7.3,2010-11-14,2010/2011,12,D1,3-0,3,-5.949999999999999,2010-11-14Bayern MunichNurnberg
+14/11/10,Hoffenheim,Freiburg,0,1,A,1.6,3.6,5.0,2010-11-14,2010/2011,12,D1,0-1,-1,-3.4,2010-11-14HoffenheimFreiburg
+20/11/10,Ein Frankfurt,Hoffenheim,0,4,A,2.2,3.2,3.0,2010-11-20,2010/2011,13,D1,0-4,-4,-0.7999999999999998,2010-11-20Ein FrankfurtHoffenheim
+20/11/10,Freiburg,Dortmund,1,2,A,4.4,3.5,1.7,2010-11-20,2010/2011,13,D1,1-2,-1,2.7,2010-11-20FreiburgDortmund
+20/11/10,Hannover,Hamburg,3,2,H,2.7,3.25,2.35,2010-11-20,2010/2011,13,D1,3-2,1,0.3500000000000001,2010-11-20HannoverHamburg
+20/11/10,Leverkusen,Bayern Munich,1,1,D,2.6,3.3,2.4,2010-11-20,2010/2011,13,D1,1-1,0,0.20000000000000018,2010-11-20LeverkusenBayern Munich
+20/11/10,M'gladbach,Mainz,2,3,A,2.4,3.3,2.6,2010-11-20,2010/2011,13,D1,2-3,-1,-0.20000000000000018,2010-11-20M'gladbachMainz
+20/11/10,Nurnberg,Kaiserslautern,1,3,A,1.9,3.3,3.7,2010-11-20,2010/2011,13,D1,1-3,-2,-1.8000000000000003,2010-11-20NurnbergKaiserslautern
+20/11/10,Schalke 04,Werder Bremen,4,0,H,2.2,3.3,2.9,2010-11-20,2010/2011,13,D1,4-0,4,-0.6999999999999997,2010-11-20Schalke 04Werder Bremen
+21/11/10,St Pauli,Wolfsburg,1,1,D,2.75,3.3,2.3,2010-11-21,2010/2011,13,D1,1-1,0,0.4500000000000002,2010-11-21St PauliWolfsburg
+21/11/10,Stuttgart,FC Koln,0,1,A,1.55,3.7,5.4,2010-11-21,2010/2011,13,D1,0-1,-1,-3.8500000000000005,2010-11-21StuttgartFC Koln
+26/11/10,Mainz,Nurnberg,3,0,H,1.8,3.4,4.0,2010-11-26,2010/2011,14,D1,3-0,3,-2.2,2010-11-26MainzNurnberg
+27/11/10,Bayern Munich,Ein Frankfurt,4,1,H,1.4,4.1,7.0,2010-11-27,2010/2011,14,D1,4-1,3,-5.6,2010-11-27Bayern MunichEin Frankfurt
+27/11/10,Dortmund,M'gladbach,4,1,H,1.35,4.5,7.3,2010-11-27,2010/2011,14,D1,4-1,3,-5.949999999999999,2010-11-27DortmundM'gladbach
+27/11/10,Hamburg,Stuttgart,4,2,H,2.0,3.3,3.3,2010-11-27,2010/2011,14,D1,4-2,2,-1.2999999999999998,2010-11-27HamburgStuttgart
+27/11/10,Hannover,Freiburg,3,0,H,2.0,3.4,3.2,2010-11-27,2010/2011,14,D1,3-0,3,-1.2000000000000002,2010-11-27HannoverFreiburg
+27/11/10,Hoffenheim,Leverkusen,2,2,D,2.5,3.3,2.5,2010-11-27,2010/2011,14,D1,2-2,0,0.0,2010-11-27HoffenheimLeverkusen
+27/11/10,Kaiserslautern,Schalke 04,5,0,H,2.9,3.3,2.2,2010-11-27,2010/2011,14,D1,5-0,5,0.6999999999999997,2010-11-27KaiserslauternSchalke 04
+28/11/10,FC Koln,Wolfsburg,1,1,D,2.75,3.3,2.3,2010-11-28,2010/2011,14,D1,1-1,0,0.4500000000000002,2010-11-28FC KolnWolfsburg
+28/11/10,Werder Bremen,St Pauli,3,0,H,1.7,3.5,4.4,2010-11-28,2010/2011,14,D1,3-0,3,-2.7,2010-11-28Werder BremenSt Pauli
+03/12/10,St Pauli,Kaiserslautern,1,0,H,2.3,3.2,2.8,2010-12-03,2010/2011,15,D1,1-0,1,-0.5,2010-12-03St PauliKaiserslautern
+04/12/10,Ein Frankfurt,Mainz,2,1,H,2.3,3.2,2.8,2010-12-04,2010/2011,15,D1,2-1,1,-0.5,2010-12-04Ein FrankfurtMainz
+04/12/10,Freiburg,Hamburg,1,0,H,2.6,3.2,2.5,2010-12-04,2010/2011,15,D1,1-0,1,0.10000000000000009,2010-12-04FreiburgHamburg
+04/12/10,M'gladbach,Hannover,1,2,A,2.3,3.3,2.75,2010-12-04,2010/2011,15,D1,1-2,-1,-0.4500000000000002,2010-12-04M'gladbachHannover
+04/12/10,Schalke 04,Bayern Munich,2,0,H,3.0,3.2,2.2,2010-12-04,2010/2011,15,D1,2-0,2,0.7999999999999998,2010-12-04Schalke 04Bayern Munich
+04/12/10,Stuttgart,Hoffenheim,1,1,D,2.2,3.3,2.9,2010-12-04,2010/2011,15,D1,1-1,0,-0.6999999999999997,2010-12-04StuttgartHoffenheim
+04/12/10,Wolfsburg,Werder Bremen,0,0,D,2.1,3.4,3.0,2010-12-04,2010/2011,15,D1,0-0,0,-0.8999999999999999,2010-12-04WolfsburgWerder Bremen
+05/12/10,Leverkusen,FC Koln,3,2,H,1.4,4.1,7.0,2010-12-05,2010/2011,15,D1,3-2,1,-5.6,2010-12-05LeverkusenFC Koln
+05/12/10,Nurnberg,Dortmund,0,2,A,4.6,3.5,1.65,2010-12-05,2010/2011,15,D1,0-2,-2,2.9499999999999997,2010-12-05NurnbergDortmund
+10/12/10,Hannover,Stuttgart,2,1,H,2.3,3.3,2.75,2010-12-10,2010/2011,16,D1,2-1,1,-0.4500000000000002,2010-12-10HannoverStuttgart
+11/12/10,Bayern Munich,St Pauli,3,0,H,1.2,5.5,12.0,2010-12-11,2010/2011,16,D1,3-0,3,-10.8,2010-12-11Bayern MunichSt Pauli
+11/12/10,Dortmund,Werder Bremen,2,0,H,1.65,3.5,4.6,2010-12-11,2010/2011,16,D1,2-0,2,-2.9499999999999997,2010-12-11DortmundWerder Bremen
+11/12/10,FC Koln,Ein Frankfurt,1,0,H,2.5,3.2,2.6,2010-12-11,2010/2011,16,D1,1-0,1,-0.10000000000000009,2010-12-11FC KolnEin Frankfurt
+11/12/10,Hamburg,Leverkusen,2,4,A,2.4,3.2,2.7,2010-12-11,2010/2011,16,D1,2-4,-2,-0.30000000000000027,2010-12-11HamburgLeverkusen
+11/12/10,Hoffenheim,Nurnberg,1,1,D,1.6,3.6,5.0,2010-12-11,2010/2011,16,D1,1-1,0,-3.4,2010-12-11HoffenheimNurnberg
+11/12/10,Kaiserslautern,Wolfsburg,0,0,D,2.5,3.2,2.6,2010-12-11,2010/2011,16,D1,0-0,0,-0.10000000000000009,2010-12-11KaiserslauternWolfsburg
+12/12/10,Freiburg,M'gladbach,3,0,H,1.9,3.3,3.7,2010-12-12,2010/2011,16,D1,3-0,3,-1.8000000000000003,2010-12-12FreiburgM'gladbach
+12/12/10,Mainz,Schalke 04,0,1,A,2.55,3.2,2.55,2010-12-12,2010/2011,16,D1,0-1,-1,0.0,2010-12-12MainzSchalke 04
+17/12/10,M'gladbach,Hamburg,1,2,A,2.9,3.3,2.2,2010-12-17,2010/2011,17,D1,1-2,-1,0.6999999999999997,2010-12-17M'gladbachHamburg
+18/12/10,Ein Frankfurt,Dortmund,1,0,H,4.0,3.4,1.8,2010-12-18,2010/2011,17,D1,1-0,1,2.2,2010-12-18Ein FrankfurtDortmund
+18/12/10,Nurnberg,Hannover,3,1,H,2.3,3.3,2.75,2010-12-18,2010/2011,17,D1,3-1,2,-0.4500000000000002,2010-12-18NurnbergHannover
+18/12/10,Schalke 04,FC Koln,3,0,H,1.45,3.9,6.5,2010-12-18,2010/2011,17,D1,3-0,3,-5.05,2010-12-18Schalke 04FC Koln
+18/12/10,St Pauli,Mainz,2,4,A,2.5,3.3,2.5,2010-12-18,2010/2011,17,D1,2-4,-2,0.0,2010-12-18St PauliMainz
+18/12/10,Werder Bremen,Kaiserslautern,1,2,A,1.6,3.6,5.0,2010-12-18,2010/2011,17,D1,1-2,-1,-3.4,2010-12-18Werder BremenKaiserslautern
+18/12/10,Wolfsburg,Hoffenheim,2,2,D,2.0,3.3,3.3,2010-12-18,2010/2011,17,D1,2-2,0,-1.2999999999999998,2010-12-18WolfsburgHoffenheim
+19/12/10,Leverkusen,Freiburg,2,2,D,1.45,3.9,6.5,2010-12-19,2010/2011,17,D1,2-2,0,-5.05,2010-12-19LeverkusenFreiburg
+19/12/10,Stuttgart,Bayern Munich,3,5,A,3.3,3.3,2.0,2010-12-19,2010/2011,17,D1,3-5,-2,1.2999999999999998,2010-12-19StuttgartBayern Munich
+14/01/11,Leverkusen,Dortmund,1,3,A,2.3,3.3,2.75,2011-01-14,2010/2011,18,D1,1-3,-2,-0.4500000000000002,2011-01-14LeverkusenDortmund
+15/01/11,Nurnberg,M'gladbach,0,1,A,1.8,3.4,4.0,2011-01-15,2010/2011,18,D1,0-1,-1,-2.2,2011-01-15NurnbergM'gladbach
+15/01/11,Schalke 04,Hamburg,0,1,A,2.0,3.3,3.3,2011-01-15,2010/2011,18,D1,0-1,-1,-1.2999999999999998,2011-01-15Schalke 04Hamburg
+15/01/11,St Pauli,Freiburg,2,2,D,2.3,3.3,2.75,2011-01-15,2010/2011,18,D1,2-2,0,-0.4500000000000002,2011-01-15St PauliFreiburg
+15/01/11,Stuttgart,Mainz,1,0,H,1.9,3.4,3.5,2011-01-15,2010/2011,18,D1,1-0,1,-1.6,2011-01-15StuttgartMainz
+15/01/11,Werder Bremen,Hoffenheim,2,1,H,2.0,3.3,3.3,2011-01-15,2010/2011,18,D1,2-1,1,-1.2999999999999998,2011-01-15Werder BremenHoffenheim
+15/01/11,Wolfsburg,Bayern Munich,1,1,D,4.0,3.4,1.8,2011-01-15,2010/2011,18,D1,1-1,0,2.2,2011-01-15WolfsburgBayern Munich
+16/01/11,Ein Frankfurt,Hannover,0,3,A,2.0,3.3,3.3,2011-01-16,2010/2011,18,D1,0-3,-3,-1.2999999999999998,2011-01-16Ein FrankfurtHannover
+16/01/11,Kaiserslautern,FC Koln,1,1,D,1.8,3.4,4.0,2011-01-16,2010/2011,18,D1,1-1,0,-2.2,2011-01-16KaiserslauternFC Koln
+21/01/11,Hamburg,Ein Frankfurt,1,0,H,1.7,3.5,4.4,2011-01-21,2010/2011,19,D1,1-0,1,-2.7,2011-01-21HamburgEin Frankfurt
+22/01/11,Bayern Munich,Kaiserslautern,5,1,H,1.2,5.5,12.0,2011-01-22,2010/2011,19,D1,5-1,4,-10.8,2011-01-22Bayern MunichKaiserslautern
+22/01/11,Dortmund,Stuttgart,1,1,D,1.5,3.9,5.5,2011-01-22,2010/2011,19,D1,1-1,0,-4.0,2011-01-22DortmundStuttgart
+22/01/11,FC Koln,Werder Bremen,3,0,H,2.9,3.3,2.2,2011-01-22,2010/2011,19,D1,3-0,3,0.6999999999999997,2011-01-22FC KolnWerder Bremen
+22/01/11,Freiburg,Nurnberg,1,1,D,2.0,3.3,3.3,2011-01-22,2010/2011,19,D1,1-1,0,-1.2999999999999998,2011-01-22FreiburgNurnberg
+22/01/11,Hannover,Schalke 04,0,1,A,2.5,3.3,2.5,2011-01-22,2010/2011,19,D1,0-1,-1,0.0,2011-01-22HannoverSchalke 04
+22/01/11,Mainz,Wolfsburg,0,1,A,2.3,3.2,2.8,2011-01-22,2010/2011,19,D1,0-1,-1,-0.5,2011-01-22MainzWolfsburg
+23/01/11,Hoffenheim,St Pauli,2,2,D,1.6,3.6,5.0,2011-01-23,2010/2011,19,D1,2-2,0,-3.4,2011-01-23HoffenheimSt Pauli
+23/01/11,M'gladbach,Leverkusen,1,3,A,3.7,3.3,1.9,2011-01-23,2010/2011,19,D1,1-3,-2,1.8000000000000003,2011-01-23M'gladbachLeverkusen
+28/01/11,Leverkusen,Hannover,2,0,H,1.55,3.7,5.4,2011-01-28,2010/2011,20,D1,2-0,2,-3.8500000000000005,2011-01-28LeverkusenHannover
+29/01/11,Kaiserslautern,Mainz,0,1,A,2.2,3.3,2.9,2011-01-29,2010/2011,20,D1,0-1,-1,-0.6999999999999997,2011-01-29KaiserslauternMainz
+29/01/11,Nurnberg,Hamburg,2,0,H,2.8,3.2,2.3,2011-01-29,2010/2011,20,D1,2-0,2,0.5,2011-01-29NurnbergHamburg
+29/01/11,Schalke 04,Hoffenheim,0,1,A,1.65,3.5,4.6,2011-01-29,2010/2011,20,D1,0-1,-1,-2.9499999999999997,2011-01-29Schalke 04Hoffenheim
+29/01/11,St Pauli,FC Koln,3,0,H,2.3,3.2,2.8,2011-01-29,2010/2011,20,D1,3-0,3,-0.5,2011-01-29St PauliFC Koln
+29/01/11,Werder Bremen,Bayern Munich,1,3,A,4.3,3.4,1.75,2011-01-29,2010/2011,20,D1,1-3,-2,2.55,2011-01-29Werder BremenBayern Munich
+29/01/11,Wolfsburg,Dortmund,0,3,A,3.3,3.3,2.0,2011-01-29,2010/2011,20,D1,0-3,-3,1.2999999999999998,2011-01-29WolfsburgDortmund
+30/01/11,Ein Frankfurt,M'gladbach,0,1,A,1.85,3.4,3.8,2011-01-30,2010/2011,20,D1,0-1,-1,-1.9499999999999997,2011-01-30Ein FrankfurtM'gladbach
+30/01/11,Stuttgart,Freiburg,0,1,A,1.65,3.5,4.6,2011-01-30,2010/2011,20,D1,0-1,-1,-2.9499999999999997,2011-01-30StuttgartFreiburg
+04/02/11,Dortmund,Schalke 04,0,0,D,1.7,3.5,4.4,2011-02-04,2010/2011,21,D1,0-0,0,-2.7,2011-02-04DortmundSchalke 04
+05/02/11,FC Koln,Bayern Munich,3,2,H,5.7,3.8,1.5,2011-02-05,2010/2011,21,D1,3-2,1,4.2,2011-02-05FC KolnBayern Munich
+05/02/11,Hannover,Wolfsburg,1,0,H,2.5,3.2,2.6,2011-02-05,2010/2011,21,D1,1-0,1,-0.10000000000000009,2011-02-05HannoverWolfsburg
+05/02/11,Hoffenheim,Kaiserslautern,3,2,H,1.8,3.4,4.0,2011-02-05,2010/2011,21,D1,3-2,1,-2.2,2011-02-05HoffenheimKaiserslautern
+05/02/11,Mainz,Werder Bremen,1,1,D,2.3,3.3,2.75,2011-02-05,2010/2011,21,D1,1-1,0,-0.4500000000000002,2011-02-05MainzWerder Bremen
+05/02/11,M'gladbach,Stuttgart,2,3,A,2.5,3.3,2.5,2011-02-05,2010/2011,21,D1,2-3,-1,0.0,2011-02-05M'gladbachStuttgart
+05/02/11,Nurnberg,Leverkusen,1,0,H,3.1,3.3,2.1,2011-02-05,2010/2011,21,D1,1-0,1,1.0,2011-02-05NurnbergLeverkusen
+06/02/11,Freiburg,Ein Frankfurt,0,0,D,2.1,3.3,3.1,2011-02-06,2010/2011,21,D1,0-0,0,-1.0,2011-02-06FreiburgEin Frankfurt
+12/02/11,Bayern Munich,Hoffenheim,4,0,H,1.4,4.1,7.0,2011-02-12,2010/2011,21,D1,4-0,4,-5.6,2011-02-12Bayern MunichHoffenheim
+12/02/11,Ein Frankfurt,Leverkusen,0,3,A,3.3,3.3,2.0,2011-02-12,2010/2011,22,D1,0-3,-3,1.2999999999999998,2011-02-12Ein FrankfurtLeverkusen
+12/02/11,Kaiserslautern,Dortmund,1,1,D,4.6,3.5,1.65,2011-02-12,2010/2011,22,D1,1-1,0,2.9499999999999997,2011-02-12KaiserslauternDortmund
+12/02/11,Schalke 04,Freiburg,1,0,H,1.65,3.5,4.6,2011-02-12,2010/2011,22,D1,1-0,1,-2.9499999999999997,2011-02-12Schalke 04Freiburg
+12/02/11,St Pauli,M'gladbach,3,1,H,2.1,3.3,3.1,2011-02-12,2010/2011,22,D1,3-1,2,-1.0,2011-02-12St PauliM'gladbach
+12/02/11,Stuttgart,Nurnberg,1,4,A,1.8,3.4,4.0,2011-02-12,2010/2011,22,D1,1-4,-3,-2.2,2011-02-12StuttgartNurnberg
+12/02/11,Wolfsburg,Hamburg,0,1,A,2.4,3.2,2.7,2011-02-12,2010/2011,22,D1,0-1,-1,-0.30000000000000027,2011-02-12WolfsburgHamburg
+13/02/11,FC Koln,Mainz,4,2,H,2.2,3.2,3.0,2011-02-13,2010/2011,22,D1,4-2,2,-0.7999999999999998,2011-02-13FC KolnMainz
+13/02/11,Werder Bremen,Hannover,1,1,D,1.8,3.4,4.0,2011-02-13,2010/2011,22,D1,1-1,0,-2.2,2011-02-13Werder BremenHannover
+16/02/11,Hamburg,St Pauli,0,1,A,1.6,3.6,5.0,2011-02-16,2010/2011,22,D1,0-1,-1,-3.4,2011-02-16HamburgSt Pauli
+18/02/11,Nurnberg,Ein Frankfurt,3,0,H,1.9,3.3,3.7,2011-02-18,2010/2011,23,D1,3-0,3,-1.8000000000000003,2011-02-18NurnbergEin Frankfurt
+19/02/11,Dortmund,St Pauli,2,0,H,1.3,4.8,8.5,2011-02-19,2010/2011,23,D1,2-0,2,-7.2,2011-02-19DortmundSt Pauli
+19/02/11,Freiburg,Wolfsburg,2,1,H,2.3,3.3,2.75,2011-02-19,2010/2011,23,D1,2-1,1,-0.4500000000000002,2011-02-19FreiburgWolfsburg
+19/02/11,Hamburg,Werder Bremen,4,0,H,1.9,3.3,3.7,2011-02-19,2010/2011,23,D1,4-0,4,-1.8000000000000003,2011-02-19HamburgWerder Bremen
+19/02/11,Hannover,Kaiserslautern,3,0,H,1.8,3.4,4.0,2011-02-19,2010/2011,23,D1,3-0,3,-2.2,2011-02-19HannoverKaiserslautern
+19/02/11,Hoffenheim,FC Koln,1,1,D,1.8,3.4,4.0,2011-02-19,2010/2011,23,D1,1-1,0,-2.2,2011-02-19HoffenheimFC Koln
+19/02/11,Mainz,Bayern Munich,1,3,A,4.6,3.5,1.65,2011-02-19,2010/2011,23,D1,1-3,-2,2.9499999999999997,2011-02-19MainzBayern Munich
+20/02/11,Leverkusen,Stuttgart,4,2,H,1.6,3.6,5.0,2011-02-20,2010/2011,23,D1,4-2,2,-3.4,2011-02-20LeverkusenStuttgart
+20/02/11,M'gladbach,Schalke 04,2,1,H,3.3,3.3,2.0,2011-02-20,2010/2011,23,D1,2-1,1,1.2999999999999998,2011-02-20M'gladbachSchalke 04
+25/02/11,Wolfsburg,M'gladbach,2,1,H,1.8,3.4,4.0,2011-02-25,2010/2011,24,D1,2-1,1,-2.2,2011-02-25WolfsburgM'gladbach
+26/02/11,Bayern Munich,Dortmund,1,3,A,1.8,3.4,4.0,2011-02-26,2010/2011,24,D1,1-3,-2,-2.2,2011-02-26Bayern MunichDortmund
+26/02/11,FC Koln,Freiburg,1,0,H,2.1,3.3,3.1,2011-02-26,2010/2011,24,D1,1-0,1,-1.0,2011-02-26FC KolnFreiburg
+26/02/11,Hoffenheim,Mainz,1,2,A,2.0,3.3,3.3,2011-02-26,2010/2011,24,D1,1-2,-1,-1.2999999999999998,2011-02-26HoffenheimMainz
+26/02/11,Kaiserslautern,Hamburg,1,1,D,2.75,3.3,2.3,2011-02-26,2010/2011,24,D1,1-1,0,0.4500000000000002,2011-02-26KaiserslauternHamburg
+26/02/11,Schalke 04,Nurnberg,1,1,D,1.75,3.4,4.3,2011-02-26,2010/2011,24,D1,1-1,0,-2.55,2011-02-26Schalke 04Nurnberg
+26/02/11,St Pauli,Hannover,0,1,A,2.4,3.2,2.7,2011-02-26,2010/2011,24,D1,0-1,-1,-0.30000000000000027,2011-02-26St PauliHannover
+27/02/11,Ein Frankfurt,Stuttgart,0,2,A,2.5,3.3,2.5,2011-02-27,2010/2011,24,D1,0-2,-2,0.0,2011-02-27Ein FrankfurtStuttgart
+27/02/11,Werder Bremen,Leverkusen,2,2,D,2.6,3.3,2.4,2011-02-27,2010/2011,24,D1,2-2,0,0.20000000000000018,2011-02-27Werder BremenLeverkusen
+04/03/11,Dortmund,FC Koln,1,0,H,1.33,4.6,7.8,2011-03-04,2010/2011,25,D1,1-0,1,-6.47,2011-03-04DortmundFC Koln
+05/03/11,Ein Frankfurt,Kaiserslautern,0,0,D,2.1,3.3,3.1,2011-03-05,2010/2011,25,D1,0-0,0,-1.0,2011-03-05Ein FrankfurtKaiserslautern
+05/03/11,Hannover,Bayern Munich,3,1,H,4.3,3.4,1.75,2011-03-05,2010/2011,25,D1,3-1,2,2.55,2011-03-05HannoverBayern Munich
+05/03/11,Leverkusen,Wolfsburg,3,0,H,1.6,3.6,5.0,2011-03-05,2010/2011,25,D1,3-0,3,-3.4,2011-03-05LeverkusenWolfsburg
+05/03/11,M'gladbach,Hoffenheim,2,0,H,2.5,3.3,2.5,2011-03-05,2010/2011,25,D1,2-0,2,0.0,2011-03-05M'gladbachHoffenheim
+05/03/11,Nurnberg,St Pauli,5,0,H,1.8,3.4,4.0,2011-03-05,2010/2011,25,D1,5-0,5,-2.2,2011-03-05NurnbergSt Pauli
+05/03/11,Stuttgart,Schalke 04,1,0,H,2.1,3.3,3.1,2011-03-05,2010/2011,25,D1,1-0,1,-1.0,2011-03-05StuttgartSchalke 04
+06/03/11,Freiburg,Werder Bremen,1,3,A,2.5,3.3,2.5,2011-03-06,2010/2011,25,D1,1-3,-2,0.0,2011-03-06FreiburgWerder Bremen
+06/03/11,Hamburg,Mainz,2,4,A,1.8,3.4,4.0,2011-03-06,2010/2011,25,D1,2-4,-2,-2.2,2011-03-06HamburgMainz
+11/03/11,FC Koln,Hannover,4,0,H,2.4,3.2,2.7,2011-03-11,2010/2011,26,D1,4-0,4,-0.30000000000000027,2011-03-11FC KolnHannover
+12/03/11,Bayern Munich,Hamburg,6,0,H,1.65,3.5,4.6,2011-03-12,2010/2011,26,D1,6-0,6,-2.9499999999999997,2011-03-12Bayern MunichHamburg
+12/03/11,Hoffenheim,Dortmund,1,0,H,3.8,3.4,1.85,2011-03-12,2010/2011,26,D1,1-0,1,1.9499999999999997,2011-03-12HoffenheimDortmund
+12/03/11,Kaiserslautern,Freiburg,2,1,H,2.1,3.3,3.1,2011-03-12,2010/2011,26,D1,2-1,1,-1.0,2011-03-12KaiserslauternFreiburg
+12/03/11,Schalke 04,Ein Frankfurt,2,1,H,1.65,3.5,4.6,2011-03-12,2010/2011,26,D1,2-1,1,-2.9499999999999997,2011-03-12Schalke 04Ein Frankfurt
+12/03/11,Werder Bremen,M'gladbach,1,1,D,1.6,3.6,5.0,2011-03-12,2010/2011,26,D1,1-1,0,-3.4,2011-03-12Werder BremenM'gladbach
+12/03/11,Wolfsburg,Nurnberg,1,2,A,2.1,3.2,3.2,2011-03-12,2010/2011,26,D1,1-2,-1,-1.1,2011-03-12WolfsburgNurnberg
+13/03/11,Mainz,Leverkusen,0,1,A,2.7,3.2,2.4,2011-03-13,2010/2011,26,D1,0-1,-1,0.30000000000000027,2011-03-13MainzLeverkusen
+13/03/11,St Pauli,Stuttgart,1,2,A,2.75,3.3,2.3,2011-03-13,2010/2011,26,D1,1-2,-1,0.4500000000000002,2011-03-13St PauliStuttgart
+18/03/11,M'gladbach,Kaiserslautern,0,1,A,2.1,3.3,3.1,2011-03-18,2010/2011,27,D1,0-1,-1,-1.0,2011-03-18M'gladbachKaiserslautern
+19/03/11,Dortmund,Mainz,1,1,D,1.47,3.9,6.4,2011-03-19,2010/2011,27,D1,1-1,0,-4.930000000000001,2011-03-19DortmundMainz
+19/03/11,Ein Frankfurt,St Pauli,2,1,H,1.9,3.3,3.7,2011-03-19,2010/2011,27,D1,2-1,1,-1.8000000000000003,2011-03-19Ein FrankfurtSt Pauli
+19/03/11,Freiburg,Bayern Munich,1,2,A,5.4,3.9,1.52,2011-03-19,2010/2011,27,D1,1-2,-1,3.8800000000000003,2011-03-19FreiburgBayern Munich
+19/03/11,Hamburg,FC Koln,6,2,H,1.8,3.4,4.0,2011-03-19,2010/2011,27,D1,6-2,4,-2.2,2011-03-19HamburgFC Koln
+19/03/11,Hannover,Hoffenheim,2,0,H,2.1,3.3,3.1,2011-03-19,2010/2011,27,D1,2-0,2,-1.0,2011-03-19HannoverHoffenheim
+19/03/11,Nurnberg,Werder Bremen,1,3,A,2.3,3.3,2.75,2011-03-19,2010/2011,27,D1,1-3,-2,-0.4500000000000002,2011-03-19NurnbergWerder Bremen
+20/03/11,Leverkusen,Schalke 04,2,0,H,1.85,3.4,3.8,2011-03-20,2010/2011,27,D1,2-0,2,-1.9499999999999997,2011-03-20LeverkusenSchalke 04
+20/03/11,Stuttgart,Wolfsburg,1,1,D,1.85,3.4,3.8,2011-03-20,2010/2011,27,D1,1-1,0,-1.9499999999999997,2011-03-20StuttgartWolfsburg
+01/04/11,St Pauli,Schalke 04,0,2,A,2.75,3.3,2.3,2011-04-01,2010/2011,28,D1,0-2,-2,0.4500000000000002,2011-04-01St PauliSchalke 04
+02/04/11,Bayern Munich,M'gladbach,1,0,H,1.17,5.8,13.0,2011-04-02,2010/2011,28,D1,1-0,1,-11.83,2011-04-02Bayern MunichM'gladbach
+02/04/11,Dortmund,Hannover,4,1,H,1.45,3.9,6.5,2011-04-02,2010/2011,28,D1,4-1,3,-5.05,2011-04-02DortmundHannover
+02/04/11,Hoffenheim,Hamburg,0,0,D,2.5,3.2,2.6,2011-04-02,2010/2011,28,D1,0-0,0,-0.10000000000000009,2011-04-02HoffenheimHamburg
+02/04/11,Kaiserslautern,Leverkusen,0,1,A,3.1,3.3,2.1,2011-04-02,2010/2011,28,D1,0-1,-1,1.0,2011-04-02KaiserslauternLeverkusen
+02/04/11,Mainz,Freiburg,1,1,D,1.75,3.4,4.3,2011-04-02,2010/2011,28,D1,1-1,0,-2.55,2011-04-02MainzFreiburg
+02/04/11,Werder Bremen,Stuttgart,1,1,D,2.0,3.3,3.3,2011-04-02,2010/2011,28,D1,1-1,0,-1.2999999999999998,2011-04-02Werder BremenStuttgart
+03/04/11,FC Koln,Nurnberg,1,0,H,2.2,3.2,3.0,2011-04-03,2010/2011,28,D1,1-0,1,-0.7999999999999998,2011-04-03FC KolnNurnberg
+03/04/11,Wolfsburg,Ein Frankfurt,1,1,D,1.8,3.4,4.0,2011-04-03,2010/2011,28,D1,1-1,0,-2.2,2011-04-03WolfsburgEin Frankfurt
+08/04/11,Ein Frankfurt,Werder Bremen,1,1,D,2.6,3.0,2.6,2011-04-08,2010/2011,29,D1,1-1,0,0.0,2011-04-08Ein FrankfurtWerder Bremen
+09/04/11,Freiburg,Hoffenheim,3,2,H,2.3,3.2,2.8,2011-04-09,2010/2011,29,D1,3-2,1,-0.5,2011-04-09FreiburgHoffenheim
+09/04/11,Hamburg,Dortmund,1,1,D,2.75,3.3,2.3,2011-04-09,2010/2011,29,D1,1-1,0,0.4500000000000002,2011-04-09HamburgDortmund
+09/04/11,Hannover,Mainz,2,0,H,2.1,3.2,3.2,2011-04-09,2010/2011,29,D1,2-0,2,-1.1,2011-04-09HannoverMainz
+09/04/11,Nurnberg,Bayern Munich,1,1,D,4.6,3.5,1.65,2011-04-09,2010/2011,29,D1,1-1,0,2.9499999999999997,2011-04-09NurnbergBayern Munich
+09/04/11,Schalke 04,Wolfsburg,1,0,H,2.2,3.3,2.9,2011-04-09,2010/2011,29,D1,1-0,1,-0.6999999999999997,2011-04-09Schalke 04Wolfsburg
+09/04/11,Stuttgart,Kaiserslautern,2,4,A,1.7,3.5,4.4,2011-04-09,2010/2011,29,D1,2-4,-2,-2.7,2011-04-09StuttgartKaiserslautern
+10/04/11,Leverkusen,St Pauli,2,1,H,1.25,5.0,10.0,2011-04-10,2010/2011,29,D1,2-1,1,-8.75,2011-04-10LeverkusenSt Pauli
+10/04/11,M'gladbach,FC Koln,5,1,H,2.3,3.2,2.8,2011-04-10,2010/2011,29,D1,5-1,4,-0.5,2011-04-10M'gladbachFC Koln
+15/04/11,Mainz,M'gladbach,1,0,H,1.9,3.3,3.7,2011-04-15,2010/2011,30,D1,1-0,1,-1.8000000000000003,2011-04-15MainzM'gladbach
+16/04/11,FC Koln,Stuttgart,1,3,A,2.4,3.2,2.7,2011-04-16,2010/2011,30,D1,1-3,-2,-0.30000000000000027,2011-04-16FC KolnStuttgart
+16/04/11,Hamburg,Hannover,0,0,D,2.0,3.3,3.3,2011-04-16,2010/2011,30,D1,0-0,0,-1.2999999999999998,2011-04-16HamburgHannover
+16/04/11,Hoffenheim,Ein Frankfurt,1,0,H,2.2,3.2,3.0,2011-04-16,2010/2011,30,D1,1-0,1,-0.7999999999999998,2011-04-16HoffenheimEin Frankfurt
+16/04/11,Kaiserslautern,Nurnberg,0,2,A,2.3,3.2,2.8,2011-04-16,2010/2011,30,D1,0-2,-2,-0.5,2011-04-16KaiserslauternNurnberg
+16/04/11,Werder Bremen,Schalke 04,1,1,D,2.1,3.3,3.1,2011-04-16,2010/2011,30,D1,1-1,0,-1.0,2011-04-16Werder BremenSchalke 04
+16/04/11,Wolfsburg,St Pauli,2,2,D,1.5,3.9,5.5,2011-04-16,2010/2011,30,D1,2-2,0,-4.0,2011-04-16WolfsburgSt Pauli
+17/04/11,Bayern Munich,Leverkusen,5,1,H,1.8,3.4,4.0,2011-04-17,2010/2011,30,D1,5-1,4,-2.2,2011-04-17Bayern MunichLeverkusen
+17/04/11,Dortmund,Freiburg,3,0,H,1.3,5.0,8.0,2011-04-17,2010/2011,30,D1,3-0,3,-6.7,2011-04-17DortmundFreiburg
+21/04/11,Freiburg,Hannover,1,3,A,2.5,3.3,2.5,2011-04-21,2010/2011,31,D1,1-3,-2,0.0,2011-04-21FreiburgHannover
+23/04/11,Ein Frankfurt,Bayern Munich,1,1,D,5.4,3.7,1.55,2011-04-23,2010/2011,31,D1,1-1,0,3.8500000000000005,2011-04-23Ein FrankfurtBayern Munich
+23/04/11,Leverkusen,Hoffenheim,2,1,H,1.55,3.8,5.2,2011-04-23,2010/2011,31,D1,2-1,1,-3.6500000000000004,2011-04-23LeverkusenHoffenheim
+23/04/11,M'gladbach,Dortmund,1,0,H,4.6,3.5,1.65,2011-04-23,2010/2011,31,D1,1-0,1,2.9499999999999997,2011-04-23M'gladbachDortmund
+23/04/11,Schalke 04,Kaiserslautern,0,1,A,1.9,3.3,3.7,2011-04-23,2010/2011,31,D1,0-1,-1,-1.8000000000000003,2011-04-23Schalke 04Kaiserslautern
+23/04/11,St Pauli,Werder Bremen,1,3,A,3.1,3.3,2.1,2011-04-23,2010/2011,31,D1,1-3,-2,1.0,2011-04-23St PauliWerder Bremen
+23/04/11,Stuttgart,Hamburg,3,0,H,2.1,3.3,3.1,2011-04-23,2010/2011,31,D1,3-0,3,-1.0,2011-04-23StuttgartHamburg
+24/04/11,Nurnberg,Mainz,0,0,D,2.2,3.3,2.9,2011-04-24,2010/2011,31,D1,0-0,0,-0.6999999999999997,2011-04-24NurnbergMainz
+24/04/11,Wolfsburg,FC Koln,4,1,H,1.7,3.5,4.4,2011-04-24,2010/2011,31,D1,4-1,3,-2.7,2011-04-24WolfsburgFC Koln
+29/04/11,Kaiserslautern,St Pauli,2,0,H,1.85,3.6,3.5,2011-04-29,2010/2011,32,D1,2-0,2,-1.65,2011-04-29KaiserslauternSt Pauli
+29/04/11,Werder Bremen,Wolfsburg,0,1,A,2.0,3.5,3.1,2011-04-29,2010/2011,32,D1,0-1,-1,-1.1,2011-04-29Werder BremenWolfsburg
+30/04/11,Bayern Munich,Schalke 04,4,1,H,1.4,4.1,7.0,2011-04-30,2010/2011,32,D1,4-1,3,-5.6,2011-04-30Bayern MunichSchalke 04
+30/04/11,Dortmund,Nurnberg,2,0,H,1.45,3.9,6.5,2011-04-30,2010/2011,32,D1,2-0,2,-5.05,2011-04-30DortmundNurnberg
+30/04/11,FC Koln,Leverkusen,2,0,H,3.7,3.6,1.8,2011-04-30,2010/2011,32,D1,2-0,2,1.9000000000000001,2011-04-30FC KolnLeverkusen
+30/04/11,Hamburg,Freiburg,0,2,A,1.65,3.6,4.4,2011-04-30,2010/2011,32,D1,0-2,-2,-2.7500000000000004,2011-04-30HamburgFreiburg
+30/04/11,Hannover,M'gladbach,0,1,A,1.7,3.6,4.2,2011-04-30,2010/2011,32,D1,0-1,-1,-2.5,2011-04-30HannoverM'gladbach
+30/04/11,Hoffenheim,Stuttgart,1,2,A,2.55,3.4,2.4,2011-04-30,2010/2011,32,D1,1-2,-1,0.1499999999999999,2011-04-30HoffenheimStuttgart
+30/04/11,Mainz,Ein Frankfurt,3,0,H,2.0,3.3,3.3,2011-04-30,2010/2011,32,D1,3-0,3,-1.2999999999999998,2011-04-30MainzEin Frankfurt
+07/05/11,Ein Frankfurt,FC Koln,0,2,A,2.0,3.5,3.1,2011-05-07,2010/2011,33,D1,0-2,-2,-1.1,2011-05-07Ein FrankfurtFC Koln
+07/05/11,Leverkusen,Hamburg,1,1,D,1.4,4.5,6.0,2011-05-07,2010/2011,33,D1,1-1,0,-4.6,2011-05-07LeverkusenHamburg
+07/05/11,M'gladbach,Freiburg,2,0,H,1.6,3.8,4.5,2011-05-07,2010/2011,33,D1,2-0,2,-2.9,2011-05-07M'gladbachFreiburg
+07/05/11,Nurnberg,Hoffenheim,1,2,A,1.75,3.5,4.1,2011-05-07,2010/2011,33,D1,1-2,-1,-2.3499999999999996,2011-05-07NurnbergHoffenheim
+07/05/11,Schalke 04,Mainz,1,3,A,2.3,3.2,2.8,2011-05-07,2010/2011,33,D1,1-3,-2,-0.5,2011-05-07Schalke 04Mainz
+07/05/11,St Pauli,Bayern Munich,1,8,A,10.0,5.0,1.27,2011-05-07,2010/2011,33,D1,1-8,-7,8.73,2011-05-07St PauliBayern Munich
+07/05/11,Stuttgart,Hannover,2,1,H,2.0,3.6,3.0,2011-05-07,2010/2011,33,D1,2-1,1,-1.0,2011-05-07StuttgartHannover
+07/05/11,Werder Bremen,Dortmund,2,0,H,2.0,3.3,3.3,2011-05-07,2010/2011,33,D1,2-0,2,-1.2999999999999998,2011-05-07Werder BremenDortmund
+07/05/11,Wolfsburg,Kaiserslautern,1,2,A,1.4,4.5,6.0,2011-05-07,2010/2011,33,D1,1-2,-1,-4.6,2011-05-07WolfsburgKaiserslautern
+14/05/11,Bayern Munich,Stuttgart,2,1,H,1.3,5.0,8.0,2011-05-14,2010/2011,34,D1,2-1,1,-6.7,2011-05-14Bayern MunichStuttgart
+14/05/11,Dortmund,Ein Frankfurt,3,1,H,1.6,3.8,4.5,2011-05-14,2010/2011,34,D1,3-1,2,-2.9,2011-05-14DortmundEin Frankfurt
+14/05/11,FC Koln,Schalke 04,2,1,H,2.2,3.4,2.8,2011-05-14,2010/2011,34,D1,2-1,1,-0.5999999999999996,2011-05-14FC KolnSchalke 04
+14/05/11,Freiburg,Leverkusen,0,1,A,4.0,3.0,1.9,2011-05-14,2010/2011,34,D1,0-1,-1,2.1,2011-05-14FreiburgLeverkusen
+14/05/11,Hamburg,M'gladbach,1,1,D,2.9,3.5,2.1,2011-05-14,2010/2011,34,D1,1-1,0,0.7999999999999998,2011-05-14HamburgM'gladbach
+14/05/11,Hannover,Nurnberg,3,1,H,1.9,3.4,3.6,2011-05-14,2010/2011,34,D1,3-1,2,-1.7000000000000002,2011-05-14HannoverNurnberg
+14/05/11,Hoffenheim,Wolfsburg,1,3,A,3.8,3.5,1.8,2011-05-14,2010/2011,34,D1,1-3,-2,1.9999999999999998,2011-05-14HoffenheimWolfsburg
+14/05/11,Kaiserslautern,Werder Bremen,3,2,H,2.2,3.4,2.8,2011-05-14,2010/2011,34,D1,3-2,1,-0.5999999999999996,2011-05-14KaiserslauternWerder Bremen
+14/05/11,Mainz,St Pauli,2,1,H,1.35,4.5,7.3,2011-05-14,2010/2011,34,D1,2-1,1,-5.949999999999999,2011-05-14MainzSt Pauli

@@ -1,0 +1,379 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+19/08/06,Arsenal,Aston Villa,1,1,D,1.3,4.4,8.5,2006-08-19,2006/2007,1,E0,1-1,0,-7.2,2006-08-19ArsenalAston Villa
+19/08/06,Bolton,Tottenham,2,0,H,2.5,3.1,2.6,2006-08-19,2006/2007,1,E0,2-0,2,-0.10000000000000009,2006-08-19BoltonTottenham
+19/08/06,Everton,Watford,2,1,H,1.7,3.4,4.3,2006-08-19,2006/2007,1,E0,2-1,1,-2.5999999999999996,2006-08-19EvertonWatford
+19/08/06,Newcastle,Wigan,2,1,H,1.7,3.4,4.3,2006-08-19,2006/2007,1,E0,2-1,1,-2.5999999999999996,2006-08-19NewcastleWigan
+19/08/06,Portsmouth,Blackburn,3,0,H,2.5,3.1,2.6,2006-08-19,2006/2007,1,E0,3-0,3,-0.10000000000000009,2006-08-19PortsmouthBlackburn
+19/08/06,Reading,Middlesbrough,3,2,H,2.5,3.1,2.6,2006-08-19,2006/2007,1,E0,3-2,1,-0.10000000000000009,2006-08-19ReadingMiddlesbrough
+19/08/06,Sheffield United,Liverpool,1,1,D,4.8,3.6,1.6,2006-08-19,2006/2007,1,E0,1-1,0,3.1999999999999997,2006-08-19Sheffield UnitedLiverpool
+19/08/06,West Ham,Charlton,3,1,H,2.0,3.2,3.3,2006-08-19,2006/2007,1,E0,3-1,2,-1.2999999999999998,2006-08-19West HamCharlton
+20/08/06,Chelsea,Man City,3,0,H,1.25,4.8,9.5,2006-08-20,2006/2007,1,E0,3-0,3,-8.25,2006-08-20ChelseaMan City
+20/08/06,Man United,Fulham,5,1,H,1.3,4.4,8.5,2006-08-20,2006/2007,2,E0,5-1,4,-7.2,2006-08-20Man UnitedFulham
+22/08/06,Tottenham,Sheffield United,2,0,H,1.55,3.4,5.8,2006-08-22,2006/2007,2,E0,2-0,2,-4.25,2006-08-22TottenhamSheffield United
+22/08/06,Watford,West Ham,1,1,D,2.5,3.2,2.5,2006-08-22,2006/2007,2,E0,1-1,0,0.0,2006-08-22WatfordWest Ham
+23/08/06,Aston Villa,Reading,2,1,H,1.9,3.2,3.6,2006-08-23,2006/2007,2,E0,2-1,1,-1.7000000000000002,2006-08-23Aston VillaReading
+23/08/06,Blackburn,Everton,1,1,D,2.2,3.1,3.0,2006-08-23,2006/2007,2,E0,1-1,0,-0.7999999999999998,2006-08-23BlackburnEverton
+23/08/06,Charlton,Man United,0,3,A,4.8,3.6,1.6,2006-08-23,2006/2007,2,E0,0-3,-3,3.1999999999999997,2006-08-23CharltonMan United
+23/08/06,Fulham,Bolton,1,1,D,2.4,3.1,2.7,2006-08-23,2006/2007,2,E0,1-1,0,-0.30000000000000027,2006-08-23FulhamBolton
+23/08/06,Man City,Portsmouth,0,0,D,2.2,3.1,3.0,2006-08-23,2006/2007,2,E0,0-0,0,-0.7999999999999998,2006-08-23Man CityPortsmouth
+23/08/06,Middlesbrough,Chelsea,2,1,H,6.3,3.5,1.5,2006-08-23,2006/2007,2,E0,2-1,1,4.8,2006-08-23MiddlesbroughChelsea
+26/08/06,Charlton,Bolton,2,0,H,2.4,3.1,2.7,2006-08-26,2006/2007,3,E0,2-0,2,-0.30000000000000027,2006-08-26CharltonBolton
+26/08/06,Fulham,Sheffield United,1,0,H,2.0,3.2,3.3,2006-08-26,2006/2007,3,E0,1-0,1,-1.2999999999999998,2006-08-26FulhamSheffield United
+26/08/06,Liverpool,West Ham,2,1,H,1.45,3.7,6.5,2006-08-26,2006/2007,3,E0,2-1,1,-5.05,2006-08-26LiverpoolWest Ham
+26/08/06,Man City,Arsenal,1,0,H,4.2,3.3,1.75,2006-08-26,2006/2007,3,E0,1-0,1,2.45,2006-08-26Man CityArsenal
+26/08/06,Tottenham,Everton,0,2,A,1.7,3.3,4.5,2006-08-26,2006/2007,3,E0,0-2,-2,-2.8,2006-08-26TottenhamEverton
+26/08/06,Watford,Man United,1,2,A,6.5,3.7,1.45,2006-08-26,2006/2007,3,E0,1-2,-1,5.05,2006-08-26WatfordMan United
+26/08/06,Wigan,Reading,1,0,H,2.0,3.2,3.3,2006-08-26,2006/2007,3,E0,1-0,1,-1.2999999999999998,2006-08-26WiganReading
+27/08/06,Aston Villa,Newcastle,2,0,H,2.3,3.1,2.8,2006-08-27,2006/2007,3,E0,2-0,2,-0.5,2006-08-27Aston VillaNewcastle
+27/08/06,Blackburn,Chelsea,0,2,A,6.3,3.5,1.5,2006-08-27,2006/2007,3,E0,0-2,-2,4.8,2006-08-27BlackburnChelsea
+28/08/06,Middlesbrough,Portsmouth,0,4,A,2.2,3.1,3.0,2006-08-28,2006/2007,4,E0,0-4,-4,-0.7999999999999998,2006-08-28MiddlesbroughPortsmouth
+09/09/06,Arsenal,Middlesbrough,1,1,D,1.35,4.2,7.5,2006-09-09,2006/2007,4,E0,1-1,0,-6.15,2006-09-09ArsenalMiddlesbrough
+09/09/06,Bolton,Watford,1,0,H,1.7,3.4,4.3,2006-09-09,2006/2007,4,E0,1-0,1,-2.5999999999999996,2006-09-09BoltonWatford
+09/09/06,Chelsea,Charlton,2,1,H,1.2,5.2,11.0,2006-09-09,2006/2007,4,E0,2-1,1,-9.8,2006-09-09ChelseaCharlton
+09/09/06,Everton,Liverpool,3,0,H,3.4,3.1,2.0,2006-09-09,2006/2007,4,E0,3-0,3,1.4,2006-09-09EvertonLiverpool
+09/09/06,Man United,Tottenham,1,0,H,1.5,3.8,5.5,2006-09-09,2006/2007,4,E0,1-0,1,-4.0,2006-09-09Man UnitedTottenham
+09/09/06,Newcastle,Fulham,1,2,A,1.75,3.3,4.2,2006-09-09,2006/2007,4,E0,1-2,-1,-2.45,2006-09-09NewcastleFulham
+09/09/06,Portsmouth,Wigan,1,0,H,1.8,3.2,4.0,2006-09-09,2006/2007,4,E0,1-0,1,-2.2,2006-09-09PortsmouthWigan
+09/09/06,Sheffield United,Blackburn,0,0,D,2.5,3.1,2.6,2006-09-09,2006/2007,4,E0,0-0,0,-0.10000000000000009,2006-09-09Sheffield UnitedBlackburn
+10/09/06,West Ham,Aston Villa,1,1,D,2.1,3.1,3.2,2006-09-10,2006/2007,5,E0,1-1,0,-1.1,2006-09-10West HamAston Villa
+11/09/06,Reading,Man City,1,0,H,2.3,3.1,2.8,2006-09-11,2006/2007,5,E0,1-0,1,-0.5,2006-09-11ReadingMan City
+16/09/06,Bolton,Middlesbrough,0,0,D,2.1,3.1,3.2,2006-09-16,2006/2007,5,E0,0-0,0,-1.1,2006-09-16BoltonMiddlesbrough
+16/09/06,Charlton,Portsmouth,0,1,A,2.5,3.1,2.6,2006-09-16,2006/2007,5,E0,0-1,-1,-0.10000000000000009,2006-09-16CharltonPortsmouth
+16/09/06,Everton,Wigan,2,2,D,1.6,3.6,4.8,2006-09-16,2006/2007,5,E0,2-2,0,-3.1999999999999997,2006-09-16EvertonWigan
+16/09/06,Sheffield United,Reading,1,2,A,2.3,3.1,2.8,2006-09-16,2006/2007,5,E0,1-2,-1,-0.5,2006-09-16Sheffield UnitedReading
+16/09/06,Watford,Aston Villa,0,0,D,2.7,3.1,2.4,2006-09-16,2006/2007,5,E0,0-0,0,0.30000000000000027,2006-09-16WatfordAston Villa
+17/09/06,Blackburn,Man City,4,2,H,2.1,3.1,3.2,2006-09-17,2006/2007,5,E0,4-2,2,-1.1,2006-09-17BlackburnMan City
+17/09/06,Chelsea,Liverpool,1,0,H,1.75,3.3,4.2,2006-09-17,2006/2007,5,E0,1-0,1,-2.45,2006-09-17ChelseaLiverpool
+17/09/06,Man United,Arsenal,0,1,A,1.9,3.2,3.6,2006-09-17,2006/2007,6,E0,0-1,-1,-1.7000000000000002,2006-09-17Man UnitedArsenal
+17/09/06,Tottenham,Fulham,0,0,D,1.65,3.5,4.5,2006-09-17,2006/2007,6,E0,0-0,0,-2.85,2006-09-17TottenhamFulham
+17/09/06,West Ham,Newcastle,0,2,A,2.0,3.2,3.3,2006-09-17,2006/2007,6,E0,0-2,-2,-1.2999999999999998,2006-09-17West HamNewcastle
+20/09/06,Liverpool,Newcastle,2,0,H,1.5,3.8,5.5,2006-09-20,2006/2007,6,E0,2-0,2,-4.0,2006-09-20LiverpoolNewcastle
+23/09/06,Arsenal,Sheffield United,3,0,H,1.2,5.2,11.0,2006-09-23,2006/2007,6,E0,3-0,3,-9.8,2006-09-23ArsenalSheffield United
+23/09/06,Aston Villa,Charlton,2,0,H,1.7,3.4,4.3,2006-09-23,2006/2007,6,E0,2-0,2,-2.5999999999999996,2006-09-23Aston VillaCharlton
+23/09/06,Fulham,Chelsea,0,2,A,6.5,4.0,1.4,2006-09-23,2006/2007,6,E0,0-2,-2,5.1,2006-09-23FulhamChelsea
+23/09/06,Liverpool,Tottenham,3,0,H,1.65,3.5,4.5,2006-09-23,2006/2007,6,E0,3-0,3,-2.85,2006-09-23LiverpoolTottenham
+23/09/06,Man City,West Ham,2,0,H,2.2,3.1,3.0,2006-09-23,2006/2007,6,E0,2-0,2,-0.7999999999999998,2006-09-23Man CityWest Ham
+23/09/06,Middlesbrough,Blackburn,0,1,A,2.1,3.1,3.2,2006-09-23,2006/2007,7,E0,0-1,-1,-1.1,2006-09-23MiddlesbroughBlackburn
+23/09/06,Reading,Man United,1,1,D,5.5,3.8,1.5,2006-09-23,2006/2007,7,E0,1-1,0,4.0,2006-09-23ReadingMan United
+23/09/06,Wigan,Watford,1,1,D,1.75,3.3,4.2,2006-09-23,2006/2007,7,E0,1-1,0,-2.45,2006-09-23WiganWatford
+24/09/06,Newcastle,Everton,1,1,D,2.2,3.1,3.0,2006-09-24,2006/2007,7,E0,1-1,0,-0.7999999999999998,2006-09-24NewcastleEverton
+25/09/06,Portsmouth,Bolton,0,1,A,1.9,3.2,3.6,2006-09-25,2006/2007,7,E0,0-1,-1,-1.7000000000000002,2006-09-25PortsmouthBolton
+30/09/06,Bolton,Liverpool,2,0,H,3.4,3.1,2.0,2006-09-30,2006/2007,7,E0,2-0,2,1.4,2006-09-30BoltonLiverpool
+30/09/06,Charlton,Arsenal,1,2,A,5.5,3.5,1.55,2006-09-30,2006/2007,7,E0,1-2,-1,3.95,2006-09-30CharltonArsenal
+30/09/06,Chelsea,Aston Villa,1,1,D,1.27,4.6,9.0,2006-09-30,2006/2007,7,E0,1-1,0,-7.73,2006-09-30ChelseaAston Villa
+30/09/06,Everton,Man City,1,1,D,1.75,3.3,4.2,2006-09-30,2006/2007,7,E0,1-1,0,-2.45,2006-09-30EvertonMan City
+30/09/06,Sheffield United,Middlesbrough,2,1,H,2.6,3.0,2.6,2006-09-30,2006/2007,8,E0,2-1,1,0.0,2006-09-30Sheffield UnitedMiddlesbrough
+01/10/06,Blackburn,Wigan,2,1,H,1.8,3.2,4.0,2006-10-01,2006/2007,8,E0,2-1,1,-2.2,2006-10-01BlackburnWigan
+01/10/06,Man United,Newcastle,2,0,H,1.33,4.2,8.0,2006-10-01,2006/2007,8,E0,2-0,2,-6.67,2006-10-01Man UnitedNewcastle
+01/10/06,Tottenham,Portsmouth,2,1,H,1.85,3.2,3.8,2006-10-01,2006/2007,8,E0,2-1,1,-1.9499999999999997,2006-10-01TottenhamPortsmouth
+01/10/06,West Ham,Reading,0,1,A,2.0,3.2,3.3,2006-10-01,2006/2007,8,E0,0-1,-1,-1.2999999999999998,2006-10-01West HamReading
+02/10/06,Watford,Fulham,3,3,D,2.5,3.0,2.7,2006-10-02,2006/2007,8,E0,3-3,0,-0.20000000000000018,2006-10-02WatfordFulham
+14/10/06,Arsenal,Watford,3,0,H,1.2,5.2,11.0,2006-10-14,2006/2007,8,E0,3-0,3,-9.8,2006-10-14ArsenalWatford
+14/10/06,Aston Villa,Tottenham,1,1,D,2.3,3.1,2.8,2006-10-14,2006/2007,8,E0,1-1,0,-0.5,2006-10-14Aston VillaTottenham
+14/10/06,Liverpool,Blackburn,1,1,D,1.45,3.7,6.5,2006-10-14,2006/2007,8,E0,1-1,0,-5.05,2006-10-14LiverpoolBlackburn
+14/10/06,Man City,Sheffield United,0,0,D,1.65,3.5,4.5,2006-10-14,2006/2007,9,E0,0-0,0,-2.85,2006-10-14Man CitySheffield United
+14/10/06,Middlesbrough,Everton,2,1,H,2.3,3.1,2.8,2006-10-14,2006/2007,9,E0,2-1,1,-0.5,2006-10-14MiddlesbroughEverton
+14/10/06,Portsmouth,West Ham,2,0,H,1.85,3.2,3.8,2006-10-14,2006/2007,9,E0,2-0,2,-1.9499999999999997,2006-10-14PortsmouthWest Ham
+14/10/06,Reading,Chelsea,0,1,A,6.5,3.7,1.45,2006-10-14,2006/2007,9,E0,0-1,-1,5.05,2006-10-14ReadingChelsea
+14/10/06,Wigan,Man United,1,3,A,5.0,3.7,1.55,2006-10-14,2006/2007,9,E0,1-3,-2,3.45,2006-10-14WiganMan United
+15/10/06,Newcastle,Bolton,1,2,A,2.3,3.1,2.8,2006-10-15,2006/2007,9,E0,1-2,-1,-0.5,2006-10-15NewcastleBolton
+16/10/06,Fulham,Charlton,2,1,H,2.0,3.2,3.3,2006-10-16,2006/2007,9,E0,2-1,1,-1.2999999999999998,2006-10-16FulhamCharlton
+21/10/06,Aston Villa,Fulham,1,1,D,1.7,3.3,4.5,2006-10-21,2006/2007,9,E0,1-1,0,-2.8,2006-10-21Aston VillaFulham
+21/10/06,Charlton,Watford,0,0,D,2.0,3.2,3.3,2006-10-21,2006/2007,9,E0,0-0,0,-1.2999999999999998,2006-10-21CharltonWatford
+21/10/06,Chelsea,Portsmouth,2,1,H,1.27,4.4,10.0,2006-10-21,2006/2007,10,E0,2-1,1,-8.73,2006-10-21ChelseaPortsmouth
+21/10/06,Everton,Sheffield United,2,0,H,1.55,3.7,5.0,2006-10-21,2006/2007,10,E0,2-0,2,-3.45,2006-10-21EvertonSheffield United
+21/10/06,Wigan,Man City,4,0,H,2.3,3.0,2.9,2006-10-21,2006/2007,10,E0,4-0,4,-0.6000000000000001,2006-10-21WiganMan City
+22/10/06,Blackburn,Bolton,0,1,A,2.4,3.0,2.8,2006-10-22,2006/2007,10,E0,0-1,-1,-0.3999999999999999,2006-10-22BlackburnBolton
+22/10/06,Man United,Liverpool,2,0,H,1.85,3.1,4.0,2006-10-22,2006/2007,10,E0,2-0,2,-2.15,2006-10-22Man UnitedLiverpool
+22/10/06,Middlesbrough,Newcastle,1,0,H,2.2,3.0,3.1,2006-10-22,2006/2007,10,E0,1-0,1,-0.8999999999999999,2006-10-22MiddlesbroughNewcastle
+22/10/06,Reading,Arsenal,0,4,A,5.2,3.6,1.55,2006-10-22,2006/2007,10,E0,0-4,-4,3.6500000000000004,2006-10-22ReadingArsenal
+22/10/06,Tottenham,West Ham,1,0,H,1.7,3.4,4.3,2006-10-22,2006/2007,10,E0,1-0,1,-2.5999999999999996,2006-10-22TottenhamWest Ham
+28/10/06,Arsenal,Everton,1,1,D,1.37,4.0,7.2,2006-10-28,2006/2007,10,E0,1-1,0,-5.83,2006-10-28ArsenalEverton
+28/10/06,Bolton,Man United,0,4,A,3.6,3.2,1.9,2006-10-28,2006/2007,11,E0,0-4,-4,1.7000000000000002,2006-10-28BoltonMan United
+28/10/06,Fulham,Wigan,0,1,A,1.9,3.2,3.6,2006-10-28,2006/2007,11,E0,0-1,-1,-1.7000000000000002,2006-10-28FulhamWigan
+28/10/06,Liverpool,Aston Villa,3,1,H,1.6,3.5,5.0,2006-10-28,2006/2007,11,E0,3-1,2,-3.4,2006-10-28LiverpoolAston Villa
+28/10/06,Newcastle,Charlton,0,0,D,1.8,3.2,4.0,2006-10-28,2006/2007,11,E0,0-0,0,-2.2,2006-10-28NewcastleCharlton
+28/10/06,Portsmouth,Reading,3,1,H,1.8,3.2,4.0,2006-10-28,2006/2007,11,E0,3-1,2,-2.2,2006-10-28PortsmouthReading
+28/10/06,Sheffield United,Chelsea,0,2,A,8.0,4.2,1.33,2006-10-28,2006/2007,11,E0,0-2,-2,6.67,2006-10-28Sheffield UnitedChelsea
+28/10/06,Watford,Tottenham,0,0,D,3.2,3.1,2.1,2006-10-28,2006/2007,11,E0,0-0,0,1.1,2006-10-28WatfordTottenham
+29/10/06,West Ham,Blackburn,2,1,H,2.3,3.1,2.8,2006-10-29,2006/2007,11,E0,2-1,1,-0.5,2006-10-29West HamBlackburn
+30/10/06,Man City,Middlesbrough,1,0,H,2.3,3.1,2.8,2006-10-30,2006/2007,11,E0,1-0,1,-0.5,2006-10-30Man CityMiddlesbrough
+04/11/06,Bolton,Wigan,0,1,A,1.75,3.3,4.2,2006-11-04,2006/2007,12,E0,0-1,-1,-2.45,2006-11-04BoltonWigan
+04/11/06,Charlton,Man City,1,0,H,2.3,3.1,2.8,2006-11-04,2006/2007,12,E0,1-0,1,-0.5,2006-11-04CharltonMan City
+04/11/06,Fulham,Everton,1,0,H,2.55,3.1,2.55,2006-11-04,2006/2007,12,E0,1-0,1,0.0,2006-11-04FulhamEverton
+04/11/06,Liverpool,Reading,2,0,H,1.37,3.9,7.5,2006-11-04,2006/2007,12,E0,2-0,2,-6.13,2006-11-04LiverpoolReading
+04/11/06,Man United,Portsmouth,3,0,H,1.33,4.2,8.0,2006-11-04,2006/2007,12,E0,3-0,3,-6.67,2006-11-04Man UnitedPortsmouth
+04/11/06,Newcastle,Sheffield United,0,1,A,1.75,3.3,4.2,2006-11-04,2006/2007,12,E0,0-1,-1,-2.45,2006-11-04NewcastleSheffield United
+04/11/06,Watford,Middlesbrough,2,0,H,2.5,3.0,2.7,2006-11-04,2006/2007,12,E0,2-0,2,-0.20000000000000018,2006-11-04WatfordMiddlesbrough
+05/11/06,Aston Villa,Blackburn,2,0,H,1.9,3.1,3.8,2006-11-05,2006/2007,12,E0,2-0,2,-1.9,2006-11-05Aston VillaBlackburn
+05/11/06,Tottenham,Chelsea,2,1,H,4.3,3.4,1.7,2006-11-05,2006/2007,12,E0,2-1,1,2.5999999999999996,2006-11-05TottenhamChelsea
+05/11/06,West Ham,Arsenal,1,0,H,4.8,3.6,1.6,2006-11-05,2006/2007,13,E0,1-0,1,3.1999999999999997,2006-11-05West HamArsenal
+11/11/06,Blackburn,Man United,0,1,A,4.8,3.6,1.6,2006-11-11,2006/2007,13,E0,0-1,-1,3.1999999999999997,2006-11-11BlackburnMan United
+11/11/06,Chelsea,Watford,4,0,H,1.15,6.0,13.0,2006-11-11,2006/2007,13,E0,4-0,4,-11.85,2006-11-11ChelseaWatford
+11/11/06,Everton,Aston Villa,0,1,A,2.1,3.1,3.2,2006-11-11,2006/2007,13,E0,0-1,-1,-1.1,2006-11-11EvertonAston Villa
+11/11/06,Man City,Newcastle,0,0,D,2.0,3.2,3.3,2006-11-11,2006/2007,13,E0,0-0,0,-1.2999999999999998,2006-11-11Man CityNewcastle
+11/11/06,Middlesbrough,West Ham,1,0,H,2.2,3.1,3.0,2006-11-11,2006/2007,13,E0,1-0,1,-0.7999999999999998,2006-11-11MiddlesbroughWest Ham
+11/11/06,Portsmouth,Fulham,1,1,D,1.85,3.2,3.8,2006-11-11,2006/2007,13,E0,1-1,0,-1.9499999999999997,2006-11-11PortsmouthFulham
+11/11/06,Sheffield United,Bolton,2,2,D,2.65,3.1,2.45,2006-11-11,2006/2007,13,E0,2-2,0,0.19999999999999973,2006-11-11Sheffield UnitedBolton
+11/11/06,Wigan,Charlton,3,2,H,1.85,3.2,3.8,2006-11-11,2006/2007,13,E0,3-2,1,-1.9499999999999997,2006-11-11WiganCharlton
+12/11/06,Arsenal,Liverpool,3,0,H,2.0,3.1,3.4,2006-11-12,2006/2007,14,E0,3-0,3,-1.4,2006-11-12ArsenalLiverpool
+12/11/06,Reading,Tottenham,3,1,H,2.8,3.1,2.3,2006-11-12,2006/2007,14,E0,3-1,2,0.5,2006-11-12ReadingTottenham
+18/11/06,Arsenal,Newcastle,1,1,D,1.27,4.6,9.0,2006-11-18,2006/2007,14,E0,1-1,0,-7.73,2006-11-18ArsenalNewcastle
+18/11/06,Chelsea,West Ham,1,0,H,1.22,5.0,10.0,2006-11-18,2006/2007,14,E0,1-0,1,-8.78,2006-11-18ChelseaWest Ham
+18/11/06,Everton,Bolton,1,0,H,2.2,3.1,3.0,2006-11-18,2006/2007,14,E0,1-0,1,-0.7999999999999998,2006-11-18EvertonBolton
+18/11/06,Man City,Fulham,3,1,H,2.2,3.0,3.1,2006-11-18,2006/2007,14,E0,3-1,2,-0.8999999999999999,2006-11-18Man CityFulham
+18/11/06,Middlesbrough,Liverpool,0,0,D,3.2,3.1,2.1,2006-11-18,2006/2007,14,E0,0-0,0,1.1,2006-11-18MiddlesbroughLiverpool
+18/11/06,Portsmouth,Watford,2,1,H,1.6,3.6,4.8,2006-11-18,2006/2007,14,E0,2-1,1,-3.1999999999999997,2006-11-18PortsmouthWatford
+18/11/06,Reading,Charlton,2,0,H,1.85,3.2,3.8,2006-11-18,2006/2007,14,E0,2-0,2,-1.9499999999999997,2006-11-18ReadingCharlton
+18/11/06,Sheffield United,Man United,1,2,A,7.5,4.2,1.35,2006-11-18,2006/2007,15,E0,1-2,-1,6.15,2006-11-18Sheffield UnitedMan United
+19/11/06,Blackburn,Tottenham,1,1,D,2.45,3.0,2.75,2006-11-19,2006/2007,15,E0,1-1,0,-0.2999999999999998,2006-11-19BlackburnTottenham
+19/11/06,Wigan,Aston Villa,0,0,D,2.4,3.1,2.7,2006-11-19,2006/2007,15,E0,0-0,0,-0.30000000000000027,2006-11-19WiganAston Villa
+25/11/06,Aston Villa,Middlesbrough,1,1,D,1.8,3.2,4.0,2006-11-25,2006/2007,15,E0,1-1,0,-2.2,2006-11-25Aston VillaMiddlesbrough
+25/11/06,Bolton,Arsenal,3,1,H,3.4,3.1,2.0,2006-11-25,2006/2007,15,E0,3-1,2,1.4,2006-11-25BoltonArsenal
+25/11/06,Charlton,Everton,1,1,D,2.55,3.1,2.55,2006-11-25,2006/2007,15,E0,1-1,0,0.0,2006-11-25CharltonEverton
+25/11/06,Fulham,Reading,0,1,A,2.1,3.1,3.2,2006-11-25,2006/2007,15,E0,0-1,-1,-1.1,2006-11-25FulhamReading
+25/11/06,Liverpool,Man City,1,0,H,1.4,3.8,7.0,2006-11-25,2006/2007,15,E0,1-0,1,-5.6,2006-11-25LiverpoolMan City
+25/11/06,West Ham,Sheffield United,1,0,H,1.75,3.3,4.2,2006-11-25,2006/2007,15,E0,1-0,1,-2.45,2006-11-25West HamSheffield United
+26/11/06,Man United,Chelsea,1,1,D,2.4,3.0,2.8,2006-11-26,2006/2007,16,E0,1-1,0,-0.3999999999999999,2006-11-26Man UnitedChelsea
+26/11/06,Newcastle,Portsmouth,1,0,H,2.2,3.1,3.0,2006-11-26,2006/2007,16,E0,1-0,1,-0.7999999999999998,2006-11-26NewcastlePortsmouth
+26/11/06,Tottenham,Wigan,3,1,H,1.7,3.4,4.3,2006-11-26,2006/2007,16,E0,3-1,2,-2.5999999999999996,2006-11-26TottenhamWigan
+28/11/06,Watford,Sheffield United,0,1,A,2.2,3.0,3.1,2006-11-28,2006/2007,16,E0,0-1,-1,-0.8999999999999999,2006-11-28WatfordSheffield United
+29/11/06,Aston Villa,Man City,1,3,A,1.8,3.2,4.0,2006-11-29,2006/2007,16,E0,1-3,-2,-2.2,2006-11-29Aston VillaMan City
+29/11/06,Bolton,Chelsea,0,1,A,4.5,3.5,1.65,2006-11-29,2006/2007,16,E0,0-1,-1,2.85,2006-11-29BoltonChelsea
+29/11/06,Fulham,Arsenal,2,1,H,4.5,3.5,1.65,2006-11-29,2006/2007,16,E0,2-1,1,2.85,2006-11-29FulhamArsenal
+29/11/06,Liverpool,Portsmouth,0,0,D,1.4,4.0,6.5,2006-11-29,2006/2007,16,E0,0-0,0,-5.1,2006-11-29LiverpoolPortsmouth
+29/11/06,Man United,Everton,3,0,H,1.3,4.4,8.5,2006-11-29,2006/2007,16,E0,3-0,3,-7.2,2006-11-29Man UnitedEverton
+02/12/06,Arsenal,Tottenham,3,0,H,1.6,3.5,5.0,2006-12-02,2006/2007,17,E0,3-0,3,-3.4,2006-12-02ArsenalTottenham
+02/12/06,Blackburn,Fulham,2,0,H,2.0,3.2,3.3,2006-12-02,2006/2007,17,E0,2-0,2,-1.2999999999999998,2006-12-02BlackburnFulham
+02/12/06,Middlesbrough,Man United,1,2,A,5.2,3.6,1.55,2006-12-02,2006/2007,17,E0,1-2,-1,3.6500000000000004,2006-12-02MiddlesbroughMan United
+02/12/06,Portsmouth,Aston Villa,2,2,D,2.2,3.0,3.1,2006-12-02,2006/2007,17,E0,2-2,0,-0.8999999999999999,2006-12-02PortsmouthAston Villa
+02/12/06,Reading,Bolton,1,0,H,2.4,3.0,2.8,2006-12-02,2006/2007,17,E0,1-0,1,-0.3999999999999999,2006-12-02ReadingBolton
+02/12/06,Sheffield United,Charlton,2,1,H,2.2,3.1,3.0,2006-12-02,2006/2007,17,E0,2-1,1,-0.7999999999999998,2006-12-02Sheffield UnitedCharlton
+02/12/06,Wigan,Liverpool,0,4,A,3.2,3.1,2.1,2006-12-02,2006/2007,17,E0,0-4,-4,1.1,2006-12-02WiganLiverpool
+03/12/06,Everton,West Ham,2,0,H,1.85,3.2,3.8,2006-12-03,2006/2007,17,E0,2-0,2,-1.9499999999999997,2006-12-03EvertonWest Ham
+04/12/06,Man City,Watford,0,0,D,1.65,3.4,4.7,2006-12-04,2006/2007,17,E0,0-0,0,-3.0500000000000003,2006-12-04Man CityWatford
+05/12/06,Charlton,Blackburn,1,0,H,2.55,3.1,2.55,2006-12-05,2006/2007,18,E0,1-0,1,0.0,2006-12-05CharltonBlackburn
+05/12/06,Tottenham,Middlesbrough,2,1,H,1.75,3.3,4.2,2006-12-05,2006/2007,18,E0,2-1,1,-2.45,2006-12-05TottenhamMiddlesbrough
+06/12/06,Newcastle,Reading,3,2,H,2.1,3.1,3.2,2006-12-06,2006/2007,18,E0,3-2,1,-1.1,2006-12-06NewcastleReading
+06/12/06,West Ham,Wigan,0,2,A,1.9,3.2,3.6,2006-12-06,2006/2007,18,E0,0-2,-2,-1.7000000000000002,2006-12-06West HamWigan
+09/12/06,Blackburn,Newcastle,1,3,A,2.1,3.1,3.2,2006-12-09,2006/2007,18,E0,1-3,-2,-1.1,2006-12-09BlackburnNewcastle
+09/12/06,Bolton,West Ham,4,0,H,1.8,3.2,4.0,2006-12-09,2006/2007,18,E0,4-0,4,-2.2,2006-12-09BoltonWest Ham
+09/12/06,Liverpool,Fulham,4,0,H,1.35,4.2,7.5,2006-12-09,2006/2007,18,E0,4-0,4,-6.15,2006-12-09LiverpoolFulham
+09/12/06,Man United,Man City,3,1,H,1.4,4.0,6.5,2006-12-09,2006/2007,18,E0,3-1,2,-5.1,2006-12-09Man UnitedMan City
+09/12/06,Middlesbrough,Wigan,1,1,D,2.0,3.2,3.3,2006-12-09,2006/2007,18,E0,1-1,0,-1.2999999999999998,2006-12-09MiddlesbroughWigan
+09/12/06,Portsmouth,Everton,2,0,H,2.15,3.1,3.1,2006-12-09,2006/2007,19,E0,2-0,2,-0.9500000000000002,2006-12-09PortsmouthEverton
+09/12/06,Tottenham,Charlton,5,1,H,1.6,3.5,5.0,2006-12-09,2006/2007,19,E0,5-1,4,-3.4,2006-12-09TottenhamCharlton
+09/12/06,Watford,Reading,0,0,D,2.55,3.1,2.55,2006-12-09,2006/2007,19,E0,0-0,0,0.0,2006-12-09WatfordReading
+10/12/06,Chelsea,Arsenal,1,1,D,1.75,3.3,4.2,2006-12-10,2006/2007,19,E0,1-1,0,-2.45,2006-12-10ChelseaArsenal
+11/12/06,Sheffield United,Aston Villa,2,2,D,2.7,3.0,2.5,2006-12-11,2006/2007,19,E0,2-2,0,0.20000000000000018,2006-12-11Sheffield UnitedAston Villa
+13/12/06,Chelsea,Newcastle,1,0,H,1.25,4.8,9.5,2006-12-13,2006/2007,19,E0,1-0,1,-8.25,2006-12-13ChelseaNewcastle
+13/12/06,Wigan,Arsenal,0,1,A,4.3,3.4,1.7,2006-12-13,2006/2007,19,E0,0-1,-1,2.5999999999999996,2006-12-13WiganArsenal
+16/12/06,Arsenal,Portsmouth,2,2,D,1.35,4.2,7.5,2006-12-16,2006/2007,19,E0,2-2,0,-6.15,2006-12-16ArsenalPortsmouth
+16/12/06,Aston Villa,Bolton,0,1,A,2.1,3.1,3.2,2006-12-16,2006/2007,19,E0,0-1,-1,-1.1,2006-12-16Aston VillaBolton
+16/12/06,Charlton,Liverpool,0,3,A,4.5,3.5,1.65,2006-12-16,2006/2007,20,E0,0-3,-3,2.85,2006-12-16CharltonLiverpool
+16/12/06,Newcastle,Watford,2,1,H,1.6,3.5,4.9,2006-12-16,2006/2007,20,E0,2-1,1,-3.3000000000000003,2006-12-16NewcastleWatford
+16/12/06,Reading,Blackburn,1,2,A,1.9,3.2,3.6,2006-12-16,2006/2007,20,E0,1-2,-1,-1.7000000000000002,2006-12-16ReadingBlackburn
+16/12/06,Wigan,Sheffield United,0,1,A,1.85,3.2,3.8,2006-12-16,2006/2007,20,E0,0-1,-1,-1.9499999999999997,2006-12-16WiganSheffield United
+17/12/06,Everton,Chelsea,2,3,A,5.0,3.7,1.55,2006-12-17,2006/2007,20,E0,2-3,-1,3.45,2006-12-17EvertonChelsea
+17/12/06,Man City,Tottenham,1,2,A,2.4,3.1,2.7,2006-12-17,2006/2007,20,E0,1-2,-1,-0.30000000000000027,2006-12-17Man CityTottenham
+17/12/06,West Ham,Man United,1,0,H,6.0,3.9,1.45,2006-12-17,2006/2007,20,E0,1-0,1,4.55,2006-12-17West HamMan United
+18/12/06,Fulham,Middlesbrough,2,1,H,2.1,3.1,3.2,2006-12-18,2006/2007,20,E0,2-1,1,-1.1,2006-12-18FulhamMiddlesbrough
+23/12/06,Arsenal,Blackburn,6,2,H,1.33,4.2,8.0,2006-12-23,2006/2007,20,E0,6-2,4,-6.67,2006-12-23ArsenalBlackburn
+23/12/06,Aston Villa,Man United,0,3,A,4.8,3.6,1.6,2006-12-23,2006/2007,21,E0,0-3,-3,3.1999999999999997,2006-12-23Aston VillaMan United
+23/12/06,Fulham,West Ham,0,0,D,2.3,3.2,2.7,2006-12-23,2006/2007,21,E0,0-0,0,-0.40000000000000036,2006-12-23FulhamWest Ham
+23/12/06,Liverpool,Watford,2,0,H,1.2,5.2,11.0,2006-12-23,2006/2007,21,E0,2-0,2,-9.8,2006-12-23LiverpoolWatford
+23/12/06,Man City,Bolton,0,2,A,2.45,3.1,2.65,2006-12-23,2006/2007,21,E0,0-2,-2,-0.19999999999999973,2006-12-23Man CityBolton
+23/12/06,Middlesbrough,Charlton,2,0,H,1.75,3.3,4.2,2006-12-23,2006/2007,21,E0,2-0,2,-2.45,2006-12-23MiddlesbroughCharlton
+23/12/06,Newcastle,Tottenham,3,1,H,2.4,3.1,2.7,2006-12-23,2006/2007,21,E0,3-1,2,-0.30000000000000027,2006-12-23NewcastleTottenham
+23/12/06,Portsmouth,Sheffield United,3,1,H,1.65,3.5,4.5,2006-12-23,2006/2007,21,E0,3-1,2,-2.85,2006-12-23PortsmouthSheffield United
+23/12/06,Reading,Everton,0,2,A,2.2,3.1,3.0,2006-12-23,2006/2007,21,E0,0-2,-2,-0.7999999999999998,2006-12-23ReadingEverton
+23/12/06,Wigan,Chelsea,2,3,A,6.5,4.0,1.4,2006-12-23,2006/2007,21,E0,2-3,-1,5.1,2006-12-23WiganChelsea
+26/12/06,Blackburn,Liverpool,1,0,H,4.3,3.4,1.7,2006-12-26,2006/2007,22,E0,1-0,1,2.5999999999999996,2006-12-26BlackburnLiverpool
+26/12/06,Bolton,Newcastle,2,1,H,1.9,3.2,3.6,2006-12-26,2006/2007,22,E0,2-1,1,-1.7000000000000002,2006-12-26BoltonNewcastle
+26/12/06,Chelsea,Reading,2,2,D,1.17,5.7,12.0,2006-12-26,2006/2007,22,E0,2-2,0,-10.83,2006-12-26ChelseaReading
+26/12/06,Everton,Middlesbrough,0,0,D,1.8,3.2,4.0,2006-12-26,2006/2007,22,E0,0-0,0,-2.2,2006-12-26EvertonMiddlesbrough
+26/12/06,Man United,Wigan,3,1,H,1.2,5.2,11.0,2006-12-26,2006/2007,22,E0,3-1,2,-9.8,2006-12-26Man UnitedWigan
+26/12/06,Sheffield United,Man City,0,1,A,2.2,3.1,3.0,2006-12-26,2006/2007,22,E0,0-1,-1,-0.7999999999999998,2006-12-26Sheffield UnitedMan City
+26/12/06,Tottenham,Aston Villa,2,1,H,1.75,3.3,4.2,2006-12-26,2006/2007,22,E0,2-1,1,-2.45,2006-12-26TottenhamAston Villa
+26/12/06,Watford,Arsenal,1,2,A,6.5,4.0,1.4,2006-12-26,2006/2007,22,E0,1-2,-1,5.1,2006-12-26WatfordArsenal
+26/12/06,West Ham,Portsmouth,1,2,A,2.3,3.1,2.8,2006-12-26,2006/2007,22,E0,1-2,-1,-0.5,2006-12-26West HamPortsmouth
+27/12/06,Charlton,Fulham,2,2,D,2.4,3.2,2.6,2006-12-27,2006/2007,23,E0,2-2,0,-0.20000000000000018,2006-12-27CharltonFulham
+30/12/06,Blackburn,Middlesbrough,2,1,H,2.0,3.2,3.3,2006-12-30,2006/2007,23,E0,2-1,1,-1.2999999999999998,2006-12-30BlackburnMiddlesbrough
+30/12/06,Bolton,Portsmouth,3,2,H,2.0,3.2,3.3,2006-12-30,2006/2007,23,E0,3-2,1,-1.2999999999999998,2006-12-30BoltonPortsmouth
+30/12/06,Charlton,Aston Villa,2,1,H,2.55,3.1,2.55,2006-12-30,2006/2007,23,E0,2-1,1,0.0,2006-12-30CharltonAston Villa
+30/12/06,Chelsea,Fulham,2,2,D,1.2,5.2,11.0,2006-12-30,2006/2007,23,E0,2-2,0,-9.8,2006-12-30ChelseaFulham
+30/12/06,Everton,Newcastle,3,0,H,2.0,3.2,3.3,2006-12-30,2006/2007,23,E0,3-0,3,-1.2999999999999998,2006-12-30EvertonNewcastle
+30/12/06,Man United,Reading,3,2,H,1.2,5.2,11.0,2006-12-30,2006/2007,23,E0,3-2,1,-9.8,2006-12-30Man UnitedReading
+30/12/06,Sheffield United,Arsenal,1,0,H,5.5,3.8,1.5,2006-12-30,2006/2007,23,E0,1-0,1,4.0,2006-12-30Sheffield UnitedArsenal
+30/12/06,Tottenham,Liverpool,0,1,A,2.55,3.1,2.55,2006-12-30,2006/2007,23,E0,0-1,-1,0.0,2006-12-30TottenhamLiverpool
+30/12/06,West Ham,Man City,0,1,A,2.1,3.1,3.2,2006-12-30,2006/2007,24,E0,0-1,-1,-1.1,2006-12-30West HamMan City
+01/01/07,Fulham,Watford,0,0,D,1.7,3.4,4.3,2007-01-01,2006/2007,24,E0,0-0,0,-2.5999999999999996,2007-01-01FulhamWatford
+01/01/07,Liverpool,Bolton,3,0,H,1.6,3.5,5.0,2007-01-01,2006/2007,24,E0,3-0,3,-3.4,2007-01-01LiverpoolBolton
+01/01/07,Man City,Everton,2,1,H,2.2,3.1,3.0,2007-01-01,2006/2007,24,E0,2-1,1,-0.7999999999999998,2007-01-01Man CityEverton
+01/01/07,Middlesbrough,Sheffield United,3,1,H,1.8,3.2,4.0,2007-01-01,2006/2007,24,E0,3-1,2,-2.2,2007-01-01MiddlesbroughSheffield United
+01/01/07,Newcastle,Man United,2,2,D,5.0,3.7,1.55,2007-01-01,2006/2007,24,E0,2-2,0,3.45,2007-01-01NewcastleMan United
+01/01/07,Portsmouth,Tottenham,1,1,D,2.3,3.1,2.8,2007-01-01,2006/2007,24,E0,1-1,0,-0.5,2007-01-01PortsmouthTottenham
+01/01/07,Reading,West Ham,6,0,H,1.9,3.2,3.6,2007-01-01,2006/2007,24,E0,6-0,6,-1.7000000000000002,2007-01-01ReadingWest Ham
+01/01/07,Wigan,Blackburn,0,3,A,2.2,3.1,3.0,2007-01-01,2006/2007,24,E0,0-3,-3,-0.7999999999999998,2007-01-01WiganBlackburn
+02/01/07,Arsenal,Charlton,4,0,H,1.22,5.0,10.0,2007-01-02,2006/2007,25,E0,4-0,4,-8.78,2007-01-02ArsenalCharlton
+02/01/07,Aston Villa,Chelsea,0,0,D,5.0,3.5,1.6,2007-01-02,2006/2007,25,E0,0-0,0,3.4,2007-01-02Aston VillaChelsea
+13/01/07,Blackburn,Arsenal,0,2,A,4.0,3.2,1.8,2007-01-13,2006/2007,25,E0,0-2,-2,2.2,2007-01-13BlackburnArsenal
+13/01/07,Bolton,Man City,0,0,D,1.8,3.2,4.0,2007-01-13,2006/2007,25,E0,0-0,0,-2.2,2007-01-13BoltonMan City
+13/01/07,Charlton,Middlesbrough,1,3,A,2.3,3.1,2.8,2007-01-13,2006/2007,25,E0,1-3,-2,-0.5,2007-01-13CharltonMiddlesbrough
+13/01/07,Chelsea,Wigan,4,0,H,1.2,5.2,11.0,2007-01-13,2006/2007,25,E0,4-0,4,-9.8,2007-01-13ChelseaWigan
+13/01/07,Man United,Aston Villa,3,1,H,1.27,4.6,9.0,2007-01-13,2006/2007,25,E0,3-1,2,-7.73,2007-01-13Man UnitedAston Villa
+13/01/07,Sheffield United,Portsmouth,1,1,D,2.55,3.1,2.55,2007-01-13,2006/2007,25,E0,1-1,0,0.0,2007-01-13Sheffield UnitedPortsmouth
+13/01/07,Watford,Liverpool,0,3,A,5.5,3.8,1.5,2007-01-13,2006/2007,25,E0,0-3,-3,4.0,2007-01-13WatfordLiverpool
+13/01/07,West Ham,Fulham,3,3,D,2.2,3.1,3.0,2007-01-13,2006/2007,26,E0,3-3,0,-0.7999999999999998,2007-01-13West HamFulham
+14/01/07,Everton,Reading,1,1,D,1.9,3.2,3.6,2007-01-14,2006/2007,26,E0,1-1,0,-1.7000000000000002,2007-01-14EvertonReading
+14/01/07,Tottenham,Newcastle,2,3,A,1.75,3.3,4.2,2007-01-14,2006/2007,26,E0,2-3,-1,-2.45,2007-01-14TottenhamNewcastle
+20/01/07,Aston Villa,Watford,2,0,H,1.6,3.5,5.0,2007-01-20,2006/2007,26,E0,2-0,2,-3.4,2007-01-20Aston VillaWatford
+20/01/07,Fulham,Tottenham,1,1,D,2.5,3.0,2.7,2007-01-20,2006/2007,26,E0,1-1,0,-0.20000000000000018,2007-01-20FulhamTottenham
+20/01/07,Liverpool,Chelsea,2,0,H,2.6,3.0,2.6,2007-01-20,2006/2007,26,E0,2-0,2,0.0,2007-01-20LiverpoolChelsea
+20/01/07,Man City,Blackburn,0,3,A,2.2,3.1,3.0,2007-01-20,2006/2007,26,E0,0-3,-3,-0.7999999999999998,2007-01-20Man CityBlackburn
+20/01/07,Middlesbrough,Bolton,5,1,H,2.4,3.1,2.7,2007-01-20,2006/2007,26,E0,5-1,4,-0.30000000000000027,2007-01-20MiddlesbroughBolton
+20/01/07,Newcastle,West Ham,2,2,D,1.8,3.2,4.0,2007-01-20,2006/2007,26,E0,2-2,0,-2.2,2007-01-20NewcastleWest Ham
+20/01/07,Portsmouth,Charlton,0,1,A,1.6,3.6,4.8,2007-01-20,2006/2007,27,E0,0-1,-1,-3.1999999999999997,2007-01-20PortsmouthCharlton
+20/01/07,Reading,Sheffield United,3,1,H,1.8,3.2,4.0,2007-01-20,2006/2007,27,E0,3-1,2,-2.2,2007-01-20ReadingSheffield United
+21/01/07,Arsenal,Man United,2,1,H,2.5,3.1,2.6,2007-01-21,2006/2007,27,E0,2-1,1,-0.10000000000000009,2007-01-21ArsenalMan United
+21/01/07,Wigan,Everton,0,2,A,2.55,3.1,2.55,2007-01-21,2006/2007,27,E0,0-2,-2,0.0,2007-01-21WiganEverton
+23/01/07,Watford,Blackburn,2,1,H,3.2,3.1,2.1,2007-01-23,2006/2007,27,E0,2-1,1,1.1,2007-01-23WatfordBlackburn
+30/01/07,Portsmouth,Middlesbrough,0,0,D,1.85,3.2,3.8,2007-01-30,2006/2007,27,E0,0-0,0,-1.9499999999999997,2007-01-30PortsmouthMiddlesbrough
+30/01/07,Reading,Wigan,3,2,H,1.7,3.4,4.3,2007-01-30,2006/2007,27,E0,3-2,1,-2.5999999999999996,2007-01-30ReadingWigan
+30/01/07,Sheffield United,Fulham,2,0,H,2.4,3.0,2.8,2007-01-30,2006/2007,27,E0,2-0,2,-0.3999999999999999,2007-01-30Sheffield UnitedFulham
+30/01/07,West Ham,Liverpool,1,2,A,4.3,3.4,1.7,2007-01-30,2006/2007,27,E0,1-2,-1,2.5999999999999996,2007-01-30West HamLiverpool
+31/01/07,Bolton,Charlton,1,1,D,1.55,3.6,5.2,2007-01-31,2006/2007,28,E0,1-1,0,-3.6500000000000004,2007-01-31BoltonCharlton
+31/01/07,Chelsea,Blackburn,3,0,H,1.27,4.6,9.0,2007-01-31,2006/2007,28,E0,3-0,3,-7.73,2007-01-31ChelseaBlackburn
+31/01/07,Man United,Watford,4,0,H,1.15,6.0,13.0,2007-01-31,2006/2007,28,E0,4-0,4,-11.85,2007-01-31Man UnitedWatford
+31/01/07,Newcastle,Aston Villa,3,1,H,2.0,3.2,3.3,2007-01-31,2006/2007,28,E0,3-1,2,-1.2999999999999998,2007-01-31NewcastleAston Villa
+03/02/07,Aston Villa,West Ham,1,0,H,1.9,3.2,3.6,2007-02-03,2006/2007,28,E0,1-0,1,-1.7000000000000002,2007-02-03Aston VillaWest Ham
+03/02/07,Blackburn,Sheffield United,2,1,H,1.7,3.4,4.3,2007-02-03,2006/2007,28,E0,2-1,1,-2.5999999999999996,2007-02-03BlackburnSheffield United
+03/02/07,Charlton,Chelsea,0,1,A,6.5,3.7,1.45,2007-02-03,2006/2007,28,E0,0-1,-1,5.05,2007-02-03CharltonChelsea
+03/02/07,Fulham,Newcastle,2,1,H,2.3,3.1,2.8,2007-02-03,2006/2007,28,E0,2-1,1,-0.5,2007-02-03FulhamNewcastle
+03/02/07,Liverpool,Everton,0,0,D,1.55,3.5,5.5,2007-02-03,2006/2007,28,E0,0-0,0,-3.95,2007-02-03LiverpoolEverton
+03/02/07,Man City,Reading,0,2,A,2.1,3.1,3.2,2007-02-03,2006/2007,29,E0,0-2,-2,-1.1,2007-02-03Man CityReading
+03/02/07,Middlesbrough,Arsenal,1,1,D,4.0,3.2,1.8,2007-02-03,2006/2007,29,E0,1-1,0,2.2,2007-02-03MiddlesbroughArsenal
+03/02/07,Watford,Bolton,0,1,A,3.2,3.1,2.1,2007-02-03,2006/2007,29,E0,0-1,-1,1.1,2007-02-03WatfordBolton
+03/02/07,Wigan,Portsmouth,1,0,H,2.5,3.2,2.5,2007-02-03,2006/2007,29,E0,1-0,1,0.0,2007-02-03WiganPortsmouth
+04/02/07,Tottenham,Man United,0,4,A,3.8,3.2,1.85,2007-02-04,2006/2007,29,E0,0-4,-4,1.9499999999999997,2007-02-04TottenhamMan United
+10/02/07,Chelsea,Middlesbrough,3,0,H,1.3,4.4,8.5,2007-02-10,2006/2007,29,E0,3-0,3,-7.2,2007-02-10ChelseaMiddlesbrough
+10/02/07,Everton,Blackburn,1,0,H,2.1,3.1,3.2,2007-02-10,2006/2007,29,E0,1-0,1,-1.1,2007-02-10EvertonBlackburn
+10/02/07,Man United,Charlton,2,0,H,1.12,6.5,14.0,2007-02-10,2006/2007,29,E0,2-0,2,-12.879999999999999,2007-02-10Man UnitedCharlton
+10/02/07,Newcastle,Liverpool,2,1,H,3.3,3.2,2.0,2007-02-10,2006/2007,29,E0,2-1,1,1.2999999999999998,2007-02-10NewcastleLiverpool
+10/02/07,Portsmouth,Man City,2,1,H,1.85,3.2,3.8,2007-02-10,2006/2007,30,E0,2-1,1,-1.9499999999999997,2007-02-10PortsmouthMan City
+10/02/07,Reading,Aston Villa,2,0,H,1.9,3.2,3.6,2007-02-10,2006/2007,30,E0,2-0,2,-1.7000000000000002,2007-02-10ReadingAston Villa
+10/02/07,Sheffield United,Tottenham,2,1,H,2.8,3.1,2.3,2007-02-10,2006/2007,30,E0,2-1,1,0.5,2007-02-10Sheffield UnitedTottenham
+10/02/07,West Ham,Watford,0,1,A,1.9,3.1,3.8,2007-02-10,2006/2007,30,E0,0-1,-1,-1.9,2007-02-10West HamWatford
+11/02/07,Arsenal,Wigan,2,1,H,1.22,4.8,11.0,2007-02-11,2006/2007,30,E0,2-1,1,-9.78,2007-02-11ArsenalWigan
+11/02/07,Bolton,Fulham,2,1,H,1.7,3.3,4.5,2007-02-11,2006/2007,30,E0,2-1,1,-2.8,2007-02-11BoltonFulham
+21/02/07,Everton,Tottenham,1,2,A,2.25,3.0,3.0,2007-02-21,2006/2007,30,E0,1-2,-1,-0.75,2007-02-21EvertonTottenham
+21/02/07,Watford,Wigan,1,1,D,2.2,3.1,3.0,2007-02-21,2006/2007,30,E0,1-1,0,-0.7999999999999998,2007-02-21WatfordWigan
+24/02/07,Charlton,West Ham,4,0,H,2.2,3.2,2.9,2007-02-24,2006/2007,30,E0,4-0,4,-0.6999999999999997,2007-02-24CharltonWest Ham
+24/02/07,Fulham,Man United,1,2,A,6.0,3.6,1.5,2007-02-24,2006/2007,31,E0,1-2,-1,4.5,2007-02-24FulhamMan United
+24/02/07,Liverpool,Sheffield United,4,0,H,1.3,4.4,8.5,2007-02-24,2006/2007,31,E0,4-0,4,-7.2,2007-02-24LiverpoolSheffield United
+24/02/07,Middlesbrough,Reading,2,1,H,2.3,3.2,2.7,2007-02-24,2006/2007,31,E0,2-1,1,-0.40000000000000036,2007-02-24MiddlesbroughReading
+24/02/07,Watford,Everton,0,3,A,2.8,3.1,2.3,2007-02-24,2006/2007,31,E0,0-3,-3,0.5,2007-02-24WatfordEverton
+25/02/07,Blackburn,Portsmouth,3,0,H,2.2,3.2,2.9,2007-02-25,2006/2007,31,E0,3-0,3,-0.6999999999999997,2007-02-25BlackburnPortsmouth
+25/02/07,Tottenham,Bolton,4,1,H,2.1,3.1,3.2,2007-02-25,2006/2007,31,E0,4-1,3,-1.1,2007-02-25TottenhamBolton
+25/02/07,Wigan,Newcastle,1,0,H,2.55,3.1,2.55,2007-02-25,2006/2007,31,E0,1-0,1,0.0,2007-02-25WiganNewcastle
+03/03/07,Arsenal,Reading,2,1,H,1.5,3.6,6.0,2007-03-03,2006/2007,31,E0,2-1,1,-4.5,2007-03-03ArsenalReading
+03/03/07,Fulham,Aston Villa,1,1,D,2.3,3.0,2.9,2007-03-03,2006/2007,31,E0,1-1,0,-0.6000000000000001,2007-03-03FulhamAston Villa
+03/03/07,Liverpool,Man United,0,1,A,2.6,3.1,2.5,2007-03-03,2006/2007,32,E0,0-1,-1,0.10000000000000009,2007-03-03LiverpoolMan United
+03/03/07,Man City,Wigan,0,1,A,1.9,3.1,3.8,2007-03-03,2006/2007,32,E0,0-1,-1,-1.9,2007-03-03Man CityWigan
+03/03/07,Newcastle,Middlesbrough,0,0,D,2.0,3.2,3.3,2007-03-03,2006/2007,32,E0,0-0,0,-1.2999999999999998,2007-03-03NewcastleMiddlesbrough
+03/03/07,Portsmouth,Chelsea,0,2,A,5.0,3.5,1.6,2007-03-03,2006/2007,32,E0,0-2,-2,3.4,2007-03-03PortsmouthChelsea
+03/03/07,Sheffield United,Everton,1,1,D,2.4,3.1,2.7,2007-03-03,2006/2007,32,E0,1-1,0,-0.30000000000000027,2007-03-03Sheffield UnitedEverton
+03/03/07,Watford,Charlton,2,2,D,2.4,3.2,2.6,2007-03-03,2006/2007,32,E0,2-2,0,-0.20000000000000018,2007-03-03WatfordCharlton
+04/03/07,Bolton,Blackburn,1,2,A,2.0,3.2,3.3,2007-03-04,2006/2007,32,E0,1-2,-1,-1.2999999999999998,2007-03-04BoltonBlackburn
+04/03/07,West Ham,Tottenham,3,4,A,3.0,3.1,2.2,2007-03-04,2006/2007,32,E0,3-4,-1,0.7999999999999998,2007-03-04West HamTottenham
+14/03/07,Aston Villa,Arsenal,0,1,A,3.3,3.2,2.05,2007-03-14,2006/2007,32,E0,0-1,-1,1.25,2007-03-14Aston VillaArsenal
+14/03/07,Man City,Chelsea,0,1,A,5.0,3.7,1.55,2007-03-14,2006/2007,33,E0,0-1,-1,3.45,2007-03-14Man CityChelsea
+17/03/07,Blackburn,West Ham,1,2,A,1.6,3.6,4.8,2007-03-17,2006/2007,33,E0,1-2,-1,-3.1999999999999997,2007-03-17BlackburnWest Ham
+17/03/07,Chelsea,Sheffield United,3,0,H,1.2,5.2,11.0,2007-03-17,2006/2007,33,E0,3-0,3,-9.8,2007-03-17ChelseaSheffield United
+17/03/07,Man United,Bolton,4,1,H,1.33,4.2,8.0,2007-03-17,2006/2007,33,E0,4-1,3,-6.67,2007-03-17Man UnitedBolton
+17/03/07,Middlesbrough,Man City,0,2,A,2.0,3.2,3.3,2007-03-17,2006/2007,33,E0,0-2,-2,-1.2999999999999998,2007-03-17MiddlesbroughMan City
+17/03/07,Reading,Portsmouth,0,0,D,2.0,3.1,3.4,2007-03-17,2006/2007,33,E0,0-0,0,-1.4,2007-03-17ReadingPortsmouth
+17/03/07,Tottenham,Watford,3,1,H,1.45,3.9,6.0,2007-03-17,2006/2007,33,E0,3-1,2,-4.55,2007-03-17TottenhamWatford
+17/03/07,Wigan,Fulham,0,0,D,2.0,3.1,3.4,2007-03-17,2006/2007,33,E0,0-0,0,-1.4,2007-03-17WiganFulham
+18/03/07,Aston Villa,Liverpool,0,0,D,3.6,3.2,1.9,2007-03-18,2006/2007,33,E0,0-0,0,1.7000000000000002,2007-03-18Aston VillaLiverpool
+18/03/07,Charlton,Newcastle,2,0,H,2.4,3.1,2.7,2007-03-18,2006/2007,34,E0,2-0,2,-0.30000000000000027,2007-03-18CharltonNewcastle
+18/03/07,Everton,Arsenal,1,0,H,3.1,3.0,2.2,2007-03-18,2006/2007,34,E0,1-0,1,0.8999999999999999,2007-03-18EvertonArsenal
+31/03/07,Bolton,Sheffield United,1,0,H,1.55,3.7,5.0,2007-03-31,2006/2007,34,E0,1-0,1,-3.45,2007-03-31BoltonSheffield United
+31/03/07,Charlton,Wigan,1,0,H,2.2,3.1,3.0,2007-03-31,2006/2007,34,E0,1-0,1,-0.7999999999999998,2007-03-31CharltonWigan
+31/03/07,Fulham,Portsmouth,1,1,D,2.3,3.1,2.8,2007-03-31,2006/2007,34,E0,1-1,0,-0.5,2007-03-31FulhamPortsmouth
+31/03/07,Liverpool,Arsenal,4,1,H,2.1,3.1,3.2,2007-03-31,2006/2007,34,E0,4-1,3,-1.1,2007-03-31LiverpoolArsenal
+31/03/07,Man United,Blackburn,4,1,H,1.27,4.6,9.0,2007-03-31,2006/2007,34,E0,4-1,3,-7.73,2007-03-31Man UnitedBlackburn
+31/03/07,Newcastle,Man City,0,1,A,2.0,3.2,3.3,2007-03-31,2006/2007,34,E0,0-1,-1,-1.2999999999999998,2007-03-31NewcastleMan City
+31/03/07,Watford,Chelsea,0,1,A,8.5,4.4,1.3,2007-03-31,2006/2007,34,E0,0-1,-1,7.2,2007-03-31WatfordChelsea
+31/03/07,West Ham,Middlesbrough,2,0,H,2.3,3.1,2.8,2007-03-31,2006/2007,35,E0,2-0,2,-0.5,2007-03-31West HamMiddlesbrough
+01/04/07,Tottenham,Reading,1,0,H,1.75,3.3,4.2,2007-04-01,2006/2007,35,E0,1-0,1,-2.45,2007-04-01TottenhamReading
+02/04/07,Aston Villa,Everton,1,1,D,2.3,3.1,2.8,2007-04-02,2006/2007,35,E0,1-1,0,-0.5,2007-04-02Aston VillaEverton
+06/04/07,Everton,Fulham,4,1,H,1.65,3.5,4.5,2007-04-06,2006/2007,35,E0,4-1,3,-2.85,2007-04-06EvertonFulham
+06/04/07,Man City,Charlton,0,0,D,2.0,3.2,3.3,2007-04-06,2006/2007,35,E0,0-0,0,-1.2999999999999998,2007-04-06Man CityCharlton
+07/04/07,Arsenal,West Ham,0,1,A,1.4,4.0,6.5,2007-04-07,2006/2007,35,E0,0-1,-1,-5.1,2007-04-07ArsenalWest Ham
+07/04/07,Blackburn,Aston Villa,1,2,A,2.0,3.2,3.3,2007-04-07,2006/2007,35,E0,1-2,-1,-1.2999999999999998,2007-04-07BlackburnAston Villa
+07/04/07,Chelsea,Tottenham,1,0,H,1.45,3.7,6.5,2007-04-07,2006/2007,35,E0,1-0,1,-5.05,2007-04-07ChelseaTottenham
+07/04/07,Middlesbrough,Watford,4,1,H,1.55,3.7,5.0,2007-04-07,2006/2007,35,E0,4-1,3,-3.45,2007-04-07MiddlesbroughWatford
+07/04/07,Portsmouth,Man United,2,1,H,5.0,3.7,1.55,2007-04-07,2006/2007,36,E0,2-1,1,3.45,2007-04-07PortsmouthMan United
+07/04/07,Reading,Liverpool,1,2,A,3.3,3.2,2.0,2007-04-07,2006/2007,36,E0,1-2,-1,1.2999999999999998,2007-04-07ReadingLiverpool
+07/04/07,Sheffield United,Newcastle,1,2,A,2.3,3.1,2.8,2007-04-07,2006/2007,36,E0,1-2,-1,-0.5,2007-04-07Sheffield UnitedNewcastle
+07/04/07,Wigan,Bolton,1,3,A,2.55,3.1,2.55,2007-04-07,2006/2007,36,E0,1-3,-2,0.0,2007-04-07WiganBolton
+09/04/07,Aston Villa,Wigan,1,1,D,1.9,3.2,3.6,2007-04-09,2006/2007,36,E0,1-1,0,-1.7000000000000002,2007-04-09Aston VillaWigan
+09/04/07,Bolton,Everton,1,1,D,2.1,3.1,3.2,2007-04-09,2006/2007,36,E0,1-1,0,-1.1,2007-04-09BoltonEverton
+09/04/07,Charlton,Reading,0,0,D,2.2,3.1,3.0,2007-04-09,2006/2007,36,E0,0-0,0,-0.7999999999999998,2007-04-09CharltonReading
+09/04/07,Fulham,Man City,1,3,A,2.2,3.1,3.0,2007-04-09,2006/2007,36,E0,1-3,-2,-0.7999999999999998,2007-04-09FulhamMan City
+09/04/07,Newcastle,Arsenal,0,0,D,3.3,3.2,2.0,2007-04-09,2006/2007,36,E0,0-0,0,1.2999999999999998,2007-04-09NewcastleArsenal
+09/04/07,Watford,Portsmouth,4,2,H,2.7,3.2,2.3,2007-04-09,2006/2007,37,E0,4-2,2,0.40000000000000036,2007-04-09WatfordPortsmouth
+14/04/07,Arsenal,Bolton,2,1,H,1.65,3.5,4.5,2007-04-14,2006/2007,37,E0,2-1,1,-2.85,2007-04-14ArsenalBolton
+14/04/07,Man City,Liverpool,0,0,D,3.8,3.2,1.85,2007-04-14,2006/2007,37,E0,0-0,0,1.9499999999999997,2007-04-14Man CityLiverpool
+14/04/07,Middlesbrough,Aston Villa,1,3,A,2.2,2.9,3.2,2007-04-14,2006/2007,37,E0,1-3,-2,-1.0,2007-04-14MiddlesbroughAston Villa
+14/04/07,Portsmouth,Newcastle,2,1,H,2.0,3.2,3.3,2007-04-14,2006/2007,37,E0,2-1,1,-1.2999999999999998,2007-04-14PortsmouthNewcastle
+14/04/07,Reading,Fulham,1,0,H,1.85,3.2,3.8,2007-04-14,2006/2007,37,E0,1-0,1,-1.9499999999999997,2007-04-14ReadingFulham
+14/04/07,Sheffield United,West Ham,3,0,H,2.4,3.1,2.7,2007-04-14,2006/2007,37,E0,3-0,3,-0.30000000000000027,2007-04-14Sheffield UnitedWest Ham
+15/04/07,Everton,Charlton,2,1,H,1.7,3.4,4.3,2007-04-15,2006/2007,37,E0,2-1,1,-2.5999999999999996,2007-04-15EvertonCharlton
+15/04/07,Wigan,Tottenham,3,3,D,2.8,3.1,2.3,2007-04-15,2006/2007,37,E0,3-3,0,0.5,2007-04-15WiganTottenham
+17/04/07,Arsenal,Man City,3,1,H,1.4,3.8,7.0,2007-04-17,2006/2007,38,E0,3-1,2,-5.6,2007-04-17ArsenalMan City
+17/04/07,Man United,Sheffield United,2,0,H,1.15,6.0,13.0,2007-04-17,2006/2007,38,E0,2-0,2,-11.85,2007-04-17Man UnitedSheffield United
+18/04/07,Blackburn,Watford,3,1,H,1.6,3.6,4.8,2007-04-18,2006/2007,38,E0,3-1,2,-3.1999999999999997,2007-04-18BlackburnWatford
+18/04/07,Liverpool,Middlesbrough,2,0,H,1.4,3.8,7.0,2007-04-18,2006/2007,38,E0,2-0,2,-5.6,2007-04-18LiverpoolMiddlesbrough
+18/04/07,West Ham,Chelsea,1,4,A,5.5,3.8,1.5,2007-04-18,2006/2007,38,E0,1-4,-3,4.0,2007-04-18West HamChelsea
+21/04/07,Bolton,Reading,1,3,A,1.85,3.2,3.8,2007-04-21,2006/2007,38,E0,1-3,-2,-1.9499999999999997,2007-04-21BoltonReading
+21/04/07,Charlton,Sheffield United,1,1,D,1.85,3.2,3.8,2007-04-21,2006/2007,38,E0,1-1,0,-1.9499999999999997,2007-04-21CharltonSheffield United
+21/04/07,Fulham,Blackburn,1,1,D,2.0,3.2,3.3,2007-04-21,2006/2007,38,E0,1-1,0,-1.2999999999999998,2007-04-21FulhamBlackburn
+21/04/07,Liverpool,Wigan,2,0,H,1.4,3.8,7.0,2007-04-21,2006/2007,38,E0,2-0,2,-5.6,2007-04-21LiverpoolWigan
+21/04/07,Man United,Middlesbrough,1,1,D,1.22,5.0,10.0,2007-04-21,2006/2007,39,E0,1-1,0,-8.78,2007-04-21Man UnitedMiddlesbrough
+21/04/07,Tottenham,Arsenal,2,2,D,2.5,3.1,2.6,2007-04-21,2006/2007,39,E0,2-2,0,-0.10000000000000009,2007-04-21TottenhamArsenal
+21/04/07,Watford,Man City,1,1,D,2.55,3.1,2.55,2007-04-21,2006/2007,39,E0,1-1,0,0.0,2007-04-21WatfordMan City
+21/04/07,West Ham,Everton,1,0,H,2.3,3.1,2.8,2007-04-21,2006/2007,39,E0,1-0,1,-0.5,2007-04-21West HamEverton
+22/04/07,Aston Villa,Portsmouth,0,0,D,2.1,3.1,3.2,2007-04-22,2006/2007,39,E0,0-0,0,-1.1,2007-04-22Aston VillaPortsmouth
+22/04/07,Newcastle,Chelsea,0,0,D,5.8,3.7,1.5,2007-04-22,2006/2007,39,E0,0-0,0,4.3,2007-04-22NewcastleChelsea
+28/04/07,Blackburn,Charlton,4,1,H,2.1,3.2,2.9,2007-04-28,2006/2007,39,E0,4-1,3,-0.7999999999999998,2007-04-28BlackburnCharlton
+28/04/07,Chelsea,Bolton,2,2,D,1.27,4.4,10.0,2007-04-28,2006/2007,39,E0,2-2,0,-8.73,2007-04-28ChelseaBolton
+28/04/07,Everton,Man United,2,4,A,4.3,3.4,1.7,2007-04-28,2006/2007,39,E0,2-4,-2,2.5999999999999996,2007-04-28EvertonMan United
+28/04/07,Man City,Aston Villa,0,2,A,2.2,2.9,3.2,2007-04-28,2006/2007,40,E0,0-2,-2,-1.0,2007-04-28Man CityAston Villa
+28/04/07,Middlesbrough,Tottenham,2,3,A,2.7,2.9,2.6,2007-04-28,2006/2007,40,E0,2-3,-1,0.10000000000000009,2007-04-28MiddlesbroughTottenham
+28/04/07,Portsmouth,Liverpool,2,1,H,3.2,3.1,2.1,2007-04-28,2006/2007,40,E0,2-1,1,1.1,2007-04-28PortsmouthLiverpool
+28/04/07,Sheffield United,Watford,1,0,H,1.65,3.5,4.5,2007-04-28,2006/2007,40,E0,1-0,1,-2.85,2007-04-28Sheffield UnitedWatford
+28/04/07,Wigan,West Ham,0,3,A,2.2,3.2,2.9,2007-04-28,2006/2007,40,E0,0-3,-3,-0.6999999999999997,2007-04-28WiganWest Ham
+29/04/07,Arsenal,Fulham,3,1,H,1.45,3.8,5.4,2007-04-29,2006/2007,40,E0,3-1,2,-3.95,2007-04-29ArsenalFulham
+30/04/07,Reading,Newcastle,1,0,H,1.8,3.2,4.0,2007-04-30,2006/2007,40,E0,1-0,1,-2.2,2007-04-30ReadingNewcastle
+05/05/07,Aston Villa,Sheffield United,3,0,H,2.0,3.2,3.3,2007-05-05,2006/2007,40,E0,3-0,3,-1.2999999999999998,2007-05-05Aston VillaSheffield United
+05/05/07,Everton,Portsmouth,3,0,H,1.85,3.2,3.8,2007-05-05,2006/2007,40,E0,3-0,3,-1.9499999999999997,2007-05-05EvertonPortsmouth
+05/05/07,Fulham,Liverpool,1,0,H,2.8,3.3,2.2,2007-05-05,2006/2007,41,E0,1-0,1,0.5999999999999996,2007-05-05FulhamLiverpool
+05/05/07,Man City,Man United,0,1,A,5.7,3.7,1.5,2007-05-05,2006/2007,41,E0,0-1,-1,4.2,2007-05-05Man CityMan United
+05/05/07,Newcastle,Blackburn,0,2,A,2.2,3.2,2.9,2007-05-05,2006/2007,41,E0,0-2,-2,-0.6999999999999997,2007-05-05NewcastleBlackburn
+05/05/07,Reading,Watford,0,2,A,1.4,4.0,6.5,2007-05-05,2006/2007,41,E0,0-2,-2,-5.1,2007-05-05ReadingWatford
+05/05/07,West Ham,Bolton,3,1,H,2.1,3.2,3.1,2007-05-05,2006/2007,41,E0,3-1,2,-1.0,2007-05-05West HamBolton
+05/05/07,Wigan,Middlesbrough,0,1,A,2.1,3.2,3.1,2007-05-05,2006/2007,41,E0,0-1,-1,-1.0,2007-05-05WiganMiddlesbrough
+06/05/07,Arsenal,Chelsea,1,1,D,2.7,3.1,2.4,2007-05-06,2006/2007,41,E0,1-1,0,0.30000000000000027,2007-05-06ArsenalChelsea
+07/05/07,Charlton,Tottenham,0,2,A,2.9,3.2,2.2,2007-05-07,2006/2007,41,E0,0-2,-2,0.6999999999999997,2007-05-07CharltonTottenham
+09/05/07,Chelsea,Man United,0,0,D,2.0,3.2,3.3,2007-05-09,2006/2007,41,E0,0-0,0,-1.2999999999999998,2007-05-09ChelseaMan United
+10/05/07,Tottenham,Blackburn,1,1,D,1.75,3.3,4.2,2007-05-10,2006/2007,42,E0,1-1,0,-2.45,2007-05-10TottenhamBlackburn
+13/05/07,Blackburn,Reading,3,3,D,2.1,3.3,3.0,2007-05-13,2006/2007,42,E0,3-3,0,-0.8999999999999999,2007-05-13BlackburnReading
+13/05/07,Bolton,Aston Villa,2,2,D,1.7,3.4,4.3,2007-05-13,2006/2007,42,E0,2-2,0,-2.5999999999999996,2007-05-13BoltonAston Villa
+13/05/07,Chelsea,Everton,1,1,D,1.65,3.3,4.4,2007-05-13,2006/2007,42,E0,1-1,0,-2.7500000000000004,2007-05-13ChelseaEverton
+13/05/07,Liverpool,Charlton,2,2,D,1.35,4.2,7.5,2007-05-13,2006/2007,42,E0,2-2,0,-6.15,2007-05-13LiverpoolCharlton
+13/05/07,Man United,West Ham,0,1,A,1.7,3.1,4.5,2007-05-13,2006/2007,42,E0,0-1,-1,-2.8,2007-05-13Man UnitedWest Ham
+13/05/07,Middlesbrough,Fulham,3,1,H,1.8,3.2,4.0,2007-05-13,2006/2007,42,E0,3-1,2,-2.2,2007-05-13MiddlesbroughFulham
+13/05/07,Portsmouth,Arsenal,0,0,D,2.5,3.2,2.5,2007-05-13,2006/2007,42,E0,0-0,0,0.0,2007-05-13PortsmouthArsenal
+13/05/07,Sheffield United,Wigan,1,2,A,2.0,3.3,3.2,2007-05-13,2006/2007,42,E0,1-2,-1,-1.2000000000000002,2007-05-13Sheffield UnitedWigan

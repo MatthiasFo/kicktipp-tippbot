@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,IWH,IWD,IWA,datetime,season,game_day,league,result,goal_diff,odds_diff,game_id
+26/08/16,Bayern Munich,Werder Bremen,6,0,H,1.15,7.0,15.0,2016-08-26,2016/2017,1,D1,6-0,6,-13.85,2016-08-26Bayern MunichWerder Bremen
+27/08/16,Augsburg,Wolfsburg,0,2,A,2.6,3.2,2.6,2016-08-27,2016/2017,1,D1,0-2,-2,0.0,2016-08-27AugsburgWolfsburg
+27/08/16,Dortmund,Mainz,2,1,H,1.4,4.4,7.3,2016-08-27,2016/2017,1,D1,2-1,1,-5.9,2016-08-27DortmundMainz
+27/08/16,Ein Frankfurt,Schalke 04,1,0,H,3.1,3.3,2.2,2016-08-27,2016/2017,1,D1,1-0,1,0.8999999999999999,2016-08-27Ein FrankfurtSchalke 04
+27/08/16,FC Koln,Darmstadt,2,0,H,1.8,3.5,4.2,2016-08-27,2016/2017,1,D1,2-0,2,-2.4000000000000004,2016-08-27FC KolnDarmstadt
+27/08/16,Hamburg,Ingolstadt,1,1,D,2.1,3.3,3.3,2016-08-27,2016/2017,1,D1,1-1,0,-1.1999999999999997,2016-08-27HamburgIngolstadt
+27/08/16,M'gladbach,Leverkusen,2,1,H,2.5,3.2,2.75,2016-08-27,2016/2017,1,D1,2-1,1,-0.25,2016-08-27M'gladbachLeverkusen
+28/08/16,Hertha,Freiburg,2,1,H,2.2,3.2,3.2,2016-08-28,2016/2017,1,D1,2-1,1,-1.0,2016-08-28HerthaFreiburg
+28/08/16,Hoffenheim,RB Leipzig,2,2,D,2.6,3.2,2.6,2016-08-28,2016/2017,1,D1,2-2,0,0.0,2016-08-28HoffenheimRB Leipzig
+09/09/16,Schalke 04,Bayern Munich,0,2,A,8.5,5.0,1.35,2016-09-09,2016/2017,2,D1,0-2,-2,7.15,2016-09-09Schalke 04Bayern Munich
+10/09/16,Darmstadt,Ein Frankfurt,1,0,H,2.9,3.2,2.5,2016-09-10,2016/2017,2,D1,1-0,1,0.3999999999999999,2016-09-10DarmstadtEin Frankfurt
+10/09/16,Freiburg,M'gladbach,3,1,H,3.8,3.4,2.0,2016-09-10,2016/2017,2,D1,3-1,2,1.7999999999999998,2016-09-10FreiburgM'gladbach
+10/09/16,Ingolstadt,Hertha,0,2,A,2.4,3.2,3.05,2016-09-10,2016/2017,2,D1,0-2,-2,-0.6499999999999999,2016-09-10IngolstadtHertha
+10/09/16,Leverkusen,Hamburg,3,1,H,1.55,4.0,6.2,2016-09-10,2016/2017,2,D1,3-1,2,-4.65,2016-09-10LeverkusenHamburg
+10/09/16,RB Leipzig,Dortmund,1,0,H,5.5,4.0,1.6,2016-09-10,2016/2017,2,D1,1-0,1,3.9,2016-09-10RB LeipzigDortmund
+10/09/16,Wolfsburg,FC Koln,0,0,D,1.85,3.6,4.2,2016-09-10,2016/2017,2,D1,0-0,0,-2.35,2016-09-10WolfsburgFC Koln
+11/09/16,Mainz,Hoffenheim,4,4,D,2.1,3.4,3.5,2016-09-11,2016/2017,2,D1,4-4,0,-1.4,2016-09-11MainzHoffenheim
+11/09/16,Werder Bremen,Augsburg,1,2,A,2.3,3.3,3.15,2016-09-11,2016/2017,2,D1,1-2,-1,-0.8500000000000001,2016-09-11Werder BremenAugsburg
+16/09/16,FC Koln,Freiburg,3,0,H,1.9,3.5,4.1,2016-09-16,2016/2017,3,D1,3-0,3,-2.1999999999999997,2016-09-16FC KolnFreiburg
+17/09/16,Bayern Munich,Ingolstadt,3,1,H,1.08,11.0,25.0,2016-09-17,2016/2017,3,D1,3-1,2,-23.92,2016-09-17Bayern MunichIngolstadt
+17/09/16,Dortmund,Darmstadt,6,0,H,1.17,7.5,15.0,2016-09-17,2016/2017,3,D1,6-0,6,-13.83,2016-09-17DortmundDarmstadt
+17/09/16,Ein Frankfurt,Leverkusen,2,1,H,4.1,3.5,1.9,2016-09-17,2016/2017,3,D1,2-1,1,2.1999999999999997,2016-09-17Ein FrankfurtLeverkusen
+17/09/16,Hamburg,RB Leipzig,0,4,A,2.6,3.3,2.7,2016-09-17,2016/2017,3,D1,0-4,-4,-0.10000000000000009,2016-09-17HamburgRB Leipzig
+17/09/16,Hoffenheim,Wolfsburg,0,0,D,2.95,3.3,2.4,2016-09-17,2016/2017,3,D1,0-0,0,0.5500000000000003,2016-09-17HoffenheimWolfsburg
+17/09/16,M'gladbach,Werder Bremen,4,1,H,1.5,4.2,6.5,2016-09-17,2016/2017,3,D1,4-1,3,-5.0,2016-09-17M'gladbachWerder Bremen
+18/09/16,Augsburg,Mainz,1,3,A,2.2,3.35,3.3,2016-09-18,2016/2017,3,D1,1-3,-2,-1.0999999999999996,2016-09-18AugsburgMainz
+18/09/16,Hertha,Schalke 04,2,0,H,2.7,3.3,2.6,2016-09-18,2016/2017,3,D1,2-0,2,0.10000000000000009,2016-09-18HerthaSchalke 04
+20/09/16,Darmstadt,Hoffenheim,1,1,D,3.35,3.4,2.15,2016-09-20,2016/2017,4,D1,1-1,0,1.2000000000000002,2016-09-20DarmstadtHoffenheim
+20/09/16,Freiburg,Hamburg,1,0,H,2.4,3.3,2.95,2016-09-20,2016/2017,4,D1,1-0,1,-0.5500000000000003,2016-09-20FreiburgHamburg
+20/09/16,Ingolstadt,Ein Frankfurt,0,2,A,2.4,3.3,2.95,2016-09-20,2016/2017,4,D1,0-2,-2,-0.5500000000000003,2016-09-20IngolstadtEin Frankfurt
+20/09/16,Wolfsburg,Dortmund,1,5,A,4.2,3.6,1.85,2016-09-20,2016/2017,4,D1,1-5,-4,2.35,2016-09-20WolfsburgDortmund
+21/09/16,Bayern Munich,Hertha,3,0,H,1.15,8.0,16.0,2016-09-21,2016/2017,4,D1,3-0,3,-14.85,2016-09-21Bayern MunichHertha
+21/09/16,Leverkusen,Augsburg,0,0,D,1.55,4.0,6.2,2016-09-21,2016/2017,4,D1,0-0,0,-4.65,2016-09-21LeverkusenAugsburg
+21/09/16,RB Leipzig,M'gladbach,1,1,D,2.5,3.3,2.85,2016-09-21,2016/2017,4,D1,1-1,0,-0.3500000000000001,2016-09-21RB LeipzigM'gladbach
+21/09/16,Schalke 04,FC Koln,1,3,A,2.15,3.35,3.4,2016-09-21,2016/2017,4,D1,1-3,-2,-1.25,2016-09-21Schalke 04FC Koln
+21/09/16,Werder Bremen,Mainz,1,2,A,2.75,3.4,2.5,2016-09-21,2016/2017,4,D1,1-2,-1,0.25,2016-09-21Werder BremenMainz
+23/09/16,Dortmund,Freiburg,3,1,H,1.17,7.5,15.0,2016-09-23,2016/2017,5,D1,3-1,2,-13.83,2016-09-23DortmundFreiburg
+24/09/16,Augsburg,Darmstadt,1,0,H,1.7,3.7,5.0,2016-09-24,2016/2017,5,D1,1-0,1,-3.3,2016-09-24AugsburgDarmstadt
+24/09/16,Ein Frankfurt,Hertha,3,3,D,2.4,3.4,2.9,2016-09-24,2016/2017,5,D1,3-3,0,-0.5,2016-09-24Ein FrankfurtHertha
+24/09/16,Hamburg,Bayern Munich,0,1,A,10.0,6.0,1.27,2016-09-24,2016/2017,5,D1,0-1,-1,8.73,2016-09-24HamburgBayern Munich
+24/09/16,Mainz,Leverkusen,2,3,A,2.9,3.4,2.4,2016-09-24,2016/2017,5,D1,2-3,-1,0.5,2016-09-24MainzLeverkusen
+24/09/16,M'gladbach,Ingolstadt,2,0,H,1.7,3.7,5.0,2016-09-24,2016/2017,5,D1,2-0,2,-3.3,2016-09-24M'gladbachIngolstadt
+24/09/16,Werder Bremen,Wolfsburg,2,1,H,3.7,3.5,2.0,2016-09-24,2016/2017,5,D1,2-1,1,1.7000000000000002,2016-09-24Werder BremenWolfsburg
+25/09/16,FC Koln,RB Leipzig,1,1,D,2.5,3.3,2.85,2016-09-25,2016/2017,5,D1,1-1,0,-0.3500000000000001,2016-09-25FC KolnRB Leipzig
+25/09/16,Hoffenheim,Schalke 04,2,1,H,2.65,3.3,2.65,2016-09-25,2016/2017,5,D1,2-1,1,0.0,2016-09-25HoffenheimSchalke 04
+30/09/16,RB Leipzig,Augsburg,2,1,H,1.8,3.6,4.5,2016-09-30,2016/2017,6,D1,2-1,1,-2.7,2016-09-30RB LeipzigAugsburg
+01/10/16,Bayern Munich,FC Koln,1,1,D,1.18,7.5,13.0,2016-10-01,2016/2017,6,D1,1-1,0,-11.82,2016-10-01Bayern MunichFC Koln
+01/10/16,Darmstadt,Werder Bremen,2,2,D,2.7,3.3,2.6,2016-10-01,2016/2017,6,D1,2-2,0,0.10000000000000009,2016-10-01DarmstadtWerder Bremen
+01/10/16,Freiburg,Ein Frankfurt,1,0,H,2.3,3.3,3.15,2016-10-01,2016/2017,6,D1,1-0,1,-0.8500000000000001,2016-10-01FreiburgEin Frankfurt
+01/10/16,Hertha,Hamburg,2,0,H,2.0,3.4,3.8,2016-10-01,2016/2017,6,D1,2-0,2,-1.7999999999999998,2016-10-01HerthaHamburg
+01/10/16,Ingolstadt,Hoffenheim,1,2,A,2.25,3.35,3.2,2016-10-01,2016/2017,6,D1,1-2,-1,-0.9500000000000002,2016-10-01IngolstadtHoffenheim
+01/10/16,Leverkusen,Dortmund,2,0,H,3.5,3.4,2.1,2016-10-01,2016/2017,6,D1,2-0,2,1.4,2016-10-01LeverkusenDortmund
+02/10/16,Schalke 04,M'gladbach,4,0,H,2.6,3.3,2.7,2016-10-02,2016/2017,6,D1,4-0,4,-0.10000000000000009,2016-10-02Schalke 04M'gladbach
+02/10/16,Wolfsburg,Mainz,0,0,D,1.9,3.5,4.1,2016-10-02,2016/2017,6,D1,0-0,0,-2.1999999999999997,2016-10-02WolfsburgMainz
+14/10/16,Dortmund,Hertha,1,1,D,1.4,4.8,7.5,2016-10-14,2016/2017,7,D1,1-1,0,-6.1,2016-10-14DortmundHertha
+15/10/16,Augsburg,Schalke 04,1,1,D,2.95,3.3,2.4,2016-10-15,2016/2017,7,D1,1-1,0,0.5500000000000003,2016-10-15AugsburgSchalke 04
+15/10/16,Ein Frankfurt,Bayern Munich,2,2,D,10.0,5.8,1.28,2016-10-15,2016/2017,7,D1,2-2,0,8.72,2016-10-15Ein FrankfurtBayern Munich
+15/10/16,FC Koln,Ingolstadt,2,1,H,1.75,3.6,4.8,2016-10-15,2016/2017,7,D1,2-1,1,-3.05,2016-10-15FC KolnIngolstadt
+15/10/16,Hoffenheim,Freiburg,2,1,H,2.1,3.4,3.5,2016-10-15,2016/2017,7,D1,2-1,1,-1.4,2016-10-15HoffenheimFreiburg
+15/10/16,M'gladbach,Hamburg,0,0,D,1.7,3.7,5.0,2016-10-15,2016/2017,7,D1,0-0,0,-3.3,2016-10-15M'gladbachHamburg
+15/10/16,Werder Bremen,Leverkusen,2,1,H,4.5,3.8,1.75,2016-10-15,2016/2017,7,D1,2-1,1,2.75,2016-10-15Werder BremenLeverkusen
+16/10/16,Mainz,Darmstadt,2,1,H,1.55,4.0,6.2,2016-10-16,2016/2017,7,D1,2-1,1,-4.65,2016-10-16MainzDarmstadt
+16/10/16,Wolfsburg,RB Leipzig,0,1,A,2.3,3.3,3.15,2016-10-16,2016/2017,7,D1,0-1,-1,-0.8500000000000001,2016-10-16WolfsburgRB Leipzig
+21/10/16,Hamburg,Ein Frankfurt,0,3,A,2.4,3.2,3.05,2016-10-21,2016/2017,8,D1,0-3,-3,-0.6499999999999999,2016-10-21HamburgEin Frankfurt
+22/10/16,Bayern Munich,M'gladbach,2,0,H,1.25,6.0,11.0,2016-10-22,2016/2017,8,D1,2-0,2,-9.75,2016-10-22Bayern MunichM'gladbach
+22/10/16,Darmstadt,Wolfsburg,3,1,H,4.3,3.5,1.85,2016-10-22,2016/2017,8,D1,3-1,2,2.4499999999999997,2016-10-22DarmstadtWolfsburg
+22/10/16,Freiburg,Augsburg,2,1,H,2.25,3.35,3.2,2016-10-22,2016/2017,8,D1,2-1,1,-0.9500000000000002,2016-10-22FreiburgAugsburg
+22/10/16,Hertha,FC Koln,2,1,H,2.6,3.2,2.8,2016-10-22,2016/2017,8,D1,2-1,1,-0.19999999999999973,2016-10-22HerthaFC Koln
+22/10/16,Ingolstadt,Dortmund,3,3,D,6.5,4.2,1.5,2016-10-22,2016/2017,8,D1,3-3,0,5.0,2016-10-22IngolstadtDortmund
+22/10/16,Leverkusen,Hoffenheim,0,3,A,1.55,4.0,6.2,2016-10-22,2016/2017,8,D1,0-3,-3,-4.65,2016-10-22LeverkusenHoffenheim
+23/10/16,RB Leipzig,Werder Bremen,3,1,H,1.6,4.0,5.5,2016-10-23,2016/2017,8,D1,3-1,2,-3.9,2016-10-23RB LeipzigWerder Bremen
+23/10/16,Schalke 04,Mainz,3,0,H,2.0,3.4,3.8,2016-10-23,2016/2017,8,D1,3-0,3,-1.7999999999999998,2016-10-23Schalke 04Mainz
+28/10/16,M'gladbach,Ein Frankfurt,0,0,D,1.85,3.5,4.3,2016-10-28,2016/2017,9,D1,0-0,0,-2.4499999999999997,2016-10-28M'gladbachEin Frankfurt
+29/10/16,Augsburg,Bayern Munich,1,3,A,9.0,5.7,1.3,2016-10-29,2016/2017,9,D1,1-3,-2,7.7,2016-10-29AugsburgBayern Munich
+29/10/16,Darmstadt,RB Leipzig,0,2,A,4.8,3.6,1.75,2016-10-29,2016/2017,9,D1,0-2,-2,3.05,2016-10-29DarmstadtRB Leipzig
+29/10/16,Dortmund,Schalke 04,0,0,D,1.6,4.0,5.5,2016-10-29,2016/2017,9,D1,0-0,0,-3.9,2016-10-29DortmundSchalke 04
+29/10/16,Mainz,Ingolstadt,2,0,H,2.0,3.4,3.8,2016-10-29,2016/2017,9,D1,2-0,2,-1.7999999999999998,2016-10-29MainzIngolstadt
+29/10/16,Werder Bremen,Freiburg,1,3,A,2.25,3.35,3.2,2016-10-29,2016/2017,9,D1,1-3,-2,-0.9500000000000002,2016-10-29Werder BremenFreiburg
+29/10/16,Wolfsburg,Leverkusen,1,2,A,2.7,3.3,2.6,2016-10-29,2016/2017,9,D1,1-2,-1,0.10000000000000009,2016-10-29WolfsburgLeverkusen
+30/10/16,FC Koln,Hamburg,3,0,H,1.7,3.7,5.0,2016-10-30,2016/2017,9,D1,3-0,3,-3.3,2016-10-30FC KolnHamburg
+30/10/16,Hoffenheim,Hertha,1,0,H,2.2,3.3,3.35,2016-10-30,2016/2017,9,D1,1-0,1,-1.15,2016-10-30HoffenheimHertha
+04/11/16,Hertha,M'gladbach,3,0,H,2.6,3.3,2.7,2016-11-04,2016/2017,10,D1,3-0,3,-0.10000000000000009,2016-11-04HerthaM'gladbach
+05/11/16,Bayern Munich,Hoffenheim,1,1,D,1.22,6.2,13.5,2016-11-05,2016/2017,10,D1,1-1,0,-12.28,2016-11-05Bayern MunichHoffenheim
+05/11/16,Ein Frankfurt,FC Koln,1,0,H,2.6,3.3,2.7,2016-11-05,2016/2017,10,D1,1-0,1,-0.10000000000000009,2016-11-05Ein FrankfurtFC Koln
+05/11/16,Freiburg,Wolfsburg,0,3,A,2.65,3.3,2.65,2016-11-05,2016/2017,10,D1,0-3,-3,0.0,2016-11-05FreiburgWolfsburg
+05/11/16,Hamburg,Dortmund,2,5,A,6.5,4.2,1.5,2016-11-05,2016/2017,10,D1,2-5,-3,5.0,2016-11-05HamburgDortmund
+05/11/16,Ingolstadt,Augsburg,0,2,A,2.3,3.3,3.15,2016-11-05,2016/2017,10,D1,0-2,-2,-0.8500000000000001,2016-11-05IngolstadtAugsburg
+05/11/16,Leverkusen,Darmstadt,3,2,H,1.3,5.5,9.5,2016-11-05,2016/2017,10,D1,3-2,1,-8.2,2016-11-05LeverkusenDarmstadt
+06/11/16,RB Leipzig,Mainz,3,1,H,1.65,3.8,5.3,2016-11-06,2016/2017,10,D1,3-1,2,-3.65,2016-11-06RB LeipzigMainz
+06/11/16,Schalke 04,Werder Bremen,3,1,H,1.55,4.0,6.2,2016-11-06,2016/2017,10,D1,3-1,2,-4.65,2016-11-06Schalke 04Werder Bremen
+18/11/16,Leverkusen,RB Leipzig,2,3,A,2.4,3.3,2.95,2016-11-18,2016/2017,11,D1,2-3,-1,-0.5500000000000003,2016-11-18LeverkusenRB Leipzig
+19/11/16,Augsburg,Hertha,0,0,D,2.65,3.3,2.65,2016-11-19,2016/2017,11,D1,0-0,0,0.0,2016-11-19AugsburgHertha
+19/11/16,Darmstadt,Ingolstadt,0,1,A,2.6,3.25,2.75,2016-11-19,2016/2017,11,D1,0-1,-1,-0.1499999999999999,2016-11-19DarmstadtIngolstadt
+19/11/16,Dortmund,Bayern Munich,1,0,H,3.05,3.4,2.3,2016-11-19,2016/2017,11,D1,1-0,1,0.75,2016-11-19DortmundBayern Munich
+19/11/16,Mainz,Freiburg,4,2,H,2.0,3.4,3.8,2016-11-19,2016/2017,11,D1,4-2,2,-1.7999999999999998,2016-11-19MainzFreiburg
+19/11/16,M'gladbach,FC Koln,1,2,A,2.2,3.35,3.3,2016-11-19,2016/2017,11,D1,1-2,-1,-1.0999999999999996,2016-11-19M'gladbachFC Koln
+19/11/16,Wolfsburg,Schalke 04,0,1,A,2.4,3.4,2.9,2016-11-19,2016/2017,11,D1,0-1,-1,-0.5,2016-11-19WolfsburgSchalke 04
+20/11/16,Hoffenheim,Hamburg,2,2,D,1.6,4.2,5.2,2016-11-20,2016/2017,11,D1,2-2,0,-3.6,2016-11-20HoffenheimHamburg
+20/11/16,Werder Bremen,Ein Frankfurt,1,2,A,2.65,3.4,2.6,2016-11-20,2016/2017,11,D1,1-2,-1,0.04999999999999982,2016-11-20Werder BremenEin Frankfurt
+25/11/16,Freiburg,RB Leipzig,1,4,A,3.8,3.4,2.0,2016-11-25,2016/2017,12,D1,1-4,-3,1.7999999999999998,2016-11-25FreiburgRB Leipzig
+26/11/16,Bayern Munich,Leverkusen,2,1,H,1.3,6.0,8.5,2016-11-26,2016/2017,12,D1,2-1,1,-7.2,2016-11-26Bayern MunichLeverkusen
+26/11/16,Ein Frankfurt,Dortmund,2,1,H,5.0,4.0,1.65,2016-11-26,2016/2017,12,D1,2-1,1,3.35,2016-11-26Ein FrankfurtDortmund
+26/11/16,FC Koln,Augsburg,0,0,D,1.75,3.6,4.8,2016-11-26,2016/2017,12,D1,0-0,0,-3.05,2016-11-26FC KolnAugsburg
+26/11/16,Hamburg,Werder Bremen,2,2,D,2.3,3.3,3.15,2016-11-26,2016/2017,12,D1,2-2,0,-0.8500000000000001,2016-11-26HamburgWerder Bremen
+26/11/16,Ingolstadt,Wolfsburg,1,1,D,3.15,3.3,2.3,2016-11-26,2016/2017,12,D1,1-1,0,0.8500000000000001,2016-11-26IngolstadtWolfsburg
+26/11/16,M'gladbach,Hoffenheim,1,1,D,2.2,3.35,3.3,2016-11-26,2016/2017,12,D1,1-1,0,-1.0999999999999996,2016-11-26M'gladbachHoffenheim
+27/11/16,Hertha,Mainz,2,1,H,2.0,3.4,3.8,2016-11-27,2016/2017,12,D1,2-1,1,-1.7999999999999998,2016-11-27HerthaMainz
+27/11/16,Schalke 04,Darmstadt,3,1,H,1.35,5.3,8.0,2016-11-27,2016/2017,12,D1,3-1,2,-6.65,2016-11-27Schalke 04Darmstadt
+02/12/16,Mainz,Bayern Munich,1,3,A,8.3,5.5,1.33,2016-12-02,2016/2017,13,D1,1-3,-2,6.970000000000001,2016-12-02MainzBayern Munich
+03/12/16,Dortmund,M'gladbach,4,1,H,1.5,4.5,6.0,2016-12-03,2016/2017,13,D1,4-1,3,-4.5,2016-12-03DortmundM'gladbach
+03/12/16,Hoffenheim,FC Koln,4,0,H,2.2,3.2,3.5,2016-12-03,2016/2017,13,D1,4-0,4,-1.2999999999999998,2016-12-03HoffenheimFC Koln
+03/12/16,Leverkusen,Freiburg,1,1,D,1.5,4.2,6.5,2016-12-03,2016/2017,13,D1,1-1,0,-5.0,2016-12-03LeverkusenFreiburg
+03/12/16,RB Leipzig,Schalke 04,2,1,H,2.0,3.4,3.8,2016-12-03,2016/2017,13,D1,2-1,1,-1.7999999999999998,2016-12-03RB LeipzigSchalke 04
+03/12/16,Werder Bremen,Ingolstadt,2,1,H,2.2,3.4,3.25,2016-12-03,2016/2017,13,D1,2-1,1,-1.0499999999999998,2016-12-03Werder BremenIngolstadt
+03/12/16,Wolfsburg,Hertha,2,3,A,2.3,3.3,3.15,2016-12-03,2016/2017,13,D1,2-3,-1,-0.8500000000000001,2016-12-03WolfsburgHertha
+04/12/16,Augsburg,Ein Frankfurt,1,1,D,2.65,3.3,2.65,2016-12-04,2016/2017,13,D1,1-1,0,0.0,2016-12-04AugsburgEin Frankfurt
+04/12/16,Darmstadt,Hamburg,0,2,A,2.65,3.3,2.65,2016-12-04,2016/2017,13,D1,0-2,-2,0.0,2016-12-04DarmstadtHamburg
+09/12/16,Ein Frankfurt,Hoffenheim,0,0,D,2.4,3.3,2.95,2016-12-09,2016/2017,14,D1,0-0,0,-0.5500000000000003,2016-12-09Ein FrankfurtHoffenheim
+10/12/16,Bayern Munich,Wolfsburg,5,0,H,1.17,7.5,15.0,2016-12-10,2016/2017,14,D1,5-0,5,-13.83,2016-12-10Bayern MunichWolfsburg
+10/12/16,FC Koln,Dortmund,1,1,D,5.0,3.7,1.7,2016-12-10,2016/2017,14,D1,1-1,0,3.3,2016-12-10FC KolnDortmund
+10/12/16,Freiburg,Darmstadt,1,0,H,1.7,3.7,5.0,2016-12-10,2016/2017,14,D1,1-0,1,-3.3,2016-12-10FreiburgDarmstadt
+10/12/16,Hamburg,Augsburg,1,0,H,2.5,3.3,2.85,2016-12-10,2016/2017,14,D1,1-0,1,-0.3500000000000001,2016-12-10HamburgAugsburg
+10/12/16,Hertha,Werder Bremen,0,1,A,1.7,3.7,5.0,2016-12-10,2016/2017,14,D1,0-1,-1,-3.3,2016-12-10HerthaWerder Bremen
+10/12/16,Ingolstadt,RB Leipzig,1,0,H,5.0,3.7,1.7,2016-12-10,2016/2017,14,D1,1-0,1,3.3,2016-12-10IngolstadtRB Leipzig
+11/12/16,M'gladbach,Mainz,1,0,H,1.85,3.5,4.3,2016-12-11,2016/2017,14,D1,1-0,1,-2.4499999999999997,2016-12-11M'gladbachMainz
+11/12/16,Schalke 04,Leverkusen,0,1,A,2.2,3.35,3.3,2016-12-11,2016/2017,14,D1,0-1,-1,-1.0999999999999996,2016-12-11Schalke 04Leverkusen
+16/12/16,Hoffenheim,Dortmund,2,2,D,4.3,3.5,1.85,2016-12-16,2016/2017,15,D1,2-2,0,2.4499999999999997,2016-12-16HoffenheimDortmund
+17/12/16,Augsburg,M'gladbach,1,0,H,3.15,3.3,2.3,2016-12-17,2016/2017,15,D1,1-0,1,0.8500000000000001,2016-12-17AugsburgM'gladbach
+17/12/16,Mainz,Hamburg,3,1,H,2.0,3.4,3.8,2016-12-17,2016/2017,15,D1,3-1,2,-1.7999999999999998,2016-12-17MainzHamburg
+17/12/16,RB Leipzig,Hertha,2,0,H,1.8,3.6,4.5,2016-12-17,2016/2017,15,D1,2-0,2,-2.7,2016-12-17RB LeipzigHertha
+17/12/16,Schalke 04,Freiburg,1,1,D,1.65,3.8,5.3,2016-12-17,2016/2017,15,D1,1-1,0,-3.65,2016-12-17Schalke 04Freiburg
+17/12/16,Werder Bremen,FC Koln,1,1,D,2.65,3.3,2.65,2016-12-17,2016/2017,15,D1,1-1,0,0.0,2016-12-17Werder BremenFC Koln
+17/12/16,Wolfsburg,Ein Frankfurt,1,0,H,2.65,3.3,2.65,2016-12-17,2016/2017,15,D1,1-0,1,0.0,2016-12-17WolfsburgEin Frankfurt
+18/12/16,Darmstadt,Bayern Munich,0,1,A,15.0,7.5,1.17,2016-12-18,2016/2017,15,D1,0-1,-1,13.83,2016-12-18DarmstadtBayern Munich
+18/12/16,Leverkusen,Ingolstadt,1,2,A,1.5,4.2,6.5,2016-12-18,2016/2017,15,D1,1-2,-1,-5.0,2016-12-18LeverkusenIngolstadt
+20/12/16,Dortmund,Augsburg,1,1,D,1.27,5.8,10.5,2016-12-20,2016/2017,16,D1,1-1,0,-9.23,2016-12-20DortmundAugsburg
+20/12/16,Ein Frankfurt,Mainz,3,0,H,2.1,3.4,3.5,2016-12-20,2016/2017,16,D1,3-0,3,-1.4,2016-12-20Ein FrankfurtMainz
+20/12/16,Hamburg,Schalke 04,2,1,H,2.95,3.3,2.4,2016-12-20,2016/2017,16,D1,2-1,1,0.5500000000000003,2016-12-20HamburgSchalke 04
+20/12/16,M'gladbach,Wolfsburg,1,2,A,1.8,3.6,4.5,2016-12-20,2016/2017,16,D1,1-2,-1,-2.7,2016-12-20M'gladbachWolfsburg
+21/12/16,Bayern Munich,RB Leipzig,3,0,H,1.55,4.0,6.2,2016-12-21,2016/2017,16,D1,3-0,3,-4.65,2016-12-21Bayern MunichRB Leipzig
+21/12/16,FC Koln,Leverkusen,1,1,D,2.65,3.3,2.65,2016-12-21,2016/2017,16,D1,1-1,0,0.0,2016-12-21FC KolnLeverkusen
+21/12/16,Hertha,Darmstadt,2,0,H,1.55,4.0,6.2,2016-12-21,2016/2017,16,D1,2-0,2,-4.65,2016-12-21HerthaDarmstadt
+21/12/16,Hoffenheim,Werder Bremen,1,1,D,1.7,3.7,5.0,2016-12-21,2016/2017,16,D1,1-1,0,-3.3,2016-12-21HoffenheimWerder Bremen
+21/12/16,Ingolstadt,Freiburg,1,2,A,2.2,3.35,3.3,2016-12-21,2016/2017,16,D1,1-2,-1,-1.0999999999999996,2016-12-21IngolstadtFreiburg
+20/01/17,Freiburg,Bayern Munich,1,2,A,9.5,5.5,1.3,2017-01-20,2016/2017,17,D1,1-2,-1,8.2,2017-01-20FreiburgBayern Munich
+21/01/17,Augsburg,Hoffenheim,0,2,A,2.65,3.15,2.75,2017-01-21,2016/2017,17,D1,0-2,-2,-0.10000000000000009,2017-01-21AugsburgHoffenheim
+21/01/17,Darmstadt,M'gladbach,0,0,D,4.1,3.5,1.9,2017-01-21,2016/2017,17,D1,0-0,0,2.1999999999999997,2017-01-21DarmstadtM'gladbach
+21/01/17,RB Leipzig,Ein Frankfurt,3,0,H,1.75,3.6,4.8,2017-01-21,2016/2017,17,D1,3-0,3,-3.05,2017-01-21RB LeipzigEin Frankfurt
+21/01/17,Schalke 04,Ingolstadt,1,0,H,1.75,3.6,4.8,2017-01-21,2016/2017,17,D1,1-0,1,-3.05,2017-01-21Schalke 04Ingolstadt
+21/01/17,Werder Bremen,Dortmund,1,2,A,5.7,3.9,1.6,2017-01-21,2016/2017,17,D1,1-2,-1,4.1,2017-01-21Werder BremenDortmund
+21/01/17,Wolfsburg,Hamburg,1,0,H,2.0,3.4,3.8,2017-01-21,2016/2017,17,D1,1-0,1,-1.7999999999999998,2017-01-21WolfsburgHamburg
+22/01/17,Leverkusen,Hertha,3,1,H,1.75,3.6,4.8,2017-01-22,2016/2017,17,D1,3-1,2,-3.05,2017-01-22LeverkusenHertha
+22/01/17,Mainz,FC Koln,0,0,D,2.5,3.3,2.85,2017-01-22,2016/2017,17,D1,0-0,0,-0.3500000000000001,2017-01-22MainzFC Koln
+27/01/17,Schalke 04,Ein Frankfurt,0,1,A,1.85,3.5,4.3,2017-01-27,2016/2017,18,D1,0-1,-1,-2.4499999999999997,2017-01-27Schalke 04Ein Frankfurt
+28/01/17,Darmstadt,FC Koln,1,6,A,3.6,3.3,2.1,2017-01-28,2016/2017,18,D1,1-6,-5,1.5,2017-01-28DarmstadtFC Koln
+28/01/17,Ingolstadt,Hamburg,3,1,H,2.2,3.35,3.3,2017-01-28,2016/2017,18,D1,3-1,2,-1.0999999999999996,2017-01-28IngolstadtHamburg
+28/01/17,Leverkusen,M'gladbach,2,3,A,1.8,3.6,4.5,2017-01-28,2016/2017,18,D1,2-3,-1,-2.7,2017-01-28LeverkusenM'gladbach
+28/01/17,RB Leipzig,Hoffenheim,2,1,H,1.8,3.5,4.7,2017-01-28,2016/2017,18,D1,2-1,1,-2.9000000000000004,2017-01-28RB LeipzigHoffenheim
+28/01/17,Werder Bremen,Bayern Munich,1,2,A,12.0,6.5,1.22,2017-01-28,2016/2017,18,D1,1-2,-1,10.78,2017-01-28Werder BremenBayern Munich
+28/01/17,Wolfsburg,Augsburg,1,2,A,1.85,3.5,4.3,2017-01-28,2016/2017,18,D1,1-2,-1,-2.4499999999999997,2017-01-28WolfsburgAugsburg
+29/01/17,Freiburg,Hertha,2,1,H,2.6,3.2,2.8,2017-01-29,2016/2017,18,D1,2-1,1,-0.19999999999999973,2017-01-29FreiburgHertha
+29/01/17,Mainz,Dortmund,1,1,D,5.0,4.0,1.65,2017-01-29,2016/2017,18,D1,1-1,0,3.35,2017-01-29MainzDortmund
+03/02/17,Hamburg,Leverkusen,1,0,H,2.95,3.3,2.4,2017-02-03,2016/2017,19,D1,1-0,1,0.5500000000000003,2017-02-03HamburgLeverkusen
+04/02/17,Bayern Munich,Schalke 04,1,1,D,1.25,6.0,11.0,2017-02-04,2016/2017,19,D1,1-1,0,-9.75,2017-02-04Bayern MunichSchalke 04
+04/02/17,Dortmund,RB Leipzig,1,0,H,1.8,3.7,4.3,2017-02-04,2016/2017,19,D1,1-0,1,-2.5,2017-02-04DortmundRB Leipzig
+04/02/17,FC Koln,Wolfsburg,1,0,H,2.3,3.3,3.15,2017-02-04,2016/2017,19,D1,1-0,1,-0.8500000000000001,2017-02-04FC KolnWolfsburg
+04/02/17,Hertha,Ingolstadt,1,0,H,2.1,3.4,3.5,2017-02-04,2016/2017,19,D1,1-0,1,-1.4,2017-02-04HerthaIngolstadt
+04/02/17,Hoffenheim,Mainz,4,0,H,1.9,3.5,4.1,2017-02-04,2016/2017,19,D1,4-0,4,-2.1999999999999997,2017-02-04HoffenheimMainz
+04/02/17,M'gladbach,Freiburg,3,0,H,1.75,3.6,4.8,2017-02-04,2016/2017,19,D1,3-0,3,-3.05,2017-02-04M'gladbachFreiburg
+05/02/17,Augsburg,Werder Bremen,3,2,H,2.1,3.4,3.5,2017-02-05,2016/2017,19,D1,3-2,1,-1.4,2017-02-05AugsburgWerder Bremen
+05/02/17,Ein Frankfurt,Darmstadt,2,0,H,1.55,4.0,6.2,2017-02-05,2016/2017,19,D1,2-0,2,-4.65,2017-02-05Ein FrankfurtDarmstadt
+10/02/17,Mainz,Augsburg,2,0,H,2.1,3.4,3.5,2017-02-10,2016/2017,20,D1,2-0,2,-1.4,2017-02-10MainzAugsburg
+11/02/17,Darmstadt,Dortmund,2,1,H,7.5,4.8,1.4,2017-02-11,2016/2017,20,D1,2-1,1,6.1,2017-02-11DarmstadtDortmund
+11/02/17,Ingolstadt,Bayern Munich,0,2,A,8.7,5.3,1.33,2017-02-11,2016/2017,20,D1,0-2,-2,7.369999999999999,2017-02-11IngolstadtBayern Munich
+11/02/17,Leverkusen,Ein Frankfurt,3,0,H,1.8,3.7,4.3,2017-02-11,2016/2017,20,D1,3-0,3,-2.5,2017-02-11LeverkusenEin Frankfurt
+11/02/17,RB Leipzig,Hamburg,0,3,A,1.55,4.0,6.2,2017-02-11,2016/2017,20,D1,0-3,-3,-4.65,2017-02-11RB LeipzigHamburg
+11/02/17,Schalke 04,Hertha,2,0,H,2.0,3.4,3.8,2017-02-11,2016/2017,20,D1,2-0,2,-1.7999999999999998,2017-02-11Schalke 04Hertha
+11/02/17,Werder Bremen,M'gladbach,0,1,A,2.85,3.3,2.5,2017-02-11,2016/2017,20,D1,0-1,-1,0.3500000000000001,2017-02-11Werder BremenM'gladbach
+12/02/17,Freiburg,FC Koln,2,1,H,2.6,3.3,2.7,2017-02-12,2016/2017,20,D1,2-1,1,-0.10000000000000009,2017-02-12FreiburgFC Koln
+12/02/17,Wolfsburg,Hoffenheim,2,1,H,2.3,3.3,3.15,2017-02-12,2016/2017,20,D1,2-1,1,-0.8500000000000001,2017-02-12WolfsburgHoffenheim
+17/02/17,Augsburg,Leverkusen,1,3,A,2.95,3.3,2.4,2017-02-17,2016/2017,21,D1,1-3,-2,0.5500000000000003,2017-02-17AugsburgLeverkusen
+18/02/17,Dortmund,Wolfsburg,3,0,H,1.45,4.4,7.2,2017-02-18,2016/2017,21,D1,3-0,3,-5.75,2017-02-18DortmundWolfsburg
+18/02/17,Ein Frankfurt,Ingolstadt,0,2,A,2.0,3.4,3.8,2017-02-18,2016/2017,21,D1,0-2,-2,-1.7999999999999998,2017-02-18Ein FrankfurtIngolstadt
+18/02/17,Hamburg,Freiburg,2,2,D,2.1,3.4,3.5,2017-02-18,2016/2017,21,D1,2-2,0,-1.4,2017-02-18HamburgFreiburg
+18/02/17,Hertha,Bayern Munich,1,1,D,7.2,4.4,1.45,2017-02-18,2016/2017,21,D1,1-1,0,5.75,2017-02-18HerthaBayern Munich
+18/02/17,Hoffenheim,Darmstadt,2,0,H,1.55,4.0,6.2,2017-02-18,2016/2017,21,D1,2-0,2,-4.65,2017-02-18HoffenheimDarmstadt
+18/02/17,Mainz,Werder Bremen,0,2,A,1.9,3.5,4.1,2017-02-18,2016/2017,21,D1,0-2,-2,-2.1999999999999997,2017-02-18MainzWerder Bremen
+19/02/17,FC Koln,Schalke 04,1,1,D,2.5,3.3,2.85,2017-02-19,2016/2017,21,D1,1-1,0,-0.3500000000000001,2017-02-19FC KolnSchalke 04
+19/02/17,M'gladbach,RB Leipzig,1,2,A,2.4,3.3,2.95,2017-02-19,2016/2017,21,D1,1-2,-1,-0.5500000000000003,2017-02-19M'gladbachRB Leipzig
+24/02/17,Wolfsburg,Werder Bremen,1,2,A,2.0,3.4,3.8,2017-02-24,2016/2017,22,D1,1-2,-1,-1.7999999999999998,2017-02-24WolfsburgWerder Bremen
+25/02/17,Bayern Munich,Hamburg,8,0,H,1.17,7.5,15.0,2017-02-25,2016/2017,22,D1,8-0,8,-13.83,2017-02-25Bayern MunichHamburg
+25/02/17,Darmstadt,Augsburg,1,2,A,2.7,3.2,2.7,2017-02-25,2016/2017,22,D1,1-2,-1,0.0,2017-02-25DarmstadtAugsburg
+25/02/17,Freiburg,Dortmund,0,3,A,5.5,4.0,1.6,2017-02-25,2016/2017,22,D1,0-3,-3,3.9,2017-02-25FreiburgDortmund
+25/02/17,Hertha,Ein Frankfurt,2,0,H,2.0,3.4,3.8,2017-02-25,2016/2017,22,D1,2-0,2,-1.7999999999999998,2017-02-25HerthaEin Frankfurt
+25/02/17,Leverkusen,Mainz,0,2,A,1.7,3.9,4.7,2017-02-25,2016/2017,22,D1,0-2,-2,-3.0,2017-02-25LeverkusenMainz
+25/02/17,RB Leipzig,FC Koln,3,1,H,1.7,3.7,5.0,2017-02-25,2016/2017,22,D1,3-1,2,-3.3,2017-02-25RB LeipzigFC Koln
+26/02/17,Ingolstadt,M'gladbach,0,2,A,2.6,3.25,2.75,2017-02-26,2016/2017,22,D1,0-2,-2,-0.1499999999999999,2017-02-26IngolstadtM'gladbach
+26/02/17,Schalke 04,Hoffenheim,1,1,D,2.0,3.4,3.8,2017-02-26,2016/2017,22,D1,1-1,0,-1.7999999999999998,2017-02-26Schalke 04Hoffenheim
+03/03/17,Augsburg,RB Leipzig,2,2,D,4.1,3.5,1.9,2017-03-03,2016/2017,23,D1,2-2,0,2.1999999999999997,2017-03-03AugsburgRB Leipzig
+04/03/17,Dortmund,Leverkusen,6,2,H,1.6,4.0,5.5,2017-03-04,2016/2017,23,D1,6-2,4,-3.9,2017-03-04DortmundLeverkusen
+04/03/17,FC Koln,Bayern Munich,0,3,A,7.5,4.8,1.4,2017-03-04,2016/2017,23,D1,0-3,-3,6.1,2017-03-04FC KolnBayern Munich
+04/03/17,Hoffenheim,Ingolstadt,5,2,H,1.75,3.6,4.8,2017-03-04,2016/2017,23,D1,5-2,3,-3.05,2017-03-04HoffenheimIngolstadt
+04/03/17,Mainz,Wolfsburg,1,1,D,2.1,3.4,3.5,2017-03-04,2016/2017,23,D1,1-1,0,-1.4,2017-03-04MainzWolfsburg
+04/03/17,M'gladbach,Schalke 04,4,2,H,2.25,3.35,3.2,2017-03-04,2016/2017,23,D1,4-2,2,-0.9500000000000002,2017-03-04M'gladbachSchalke 04
+04/03/17,Werder Bremen,Darmstadt,2,0,H,1.65,4.0,5.0,2017-03-04,2016/2017,23,D1,2-0,2,-3.35,2017-03-04Werder BremenDarmstadt
+05/03/17,Ein Frankfurt,Freiburg,1,2,A,2.1,3.4,3.5,2017-03-05,2016/2017,23,D1,1-2,-1,-1.4,2017-03-05Ein FrankfurtFreiburg
+05/03/17,Hamburg,Hertha,1,0,H,2.6,3.25,2.75,2017-03-05,2016/2017,23,D1,1-0,1,-0.1499999999999999,2017-03-05HamburgHertha
+10/03/17,Leverkusen,Werder Bremen,1,1,D,1.6,4.0,5.5,2017-03-10,2016/2017,24,D1,1-1,0,-3.9,2017-03-10LeverkusenWerder Bremen
+11/03/17,Bayern Munich,Ein Frankfurt,3,0,H,1.15,7.5,18.0,2017-03-11,2016/2017,24,D1,3-0,3,-16.85,2017-03-11Bayern MunichEin Frankfurt
+11/03/17,Darmstadt,Mainz,2,1,H,3.3,3.35,2.2,2017-03-11,2016/2017,24,D1,2-1,1,1.0999999999999996,2017-03-11DarmstadtMainz
+11/03/17,Freiburg,Hoffenheim,1,1,D,2.85,3.3,2.5,2017-03-11,2016/2017,24,D1,1-1,0,0.3500000000000001,2017-03-11FreiburgHoffenheim
+11/03/17,Hertha,Dortmund,2,1,H,5.0,4.0,1.65,2017-03-11,2016/2017,24,D1,2-1,1,3.35,2017-03-11HerthaDortmund
+11/03/17,Ingolstadt,FC Koln,2,2,D,2.6,3.3,2.7,2017-03-11,2016/2017,24,D1,2-2,0,-0.10000000000000009,2017-03-11IngolstadtFC Koln
+11/03/17,RB Leipzig,Wolfsburg,0,1,A,1.6,4.0,5.5,2017-03-11,2016/2017,24,D1,0-1,-1,-3.9,2017-03-11RB LeipzigWolfsburg
+12/03/17,Hamburg,M'gladbach,2,1,H,2.75,3.25,2.6,2017-03-12,2016/2017,24,D1,2-1,1,0.1499999999999999,2017-03-12HamburgM'gladbach
+12/03/17,Schalke 04,Augsburg,3,0,H,1.8,3.6,4.5,2017-03-12,2016/2017,24,D1,3-0,3,-2.7,2017-03-12Schalke 04Augsburg
+17/03/17,Dortmund,Ingolstadt,1,0,H,1.3,5.5,9.5,2017-03-17,2016/2017,25,D1,1-0,1,-8.2,2017-03-17DortmundIngolstadt
+18/03/17,Augsburg,Freiburg,1,1,D,2.3,3.3,3.15,2017-03-18,2016/2017,25,D1,1-1,0,-0.8500000000000001,2017-03-18AugsburgFreiburg
+18/03/17,Ein Frankfurt,Hamburg,0,0,D,2.2,3.35,3.3,2017-03-18,2016/2017,25,D1,0-0,0,-1.0999999999999996,2017-03-18Ein FrankfurtHamburg
+18/03/17,FC Koln,Hertha,4,2,H,2.3,3.3,3.15,2017-03-18,2016/2017,25,D1,4-2,2,-0.8500000000000001,2017-03-18FC KolnHertha
+18/03/17,Hoffenheim,Leverkusen,1,0,H,2.1,3.4,3.5,2017-03-18,2016/2017,25,D1,1-0,1,-1.4,2017-03-18HoffenheimLeverkusen
+18/03/17,Werder Bremen,RB Leipzig,3,0,H,3.4,3.5,2.1,2017-03-18,2016/2017,25,D1,3-0,3,1.2999999999999998,2017-03-18Werder BremenRB Leipzig
+18/03/17,Wolfsburg,Darmstadt,1,0,H,1.5,4.2,6.5,2017-03-18,2016/2017,25,D1,1-0,1,-5.0,2017-03-18WolfsburgDarmstadt
+19/03/17,Mainz,Schalke 04,0,1,A,2.65,3.3,2.65,2017-03-19,2016/2017,25,D1,0-1,-1,0.0,2017-03-19MainzSchalke 04
+19/03/17,M'gladbach,Bayern Munich,0,1,A,7.0,4.5,1.45,2017-03-19,2016/2017,25,D1,0-1,-1,5.55,2017-03-19M'gladbachBayern Munich
+31/03/17,Hertha,Hoffenheim,1,3,A,2.7,3.2,2.7,2017-03-31,2016/2017,26,D1,1-3,-2,0.0,2017-03-31HerthaHoffenheim
+01/04/17,Bayern Munich,Augsburg,6,0,H,1.11,9.0,24.0,2017-04-01,2016/2017,26,D1,6-0,6,-22.89,2017-04-01Bayern MunichAugsburg
+01/04/17,Ein Frankfurt,M'gladbach,0,0,D,2.7,3.3,2.6,2017-04-01,2016/2017,26,D1,0-0,0,0.10000000000000009,2017-04-01Ein FrankfurtM'gladbach
+01/04/17,Freiburg,Werder Bremen,2,5,A,2.4,3.3,2.95,2017-04-01,2016/2017,26,D1,2-5,-3,-0.5500000000000003,2017-04-01FreiburgWerder Bremen
+01/04/17,Hamburg,FC Koln,2,1,H,2.5,3.3,2.85,2017-04-01,2016/2017,26,D1,2-1,1,-0.3500000000000001,2017-04-01HamburgFC Koln
+01/04/17,RB Leipzig,Darmstadt,4,0,H,1.3,5.5,9.5,2017-04-01,2016/2017,26,D1,4-0,4,-8.2,2017-04-01RB LeipzigDarmstadt
+01/04/17,Schalke 04,Dortmund,1,1,D,3.4,3.5,2.1,2017-04-01,2016/2017,26,D1,1-1,0,1.2999999999999998,2017-04-01Schalke 04Dortmund
+02/04/17,Ingolstadt,Mainz,2,1,H,2.35,3.3,3.05,2017-04-02,2016/2017,26,D1,2-1,1,-0.6999999999999997,2017-04-02IngolstadtMainz
+02/04/17,Leverkusen,Wolfsburg,3,3,D,1.8,3.7,4.3,2017-04-02,2016/2017,26,D1,3-3,0,-2.5,2017-04-02LeverkusenWolfsburg
+04/04/17,Dortmund,Hamburg,3,0,H,1.3,5.5,9.5,2017-04-04,2016/2017,27,D1,3-0,3,-8.2,2017-04-04DortmundHamburg
+04/04/17,FC Koln,Ein Frankfurt,1,0,H,2.2,3.35,3.3,2017-04-04,2016/2017,27,D1,1-0,1,-1.0999999999999996,2017-04-04FC KolnEin Frankfurt
+04/04/17,Hoffenheim,Bayern Munich,1,0,H,5.7,3.9,1.6,2017-04-04,2016/2017,27,D1,1-0,1,4.1,2017-04-04HoffenheimBayern Munich
+04/04/17,Werder Bremen,Schalke 04,3,0,H,2.85,3.3,2.5,2017-04-04,2016/2017,27,D1,3-0,3,0.3500000000000001,2017-04-04Werder BremenSchalke 04
+05/04/17,Augsburg,Ingolstadt,2,3,A,2.5,3.3,2.85,2017-04-05,2016/2017,27,D1,2-3,-1,-0.3500000000000001,2017-04-05AugsburgIngolstadt
+05/04/17,Darmstadt,Leverkusen,0,2,A,5.0,4.0,1.65,2017-04-05,2016/2017,27,D1,0-2,-2,3.35,2017-04-05DarmstadtLeverkusen
+05/04/17,Mainz,RB Leipzig,2,3,A,3.3,3.35,2.2,2017-04-05,2016/2017,27,D1,2-3,-1,1.0999999999999996,2017-04-05MainzRB Leipzig
+05/04/17,M'gladbach,Hertha,1,0,H,1.85,3.5,4.3,2017-04-05,2016/2017,27,D1,1-0,1,-2.4499999999999997,2017-04-05M'gladbachHertha
+05/04/17,Wolfsburg,Freiburg,0,1,A,1.75,3.6,4.8,2017-04-05,2016/2017,27,D1,0-1,-1,-3.05,2017-04-05WolfsburgFreiburg
+07/04/17,Ein Frankfurt,Werder Bremen,2,2,D,2.2,3.35,3.3,2017-04-07,2016/2017,28,D1,2-2,0,-1.0999999999999996,2017-04-07Ein FrankfurtWerder Bremen
+08/04/17,Bayern Munich,Dortmund,4,1,H,1.7,3.7,5.0,2017-04-08,2016/2017,28,D1,4-1,3,-3.3,2017-04-08Bayern MunichDortmund
+08/04/17,FC Koln,M'gladbach,2,3,A,2.5,3.4,2.75,2017-04-08,2016/2017,28,D1,2-3,-1,-0.25,2017-04-08FC KolnM'gladbach
+08/04/17,Freiburg,Mainz,1,0,H,2.3,3.3,3.15,2017-04-08,2016/2017,28,D1,1-0,1,-0.8500000000000001,2017-04-08FreiburgMainz
+08/04/17,Hamburg,Hoffenheim,2,1,H,3.15,3.3,2.3,2017-04-08,2016/2017,28,D1,2-1,1,0.8500000000000001,2017-04-08HamburgHoffenheim
+08/04/17,RB Leipzig,Leverkusen,1,0,H,1.9,3.5,4.1,2017-04-08,2016/2017,28,D1,1-0,1,-2.1999999999999997,2017-04-08RB LeipzigLeverkusen
+08/04/17,Schalke 04,Wolfsburg,4,1,H,2.0,3.4,3.8,2017-04-08,2016/2017,28,D1,4-1,3,-1.7999999999999998,2017-04-08Schalke 04Wolfsburg
+09/04/17,Hertha,Augsburg,2,0,H,1.75,3.6,4.8,2017-04-09,2016/2017,28,D1,2-0,2,-3.05,2017-04-09HerthaAugsburg
+09/04/17,Ingolstadt,Darmstadt,3,2,H,1.5,4.2,6.5,2017-04-09,2016/2017,28,D1,3-2,1,-5.0,2017-04-09IngolstadtDarmstadt
+15/04/17,Augsburg,FC Koln,2,1,H,2.65,3.3,2.65,2017-04-15,2016/2017,29,D1,2-1,1,0.0,2017-04-15AugsburgFC Koln
+15/04/17,Dortmund,Ein Frankfurt,3,1,H,1.45,4.6,6.7,2017-04-15,2016/2017,29,D1,3-1,2,-5.25,2017-04-15DortmundEin Frankfurt
+15/04/17,Hoffenheim,M'gladbach,5,3,H,2.1,3.4,3.5,2017-04-15,2016/2017,29,D1,5-3,2,-1.4,2017-04-15HoffenheimM'gladbach
+15/04/17,Leverkusen,Bayern Munich,0,0,D,4.7,4.2,1.65,2017-04-15,2016/2017,29,D1,0-0,0,3.0500000000000003,2017-04-15LeverkusenBayern Munich
+15/04/17,Mainz,Hertha,1,0,H,2.3,3.3,3.15,2017-04-15,2016/2017,29,D1,1-0,1,-0.8500000000000001,2017-04-15MainzHertha
+15/04/17,RB Leipzig,Freiburg,4,0,H,1.45,4.5,7.0,2017-04-15,2016/2017,29,D1,4-0,4,-5.55,2017-04-15RB LeipzigFreiburg
+15/04/17,Wolfsburg,Ingolstadt,3,0,H,2.0,3.4,3.8,2017-04-15,2016/2017,29,D1,3-0,3,-1.7999999999999998,2017-04-15WolfsburgIngolstadt
+16/04/17,Darmstadt,Schalke 04,2,1,H,6.2,4.0,1.55,2017-04-16,2016/2017,29,D1,2-1,1,4.65,2017-04-16DarmstadtSchalke 04
+16/04/17,Werder Bremen,Hamburg,2,1,H,2.2,3.3,3.35,2017-04-16,2016/2017,29,D1,2-1,1,-1.15,2017-04-16Werder BremenHamburg
+21/04/17,FC Koln,Hoffenheim,1,1,D,2.95,3.3,2.4,2017-04-21,2016/2017,30,D1,1-1,0,0.5500000000000003,2017-04-21FC KolnHoffenheim
+22/04/17,Bayern Munich,Mainz,2,2,D,1.2,7.5,11.0,2017-04-22,2016/2017,30,D1,2-2,0,-9.8,2017-04-22Bayern MunichMainz
+22/04/17,Ein Frankfurt,Augsburg,3,1,H,1.85,3.6,4.2,2017-04-22,2016/2017,30,D1,3-1,2,-2.35,2017-04-22Ein FrankfurtAugsburg
+22/04/17,Hamburg,Darmstadt,1,2,A,1.4,4.8,7.5,2017-04-22,2016/2017,30,D1,1-2,-1,-6.1,2017-04-22HamburgDarmstadt
+22/04/17,Hertha,Wolfsburg,1,0,H,2.3,3.3,3.15,2017-04-22,2016/2017,30,D1,1-0,1,-0.8500000000000001,2017-04-22HerthaWolfsburg
+22/04/17,Ingolstadt,Werder Bremen,2,4,A,2.3,3.4,3.05,2017-04-22,2016/2017,30,D1,2-4,-2,-0.75,2017-04-22IngolstadtWerder Bremen
+22/04/17,M'gladbach,Dortmund,2,3,A,3.7,3.5,2.0,2017-04-22,2016/2017,30,D1,2-3,-1,1.7000000000000002,2017-04-22M'gladbachDortmund
+23/04/17,Freiburg,Leverkusen,2,1,H,2.95,3.5,2.3,2017-04-23,2016/2017,30,D1,2-1,1,0.6500000000000004,2017-04-23FreiburgLeverkusen
+23/04/17,Schalke 04,RB Leipzig,1,1,D,2.65,3.4,2.6,2017-04-23,2016/2017,30,D1,1-1,0,0.04999999999999982,2017-04-23Schalke 04RB Leipzig
+28/04/17,Leverkusen,Schalke 04,1,4,A,2.2,3.35,3.3,2017-04-28,2016/2017,31,D1,1-4,-3,-1.0999999999999996,2017-04-28LeverkusenSchalke 04
+29/04/17,Darmstadt,Freiburg,3,0,H,3.05,3.4,2.3,2017-04-29,2016/2017,31,D1,3-0,3,0.75,2017-04-29DarmstadtFreiburg
+29/04/17,Dortmund,FC Koln,0,0,D,1.27,6.0,10.0,2017-04-29,2016/2017,31,D1,0-0,0,-8.73,2017-04-29DortmundFC Koln
+29/04/17,Mainz,M'gladbach,1,2,A,2.3,3.4,3.05,2017-04-29,2016/2017,31,D1,1-2,-1,-0.75,2017-04-29MainzM'gladbach
+29/04/17,RB Leipzig,Ingolstadt,0,0,D,1.55,4.7,5.0,2017-04-29,2016/2017,31,D1,0-0,0,-3.45,2017-04-29RB LeipzigIngolstadt
+29/04/17,Werder Bremen,Hertha,2,0,H,2.0,3.5,3.7,2017-04-29,2016/2017,31,D1,2-0,2,-1.7000000000000002,2017-04-29Werder BremenHertha
+29/04/17,Wolfsburg,Bayern Munich,0,6,A,7.0,4.5,1.45,2017-04-29,2016/2017,31,D1,0-6,-6,5.55,2017-04-29WolfsburgBayern Munich
+30/04/17,Augsburg,Hamburg,4,0,H,2.4,3.4,2.9,2017-04-30,2016/2017,31,D1,4-0,4,-0.5,2017-04-30AugsburgHamburg
+30/04/17,Hoffenheim,Ein Frankfurt,1,0,H,1.55,4.0,6.2,2017-04-30,2016/2017,31,D1,1-0,1,-4.65,2017-04-30HoffenheimEin Frankfurt
+05/05/17,FC Koln,Werder Bremen,4,3,H,2.5,3.4,2.75,2017-05-05,2016/2017,32,D1,4-3,1,-0.25,2017-05-05FC KolnWerder Bremen
+06/05/17,Bayern Munich,Darmstadt,1,0,H,1.1,9.0,27.0,2017-05-06,2016/2017,32,D1,1-0,1,-25.9,2017-05-06Bayern MunichDarmstadt
+06/05/17,Dortmund,Hoffenheim,2,1,H,1.55,4.0,6.2,2017-05-06,2016/2017,32,D1,2-1,1,-4.65,2017-05-06DortmundHoffenheim
+06/05/17,Ein Frankfurt,Wolfsburg,0,2,A,2.5,3.4,2.75,2017-05-06,2016/2017,32,D1,0-2,-2,-0.25,2017-05-06Ein FrankfurtWolfsburg
+06/05/17,Hertha,RB Leipzig,1,4,A,3.15,3.3,2.3,2017-05-06,2016/2017,32,D1,1-4,-3,0.8500000000000001,2017-05-06HerthaRB Leipzig
+06/05/17,Ingolstadt,Leverkusen,1,1,D,2.5,3.4,2.75,2017-05-06,2016/2017,32,D1,1-1,0,-0.25,2017-05-06IngolstadtLeverkusen
+06/05/17,M'gladbach,Augsburg,1,1,D,1.7,3.7,5.0,2017-05-06,2016/2017,32,D1,1-1,0,-3.3,2017-05-06M'gladbachAugsburg
+07/05/17,Freiburg,Schalke 04,2,0,H,3.05,3.4,2.3,2017-05-07,2016/2017,32,D1,2-0,2,0.75,2017-05-07FreiburgSchalke 04
+07/05/17,Hamburg,Mainz,0,0,D,2.2,3.4,3.25,2017-05-07,2016/2017,32,D1,0-0,0,-1.0499999999999998,2017-05-07HamburgMainz
+13/05/17,Augsburg,Dortmund,1,1,D,5.5,4.0,1.6,2017-05-13,2016/2017,33,D1,1-1,0,3.9,2017-05-13AugsburgDortmund
+13/05/17,Darmstadt,Hertha,0,2,A,3.4,3.5,2.1,2017-05-13,2016/2017,33,D1,0-2,-2,1.2999999999999998,2017-05-13DarmstadtHertha
+13/05/17,Freiburg,Ingolstadt,1,1,D,2.3,3.5,2.95,2017-05-13,2016/2017,33,D1,1-1,0,-0.6500000000000004,2017-05-13FreiburgIngolstadt
+13/05/17,Leverkusen,FC Koln,2,2,D,2.3,3.5,2.95,2017-05-13,2016/2017,33,D1,2-2,0,-0.6500000000000004,2017-05-13LeverkusenFC Koln
+13/05/17,Mainz,Ein Frankfurt,4,2,H,1.7,3.7,5.0,2017-05-13,2016/2017,33,D1,4-2,2,-3.3,2017-05-13MainzEin Frankfurt
+13/05/17,RB Leipzig,Bayern Munich,4,5,A,3.4,3.5,2.1,2017-05-13,2016/2017,33,D1,4-5,-1,1.2999999999999998,2017-05-13RB LeipzigBayern Munich
+13/05/17,Schalke 04,Hamburg,1,1,D,1.9,3.7,3.8,2017-05-13,2016/2017,33,D1,1-1,0,-1.9,2017-05-13Schalke 04Hamburg
+13/05/17,Werder Bremen,Hoffenheim,3,5,A,2.6,3.5,2.6,2017-05-13,2016/2017,33,D1,3-5,-2,0.0,2017-05-13Werder BremenHoffenheim
+13/05/17,Wolfsburg,M'gladbach,1,1,D,1.9,3.7,3.8,2017-05-13,2016/2017,33,D1,1-1,0,-1.9,2017-05-13WolfsburgM'gladbach
+20/05/17,Bayern Munich,Freiburg,4,1,H,1.22,7.5,9.5,2017-05-20,2016/2017,34,D1,4-1,3,-8.28,2017-05-20Bayern MunichFreiburg
+20/05/17,Dortmund,Werder Bremen,4,3,H,1.2,7.5,11.0,2017-05-20,2016/2017,34,D1,4-3,1,-9.8,2017-05-20DortmundWerder Bremen
+20/05/17,Ein Frankfurt,RB Leipzig,2,2,D,3.6,3.6,2.0,2017-05-20,2016/2017,34,D1,2-2,0,1.6,2017-05-20Ein FrankfurtRB Leipzig
+20/05/17,FC Koln,Mainz,2,0,H,1.55,4.2,5.8,2017-05-20,2016/2017,34,D1,2-0,2,-4.25,2017-05-20FC KolnMainz
+20/05/17,Hamburg,Wolfsburg,2,1,H,2.4,3.4,2.9,2017-05-20,2016/2017,34,D1,2-1,1,-0.5,2017-05-20HamburgWolfsburg
+20/05/17,Hertha,Leverkusen,2,6,A,1.9,3.5,4.1,2017-05-20,2016/2017,34,D1,2-6,-4,-2.1999999999999997,2017-05-20HerthaLeverkusen
+20/05/17,Hoffenheim,Augsburg,0,0,D,1.4,5.0,7.0,2017-05-20,2016/2017,34,D1,0-0,0,-5.6,2017-05-20HoffenheimAugsburg
+20/05/17,Ingolstadt,Schalke 04,1,1,D,2.7,3.5,2.5,2017-05-20,2016/2017,34,D1,1-1,0,0.20000000000000018,2017-05-20IngolstadtSchalke 04
+20/05/17,M'gladbach,Darmstadt,2,2,D,1.35,5.3,8.0,2017-05-20,2016/2017,34,D1,2-2,0,-6.65,2017-05-20M'gladbachDarmstadt
