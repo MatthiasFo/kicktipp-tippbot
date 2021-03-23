@@ -8,11 +8,10 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-from utils.evaluate_kicktipp_points import evaluate_kicktipp_432
-from utils.slize_games_into_chunks import chunk_games
-from models.basic_math_functions import logistic_fun, non_neg_logistic
-from utils.generate_and_convert_picks import convert_pick_array_to_string
 from load_data import load_odds_and_538_data
+from models.basic_math_functions import logistic_fun, non_neg_logistic
+from utils.evaluate_kicktipp_points import evaluate_kicktipp_432
+from utils.generate_and_convert_picks import convert_pick_array_to_string
 from utils.module_timeseries_handling import smooth_stats_by_team, shift_stats_by_team
 
 pd.set_option('display.width', None)
@@ -37,8 +36,7 @@ df_538_eval['kt_points'] = [
     zip(df_538_eval['FTHG'], df_538_eval['FTAG'], df_538_eval['proj_score1'], df_538_eval['proj_score2'])
 ]
 
-df_chunked = chunk_games(df_538_eval, 'spi_diff')
-df_grouped = df_chunked.groupby(by='chunk').mean()
+df_grouped = df_538_eval[['spi_diff', 'kt_points']].sort_values(by='spi_diff').rolling(window=100, center=True).mean()
 plt.scatter(x=df_538_eval['spi_diff'], y=df_538_eval['kt_points'], color='blue')
 plt.plot(df_grouped['spi_diff'], df_grouped['kt_points'], 'r')
 plt.ylabel('kt-points')
@@ -111,25 +109,25 @@ mut_info = mutual_info_regression(df_538_eval[['prob_diff', 'proj_goal_diff', 'o
 
 plt.subplot(221)
 plt.scatter(x=df_538_eval['prob_diff'], y=df_538_eval['diff_error'], color='blue')
-df_plot_odds = chunk_games(df_538_eval, chunk_by='prob_diff').groupby(by='chunk').mean()
+df_plot_odds = df_538_eval[['prob_diff', 'diff_error']].sort_values(by='prob_diff').rolling(window=100, center=True).mean()
 plt.plot(df_plot_odds['prob_diff'], df_plot_odds['diff_error'], 'r-')
 plt.ylabel('goal diff error')
 plt.xlabel('prob_diff')
 plt.subplot(222)
 plt.scatter(x=df_538_eval['proj_goal_diff'], y=df_538_eval['diff_error'], color='blue')
-df_plot_odds = chunk_games(df_538_eval, chunk_by='proj_goal_diff').groupby(by='chunk').mean()
+df_plot_odds = df_538_eval[['proj_goal_diff', 'diff_error']].sort_values(by='proj_goal_diff').rolling(window=100, center=True).mean()
 plt.plot(df_plot_odds['proj_goal_diff'], df_plot_odds['diff_error'], 'r-')
 plt.ylabel('goal diff error')
 plt.xlabel('proj_goal_diff')
 plt.subplot(223)
 plt.scatter(x=df_538_eval['odds_diff'], y=df_538_eval['diff_error'], color='blue')
-df_plot_odds = chunk_games(df_538_eval, chunk_by='odds_diff').groupby(by='chunk').mean()
+df_plot_odds = df_538_eval[['odds_diff', 'diff_error']].sort_values(by='odds_diff').rolling(window=100, center=True).mean()
 plt.plot(df_plot_odds['odds_diff'], df_plot_odds['diff_error'], 'r-')
 plt.ylabel('goal diff error')
 plt.xlabel('odds_diff')
 plt.subplot(224)
 plt.scatter(x=df_538_eval['IWD'], y=df_538_eval['diff_error'], color='blue')
-df_plot_odds = chunk_games(df_538_eval, chunk_by='IWD').groupby(by='chunk').mean()
+df_plot_odds = df_538_eval[['IWD', 'diff_error']].sort_values(by='IWD').rolling(window=100, center=True).mean()
 plt.plot(df_plot_odds['IWD'], df_plot_odds['diff_error'], 'r-')
 plt.ylabel('goal diff error')
 plt.xlabel('IWD')
@@ -187,15 +185,7 @@ df_training = df_538_eval.loc[[str(x) not in train_split[1] for x in df_538_eval
 ###########################################################################
 # Plot the curve fit results for the logistic model with different inputs #
 ###########################################################################
-df_chunked_538 = chunk_games(df_538_eval, 'proj_goal_diff')
-df_plot_odds = df_chunked_538.loc[:, ['chunk', 'proj_goal_diff', 'FTHG', 'goal_diff']] \
-    .groupby(by='chunk') \
-    .agg(mf_hg=('FTHG', lambda x: x.value_counts().index[0]),
-         mean_hg=('FTHG', 'mean'),
-         mf_gd=('goal_diff', lambda x: x.value_counts().index[0]),
-         mean_gd=('goal_diff', 'mean'),
-         mean_proj_gd=('proj_goal_diff', 'mean'),
-         count=('FTHG', 'count'))
+df_plot_odds = df_538_eval[['proj_goal_diff', 'FTHG', 'goal_diff']].sort_values(by='proj_goal_diff').rolling(window=100, center=True).mean()
 
 popt_log_home, pcov_log_home = curve_fit(non_neg_logistic, df_538_eval['proj_goal_diff'], df_538_eval['FTHG'])
 popt_log_goaldiff, pcov_log_goaldiff = curve_fit(logistic_fun, df_538_eval['proj_goal_diff'], df_538_eval['goal_diff'])
@@ -204,9 +194,8 @@ plt.figure(figsize=(12, 8))
 error_of_fit = mean_squared_error(df_538_eval['FTHG'], non_neg_logistic(df_538_eval['proj_goal_diff'], *popt_log_home))
 plt.subplot(221)
 plt.scatter(x=df_538_eval['proj_goal_diff'], y=df_538_eval['FTHG'], color='blue')
-plt.plot(df_plot_odds['mean_proj_gd'], df_plot_odds['mf_hg'], 'm-', label='most frequent', linewidth=3)
-plt.plot(df_plot_odds['mean_proj_gd'], df_plot_odds['mean_hg'], 'r-', label='mean', linewidth=2)
-plt.plot(df_plot_odds['mean_proj_gd'], non_neg_logistic(df_plot_odds['mean_proj_gd'], *popt_log_home), 'g--',
+plt.plot(df_plot_odds['proj_goal_diff'], df_plot_odds['FTHG'], 'r-', label='mean', linewidth=2)
+plt.plot(df_plot_odds['proj_goal_diff'], non_neg_logistic(df_plot_odds['proj_goal_diff'], *popt_log_home), 'g--',
          label='fit',
          linewidth=2)
 plt.ylabel('Home goals')
@@ -218,9 +207,8 @@ error_of_fit = mean_squared_error(df_538_eval['goal_diff'],
                                   logistic_fun(df_538_eval['proj_goal_diff'], *popt_log_goaldiff))
 plt.subplot(223)
 plt.scatter(x=df_538_eval['proj_goal_diff'], y=df_538_eval['goal_diff'], color='blue')
-plt.plot(df_plot_odds['mean_proj_gd'], df_plot_odds['mf_gd'], 'm-', label='most frequent', linewidth=3)
-plt.plot(df_plot_odds['mean_proj_gd'], df_plot_odds['mean_gd'], 'r-', label='mean', linewidth=2)
-plt.plot(df_plot_odds['mean_proj_gd'], logistic_fun(df_plot_odds['mean_proj_gd'], *popt_log_goaldiff), 'g--',
+plt.plot(df_plot_odds['proj_goal_diff'], df_plot_odds['goal_diff'], 'r-', label='mean', linewidth=2)
+plt.plot(df_plot_odds['proj_goal_diff'], logistic_fun(df_plot_odds['proj_goal_diff'], *popt_log_goaldiff), 'g--',
          label='fit',
          linewidth=3)
 plt.ylabel('Goal difference')
@@ -228,15 +216,7 @@ plt.xlabel('Proj. goal difference')
 plt.title('RMSE: ' + str(error_of_fit))
 plt.legend()
 
-df_chunked_538 = chunk_games(df_538_eval, 'odds_diff')
-df_plot_odds = df_chunked_538.loc[:, ['chunk', 'odds_diff', 'FTHG', 'goal_diff']] \
-    .groupby(by='chunk') \
-    .agg(mf_hg=('FTHG', lambda x: x.value_counts().index[0]),
-         mean_hg=('FTHG', 'mean'),
-         mf_gd=('goal_diff', lambda x: x.value_counts().index[0]),
-         mean_gd=('goal_diff', 'mean'),
-         mean_odds=('odds_diff', 'mean'),
-         count=('FTHG', 'count'))
+df_plot_odds = df_538_eval[['odds_diff', 'FTHG', 'goal_diff']].sort_values(by='odds_diff').rolling(window=100, center=True).mean()
 
 popt_log_home, pcov_log_home = curve_fit(non_neg_logistic, df_538_eval['odds_diff'], df_538_eval['FTHG'])
 popt_log_goaldiff, pcov_log_goaldiff = curve_fit(logistic_fun, df_538_eval['odds_diff'], df_538_eval['goal_diff'])
@@ -244,9 +224,8 @@ popt_log_goaldiff, pcov_log_goaldiff = curve_fit(logistic_fun, df_538_eval['odds
 error_of_fit = mean_squared_error(df_538_eval['FTHG'], non_neg_logistic(df_538_eval['odds_diff'], *popt_log_home))
 plt.subplot(222)
 plt.scatter(x=df_538_eval['odds_diff'], y=df_538_eval['FTHG'], color='blue')
-plt.plot(df_plot_odds['mean_odds'], df_plot_odds['mf_hg'], 'm-', label='most frequent', linewidth=3)
-plt.plot(df_plot_odds['mean_odds'], df_plot_odds['mean_hg'], 'r-', label='mean', linewidth=2)
-plt.plot(df_plot_odds['mean_odds'], non_neg_logistic(df_plot_odds['mean_odds'], *popt_log_home), 'g--', label='fit',
+plt.plot(df_plot_odds['odds_diff'], df_plot_odds['FTHG'], 'r-', label='mean', linewidth=2)
+plt.plot(df_plot_odds['odds_diff'], non_neg_logistic(df_plot_odds['odds_diff'], *popt_log_home), 'g--', label='fit',
          linewidth=2)
 plt.ylabel('Home goals')
 plt.xlabel('Odds difference')
@@ -256,9 +235,8 @@ plt.legend()
 error_of_fit = mean_squared_error(df_538_eval['goal_diff'], logistic_fun(df_538_eval['odds_diff'], *popt_log_goaldiff))
 plt.subplot(224)
 plt.scatter(x=df_538_eval['odds_diff'], y=df_538_eval['goal_diff'], color='blue')
-plt.plot(df_plot_odds['mean_odds'], df_plot_odds['mf_gd'], 'm-', label='most frequent', linewidth=3)
-plt.plot(df_plot_odds['mean_odds'], df_plot_odds['mean_gd'], 'r-', label='mean', linewidth=2)
-plt.plot(df_plot_odds['mean_odds'], logistic_fun(df_plot_odds['mean_odds'], *popt_log_goaldiff), 'g--', label='fit',
+plt.plot(df_plot_odds['odds_diff'], df_plot_odds['goal_diff'], 'r-', label='mean', linewidth=2)
+plt.plot(df_plot_odds['odds_diff'], logistic_fun(df_plot_odds['odds_diff'], *popt_log_goaldiff), 'g--', label='fit',
          linewidth=3)
 plt.ylabel('Goal difference')
 plt.xlabel('Odds difference')

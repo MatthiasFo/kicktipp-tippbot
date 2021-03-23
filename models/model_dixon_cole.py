@@ -9,9 +9,7 @@ from scipy.optimize import minimize, Bounds
 from scipy.special import factorial
 from scipy.stats import poisson
 
-from utils.evaluate_kicktipp_points import evaluate_kicktipp_432_vectorized
-from utils.generate_and_convert_picks import get_likely_results, convert_pick_array_to_string, \
-    convert_pick_string_to_array
+from utils.generate_and_convert_picks import get_likely_results
 
 warnings.filterwarnings('error')
 pd.set_option('display.width', None)
@@ -19,11 +17,23 @@ pd.set_option('display.width', None)
 DIXON_COLE_RESULTS = get_likely_results()
 
 
-def dixon_coles_simulate_match(params_dict, homeTeam, awayTeam):
-    alpha_x = params_dict['attack_' + homeTeam]
-    alpha_y = params_dict['attack_' + awayTeam]
-    beta_x = params_dict['defence_' + homeTeam]
-    beta_y = params_dict['defence_' + awayTeam]
+def dixon_coles_simulate_match(params_dict, home_team, away_team):
+    min_attack = min([val for key, val in params_dict.items() if 'attack_' in key])
+    max_defense = min([val for key, val in params_dict.items() if 'defence_' in key])
+    if (home_team in params_dict['trained_teams']):
+        alpha_x = params_dict['attack_' + home_team]
+        beta_x = params_dict['defence_' + home_team]
+    else:
+        # assume the team newly joined the league from a lower league -> take worst values
+        alpha_x = min_attack
+        beta_x = max_defense
+    if (away_team in params_dict['trained_teams']):
+        alpha_y = params_dict['attack_' + away_team]
+        beta_y = params_dict['defence_' + away_team]
+    else:
+        # assume the team newly joined the league from a lower league -> take worst values
+        alpha_y = min_attack
+        beta_y = max_defense
     gamma = params_dict['home_adv']
 
     lambda_k = alpha_x * beta_y * gamma
@@ -36,15 +46,7 @@ def dixon_coles_simulate_match(params_dict, homeTeam, awayTeam):
 
 def pick_with_dixon_cole(params_dict, homeTeam, awayTeam):
     result_probabilities, lambda_k, mu_k = dixon_coles_simulate_match(params_dict, homeTeam, awayTeam)
-
-    sample = np.random.choice([convert_pick_array_to_string(x) for x in DIXON_COLE_RESULTS],
-                              size=10000, p=result_probabilities / sum(result_probabilities))
-    dist_results = np.array([convert_pick_string_to_array(x) for x in sample])
-    likely_picks = get_likely_results()
-    pick_list = []
-    for pick in likely_picks:
-        kt_points = np.mean(evaluate_kicktipp_432_vectorized(dist_results, pick))
-        pick_list.append([pick, kt_points])
+    pick_list = [[a, b] for a, b in zip(DIXON_COLE_RESULTS, result_probabilities)]
     return sorted(pick_list, key=lambda l: l[1], reverse=True), lambda_k, mu_k
 
 
@@ -73,7 +75,7 @@ def train_dixon_cole_model(df_train_dataset, init_vals=None):
     vec_home_teams = df_train_dataset.team1.values
     vec_away_teams = df_train_dataset.team2.values
 
-    # a team strength remains constant over a half of a season so weigh it equally
+    # a team strength should remain constant over a half of a season so weigh it equally
     current_season = df_train_dataset.season.max()
     num_game_days = df_train_dataset.game_day.max()
     season_half = int(num_game_days / 2)
@@ -92,7 +94,6 @@ def train_dixon_cole_model(df_train_dataset, init_vals=None):
 
     def estimate_paramters(params):
         gamma = params[-1:]
-        # account for bundesliga winter break and summer break
 
         score_coef_dict = dict(zip(teams, params[:n_teams]))
         defend_coef_dict = dict(zip(teams, params[n_teams:(2 * n_teams)]))
@@ -106,17 +107,15 @@ def train_dixon_cole_model(df_train_dataset, init_vals=None):
         lambda_k = alpha_x * beta_y * gamma
         mu_k = alpha_y * beta_x
 
-        # log likelihood objective function
         likelyhood = (np.power(lambda_k, vec_home_goals) * np.exp(-lambda_k) / vec_home_goals_fact) + \
                      (np.power(mu_k, vec_away_goals) * np.exp(-mu_k) / vec_away_goals_fact)
         log_likelyhood = np.log(likelyhood)
 
         objective = sum(time_decay * log_likelyhood)
 
-        # use negative to minimize
+        # use negative objective to minimize
         return -objective
 
-    # alphas, betas and gamma must be larger than 0. The upper limit of 2 is chosen based on previous results
     lower_bound = np.array([10 ** -9 for i in range(2 * n_teams)] + [10 ** -9])
     upper_bound = np.array([10 for i in range(2 * n_teams)] + [10])
     bnds = Bounds(lower_bound, upper_bound)
@@ -127,7 +126,7 @@ def train_dixon_cole_model(df_train_dataset, init_vals=None):
                               constraints={'type': 'eq', 'fun': lambda x: sum(x[:n_teams]) - n_teams},
                               options={'disp': False, 'maxiter': 1000})
     except ValueError:
-        # There was a scipy issue with x0
+        # There was a scipy issue with x0 -> simply retry on this rare internal error
         init_vals = init_params()
         opt_output = minimize(estimate_paramters, init_vals, bounds=bnds, method='SLSQP',
                               constraints={'type': 'eq', 'fun': lambda x: sum(x[:n_teams]) - n_teams},
@@ -136,4 +135,5 @@ def train_dixon_cole_model(df_train_dataset, init_vals=None):
                             ['defence_' + team for team in teams] +
                             ['home_adv'],
                             opt_output.x))
+    model_params['trained_teams'] = teams
     return model_params

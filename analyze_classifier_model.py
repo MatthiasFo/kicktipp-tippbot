@@ -11,7 +11,6 @@ from sklearn.naive_bayes import GaussianNB, ComplementNB
 from sklearn.preprocessing import MinMaxScaler
 
 from load_data import load_odds_and_538_data
-from utils.slize_games_into_chunks import chunk_games
 
 pd.set_option('display.width', None)
 
@@ -84,8 +83,7 @@ for idx_res in range(9):
     f1_gnb = np.round(f1_score(actual_scores, pred_gnb_scores), 3)
     df_result = pd.DataFrame(yprob_gaussian[:, idx_res], columns=['pred_res']).join(
         pd.DataFrame(actual_scores, columns=['true_res']))
-    df_chunked = chunk_games(df_result, chunk_by='pred_res', chunk_size=50)
-    df_mean = df_chunked.groupby(by='chunk').mean()
+    df_mean = df_result.sort_values(by='pred_res').rolling(window=50, center=True).mean()
     plt.plot(df_mean['pred_res'], df_mean['true_res'], label='gnb (f1: ' + str(f1_gnb) + ')')
 
 
@@ -93,15 +91,13 @@ for idx_res in range(9):
     f1_comb = np.round(f1_score(actual_scores, pred_comb_scores), 3)
     df_result = pd.DataFrame(yprob_comp[:, idx_res], columns=['pred_res']).join(
         pd.DataFrame(actual_scores, columns=['true_res']))
-    df_chunked = chunk_games(df_result, chunk_by='pred_res', chunk_size=50)
-    df_mean = df_chunked.groupby(by='chunk').mean()
+    df_mean = df_result.sort_values(by='pred_res').rolling(window=50, center=True).mean()
     plt.plot(df_mean['pred_res'], df_mean['true_res'], label='comb (f1: ' + str(f1_comb) + ')')
 
 
     df_result = pd.DataFrame(ypred_xgb[:, idx_res], columns=['pred_res']).join(
         pd.DataFrame(actual_scores, columns=['true_res']))
-    df_chunked = chunk_games(df_result, chunk_by='pred_res', chunk_size=50)
-    df_mean = df_chunked.groupby(by='chunk').mean()
+    df_mean = df_result.sort_values(by='pred_res').rolling(window=50, center=True).mean()
     plt.plot(df_mean['pred_res'], df_mean['true_res'], label='xgb')
 
     plt.plot([0, 0.4], [0, 0.4], label='perfect')

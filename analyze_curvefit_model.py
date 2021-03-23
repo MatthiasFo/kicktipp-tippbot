@@ -2,10 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import curve_fit
 
-from models.basic_math_functions import logistic_fun, non_neg_logistic
+from models.basic_math_functions import logistic_fun, non_neg_logistic, straight_line
 from load_data import load_league_data_with_odds
 
-df_seasons = load_league_data_with_odds(range(2006, 2021), ['D1', 'E0'])
+df_seasons = load_league_data_with_odds(range(2018, 2021), ['D1'])
 
 #####################################################
 # Plot the curve fit results for the logistic model #
@@ -47,6 +47,39 @@ plt.plot(df_plot_odds_reduced.index, df_plot_odds_reduced.loc[:, 'mean_ag'], 'r-
 plt.plot(df_plot_odds.index, logistic_fun(df_plot_odds.index, *popt_log_goaldiff), 'g--', label='fit', linewidth=3)
 plt.ylabel('Away goals')
 plt.xlabel('Odds difference (Home odds - away odds)')
+plt.legend()
+plt.show()
+
+############################################
+# plot the scores over the win probability #
+############################################
+
+df_seasons['home_prob'] = 1/df_seasons['IWH']
+df_seasons['away_prob'] = 1/df_seasons['IWA']
+df_seasons['draw_prob'] = 1/df_seasons['IWD']
+
+popt_prob_home, _ = curve_fit(straight_line, df_seasons['home_prob'], df_seasons['FTHG'])
+popt_prob_away, _ = curve_fit(straight_line, df_seasons['away_prob'], df_seasons['FTAG'])
+popt_prob_draw, _ = curve_fit(straight_line, df_seasons['draw_prob'], df_seasons['FTAG'])
+
+ax1 = plt.subplot(211)
+plt.title(r'Goals over odds probability')
+plt.scatter(x=df_seasons['home_prob'], y=df_seasons['FTHG'], color='blue')
+df_seasons[['home_prob', 'FTHG']].sort_values(by='home_prob').set_index('home_prob', drop=True).rolling(window=100, center=True).mean().plot(ax=ax1, lw=5, style='r-')
+xdata = np.linspace(0.1, 0.9, 100)
+plt.plot(xdata, straight_line(xdata, *popt_prob_home), 'g--', label='fit', linewidth=3)
+plt.ylabel('Home goals')
+plt.xlabel('Odds probability (1/home odds)')
+plt.legend()
+
+ax2 = plt.subplot(212)
+plt.title(r'Goals over odds probability')
+plt.scatter(x=df_seasons['away_prob'], y=df_seasons['FTAG'], color='blue')
+df_seasons[['away_prob', 'FTAG']].sort_values(by='away_prob').set_index('away_prob', drop=True).rolling(window=100, center=True).mean().plot(ax=ax2, lw=5, style='r-')
+xdata = np.linspace(0.1, 0.9, 100)
+plt.plot(xdata, straight_line(xdata, *popt_prob_away), 'g--', label='fit', linewidth=3)
+plt.ylabel('Away goals')
+plt.xlabel('Odds probability (1/home odds)')
 plt.legend()
 plt.show()
 

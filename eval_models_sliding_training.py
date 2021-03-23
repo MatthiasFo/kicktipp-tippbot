@@ -5,7 +5,7 @@ import pandas as pd
 from load_data import load_odds_and_538_data
 from models.heuristic_models import calc_results_kicktipptipper
 from models.model_dixon_cole_with_spi_odds import create_combined_model
-from models.models_based_on_betting_odds import create_curvefit_model
+from models.models_based_on_betting_odds import create_odds_probability_model
 from utils.evaluate_kicktipp_points import evaluate_kicktipp_432
 from utils.plot_gameday_histogram import plot_gameday_hist
 
@@ -34,14 +34,14 @@ for run_idx in range(len(test_indices)):
     df_train_games_538 = df_data.loc[(df_data.datetime < df_test_games.datetime.min()), :].copy(deep=True)
     df_train_games_538.reset_index(drop=True, inplace=True)
     combined_model = create_combined_model(df_train_games_538, 'D1')
-    log_curvefit_model = create_curvefit_model(df_train_games_538)
+    log_curvefit_model = create_odds_probability_model(df_train_games_538)
 
     for index, row in df_test_games.iterrows():
         kttipper_pick = calc_results_kicktipptipper(odds_home=row['IWH'], odds_draw=row['IWD'],
                                                     odds_away=row['IWA'])
         kt_points_kttipper = evaluate_kicktipp_432([row['FTHG'], row['FTAG']], kttipper_pick)
 
-        log_fit_pick = log_curvefit_model(row['IWH'] - row['IWA'])
+        log_fit_pick = log_curvefit_model(row['IWH'], row['IWA'])
         kt_points_fit = evaluate_kicktipp_432([row['FTHG'], row['FTAG']], np.round(log_fit_pick))
 
         inp_data = row[['team1', 'team2', 'IWH', 'IWD', 'IWA', 'spi1', 'spi2', 'proj_score1', 'proj_score2']].values

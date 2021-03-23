@@ -4,9 +4,8 @@ from scipy.interpolate import griddata
 from scipy.optimize import curve_fit
 from sklearn.metrics import r2_score, mean_squared_error
 
-from utils.slize_games_into_chunks import chunk_games
-from models.basic_math_functions import straight_line, quadratic_fun
 from load_data import load_league_data_with_odds
+from models.basic_math_functions import straight_line, quadratic_fun
 
 df_data = load_league_data_with_odds(range(2006, 2021), ['I1', 'D1', 'E0', 'SP1'])
 
@@ -23,8 +22,7 @@ df_data['draw'] = df_data['FTHG'] == df_data['FTAG']
 perc_limit = 99
 # home win probability
 ax1 = plt.subplot(221)
-df_chunked = chunk_games(df_data, chunk_by='est_home_prob', chunk_size=200)
-df_grouped = df_chunked.groupby(by='chunk').mean()
+df_grouped = df_data[['est_home_prob', 'FTHG', 'home_win']].sort_values(by='est_home_prob').rolling(window=100, center=True).mean()
 plt.scatter(df_grouped['est_home_prob'], df_grouped['home_win'], label='chunked mean', alpha=0.5)
 plt.plot([0, 1], [0, 1], 'm--', label='exact match')
 popt, _ = curve_fit(straight_line, df_data['est_home_prob'], df_data['home_win'], absolute_sigma=True)
@@ -35,12 +33,8 @@ plt.xlabel('Est. home win prob. by odds')
 
 # home goals
 ax3 = plt.subplot(223, sharex=ax1)
-df_grouped = df_chunked.groupby(by='chunk').agg(perc=('FTHG', lambda x: np.percentile(x, perc_limit)),
-                                                mean_hg=('FTHG', 'mean'),
-                                                mean_prob=('est_home_prob', 'mean'))
 plt.scatter(df_data['est_home_prob'], df_data['FTHG'], alpha=0.5)
-plt.plot(df_grouped['mean_prob'], df_grouped['mean_hg'], 'k--', label='mean')
-plt.plot(df_grouped['mean_prob'], df_grouped['perc'], 'm--', label=str(perc_limit) + 'th')
+plt.plot(df_grouped['est_home_prob'], df_grouped['FTHG'], 'k--', label='mean')
 popt, _ = curve_fit(quadratic_fun, df_data['est_home_prob'], df_data['FTHG'], absolute_sigma=True)
 xdata = df_data['est_home_prob'].sort_values()
 plt.plot(xdata, quadratic_fun(xdata, *popt), 'r-', label='fit')
@@ -50,11 +44,10 @@ plt.xlabel('Est. away win prob. by odds')
 
 # away win probability
 ax2 = plt.subplot(222, sharey=ax1)
-df_chunked = chunk_games(df_data, chunk_by='est_away_prob', chunk_size=200)
-df_grouped_mean = df_chunked.groupby(by='chunk').mean()
-plt.scatter(df_grouped_mean['est_away_prob'], df_grouped_mean['away_win'], label='chunked mean', alpha=0.5)
+df_grouped = df_data[['est_away_prob', 'FTAG', 'away_win']].sort_values(by='est_away_prob').rolling(window=100, center=True).mean()
+plt.scatter(df_grouped['est_away_prob'], df_grouped['away_win'], label='chunked mean', alpha=0.5)
 plt.plot([0, 1], [0, 1], label='exact match')
-popt_home, _ = curve_fit(straight_line, df_chunked['est_away_prob'], df_chunked['away_win'],
+popt_home, _ = curve_fit(straight_line, df_data['est_away_prob'], df_data['away_win'],
                          absolute_sigma=True)
 plt.plot([0, 1], straight_line([0, 1], *popt_home), 'r-', label='fit')
 plt.legend()
@@ -63,12 +56,8 @@ plt.xlabel('Est. away win prob. by odds')
 
 # away goals
 plt.subplot(224, sharex=ax2, sharey=ax3)
-df_grouped = df_chunked.groupby(by='chunk').agg(perc=('FTAG', lambda x: np.percentile(x, perc_limit)),
-                                                mean_ag=('FTAG', 'mean'),
-                                                mean_prob=('est_away_prob', 'mean'))
 plt.scatter(df_data['est_away_prob'], df_data['FTAG'], alpha=0.5)
-plt.plot(df_grouped['mean_prob'], df_grouped['mean_ag'], 'k--', label='mean')
-plt.plot(df_grouped['mean_prob'], df_grouped['perc'], 'm--', label=str(perc_limit) + 'th')
+plt.plot(df_grouped['est_away_prob'], df_grouped['FTAG'], 'k--', label='mean')
 
 popt_away, _ = curve_fit(quadratic_fun, df_data['est_away_prob'], df_data['FTAG'],
                          absolute_sigma=True)
@@ -79,10 +68,9 @@ plt.ylabel('Average away goals')
 plt.xlabel('Est. away win prob. by odds')
 plt.show()
 
-df_chunked = chunk_games(df_data, chunk_by='est_draw_prob', chunk_size=200)
-df_grouped_mean = df_chunked.groupby(by='chunk').mean()
-plt.plot(df_grouped_mean['est_draw_prob'], df_grouped_mean['draw'], label='chunked mean')
-popt_draw, _ = curve_fit(straight_line, df_chunked['est_draw_prob'], df_chunked['draw'],
+df_grouped_mean = df_data[['est_draw_prob', 'draw']].sort_values(by='est_draw_prob').rolling(window=100, center=True).mean()
+plt.plot(df_grouped_mean['est_draw_prob'], df_grouped_mean['draw'], label='mean')
+popt_draw, _ = curve_fit(straight_line, df_data['est_draw_prob'], df_data['draw'],
                          absolute_sigma=True)
 plt.plot([0, 0.5], straight_line([0, 0.5], *popt_draw), 'r-', label='fit')
 plt.plot([0, 0.5], [0, 0.5], label='exact match')
@@ -92,10 +80,9 @@ plt.xlabel('Est. draw prob. by odds')
 plt.show()
 
 ax1 = plt.subplot(211)
-df_chunked = chunk_games(df_data, chunk_by='est_home_away_diff', chunk_size=200)
-df_grouped = df_chunked.groupby(by='chunk').mean()
-plt.scatter(df_grouped['est_home_away_diff'], df_grouped['home_win'], label='chunked mean', alpha=0.5)
-popt, _ = curve_fit(straight_line, df_chunked['est_home_away_diff'], df_chunked['home_win'], absolute_sigma=True)
+df_grouped = df_data[['est_home_away_diff', 'home_win', 'goal_diff']].sort_values(by='est_home_away_diff').rolling(window=100, center=True).mean()
+plt.scatter(df_grouped['est_home_away_diff'], df_grouped['home_win'], label='mean', alpha=0.5)
+popt, _ = curve_fit(straight_line, df_data['est_home_away_diff'], df_data['home_win'], absolute_sigma=True)
 plt.plot([-1, 1], straight_line([-1, 1], *popt), 'r-', label='fit')
 plt.legend()
 plt.ylabel('Home win prob.')
@@ -109,7 +96,7 @@ df_data2 = df_data.loc[(df_data['est_away_prob'] > df_data['est_draw_prob']) &
 plt.scatter(df_data1['est_home_away_diff'], df_data1['goal_diff'], c='r', alpha=0.5)
 plt.scatter(df_data2['est_home_away_diff'], df_data2['goal_diff'], c='b', alpha=0.5)
 plt.plot(df_grouped['est_home_away_diff'], df_grouped['goal_diff'], 'k--', label='chunked mean')
-popt, _ = curve_fit(straight_line, df_chunked['est_home_away_diff'], df_chunked['goal_diff'], absolute_sigma=True)
+popt, _ = curve_fit(straight_line, df_data['est_home_away_diff'], df_data['goal_diff'], absolute_sigma=True)
 plt.plot([-1, 1], straight_line([-1, 1], *popt), 'r-', label='fit')
 plt.legend()
 plt.ylabel('Goal difference')
@@ -126,10 +113,8 @@ df_data['sum_calc_probs'] = df_data['calc_home_prob'] + df_data['calc_away_prob'
 
 plt.figure(figsize=(18, 6))
 for league in ['I1', 'D1', 'E0', 'SP1']:
-    df_chunked = chunk_games(df_data.loc[df_data.league == league, :],
-                             chunk_by=['est_home_prob', 'est_away_prob'], chunk_size=200)
-    num_games = df_chunked.shape[0]
-    df_grouped = df_chunked.groupby(by='chunk').mean()
+    df_grouped = df_data.loc[df_data.league == league, ['est_home_prob', 'est_away_prob', 'FTHG', 'FTAG']]\
+        .sort_values(by=['est_home_prob', 'est_away_prob']).rolling(window=100, center=True).mean().fillna(method='bfill').fillna(method='ffill')
     for label in ['FTHG', 'FTAG']:
         x = df_grouped['est_home_prob']
         y = df_grouped['est_away_prob']
@@ -165,7 +150,7 @@ for league in ['I1', 'D1', 'E0', 'SP1']:
         plt.contourf(xi, yi, zi, np.arange(-0.5, 4.5, 1))
         plt.xlabel('est_home_prob', fontsize=16)
         plt.ylabel('est_away_prob', fontsize=16)
-        plt.title(label + ' | ' + league + '(' + str(num_games) + ')')
+        plt.title(label + ' | ' + league)
         cbar = plt.colorbar()
 plt.show()
 
@@ -177,10 +162,9 @@ def linear_2d_model(X, k2_x, k2_y, k_x, k_y, offset):
 
 plt.figure(figsize=(12, 6))
 df_d1e0 = df_data.loc[(df_data.league == 'D1') | (df_data.league == 'E0'), :]
-df_chunked = chunk_games(df_d1e0,
-                         chunk_by=['est_home_prob', 'est_away_prob'], chunk_size=100)
-num_games = df_chunked.shape[0]
-df_grouped = df_chunked.groupby(by='chunk').mean()
+df_grouped = df_data.loc[(df_data.league == 'D1') | (df_data.league == 'E0'), ['est_home_prob', 'est_away_prob', 'FTHG', 'FTAG']] \
+    .sort_values(by=['est_home_prob', 'est_away_prob']).rolling(window=100, center=True).mean().fillna(method='bfill').fillna(method='ffill')
+
 for label in ['FTHG', 'FTAG']:
     for mode in ['data', 'model']:
         x = df_grouped['est_home_prob']
@@ -218,7 +202,7 @@ for label in ['FTHG', 'FTAG']:
         plt.xlabel('est_home_prob', fontsize=16)
         plt.ylabel('est_away_prob', fontsize=16)
         if mode == 'data':
-            plt.title(label + ' | ' + mode + '(' + str(num_games) + ')')
+            plt.title(label + ' | ' + mode)
         else:
             plt.title(label + ' | ' + mode + '(' + str(r2_fit) + ' | ' + str(mse_fit) + ')')
         cbar = plt.colorbar()
